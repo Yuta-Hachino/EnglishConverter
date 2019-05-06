@@ -1,0 +1,58 @@
+step-1		feels	feel								く感（かん）じる
+		does	do	not	feel						く感（かん）じない
+		is	are		feeling						く感（かん）じている
+		is	are	not	feeling						く感（かん）じていない
+					felt						く感（かん）じた
+		did	did	not	feel						く感（かん）じなかった
+		was	were		feeling						く感（かん）じていた
+		was	were	not	feeling						く感（かん）じていなかった
+step-3		will	will		feel						く感（かん）じるだろう
+		will	will	not	feel						く感（かん）じないだろう
+		may	may		feel						く感（かん）じるかもしれない
+		may	may	not	feel						く感（かん）じないかもしれない
+		can	can		feel						く感（かん）じる可能性（かのうせい）がある
+		can	can	not	feel						く感（かん）じる可能性（かのうせい）はない
+		should	should		feel						く感（かん）じるほうがいい
+		should	should	not	feel						く感（かん）じないほうがいい
+		should	should		feel						く感（かん）じるはずだ
+		should	should	not	feel						く感（かん）じるはずがない
+		must	must		feel						く感（かん）じるにちがいない
+		must	must	not	feel						く感（かん）じてはいけない
+step-4		has	have		been feeling				（ずっと）	形容詞	く感（かん）じている
+		has	have	not	been feeling				（ずっと）	形容詞	く感（かん）じてはいない
+		has	have		felt						く感（かん）じたことがある
+		has	have	not	felt						く感（かん）じたことはない
+		had	had		been feeling		till then		それまでずっと	形容詞	く感（かん）じていた
+		had	had	not	been feeling		till then		それまでずっと	形容詞	く感（かん）じてはいなかった
+		had	had		felt		before that		それ以前（いぜん）		く感（かん）じたことがあった
+		had	had	not	felt		before that		それ以前（いぜん）		く感（かん）じたことはなかった
+step-5		may have	may have		been feeling　						く感（かん）じていたかもしれない
+		may not have	may not have		been feeling						く感（かん）じていなかったかもしれない
+		may have	may have		felt						く感（かん）じたかもしれない
+		may not have	may not have		felt						く感（かん）じなかったかもしれない
+		can not have	can not have		been feeling						く感（かん）じていたはずがない
+		can not have	can not have		felt						く感（かん）じたはずがない
+		should have	should have		been feeling						く感（かん）じているほうがよかった
+		should not have	should not have		been feeling						く感（かん）じていないほうがよかった
+		should have	should have		felt						く感（かん）じるほうがよかった
+		should not have	should not have		felt						く感（かん）じないほうがよかった
+		must have	must have		been feeling						く感（かん）じていたにちがいない
+		must not have	must not have		been feeling						く感（かん）じていなかったにちがいない
+		must have	must have		felt						く感（かん）じたにちがいない
+		must not have	must not have		felt						く感（かん）じなかったにちがいない
+step-6		would	would		be feeling						く感（かん）じていただろう
+		would	would	not	be feeling						く感（かん）じていなかっただろう
+		would	would		feel						く感（かん）じただろう
+		would	would	not	feel						く感（かん）じなかっただろう
+		would have	would have		been feeling						く感（かん）じていたことだろう
+		would not have	would not have		been feeling						く感（かん）じていなかったことだろう
+		would have	would have		felt						く感（かん）じたことだろう
+		would not have	would not have		felt						く感（かん）じなかったことだろう
+		could have	could have		been feeling						く感（かん）じていた可能性（かのうせい）がある
+		could not have	could not have		been feeling						く感（かん）じていた可能性（かのうせい）はない
+		could have	could have		felt						く感（かん）じた可能性（かのうせい）がある
+		could not have	could not have		felt						く感（かん）じた可能性（かのうせい）はない
+		might have	might have		been feeling						く感（かん）じていたかもしれなかった
+		might not have	might not have		been feeling						く感（かん）じていなかったかもしれなかった
+		might have	might have		felt						く感（かん）じたかもしれなかった
+		might not have	might not have		felt						く感（かん）じなかったかもしれなかった

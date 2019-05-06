@@ -1,0 +1,47 @@
+step-1		is	are								る
+		is	are	not							ない
+		was	were								た
+		was	were	not							なかった
+step-2		has	have	to	be						なければいけない
+		does not have	do not have	to	be						なくてもいい
+		had	had	to	be						なければいけなかった
+		did not have	did not have	to	be						なくてもよかった
+step-3		will	will		be						るだろう
+		will	will	not	be						ないだろう
+		may	may		be						るかもしれない
+		may	may	not	be						ないかもしれない
+		can	can		be						る可能性（かのうせい）がある
+		can	can	not	be						る可能性（かのうせい）はない
+		should	should		be						るほうがいい
+		should	should	not	be						ないほうがいい
+		should	should		be						るはずだ
+		should	should	not	be						ないはずだ
+		must	must		be						るにちがいない
+		must	must	not	be						てはいけない
+		will have	will have	to	be						なければいけないだろう
+		will	will	not have to	be						なくてもいいだろう
+		may have	may have	to	be						なければいけないかもしれない
+		may	may	not have to	be						なくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	る
+		has	have	not	been				（ずっと）	形容詞	ない
+		has	have		been					形容詞	たことがある
+		has	have	not	been					形容詞	たことはない
+		had	had		been	形容詞	till then		それまでずっと	形容詞	た
+		had	had	not	been	形容詞	till then		それまでずっと	形容詞	なかった
+		had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	たことがあった
+		had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	たことはなかった
+step-5		may have	may have		been						たかもしれない
+		may not have	may not have		been						なかったかもしれない
+		can not have	can not have		been						たはずがない
+		should have	should have		been						るほうがよかった
+		should not have	should not have		been						ないほうがよかった
+		must have	must have		been						たにちがいない
+		must not have	must not have		been						なかったにちがいない
+step-6		would	would		be						ただろう
+		would	would	not	be						なかっただろう
+		would have	would have		been						たことだろう
+		would not have	would not have		been						なかったことだろう
+		could have	could have		been						た可能性（かのうせい）がある
+		could not have	could not have		been						た可能性（かのうせい）はない
+		might have	might have		been						たかもしれなかった
+		might not have	might not have		been						なかったかもしれなかった

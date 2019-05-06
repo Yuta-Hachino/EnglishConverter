@@ -1,0 +1,130 @@
+step-1	rinse	rinses	rinse						を	ゆす	ぐ
+	do	does	do	not	rinse				を	ゆす	が	ない
+	rinsed	rinsed	rinsed						を	ゆす	い	だ
+	did	did	did	not	rinse				を	ゆす	が	なかった
+	am	is	are		rinsing				を	ゆす	い	でいる
+	am	is	are	not	rinsing				を	ゆす	い	でいない
+	was	was	were		rinsing				を	ゆす	い	でいた
+	was	was	were	not	rinsing				を	ゆす	い	でいなかった
+step-2	am	is	are	going to	rinse				を	ゆす	ぐ	予定（よてい）だ
+	am	is	are	not going to	rinse				を	ゆす	ぐ	予定（よてい）ではない
+	was	was	were	going to	rinse				を	ゆす	ぐ	予定（よてい）だった
+	was	was	were	not going to	rinse				を	ゆす	ぐ	予定（よてい）ではなかった
+	am	is	are	able to	rinse				を	ゆす	ぐ	ことができる
+	am	is	are	not able to	rinse				を	ゆす	ぐ	ことはできない
+	was	was	were	able to	rinse				を	ゆす	ぐ	ことができた
+	was	was	were	not able to	rinse				を	ゆす	ぐ	ことはできなかった
+	could	could	could	not	rinse				を	ゆす	ぐ	ことはできなかった
+	want	wants	want	to	rinse				を	ゆす	ぎ	たい
+	do	does	do	not want to	rinse				を	ゆす	ぎ	たくない
+	wanted  	wanted  	wanted	to	rinse				を	ゆす	ぎ	たかった
+	did	did	did	not want to	rinse				を	ゆす	ぎ	たくなかった
+	want	wants	want	to be	rinsing				を	ゆす	い	でいたい
+	do	does	do	not want to be	rinsing				を	ゆす	い	でいたくない
+	wanted  	wanted  	wanted	to be	rinsing				を	ゆす	い	でいたかった
+	did	did	did	not want to be	rinsing				を	ゆす	い	でいたくなかった
+	want	wants	want	to be able to	rinse				を	ゆす	ぐ	ことができるようになりたい
+	do	does	do	not want to be able to	rinse				を	ゆす	ぐ	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	rinse				を	ゆす	ぐ	ことができるようになりたかった
+	did	did	did	not want to be able to	rinse				を	ゆす	ぐ	ことはできるようになりたくなかった
+	have to	has to	have to		rinse				を	ゆす	が	なければいけない
+	do	does	do	not have to	rinse				を	ゆす	が	なくてもいい
+	have to	has to	have to	be	rinsing				を	ゆす	い	でいなければいけない
+	do	does	do	not have to be	rinsing				を	ゆす	い	でいなくてもいい
+	have to	has to	have to	be able to	rinse				を	ゆす	ぐ	ことができなければいけない
+	do	does	do	not have to be able to	rinse				を	ゆす	ぐ	ことはできなくてもいい
+	had to	had to	had to		rinse				を	ゆす	が	なければいけなかった
+	did	did	did	not have to	rinse				を	ゆす	が	なくてもよかった
+	had to	had to	had to	be	rinsing				を	ゆす	い	でいなければいけなかった
+	did	did	did	not have to be	rinsing				を	ゆす	い	でいなくてもよかった
+	had to	had to	had to	be able to	rinse				を	ゆす	ぐ	ことができなければいけなかった
+	did	did	did	not have to be able to	rinse				を	ゆす	ぐ	ことはできなくてもよかった
+step-3	will	will	will		rinse				を	ゆす	ぐ	だろう
+	will	will	will	not	rinse				を	ゆす	が	ないだろう
+	will	will	will	be	rinsing				を	ゆす	い	でいるだろう
+	will	will	will	not be	rinsing				を	ゆす	い	でいないだろう
+	will	will	will	be able to	rinse				を	ゆす	ぐ	ことができるだろう
+	will	will	will	not be able to	rinse				を	ゆす	ぐ	ことはできないだろう
+	may	may	may		rinse				を	ゆす	ぐ	かもしれない
+	may	may	may	not	rinse				を	ゆす	が	ないかもしれない
+	may	may	may	be	rinsing				を	ゆす	い	でいるかもしれない
+	may	may	may	not be	rinsing				を	ゆす	い	でいないかもしれない
+	may	may	may	be able to	rinse				を	ゆす	ぐ	ことができるかもしれない
+	may	may	may	not be able to	rinse				を	ゆす	ぐ	ことはできないかもしれない
+	can	can	can		rinse				を	ゆす	ぐ	ことができる
+	can	can	can	not	rinse				を	ゆす	ぐ	ことはできない
+	should	should	should		rinse				を	ゆす	ぐ	ほうがいい
+	should	should	should	not	rinse				を	ゆす	が	ないほうがいい
+	should	should	should	be	rinsing				を	ゆす	い	でいるほうがいい
+	should	should	should	not be	rinsing				を	ゆす	い	でいないほうがいい
+	should	should	should	be able to	rinse				を	ゆす	ぐ	ことができるほうがいい
+	should	should	should	not be able to	rinse				を	ゆす	ぐ	ことはできないほうがいい
+	should	should	should		rinse				を	ゆす	ぐ	はずだ
+	should	should	should	not	rinse				を	ゆす	が	ないはずだ
+	should	should	should	be	rinsing				を	ゆす	い	でいるはずだ
+	should	should	should	not be	rinsing				を	ゆす	い	でいないはずだ
+	should	should	should	be able to	rinse				を	ゆす	ぐ	ことができるはずだ
+	should	should	should	not be able to	rinse				を	ゆす	ぐ	ことはできるはずがない
+	had better	had better	had better		rinse				を	ゆす	ぐ	べきだ
+	had better	had better	had better	not	rinse				を	ゆす	ぐ	べきではない
+	must	must	must		rinse				を	ゆす	ぐ	にちがいない
+	must	must	must	not	rinse				を	ゆす	い	ではいけない
+	must	must	must	be	rinsing				を	ゆす	い	でいるにちがいない
+	must	must	must	not be	rinsing				を	ゆす	い	でいてはいけない
+	must	must	must	be able to	rinse				を	ゆす	ぐ	ことができるにちがいない
+	must	must	must	not be able to	rinse				を	ゆす	ぐ	ことはできてはいけない
+	will	will	will	have to	rinse				を	ゆす	が	なければいけないだろう
+	will	will	will	not have to	rinse				を	ゆす	が	なくてもいいだろう
+	will	will	will	have to be	rinsing				を	ゆす	い	でいなければいけないだろう
+	will	will	will	not have to be	rinsing				を	ゆす	い	でいなくてもいいだろう
+	will	will	will	have to be able to	rinse				を	ゆす	ぐ	ことができなければいけないだろう
+	will	will	will	not have to be able to	rinse				を	ゆす	ぐ	ことはできなくてもいいだろう
+	may	may	may	have to	rinse				を	ゆす	が	なければいけないかもしれない
+	may	may	may	not have to	rinse				を	ゆす	が	なくてもいいかもしれない
+	may	may	may	have to be	rinsing				を	ゆす	い	でいなければいけないかもしれない
+	may	may	may	not have to be	rinsing				を	ゆす	い	でいなくてもいいかもしれない
+	may	may	may	have to be able to	rinse				を	ゆす	ぐ	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	rinse				を	ゆす	ぐ	ことはできなくてもいいかもしれない
+step-4	have	has	have		rinsed				を	ゆす	い	たことがある
+	have	has	have	not	rinsed				を	ゆす	い	だことはない
+	have	has	have	been	rinsing			（ずっと）	を	ゆす	い	でいる
+	have	has	have	not been	rinsing			（ずっと）	を	ゆす	い	でいない
+	have	has	have		rinsed		already	すでに	を	ゆす	い	でいる
+	have	has	have	not	rinsed		yet	まだ	を	ゆす	い	でいない
+	had	had	had		rinsed		before that	それ以前（いぜん）	を	ゆす	い	だことがあった
+	had	had	had	not	rinsed		before that	それ以前（いぜん）	を	ゆす	い	だことはなかった
+	had	had	had	been	rinsing		till then	それまでずっと	を	ゆす	い	でいた
+	had	had	had	not been	rinsing		till then	それまでずっと	を	ゆす	い	でいなかった
+	had	had	had		rinsed		already	すでに	を	ゆす	い	でいた
+	had	had	had	not	rinsed		yet	まだ	を	ゆす	い	でいなかった
+	have	has	have	been able to	rinse			（ずっと）	を	ゆす	ぐ	ことができている
+	have	has	have	not been able to	rinse		yet	まだ	を	ゆす	ぐ	ことはできていない
+	had	had	had	been able to	rinse		till then	それまでずっと	を	ゆす	ぐ	ことができていた
+	had	had	had	not been able to	rinse		till then	それまでずっと	を	ゆす	ぐ	ことはできていなかった
+step-5	may have	may have	may have		rinsed				を	ゆす	い	だかもしれない
+	may not have	may not have	may not have		rinsed				を	ゆす	が	なかったかもしれない
+	may have	may have	may have	been able to	rinse				を	ゆす	ぐ	ことができたかもしれない
+	may not have	may not have	may not have	been able to	rinse				を	ゆす	ぐ	ことはできなかったかもしれない
+	must have	must have	must have		rinsed				を	ゆす	い	だにちがいない
+	must not have	must not have	must not have		rinsed				を	ゆす	が	なかったにちがいない
+	must have	must have	must have	been able to	rinse				を	ゆす	ぐ	ことができたにちがいない
+	must not have	must not have	must not have	been able to	rinse				を	ゆす	ぐ	ことはできなかったにちがいない
+	should have	should have	should have		rinsed				を	ゆす	ぐ	ほうがよかった
+	should not have	should not have	should not have		rinsed				を	ゆす	が	ないほうがよかった
+	should have	should have	should have	been able to	rinse				を	ゆす	ぐ	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	rinse				を	ゆす	ぐ	ことはできないほうがよかった
+	can not have	can not have	can not have		rinsed				を	ゆす	い	だはずがない
+step-6	would	would	would		rinse				を	ゆす	い	だだろう
+	would	would	would	not	rinse				を	ゆす	が	なかっただろう
+	would	would	would	be able to	rinse				を	ゆす	ぐ	ことができただろう
+	would	would	would	not be able to	rinse				を	ゆす	ぐ	ことはできなかっただろう
+	would have	would have	would have		rinsed				を	ゆす	い	だことだろう
+	would not have	would not have	would not have		rinsed				を	ゆす	が	なかったことだろう
+	would have	would have	would have	been able to	rinse				を	ゆす	ぐ	ことができたことだろう
+	would not have	would not have	would not have	been able to	rinse				を	ゆす	ぐ	ことはできなかったことだろう
+	could have	could have	could have		rinsed				を	ゆす	い	だ可能性がある
+	could not have	could not have	could not have		rinsed				を	ゆす	い	だ可能性はない
+	might have	might have	might have		rinsed				を	ゆす	い	だかもしれなかった
+	might not have	might not have	might not have		rinsed				を	ゆす	が	なかったかもしれなかった
+	might have	might have	might have	been able to	rinse				を	ゆす	ぐ	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	rinse				を	ゆす	ぐ	ことはできなかったかもしれなかった

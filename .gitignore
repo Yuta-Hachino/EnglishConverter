@@ -1,0 +1,45 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+[Dd]evelop/bin/
+[Dd]evelop/obj/
+sysinfo.txt
+
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+*.csproj.user
+*.exe
+*.pdb
+*.zip
+
+/*.unityproj
+/*.booproj
+/*.apk
+/*.ips
+/*.cache
+.vs/
+UnityPlayer.dll
+WinPixEventRuntime.dll
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db

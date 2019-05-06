@@ -1,0 +1,57 @@
+step-1	am	is	are								ている
+	am	is	are	not							ていない
+	was	was	were								ていた
+	was	was	were	not							ていなかった
+step-2	am	is	are	going to	be						ている予定（よてい）だ
+	am	is	are	not going to	be						ている予定（よてい）ではない
+	was	was	were	going to	be						ている予定（よてい）だった
+	was	was	were	not going to	be						ている予定（よてい）ではなかった
+	want	wants	want	to	be						ていたい
+	do not want	does not want	do not want	to	be						ていたくない
+	wanted	wanted	wanted	to	be						ていたかった
+	did not want	did not want	did not want	to	be						ていたくなかった
+	have	has	have	to	be						ていなければいけない
+	do not have	does not have	do not have	to	be						ていなくてもいい
+	had	had	had	to	be						ていなければいけなかった
+	did not have	did not have	did not have	to	be						ていなくてもよかった
+step-3	will	will	will		be						ているだろう
+	will	will	will	not	be						ていないだろう
+	may	may	may		be						ているかもしれない
+	may	may	may	not	be						ていないかもしれない
+	can	can	can		be						ている可能性（かのうせい）がある
+	can	can	can	not	be						ている可能性（かのうせい）はない
+	should	should	should		be						ているほうがいい
+	should	should	should	not	be						ていないほうがいい
+	should	should	should		be						ているはずだ
+	should	should	should	not	be						ていないはずだ
+	must	must	must		be						ているにちがいない
+	must	must	must	not	be						ていてはいけない
+	had better	had better	had better	 	be						ているべきだ
+	had better	had better	had better	not	be						ているべきではない
+	will have	will have	will have	to	be						ていなければいけないだろう
+	will	will	will	not have to	be						ていなくてもいいだろう
+	may have	may have	may have	to	be						ていなければいけないかもしれない
+	may	may	may	not have to	be						ていなくてもいいかもしれない
+step-4	have	has	have		been	形容詞			（ずっと）	形容詞	ている
+	have	has	have	not	been	形容詞			（ずっと）	形容詞	ていない
+	have	has	have		been	形容詞				形容詞	ていたことがある
+	have	has	have	not	been	形容詞				形容詞	ていたことはない
+	had	had	had		been	形容詞	till then		それまでずっと	形容詞	ていた
+	had	had	had	not	been	形容詞	till then		それまでずっと	形容詞	ていなかった
+	had	had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	ていたことがあった
+	had	had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	ていたことはなかった
+step-5	may have	may have	may have		been						ていたかもしれない
+	may not have	may not have	may not have		been						ていなかったかもしれない
+	can not have	can not have	can not have		been						ていたはずがない
+	should have	should have	should have		been						ているほうがよかった
+	should not have	should not have	should not have		been						ていないほうがよかった
+	must have	must have	must have		been						ていたにちがいない
+	must not have	must not have	must not have		been						ていなかったにちがいない
+step-6	would	would	would		be						ていただろう
+	would	would	would	not	be						ていなかっただろう
+	would have	would have	would have		been						ていたことだろう
+	would not have	would not have	would not have		been						ていなかったことだろう
+	could have	could have	could have		been						ていた可能性（かのうせい）がある
+	could not have	could not have	could not have		been						ていた可能性（かのうせい）はない
+	might have	might have	might have		been						ていたかもしれなかった
+	might not have	might not have	might not have		been						ていなかったかもしれなかった

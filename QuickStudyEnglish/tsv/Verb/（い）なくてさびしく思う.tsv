@@ -1,0 +1,130 @@
+step-1	miss	misses	miss						が	（い）なくてさびしく（思）	う
+	do	does	do	not	miss				が	（い）なくてさびしく（思）	わ	ない
+	missed	missed	missed						が	（い）なくてさびしく（思）	っ	た
+	did	did	did	not	miss				が	（い）なくてさびしく（思）	わ	なかった
+	am	is	are		missing				が	（い）なくてさびしく（思）	っ	ている
+	am	is	are	not	missing				が	（い）なくてさびしく（思）	っ	ていない
+	was	was	were		missing				が	（い）なくてさびしく（思）	っ	ていた
+	was	was	were	not	missing				が	（い）なくてさびしく（思）	っ	ていなかった
+step-2	am	is	are	going to	miss				が	（い）なくてさびしく（思）	う	予定（よてい）だ
+	am	is	are	not going to	miss				が	（い）なくてさびしく（思）	う	予定（よてい）ではない
+	was	was	were	going to	miss				が	（い）なくてさびしく（思）	う	予定（よてい）だった
+	was	was	were	not going to	miss				が	（い）なくてさびしく（思）	う	予定（よてい）ではなかった
+	am	is	are	able to	miss				が	（い）なくてさびしく（思）	う	ことができる
+	am	is	are	not able to	miss				が	（い）なくてさびしく（思）	う	ことはできない
+	was	was	were	able to	miss				が	（い）なくてさびしく（思）	う	ことができた
+	was	was	were	not able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかった
+	could	could	could	not	miss				が	（い）なくてさびしく（思）	う	ことはできなかった
+	want	wants	want	to	miss				が	（い）なくてさびしく（思）	い	たい
+	do	does	do	not want to	miss				が	（い）なくてさびしく（思）	い	たくない
+	wanted  	wanted  	wanted	to	miss				が	（い）なくてさびしく（思）	い	たかった
+	did	did	did	not want to	miss				が	（い）なくてさびしく（思）	い	たくなかった
+	want	wants	want	to be	missing				が	（い）なくてさびしく（思）	っ	ていたい
+	do	does	do	not want to be	missing				が	（い）なくてさびしく（思）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	missing				が	（い）なくてさびしく（思）	っ	ていたかった
+	did	did	did	not want to be	missing				が	（い）なくてさびしく（思）	っ	ていたくなかった
+	want	wants	want	to be able to	miss				が	（い）なくてさびしく（思）	う	ことができるようになりたい
+	do	does	do	not want to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	miss				が	（い）なくてさびしく（思）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできるようになりたくなかった
+	have to	has to	have to		miss				が	（い）なくてさびしく（思）	わ	なければいけない
+	do	does	do	not have to	miss				が	（い）なくてさびしく（思）	わ	なくてもいい
+	have to	has to	have to	be	missing				が	（い）なくてさびしく（思）	っ	ていなければいけない
+	do	does	do	not have to be	missing				が	（い）なくてさびしく（思）	っ	ていなくてもいい
+	have to	has to	have to	be able to	miss				が	（い）なくてさびしく（思）	う	ことができなければいけない
+	do	does	do	not have to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできなくてもいい
+	had to	had to	had to		miss				が	（い）なくてさびしく（思）	わ	なければいけなかった
+	did	did	did	not have to	miss				が	（い）なくてさびしく（思）	わ	なくてもよかった
+	had to	had to	had to	be	missing				が	（い）なくてさびしく（思）	っ	ていなければいけなかった
+	did	did	did	not have to be	missing				が	（い）なくてさびしく（思）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	miss				が	（い）なくてさびしく（思）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできなくてもよかった
+step-3	will	will	will		miss				が	（い）なくてさびしく（思）	う	だろう
+	will	will	will	not	miss				が	（い）なくてさびしく（思）	わ	ないだろう
+	will	will	will	be	missing				が	（い）なくてさびしく（思）	っ	ているだろう
+	will	will	will	not be	missing				が	（い）なくてさびしく（思）	っ	ていないだろう
+	will	will	will	be able to	miss				が	（い）なくてさびしく（思）	う	ことができるだろう
+	will	will	will	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできないだろう
+	may	may	may		miss				が	（い）なくてさびしく（思）	う	かもしれない
+	may	may	may	not	miss				が	（い）なくてさびしく（思）	わ	ないかもしれない
+	may	may	may	be	missing				が	（い）なくてさびしく（思）	っ	ているかもしれない
+	may	may	may	not be	missing				が	（い）なくてさびしく（思）	っ	ていないかもしれない
+	may	may	may	be able to	miss				が	（い）なくてさびしく（思）	う	ことができるかもしれない
+	may	may	may	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできないかもしれない
+	can	can	can		miss				が	（い）なくてさびしく（思）	う	ことができる
+	can	can	can	not	miss				が	（い）なくてさびしく（思）	う	ことはできない
+	should	should	should		miss				が	（い）なくてさびしく（思）	う	ほうがいい
+	should	should	should	not	miss				が	（い）なくてさびしく（思）	わ	ないほうがいい
+	should	should	should	be	missing				が	（い）なくてさびしく（思）	っ	ているほうがいい
+	should	should	should	not be	missing				が	（い）なくてさびしく（思）	っ	ていないほうがいい
+	should	should	should	be able to	miss				が	（い）なくてさびしく（思）	う	ことができるほうがいい
+	should	should	should	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできないほうがいい
+	should	should	should		miss				が	（い）なくてさびしく（思）	う	はずだ
+	should	should	should	not	miss				が	（い）なくてさびしく（思）	わ	ないはずだ
+	should	should	should	be	missing				が	（い）なくてさびしく（思）	っ	ているはずだ
+	should	should	should	not be	missing				が	（い）なくてさびしく（思）	っ	ていないはずだ
+	should	should	should	be able to	miss				が	（い）なくてさびしく（思）	う	ことができるはずだ
+	should	should	should	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできるはずがない
+	had better	had better	had better		miss				が	（い）なくてさびしく（思）	う	べきだ
+	had better	had better	had better	not	miss				が	（い）なくてさびしく（思）	う	べきではない
+	must	must	must		miss				が	（い）なくてさびしく（思）	う	にちがいない
+	must	must	must	not	miss				が	（い）なくてさびしく（思）	っ	てはいけない
+	must	must	must	be	missing				が	（い）なくてさびしく（思）	っ	ているにちがいない
+	must	must	must	not be	missing				が	（い）なくてさびしく（思）	っ	ていてはいけない
+	must	must	must	be able to	miss				が	（い）なくてさびしく（思）	う	ことができるにちがいない
+	must	must	must	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできてはいけない
+	will	will	will	have to	miss				が	（い）なくてさびしく（思）	わ	なければいけないだろう
+	will	will	will	not have to	miss				が	（い）なくてさびしく（思）	わ	なくてもいいだろう
+	will	will	will	have to be	missing				が	（い）なくてさびしく（思）	っ	ていなければいけないだろう
+	will	will	will	not have to be	missing				が	（い）なくてさびしく（思）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	miss				が	（い）なくてさびしく（思）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできなくてもいいだろう
+	may	may	may	have to	miss				が	（い）なくてさびしく（思）	わ	なければいけないかもしれない
+	may	may	may	not have to	miss				が	（い）なくてさびしく（思）	わ	なくてもいいかもしれない
+	may	may	may	have to be	missing				が	（い）なくてさびしく（思）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	missing				が	（い）なくてさびしく（思）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	miss				が	（い）なくてさびしく（思）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	miss				が	（い）なくてさびしく（思）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		missed				が	（い）なくてさびしく（思）	っ	たことがある
+	have	has	have	not	missed				が	（い）なくてさびしく（思）	っ	たことはない
+	have	has	have	been	missing			（ずっと）	が	（い）なくてさびしく（思）	っ	ている
+	have	has	have	not been	missing			（ずっと）	が	（い）なくてさびしく（思）	っ	ていない
+	have	has	have		missed		already	すでに	が	（い）なくてさびしく（思）	っ	ている
+	have	has	have	not	missed		yet	まだ	が	（い）なくてさびしく（思）	っ	ていない
+	had	had	had		missed		before that	それ以前（いぜん）	が	（い）なくてさびしく（思）	っ	たことがあった
+	had	had	had	not	missed		before that	それ以前（いぜん）	が	（い）なくてさびしく（思）	っ	たことはなかった
+	had	had	had	been	missing		till then	それまでずっと	が	（い）なくてさびしく（思）	っ	ていた
+	had	had	had	not been	missing		till then	それまでずっと	が	（い）なくてさびしく（思）	っ	ていなかった
+	had	had	had		missed		already	すでに	が	（い）なくてさびしく（思）	っ	ていた
+	had	had	had	not	missed		yet	まだ	が	（い）なくてさびしく（思）	っ	ていなかった
+	have	has	have	been able to	miss			（ずっと）	が	（い）なくてさびしく（思）	う	ことができている
+	have	has	have	not been able to	miss		yet	まだ	が	（い）なくてさびしく（思）	う	ことはできていない
+	had	had	had	been able to	miss		till then	それまでずっと	が	（い）なくてさびしく（思）	う	ことができていた
+	had	had	had	not been able to	miss		till then	それまでずっと	が	（い）なくてさびしく（思）	う	ことはできていなかった
+step-5	may have	may have	may have		missed				が	（い）なくてさびしく（思）	っ	たかもしれない
+	may not have	may not have	may not have		missed				が	（い）なくてさびしく（思）	わ	なかったかもしれない
+	may have	may have	may have	been able to	miss				が	（い）なくてさびしく（思）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかったかもしれない
+	must have	must have	must have		missed				が	（い）なくてさびしく（思）	っ	たにちがいない
+	must not have	must not have	must not have		missed				が	（い）なくてさびしく（思）	わ	なかったにちがいない
+	must have	must have	must have	been able to	miss				が	（い）なくてさびしく（思）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかったにちがいない
+	should have	should have	should have		missed				が	（い）なくてさびしく（思）	う	ほうがよかった
+	should not have	should not have	should not have		missed				が	（い）なくてさびしく（思）	わ	ないほうがよかった
+	should have	should have	should have	been able to	miss				が	（い）なくてさびしく（思）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		missed				が	（い）なくてさびしく（思）	っ	たはずがない
+step-6	would	would	would		miss				が	（い）なくてさびしく（思）	っ	ただろう
+	would	would	would	not	miss				が	（い）なくてさびしく（思）	わ	なかっただろう
+	would	would	would	be able to	miss				が	（い）なくてさびしく（思）	う	ことができただろう
+	would	would	would	not be able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかっただろう
+	would have	would have	would have		missed				が	（い）なくてさびしく（思）	っ	たことだろう
+	would not have	would not have	would not have		missed				が	（い）なくてさびしく（思）	わ	なかったことだろう
+	would have	would have	would have	been able to	miss				が	（い）なくてさびしく（思）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかったことだろう
+	could have	could have	could have		missed				が	（い）なくてさびしく（思）	っ	た可能性がある
+	could not have	could not have	could not have		missed				が	（い）なくてさびしく（思）	っ	た可能性はない
+	might have	might have	might have		missed				が	（い）なくてさびしく（思）	っ	たかもしれなかった
+	might not have	might not have	might not have		missed				が	（い）なくてさびしく（思）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	miss				が	（い）なくてさびしく（思）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	miss				が	（い）なくてさびしく（思）	う	ことはできなかったかもしれなかった

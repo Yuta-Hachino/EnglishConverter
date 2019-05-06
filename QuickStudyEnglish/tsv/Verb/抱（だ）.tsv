@@ -1,0 +1,130 @@
+step-1	hold	holds	hold						を	抱（だ）	く
+	do	does	do	not	hold				を	抱（だ）	か	ない
+	held	held	held						を	抱（だ）	い	た
+	did	did	did	not	hold				を	抱（だ）	か	なかった
+	am	is	are		holding				を	抱（だ）	い	ている
+	am	is	are	not	holding				を	抱（だ）	い	ていない
+	was	was	were		holding				を	抱（だ）	い	ていた
+	was	was	were	not	holding				を	抱（だ）	い	ていなかった
+step-2	am	is	are	going to	hold				を	抱（だ）	く	予定（よてい）だ
+	am	is	are	not going to	hold				を	抱（だ）	く	予定（よてい）ではない
+	was	was	were	going to	hold				を	抱（だ）	く	予定（よてい）だった
+	was	was	were	not going to	hold				を	抱（だ）	く	予定（よてい）ではなかった
+	am	is	are	able to	hold				を	抱（だ）	く	ことができる
+	am	is	are	not able to	hold				を	抱（だ）	く	ことはできない
+	was	was	were	able to	hold				を	抱（だ）	く	ことができた
+	was	was	were	not able to	hold				を	抱（だ）	く	ことはできなかった
+	could	could	could	not	hold				を	抱（だ）	く	ことはできなかった
+	want	wants	want	to	hold				を	抱（だ）	き	たい
+	do	does	do	not want to	hold				を	抱（だ）	き	たくない
+	wanted  	wanted  	wanted	to	hold				を	抱（だ）	き	たかった
+	did	did	did	not want to	hold				を	抱（だ）	き	たくなかった
+	want	wants	want	to be	holding				を	抱（だ）	い	ていたい
+	do	does	do	not want to be	holding				を	抱（だ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	holding				を	抱（だ）	い	ていたかった
+	did	did	did	not want to be	holding				を	抱（だ）	い	ていたくなかった
+	want	wants	want	to be able to	hold				を	抱（だ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	hold				を	抱（だ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	hold				を	抱（だ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	hold				を	抱（だ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		hold				を	抱（だ）	か	なければいけない
+	do	does	do	not have to	hold				を	抱（だ）	か	なくてもいい
+	have to	has to	have to	be	holding				を	抱（だ）	い	ていなければいけない
+	do	does	do	not have to be	holding				を	抱（だ）	い	ていなくてもいい
+	have to	has to	have to	be able to	hold				を	抱（だ）	く	ことができなければいけない
+	do	does	do	not have to be able to	hold				を	抱（だ）	く	ことはできなくてもいい
+	had to	had to	had to		hold				を	抱（だ）	か	なければいけなかった
+	did	did	did	not have to	hold				を	抱（だ）	か	なくてもよかった
+	had to	had to	had to	be	holding				を	抱（だ）	い	ていなければいけなかった
+	did	did	did	not have to be	holding				を	抱（だ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	hold				を	抱（だ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	hold				を	抱（だ）	く	ことはできなくてもよかった
+step-3	will	will	will		hold				を	抱（だ）	く	だろう
+	will	will	will	not	hold				を	抱（だ）	か	ないだろう
+	will	will	will	be	holding				を	抱（だ）	い	ているだろう
+	will	will	will	not be	holding				を	抱（だ）	い	ていないだろう
+	will	will	will	be able to	hold				を	抱（だ）	く	ことができるだろう
+	will	will	will	not be able to	hold				を	抱（だ）	く	ことはできないだろう
+	may	may	may		hold				を	抱（だ）	く	かもしれない
+	may	may	may	not	hold				を	抱（だ）	か	ないかもしれない
+	may	may	may	be	holding				を	抱（だ）	い	ているかもしれない
+	may	may	may	not be	holding				を	抱（だ）	い	ていないかもしれない
+	may	may	may	be able to	hold				を	抱（だ）	く	ことができるかもしれない
+	may	may	may	not be able to	hold				を	抱（だ）	く	ことはできないかもしれない
+	can	can	can		hold				を	抱（だ）	く	ことができる
+	can	can	can	not	hold				を	抱（だ）	く	ことはできない
+	should	should	should		hold				を	抱（だ）	く	ほうがいい
+	should	should	should	not	hold				を	抱（だ）	か	ないほうがいい
+	should	should	should	be	holding				を	抱（だ）	い	ているほうがいい
+	should	should	should	not be	holding				を	抱（だ）	い	ていないほうがいい
+	should	should	should	be able to	hold				を	抱（だ）	く	ことができるほうがいい
+	should	should	should	not be able to	hold				を	抱（だ）	く	ことはできないほうがいい
+	should	should	should		hold				を	抱（だ）	く	はずだ
+	should	should	should	not	hold				を	抱（だ）	か	ないはずだ
+	should	should	should	be	holding				を	抱（だ）	い	ているはずだ
+	should	should	should	not be	holding				を	抱（だ）	い	ていないはずだ
+	should	should	should	be able to	hold				を	抱（だ）	く	ことができるはずだ
+	should	should	should	not be able to	hold				を	抱（だ）	く	ことはできるはずがない
+	had better	had better	had better		hold				を	抱（だ）	く	べきだ
+	had better	had better	had better	not	hold				を	抱（だ）	く	べきではない
+	must	must	must		hold				を	抱（だ）	く	にちがいない
+	must	must	must	not	hold				を	抱（だ）	い	てはいけない
+	must	must	must	be	holding				を	抱（だ）	い	ているにちがいない
+	must	must	must	not be	holding				を	抱（だ）	い	ていてはいけない
+	must	must	must	be able to	hold				を	抱（だ）	く	ことができるにちがいない
+	must	must	must	not be able to	hold				を	抱（だ）	く	ことはできてはいけない
+	will	will	will	have to	hold				を	抱（だ）	か	なければいけないだろう
+	will	will	will	not have to	hold				を	抱（だ）	か	なくてもいいだろう
+	will	will	will	have to be	holding				を	抱（だ）	い	ていなければいけないだろう
+	will	will	will	not have to be	holding				を	抱（だ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	hold				を	抱（だ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	hold				を	抱（だ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	hold				を	抱（だ）	か	なければいけないかもしれない
+	may	may	may	not have to	hold				を	抱（だ）	か	なくてもいいかもしれない
+	may	may	may	have to be	holding				を	抱（だ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	holding				を	抱（だ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	hold				を	抱（だ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	hold				を	抱（だ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		held				を	抱（だ）	い	たことがある
+	have	has	have	not	held				を	抱（だ）	い	たことはない
+	have	has	have	been	holding			（ずっと）	を	抱（だ）	い	ている
+	have	has	have	not been	holding			（ずっと）	を	抱（だ）	い	ていない
+	have	has	have		held		already	すでに	を	抱（だ）	い	ている
+	have	has	have	not	held		yet	まだ	を	抱（だ）	い	ていない
+	had	had	had		held		before that	それ以前（いぜん）	を	抱（だ）	い	たことがあった
+	had	had	had	not	held		before that	それ以前（いぜん）	を	抱（だ）	い	たことはなかった
+	had	had	had	been	holding		till then	それまでずっと	を	抱（だ）	い	ていた
+	had	had	had	not been	holding		till then	それまでずっと	を	抱（だ）	い	ていなかった
+	had	had	had		held		already	すでに	を	抱（だ）	い	ていた
+	had	had	had	not	held		yet	まだ	を	抱（だ）	い	ていなかった
+	have	has	have	been able to	hold			（ずっと）	を	抱（だ）	く	ことができている
+	have	has	have	not been able to	hold		yet	まだ	を	抱（だ）	く	ことはできていない
+	had	had	had	been able to	hold		till then	それまでずっと	を	抱（だ）	く	ことができていた
+	had	had	had	not been able to	hold		till then	それまでずっと	を	抱（だ）	く	ことはできていなかった
+step-5	may have	may have	may have		held				を	抱（だ）	い	たかもしれない
+	may not have	may not have	may not have		held				を	抱（だ）	か	なかったかもしれない
+	may have	may have	may have	been able to	hold				を	抱（だ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	hold				を	抱（だ）	く	ことはできなかったかもしれない
+	must have	must have	must have		held				を	抱（だ）	い	たにちがいない
+	must not have	must not have	must not have		held				を	抱（だ）	か	なかったにちがいない
+	must have	must have	must have	been able to	hold				を	抱（だ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	hold				を	抱（だ）	く	ことはできなかったにちがいない
+	should have	should have	should have		held				を	抱（だ）	く	ほうがよかった
+	should not have	should not have	should not have		held				を	抱（だ）	か	ないほうがよかった
+	should have	should have	should have	been able to	hold				を	抱（だ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	hold				を	抱（だ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		held				を	抱（だ）	い	たはずがない
+step-6	would	would	would		hold				を	抱（だ）	い	ただろう
+	would	would	would	not	hold				を	抱（だ）	か	なかっただろう
+	would	would	would	be able to	hold				を	抱（だ）	く	ことができただろう
+	would	would	would	not be able to	hold				を	抱（だ）	く	ことはできなかっただろう
+	would have	would have	would have		held				を	抱（だ）	い	たことだろう
+	would not have	would not have	would not have		held				を	抱（だ）	か	なかったことだろう
+	would have	would have	would have	been able to	hold				を	抱（だ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	hold				を	抱（だ）	く	ことはできなかったことだろう
+	could have	could have	could have		held				を	抱（だ）	い	た可能性がある
+	could not have	could not have	could not have		held				を	抱（だ）	い	た可能性はない
+	might have	might have	might have		held				を	抱（だ）	い	たかもしれなかった
+	might not have	might not have	might not have		held				を	抱（だ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	hold				を	抱（だ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	hold				を	抱（だ）	く	ことはできなかったかもしれなかった

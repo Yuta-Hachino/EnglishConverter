@@ -1,0 +1,135 @@
+step-1	am	is	are								いている
+	am	is	are	not							いていない
+	was	was	were								いていた
+	was	was	were	not							いていなかった
+	feel	feels	feel								く
+	do	does	do	not	feel						かない
+	felt	felt	felt								いた
+	did	did	did	not	feel						かなかった
+	am	is	are		feeling						いてきている
+	am	is	are	not	feeling						いてきていない
+	was	was	were		feeling						いてきていた
+	was	was	were	not	feeling						いてきていなかった
+step-2	am	is	are	going to	be						いている予定（よてい）だ
+	am	is	are	not going to	be						いている予定（よてい）ではない
+	am	is	are	going to	feel						く予定（よてい）だ
+	am	is	are	not going to	feel						く予定（よてい）ではない
+	was	was	were	going to	be						いている予定（よてい）だった
+	was	was	were	not going to	be						いている予定（よてい）ではなかった
+	was	was	were	going to	feel						く予定（よてい）だった
+	was	was	were	not going to	feel						く予定（よてい）ではなかった
+	am	is	are	able to	feel						くことができる
+	am	is	are	not able to	feel						くことはできない
+	was	was	were	able to	feel						くことができた
+	was	was	were	not able to	feel						くことはできなかった
+				could not	feel						くことはできなかった
+	am	is	are	supposed to	feel						くことになっている
+	am	is	are	not supposed to	feel						いてはいけない
+	was	was	were	supposed to	feel						くことになっていた
+	was	was	were	not supposed to	feel						いてはいけなかった
+	want	wants	want	to	be						いていたい
+	do not want	does not want	do not want	to	be						いていたくない
+	wanted	wanted	wanted	to	be						いていたかった
+	did not want	did not want	did not want	to	be						いていたくなかった
+	want	wants	want	to	feel						きたい
+	do not want	does not want	do not want	to	feel						きたくない
+	wanted	wanted	wanted	to	feel						きたかった
+	did not want	did not want	did not want	to	feel						きたくなかった
+	have	has	have	to	be						いていなければいけない
+	do not have	does not have	do not have	to	be						いていなくてもいい
+	had	had	had	to	be						いていなければいけなかった
+	did not have	did not have	did not have	to	be						いていなくてもよかった
+	have	has	have	to	feel						かなければいけない
+	do not have	does not have	do not have	to	feel						かなくてもいい
+	had	had	had	to	feel						かなければいけなかった
+	did not have	did not have	did not have	to	feel						かなくてもよかった
+step-3	will	will	will		be						いているだろう
+	will	will	will	not	be						いていないだろう
+	will	will	will		feel						くだろう
+	will	will	will	not	feel						かないだろう
+	will	will	will	be able to	feel						くことができるだろう
+	will	will	will	not be able to	feel						くことができないだろう
+	may	may	may		be						いているかもしれない
+	may	may	may	not	be						いていないかもしれない
+	may	may	may		feel						くかもしれない
+	may	may	may	not	feel						かないかもしれない
+	may	may	may	be able to	feel						くことができるかもしれない
+	may	may	may	not be able to	feel						くことができないかもしれない
+	can	can	can		be						いている可能性（かのうせい）がある
+	can	can	can	not	be						いている可能性（かのうせい）はない
+	can	can	can		feel						くことができる
+	can	can	can	not	feel						くことはできない
+	should	should	should		be						いているほうがいい
+	should	should	should	not	be						いていないほうがいい
+	should	should	should		feel						くほうがいい
+	should	should	should	not	feel						かないほうがいい
+	should	should	should		be						いているはずだ
+	should	should	should	not	be						いているはずではない
+	should	should	should		feel						くはずだ
+	should	should	should	not	feel						かないはずだ
+	should	should	should	be able to	feel						くことができるはずだ
+	should	should	should	not be able to	feel						くことができるはずがない
+	must	must	must		be						いているにちがいない
+	must	must	must	not	be						いていてはいけない
+	must	must	must		feel						くにちがいない
+	must	must	must	not	feel						いてはいけない
+	must	must	must	be able to	feel						くことができるにちがいない
+	must	must	must	not be able to	feel						くことができないはずだ
+	had better	had better	had better		be						いているべきだ
+	had better	had better	had better	not	be						いているべきではない
+	had better	had better	had better		feel						くべきだ
+	had better	had better	had better	not	feel						くべきではない
+	will have	will have	will have	to	be						いていなければいけないだろう
+	will not have	will not have	will not have	to	be						いていなくてもいいだろう
+	will have	will have	will have	to	feel						かなければいけないだろう
+	will not have	will not have	will not have	to	feel						かなくてもいいだろう
+	will have	will have	will have	to be able to	feel						くことができなければいけないだろう
+	will not have	will not have	will not have	to be able to	feel						くことができなくてもいいだろう
+	may have	may have	may have	to	be						いていなければいけないかもしれない
+	may not have	may not have	may not have	to	be						いていなくてもいいかもしれない
+	may have	may have	may have	to	feel						かなければいけないかもしれない
+	may not have	may not have	may not have	to	feel						かなくてもいいかもしれない
+	may have	may have	may have	to be able to	feel						くことができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	feel						くことができなくてもいいかもしれない
+step-4	have	has	have		been				（ずっと）	形容詞	いている
+	have	has	have	not	been				（ずっと）	形容詞	いていない
+	have	has	have		been						いていたことがある
+	have	has	have	not	been						いていたことはない
+	have	has	have		felt						いたことがある
+	have	has	have	not	felt						いたことはない
+	had	had	had		been		till then		それまでずっと	形容詞	いていた
+	had	had	had	not	been		till then		それまでずっと	形容詞	いていなかった
+	had	had	had		been		before that		それ以前（いぜん）	形容詞	いていたことがあった
+	had	had	had	not	been		before that		それ以前（いぜん）	形容詞	いていたことはなかった
+	had	had	had		felt		before that		それ以前（いぜん）	形容詞	いたことがあった
+	had	had	had	not	felt		before that		それ以前（いぜん）	形容詞	いたことはなかった
+step-5	may have	may have	may have		been						いていたかもしれない
+	may not have	may not have	may not have		been						いていなかったかもしれない
+	may have	may have	may have		felt						いたかもしれない
+	may not have	may not have	may not have		felt						かなかったかもしれない
+	can not have	can not have	can not have		been						いていたはずがない
+	can not have	can not have	can not have		felt						いたはずはない
+	should have	should have	should have		been						いているほうがよかった
+	should not have	should not have	should not have		been						いていないほうがよかった
+	should have	should have	should have		felt						くほうがよかった
+	should not have	should not have	should not have		felt						かないほうがよかった
+	must have	must have	must have		been						いていたにちがいない
+	must not have	must not have	must not have		been						いていなかったにちがいない
+	must have	must have	must have		felt						いたにちがいない
+	must not have	must not have	must not have		felt						かなかったにちがいない
+step-6	would	would	would		be						いていただろう
+	would	would	would	not	be						いていなかっただろう
+	would	would	would		feel						いただろう
+	would	would	would	not	feel						かなかっただろう
+	would have	would have	would have		been						いていたことだろう
+	would not have	would not have	would not have		been						いていなかったことだろう
+	would have	would have	would have		felt						いたことだろう
+	would not have	would not have	would not have		felt						かなかったことだろう
+	could have	could have	could have		been						いていた可能性（かのうせい）がある
+	could not have	could not have	could not have		been						いていた可能性（かのうせい）はない
+	could have	could have	could have		felt						いた可能性（かのうせい）がある
+	could not have	could not have	could not have		felt						いた可能性（かのうせい）はない
+	might have	might have	might have		been						いていたかもしれなかった
+	might not have	might not have	might not have		been						いていなかったかもしれなかった
+	might have	might have	might have		felt						いたかもしれなかった
+	might not have	might not have	might not have		felt						かなかったかもしれなかった

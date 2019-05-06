@@ -1,0 +1,130 @@
+step-1	draw	draws	draw							【線（せん）を】引（ひ）	く
+	do	does	do	not	draw					【線（せん）を】引（ひ）	か	ない
+	drew	drew	drew							【線（せん）を】引（ひ）	い	た
+	did	did	did	not	draw					【線（せん）を】引（ひ）	か	なかった
+	am	is	are		drawing					【線（せん）を】引（ひ）	い	ている
+	am	is	are	not	drawing					【線（せん）を】引（ひ）	い	ていない
+	was	was	were		drawing					【線（せん）を】引（ひ）	い	ていた
+	was	was	were	not	drawing					【線（せん）を】引（ひ）	い	ていなかった
+step-2	am	is	are	going to	draw					【線（せん）を】引（ひ）	く	予定（よてい）だ
+	am	is	are	not going to	draw					【線（せん）を】引（ひ）	く	予定（よてい）ではない
+	was	was	were	going to	draw					【線（せん）を】引（ひ）	く	予定（よてい）だった
+	was	was	were	not going to	draw					【線（せん）を】引（ひ）	く	予定（よてい）ではなかった
+	am	is	are	able to	draw					【線（せん）を】引（ひ）	く	ことができる
+	am	is	are	not able to	draw					【線（せん）を】引（ひ）	く	ことはできない
+	was	was	were	able to	draw					【線（せん）を】引（ひ）	く	ことができた
+	was	was	were	not able to	draw					【線（せん）を】引（ひ）	く	ことはできなかった
+	could	could	could	not	draw					【線（せん）を】引（ひ）	く	ことはできなかった
+	want	wants	want	to	draw					【線（せん）を】引（ひ）	き	たい
+	do	does	do	not want to	draw					【線（せん）を】引（ひ）	き	たくない
+	wanted  	wanted  	wanted	to	draw					【線（せん）を】引（ひ）	き	たかった
+	did	did	did	not want to	draw					【線（せん）を】引（ひ）	き	たくなかった
+	want	wants	want	to be	drawing					【線（せん）を】引（ひ）	い	ていたい
+	do	does	do	not want to be	drawing					【線（せん）を】引（ひ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	drawing					【線（せん）を】引（ひ）	い	ていたかった
+	did	did	did	not want to be	drawing					【線（せん）を】引（ひ）	い	ていたくなかった
+	want	wants	want	to be able to	draw					【線（せん）を】引（ひ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	draw					【線（せん）を】引（ひ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	draw					【線（せん）を】引（ひ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	draw					【線（せん）を】引（ひ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		draw					【線（せん）を】引（ひ）	か	なければいけない
+	do	does	do	not have to	draw					【線（せん）を】引（ひ）	か	なくてもいい
+	have to	has to	have to	be	drawing					【線（せん）を】引（ひ）	い	ていなければいけない
+	do	does	do	not have to be	drawing					【線（せん）を】引（ひ）	い	ていなくてもいい
+	have to	has to	have to	be able to	draw					【線（せん）を】引（ひ）	く	ことができなければいけない
+	do	does	do	not have to be able to	draw					【線（せん）を】引（ひ）	く	ことはできなくてもいい
+	had to	had to	had to		draw					【線（せん）を】引（ひ）	か	なければいけなかった
+	did	did	did	not have to	draw					【線（せん）を】引（ひ）	か	なくてもよかった
+	had to	had to	had to	be	drawing					【線（せん）を】引（ひ）	い	ていなければいけなかった
+	did	did	did	not have to be	drawing					【線（せん）を】引（ひ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	draw					【線（せん）を】引（ひ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	draw					【線（せん）を】引（ひ）	く	ことはできなくてもよかった
+step-3	will	will	will		draw					【線（せん）を】引（ひ）	く	だろう
+	will	will	will	not	draw					【線（せん）を】引（ひ）	か	ないだろう
+	will	will	will	be	drawing					【線（せん）を】引（ひ）	い	ているだろう
+	will	will	will	not be	drawing					【線（せん）を】引（ひ）	い	ていないだろう
+	will	will	will	be able to	draw					【線（せん）を】引（ひ）	く	ことができるだろう
+	will	will	will	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできないだろう
+	may	may	may		draw					【線（せん）を】引（ひ）	く	かもしれない
+	may	may	may	not	draw					【線（せん）を】引（ひ）	か	ないかもしれない
+	may	may	may	be	drawing					【線（せん）を】引（ひ）	い	ているかもしれない
+	may	may	may	not be	drawing					【線（せん）を】引（ひ）	い	ていないかもしれない
+	may	may	may	be able to	draw					【線（せん）を】引（ひ）	く	ことができるかもしれない
+	may	may	may	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできないかもしれない
+	can	can	can		draw					【線（せん）を】引（ひ）	く	ことができる
+	can	can	can	not	draw					【線（せん）を】引（ひ）	く	ことはできない
+	should	should	should		draw					【線（せん）を】引（ひ）	く	ほうがいい
+	should	should	should	not	draw					【線（せん）を】引（ひ）	か	ないほうがいい
+	should	should	should	be	drawing					【線（せん）を】引（ひ）	い	ているほうがいい
+	should	should	should	not be	drawing					【線（せん）を】引（ひ）	い	ていないほうがいい
+	should	should	should	be able to	draw					【線（せん）を】引（ひ）	く	ことができるほうがいい
+	should	should	should	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできないほうがいい
+	should	should	should		draw					【線（せん）を】引（ひ）	く	はずだ
+	should	should	should	not	draw					【線（せん）を】引（ひ）	か	ないはずだ
+	should	should	should	be	drawing					【線（せん）を】引（ひ）	い	ているはずだ
+	should	should	should	not be	drawing					【線（せん）を】引（ひ）	い	ていないはずだ
+	should	should	should	be able to	draw					【線（せん）を】引（ひ）	く	ことができるはずだ
+	should	should	should	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできるはずがない
+	had better	had better	had better		draw					【線（せん）を】引（ひ）	く	べきだ
+	had better	had better	had better	not	draw					【線（せん）を】引（ひ）	く	べきではない
+	must	must	must		draw					【線（せん）を】引（ひ）	く	にちがいない
+	must	must	must	not	draw					【線（せん）を】引（ひ）	い	てはいけない
+	must	must	must	be	drawing					【線（せん）を】引（ひ）	い	ているにちがいない
+	must	must	must	not be	drawing					【線（せん）を】引（ひ）	い	ていてはいけない
+	must	must	must	be able to	draw					【線（せん）を】引（ひ）	く	ことができるにちがいない
+	must	must	must	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできてはいけない
+	will	will	will	have to	draw					【線（せん）を】引（ひ）	か	なければいけないだろう
+	will	will	will	not have to	draw					【線（せん）を】引（ひ）	か	なくてもいいだろう
+	will	will	will	have to be	drawing					【線（せん）を】引（ひ）	い	ていなければいけないだろう
+	will	will	will	not have to be	drawing					【線（せん）を】引（ひ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	draw					【線（せん）を】引（ひ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	draw					【線（せん）を】引（ひ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	draw					【線（せん）を】引（ひ）	か	なければいけないかもしれない
+	may	may	may	not have to	draw					【線（せん）を】引（ひ）	か	なくてもいいかもしれない
+	may	may	may	have to be	drawing					【線（せん）を】引（ひ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	drawing					【線（せん）を】引（ひ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	draw					【線（せん）を】引（ひ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	draw					【線（せん）を】引（ひ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		drawn					【線（せん）を】引（ひ）	い	たことがある
+	have	has	have	not	drawn					【線（せん）を】引（ひ）	い	たことはない
+	have	has	have	been	drawing			（ずっと）		【線（せん）を】引（ひ）	い	ている
+	have	has	have	not been	drawing			（ずっと）		【線（せん）を】引（ひ）	い	ていない
+	have	has	have		drawn		already	すでに		【線（せん）を】引（ひ）	い	ている
+	have	has	have	not	drawn		yet	まだ		【線（せん）を】引（ひ）	い	ていない
+	had	had	had		drawn		before that	それ以前（いぜん）		【線（せん）を】引（ひ）	い	たことがあった
+	had	had	had	not	drawn		before that	それ以前（いぜん）		【線（せん）を】引（ひ）	い	たことはなかった
+	had	had	had	been	drawing		till then	それまでずっと		【線（せん）を】引（ひ）	い	ていた
+	had	had	had	not been	drawing		till then	それまでずっと		【線（せん）を】引（ひ）	い	ていなかった
+	had	had	had		drawn		already	すでに		【線（せん）を】引（ひ）	い	ていた
+	had	had	had	not	drawn		yet	まだ		【線（せん）を】引（ひ）	い	ていなかった
+	have	has	have	been able to	draw			（ずっと）		【線（せん）を】引（ひ）	く	ことができている
+	have	has	have	not been able to	draw		yet	まだ		【線（せん）を】引（ひ）	く	ことはできていない
+	had	had	had	been able to	draw		till then	それまでずっと		【線（せん）を】引（ひ）	く	ことができていた
+	had	had	had	not been able to	draw		till then	それまでずっと		【線（せん）を】引（ひ）	く	ことはできていなかった
+step-5	may have	may have	may have		drawn					【線（せん）を】引（ひ）	い	たかもしれない
+	may not have	may not have	may not have		drawn					【線（せん）を】引（ひ）	か	なかったかもしれない
+	may have	may have	may have	been able to	draw					【線（せん）を】引（ひ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	draw					【線（せん）を】引（ひ）	く	ことはできなかったかもしれない
+	must have	must have	must have		drawn					【線（せん）を】引（ひ）	い	たにちがいない
+	must not have	must not have	must not have		drawn					【線（せん）を】引（ひ）	か	なかったにちがいない
+	must have	must have	must have	been able to	draw					【線（せん）を】引（ひ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	draw					【線（せん）を】引（ひ）	く	ことはできなかったにちがいない
+	should have	should have	should have		drawn					【線（せん）を】引（ひ）	く	ほうがよかった
+	should not have	should not have	should not have		drawn					【線（せん）を】引（ひ）	か	ないほうがよかった
+	should have	should have	should have	been able to	draw					【線（せん）を】引（ひ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	draw					【線（せん）を】引（ひ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		drawn					【線（せん）を】引（ひ）	い	たはずがない
+step-6	would	would	would		draw					【線（せん）を】引（ひ）	い	ただろう
+	would	would	would	not	draw					【線（せん）を】引（ひ）	か	なかっただろう
+	would	would	would	be able to	draw					【線（せん）を】引（ひ）	く	ことができただろう
+	would	would	would	not be able to	draw					【線（せん）を】引（ひ）	く	ことはできなかっただろう
+	would have	would have	would have		drawn					【線（せん）を】引（ひ）	い	たことだろう
+	would not have	would not have	would not have		drawn					【線（せん）を】引（ひ）	か	なかったことだろう
+	would have	would have	would have	been able to	draw					【線（せん）を】引（ひ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	draw					【線（せん）を】引（ひ）	く	ことはできなかったことだろう
+	could have	could have	could have		drawn					【線（せん）を】引（ひ）	い	た可能性がある
+	could not have	could not have	could not have		drawn					【線（せん）を】引（ひ）	い	た可能性はない
+	might have	might have	might have		drawn					【線（せん）を】引（ひ）	い	たかもしれなかった
+	might not have	might not have	might not have		drawn					【線（せん）を】引（ひ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	draw					【線（せん）を】引（ひ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	draw					【線（せん）を】引（ひ）	く	ことはできなかったかもしれなかった

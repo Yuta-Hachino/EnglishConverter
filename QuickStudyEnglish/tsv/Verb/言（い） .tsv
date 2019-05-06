@@ -1,0 +1,130 @@
+step-1	mention	mentions	mention						を	言（い）	う
+	do	does	do	not	mention				を	言（い）	わ	ない
+	mentioned	mentioned	mentioned						を	言（い）	っ	た
+	did	did	did	not	mention				を	言（い）	わ	なかった
+	am	is	are		mentioning				を	言（い）	っ	ている
+	am	is	are	not	mentioning				を	言（い）	っ	ていない
+	was	was	were		mentioning				を	言（い）	っ	ていた
+	was	was	were	not	mentioning				を	言（い）	っ	ていなかった
+step-2	am	is	are	going to	mention				を	言（い）	う	予定（よてい）だ
+	am	is	are	not going to	mention				を	言（い）	う	予定（よてい）ではない
+	was	was	were	going to	mention				を	言（い）	う	予定（よてい）だった
+	was	was	were	not going to	mention				を	言（い）	う	予定（よてい）ではなかった
+	am	is	are	able to	mention				を	言（い）	う	ことができる
+	am	is	are	not able to	mention				を	言（い）	う	ことはできない
+	was	was	were	able to	mention				を	言（い）	う	ことができた
+	was	was	were	not able to	mention				を	言（い）	う	ことはできなかった
+	could	could	could	not	mention				を	言（い）	う	ことはできなかった
+	want	wants	want	to	mention				を	言（い）	い	たい
+	do	does	do	not want to	mention				を	言（い）	い	たくない
+	wanted  	wanted  	wanted	to	mention				を	言（い）	い	たかった
+	did	did	did	not want to	mention				を	言（い）	い	たくなかった
+	want	wants	want	to be	mentioning				を	言（い）	っ	ていたい
+	do	does	do	not want to be	mentioning				を	言（い）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	mentioning				を	言（い）	っ	ていたかった
+	did	did	did	not want to be	mentioning				を	言（い）	っ	ていたくなかった
+	want	wants	want	to be able to	mention				を	言（い）	う	ことができるようになりたい
+	do	does	do	not want to be able to	mention				を	言（い）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	mention				を	言（い）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	mention				を	言（い）	う	ことはできるようになりたくなかった
+	have to	has to	have to		mention				を	言（い）	わ	なければいけない
+	do	does	do	not have to	mention				を	言（い）	わ	なくてもいい
+	have to	has to	have to	be	mentioning				を	言（い）	っ	ていなければいけない
+	do	does	do	not have to be	mentioning				を	言（い）	っ	ていなくてもいい
+	have to	has to	have to	be able to	mention				を	言（い）	う	ことができなければいけない
+	do	does	do	not have to be able to	mention				を	言（い）	う	ことはできなくてもいい
+	had to	had to	had to		mention				を	言（い）	わ	なければいけなかった
+	did	did	did	not have to	mention				を	言（い）	わ	なくてもよかった
+	had to	had to	had to	be	mentioning				を	言（い）	っ	ていなければいけなかった
+	did	did	did	not have to be	mentioning				を	言（い）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	mention				を	言（い）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	mention				を	言（い）	う	ことはできなくてもよかった
+step-3	will	will	will		mention				を	言（い）	う	だろう
+	will	will	will	not	mention				を	言（い）	わ	ないだろう
+	will	will	will	be	mentioning				を	言（い）	っ	ているだろう
+	will	will	will	not be	mentioning				を	言（い）	っ	ていないだろう
+	will	will	will	be able to	mention				を	言（い）	う	ことができるだろう
+	will	will	will	not be able to	mention				を	言（い）	う	ことはできないだろう
+	may	may	may		mention				を	言（い）	う	かもしれない
+	may	may	may	not	mention				を	言（い）	わ	ないかもしれない
+	may	may	may	be	mentioning				を	言（い）	っ	ているかもしれない
+	may	may	may	not be	mentioning				を	言（い）	っ	ていないかもしれない
+	may	may	may	be able to	mention				を	言（い）	う	ことができるかもしれない
+	may	may	may	not be able to	mention				を	言（い）	う	ことはできないかもしれない
+	can	can	can		mention				を	言（い）	う	ことができる
+	can	can	can	not	mention				を	言（い）	う	ことはできない
+	should	should	should		mention				を	言（い）	う	ほうがいい
+	should	should	should	not	mention				を	言（い）	わ	ないほうがいい
+	should	should	should	be	mentioning				を	言（い）	っ	ているほうがいい
+	should	should	should	not be	mentioning				を	言（い）	っ	ていないほうがいい
+	should	should	should	be able to	mention				を	言（い）	う	ことができるほうがいい
+	should	should	should	not be able to	mention				を	言（い）	う	ことはできないほうがいい
+	should	should	should		mention				を	言（い）	う	はずだ
+	should	should	should	not	mention				を	言（い）	わ	ないはずだ
+	should	should	should	be	mentioning				を	言（い）	っ	ているはずだ
+	should	should	should	not be	mentioning				を	言（い）	っ	ていないはずだ
+	should	should	should	be able to	mention				を	言（い）	う	ことができるはずだ
+	should	should	should	not be able to	mention				を	言（い）	う	ことはできるはずがない
+	had better	had better	had better		mention				を	言（い）	う	べきだ
+	had better	had better	had better	not	mention				を	言（い）	う	べきではない
+	must	must	must		mention				を	言（い）	う	にちがいない
+	must	must	must	not	mention				を	言（い）	っ	てはいけない
+	must	must	must	be	mentioning				を	言（い）	っ	ているにちがいない
+	must	must	must	not be	mentioning				を	言（い）	っ	ていてはいけない
+	must	must	must	be able to	mention				を	言（い）	う	ことができるにちがいない
+	must	must	must	not be able to	mention				を	言（い）	う	ことはできてはいけない
+	will	will	will	have to	mention				を	言（い）	わ	なければいけないだろう
+	will	will	will	not have to	mention				を	言（い）	わ	なくてもいいだろう
+	will	will	will	have to be	mentioning				を	言（い）	っ	ていなければいけないだろう
+	will	will	will	not have to be	mentioning				を	言（い）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	mention				を	言（い）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	mention				を	言（い）	う	ことはできなくてもいいだろう
+	may	may	may	have to	mention				を	言（い）	わ	なければいけないかもしれない
+	may	may	may	not have to	mention				を	言（い）	わ	なくてもいいかもしれない
+	may	may	may	have to be	mentioning				を	言（い）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	mentioning				を	言（い）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	mention				を	言（い）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	mention				を	言（い）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		mentioned				を	言（い）	っ	たことがある
+	have	has	have	not	mentioned				を	言（い）	っ	たことはない
+	have	has	have	been	mentioning			（ずっと）	を	言（い）	っ	ている
+	have	has	have	not been	mentioning			（ずっと）	を	言（い）	っ	ていない
+	have	has	have		mentioned		already	すでに	を	言（い）	っ	ている
+	have	has	have	not	mentioned		yet	まだ	を	言（い）	っ	ていない
+	had	had	had		mentioned		before that	それ以前（いぜん）	を	言（い）	っ	たことがあった
+	had	had	had	not	mentioned		before that	それ以前（いぜん）	を	言（い）	っ	たことはなかった
+	had	had	had	been	mentioning		till then	それまでずっと	を	言（い）	っ	ていた
+	had	had	had	not been	mentioning		till then	それまでずっと	を	言（い）	っ	ていなかった
+	had	had	had		mentioned		already	すでに	を	言（い）	っ	ていた
+	had	had	had	not	mentioned		yet	まだ	を	言（い）	っ	ていなかった
+	have	has	have	been able to	mention			（ずっと）	を	言（い）	う	ことができている
+	have	has	have	not been able to	mention		yet	まだ	を	言（い）	う	ことはできていない
+	had	had	had	been able to	mention		till then	それまでずっと	を	言（い）	う	ことができていた
+	had	had	had	not been able to	mention		till then	それまでずっと	を	言（い）	う	ことはできていなかった
+step-5	may have	may have	may have		mentioned				を	言（い）	っ	たかもしれない
+	may not have	may not have	may not have		mentioned				を	言（い）	わ	なかったかもしれない
+	may have	may have	may have	been able to	mention				を	言（い）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	mention				を	言（い）	う	ことはできなかったかもしれない
+	must have	must have	must have		mentioned				を	言（い）	っ	たにちがいない
+	must not have	must not have	must not have		mentioned				を	言（い）	わ	なかったにちがいない
+	must have	must have	must have	been able to	mention				を	言（い）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	mention				を	言（い）	う	ことはできなかったにちがいない
+	should have	should have	should have		mentioned				を	言（い）	う	ほうがよかった
+	should not have	should not have	should not have		mentioned				を	言（い）	わ	ないほうがよかった
+	should have	should have	should have	been able to	mention				を	言（い）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	mention				を	言（い）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		mentioned				を	言（い）	っ	たはずがない
+step-6	would	would	would		mention				を	言（い）	っ	ただろう
+	would	would	would	not	mention				を	言（い）	わ	なかっただろう
+	would	would	would	be able to	mention				を	言（い）	う	ことができただろう
+	would	would	would	not be able to	mention				を	言（い）	う	ことはできなかっただろう
+	would have	would have	would have		mentioned				を	言（い）	っ	たことだろう
+	would not have	would not have	would not have		mentioned				を	言（い）	わ	なかったことだろう
+	would have	would have	would have	been able to	mention				を	言（い）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	mention				を	言（い）	う	ことはできなかったことだろう
+	could have	could have	could have		mentioned				を	言（い）	っ	た可能性がある
+	could not have	could not have	could not have		mentioned				を	言（い）	っ	た可能性はない
+	might have	might have	might have		mentioned				を	言（い）	っ	たかもしれなかった
+	might not have	might not have	might not have		mentioned				を	言（い）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	mention				を	言（い）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	mention				を	言（い）	う	ことはできなかったかもしれなかった

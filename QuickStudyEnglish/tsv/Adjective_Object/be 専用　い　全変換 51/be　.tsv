@@ -1,0 +1,51 @@
+step-1		is	are								い
+		is	are	not							くはない
+		was	were								かった
+		was	were	not							くはなかった
+step-2		is	are	going to	be						くなるだろう
+		is	are	not going to	be						くならないだろう
+		was	were	going to	be						くなっただろう
+		was	were	not going to	be						くならなかっただろう
+		has	have	to	be						くなければいけない
+		does not have	do not have	to	be						くなくてもいい
+		had	had	to	be						くなければいけなかった
+		did not have	did not have	to	be						くなくてもよかった
+step-3		will	will		be						いだろう
+		will	will	not	be						くはないだろう
+		may	may		be						いかもしれない
+		may	may	not	be						くはないかもしれない
+		can	can		be						い可能性（かのうせい）がある
+		can	can	not	be						い可能性（かのうせい）はない
+		should	should		be						いほうがいい
+		should	should	not	be						くないほうがいい
+		should	should		be						いはずだ
+		should	should	not	be						くはないはずだ
+		must	must		be						いにちがいない
+		must	must	not	be						くてはいけない
+		will have	will have	to	be						くなければいけないだろう
+		will	will	not have to	be						くなくてもいいだろう
+		may have	may have	to	be						くなければいけないかもしれない
+		may	may	not have to	be						くなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	い
+		has	have	not	been				（ずっと）	形容詞	くはない
+		has	have		been					形容詞	かったことがある
+		has	have	not	been					形容詞	かったことはない
+		had	had		been	形容詞	till then		それまでずっと	形容詞	かった
+		had	had	not	been	形容詞	till then		それまでずっと	形容詞	くはなかった
+		had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	かったことがあった
+		had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	かったことはなかった
+step-5		may have	may have		been						かったかもしれない
+		may not have	may not have		been						くはなかったかもしれない
+		can not have	can not have		been						かったはずがない
+		should have	should have		been						いほうがよかった
+		should not have	should not have		been						くないほうがよかった
+		must have	must have		been						かったにちがいない
+		must not have	must not have		been						くなかったにちがいない
+step-6		would	would		be						かっただろう
+		would	would	not	be						くはなかっただろう
+		would have	would have		been						かったことだろう
+		would not have	would not have		been						くはなかったことだろう
+		could have	could have		been						かった可能性（かのうせい）がある
+		could not have	could not have		been						かった可能性（かのうせい）はない
+		might have	might have		been						かったかもしれなかった
+		might not have	might not have		been						くなかったかもしれなかった

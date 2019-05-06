@@ -1,0 +1,82 @@
+step-1	feel	feels	feel								に感（かん）じる
+	do	does	do	not	feel						に感（かん）じない
+	felt	felt	felt								に感（かん）じた
+	did	did	did	not	feel						に感（かん）じなかった
+	am	is	are		feeling						に感（かん）じている
+	am	is	are	not	feeling						に感（かん）じていない
+	was	was	were		feeling						に感（かん）じていた
+	was	was	were	not	feeling						に感（かん）じていなかった
+step-2	am	is	are	going to	feel						に感（かん）じる予定（よてい）だ
+	am	is	are	not going to	feel						に感（かん）じる予定（よてい）ではない
+	was	was	were	going to	feel						に感（かん）じる予定（よてい）だった
+	was	was	were	not going to	feel						に感（かん）じる予定（よてい）ではなかった
+	am	is	are	able to	feel						に感（かん）じることができる
+	am	is	are	not able to	feel						に感（かん）じることはできない
+	was	was	were	able to	feel						に感（かん）じることができた
+	was	was	were	not able to	feel						に感（かん）じることはできなかった
+	could	could	could	not	feel						に感（かん）じることはできなかった
+	am	is	are	supposed to	feel						に感（かん）じることになっている
+	am	is	are	not supposed to	feel						に感（かん）じてはいけない
+	was	was	were	supposed to	feel						に感（かん）じることになっていた
+	was	was	were	not supposed to	feel						に感（かん）じてはいけなかった
+	want	wants	want	to	feel						に感（かん）じたい
+	do not want  	does not want	do not want	to	feel						に感（かん）じたくない
+	wanted	wanted	wanted	to	feel						に感（かん）じたかった
+	did not want	did not want	did not want	to	feel						に感（かん）じたくなかった
+	have to	has to	have to		feel						に感（かん）じなければいけない
+	do not have	does not have	do not have	to	feel						に感（かん）じなくてもいい
+	had to	had to	had to		feel						に感（かん）じなければいけなかった
+	did not have	did not have	did not have	to	feel						に感（かん）じなくてもよかった
+step-3	will	will	will		feel						に感（かん）じるだろう
+	will	will	will	not	feel						に感（かん）じないだろう
+	will	will	will	be able to	feel						に感（かん）じることができるだろう
+	will	will	will	not be able to	feel						に感（かん）じることはできないだろう
+	may	may	may		feel						に感（かん）じるかもしれない
+	may	may	may	not	feel						に感（かん）じないかもしれない
+	may	may	may	be able to	feel						に感（かん）じることができるかもしれない
+	may	may	may	not be able to	feel						に感（かん）じることはできないかもしれない
+	can	can	can		feel						に感（かん）じることができる
+	can	can	can	not	feel						に感（かん）じることはできない
+	should	should	should		feel						に感（かん）じるほうがいい
+	should	should	should	not	feel						に感（かん）じないほうがいい
+	should	should	should		feel						に感（かん）じるはずだ
+	should	should	should	not	feel						に感（かん）じないはずだ
+	should	should	should	be able to	feel						に感（かん）じることができるはずだ
+	should	should	should	not be able to	feel						に感（かん）じることができるはずがない
+	must	must	must		feel						に感（かん）じるにちがいない
+	must	must	must	not	feel						に感（かん）じてはいけない
+	must	must	must	be able to	feel						に感（かん）じることができるにちがいない
+	must	must	must	not be able to	feel						に感（かん）じることができてはいけない
+	had better	had better	had better		feel						に感（かん）じるべきだ
+	had better	had better	had better	not	feel						に感（かん）じるべきではない
+	will have to	will have to	will have to		feel						に感（かん）じなければいけないだろう
+	will not have	will not have	will not have	to	feel						に感（かん）じなくてもいいだろう
+	will have to	will have to	will have to	be able to	feel						に感（かん）じることができなければいけないだろう
+	will not have	will not have	will not have	to be able to	feel						に感（かん）じることはできなくてもいいだろう
+	may have to	may have to	may have to		feel						に感（かん）じなければいけないかもしれない
+	may not have		may not have	to	feel						に感（かん）じなくてもいいかもしれない
+	may have	may have	may have	to be able to	feel						に感（かん）じることができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	feel						に感（かん）じることはできなくてもいいかもしれない
+step-4	have	has	have		felt						に感（かん）じたことがある
+	have	has	have	not	felt						に感（かん）じたことはない
+	have	has	have	been	feeling				（ずっと）	形容詞	に感（かん）じている
+	have	has	have	not been	feeling				（ずっと）	形容詞	に感（かん）じていない
+	had	had	had		felt		before that		それ以前（いぜん）	形容詞	に感（かん）じたことがあった
+	had	had	had	not	felt		before that		それ以前（いぜん）	形容詞	に感（かん）じたことはなかった
+	had	had	had	been	feeling		till then		それまでずっと	形容詞	に感（かん）じていた
+	had	had	had	not been	feeling		till then		それまでずっと	形容詞	に感（かん）じていなかった
+step-5	may have	may have	may have		felt						に感（かん）じたかもしれない
+	may not have	may not have	may not have		felt						に感（かん）じなかったかもしれない
+	can not have	can not have	can not have		felt						に感（かん）じたはずがない
+	should have	should have	should have		felt						に感（かん）じるほうがよかった
+	should not have	should not have	should not have		felt						に感（かん）じないほうがよかった
+step-6	must have	must have	must have		felt						に感（かん）じたにちがいない
+	must not have	must not have	must not have		felt						に感（かん）じなかったにちがいない
+	would	would	would		feel						に感（かん）じただろう
+	would	would	would	not	feel						に感（かん）じなかっただろう
+	would have	would have	would have		felt						に感（かん）じたことだろう
+	would not have	would not have	would not have		felt						に感（かん）じなかったことだろう
+	could have	could have	could have		felt						に感（かん）じた可能性（かのうせい）がある
+	could not have	could not have	could not have		felt						に感（かん）じた可能性（かのうせい）はない
+	might have	might have	might have		felt						に感（かん）じたかもしれなかった
+	might not have	might not have	might not have		felt						に感（かん）じなかったかもしれなかった

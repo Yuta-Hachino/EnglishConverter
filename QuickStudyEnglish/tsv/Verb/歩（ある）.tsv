@@ -1,0 +1,130 @@
+step-1	walk	walks	walk							歩（ある）	く
+	do	does	do	not	walk					歩（ある）	か	ない
+	walked	walked	walked							歩（ある）	い	た
+	did	did	did	not	walk					歩（ある）	か	なかった
+	am	is	are		walking					歩（ある）	い	ている
+	am	is	are	not	walking					歩（ある）	い	ていない
+	was	was	were		walking					歩（ある）	い	ていた
+	was	was	were	not	walking					歩（ある）	い	ていなかった
+step-2	am	is	are	going to	walk					歩（ある）	く	予定（よてい）だ
+	am	is	are	not going to	walk					歩（ある）	く	予定（よてい）ではない
+	was	was	were	going to	walk					歩（ある）	く	予定（よてい）だった
+	was	was	were	not going to	walk					歩（ある）	く	予定（よてい）ではなかった
+	am	is	are	able to	walk					歩（ある）	く	ことができる
+	am	is	are	not able to	walk					歩（ある）	く	ことはできない
+	was	was	were	able to	walk					歩（ある）	く	ことができた
+	was	was	were	not able to	walk					歩（ある）	く	ことはできなかった
+	could	could	could	not	walk					歩（ある）	く	ことはできなかった
+	want	wants	want	to	walk					歩（ある）	き	たい
+	do	does	do	not want to	walk					歩（ある）	き	たくない
+	wanted  	wanted  	wanted	to	walk					歩（ある）	き	たかった
+	did	did	did	not want to	walk					歩（ある）	き	たくなかった
+	want	wants	want	to be	walking					歩（ある）	い	ていたい
+	do	does	do	not want to be	walking					歩（ある）	い	ていたくない
+	wanted  	wanted  	wanted	to be	walking					歩（ある）	い	ていたかった
+	did	did	did	not want to be	walking					歩（ある）	い	ていたくなかった
+	want	wants	want	to be able to	walk					歩（ある）	く	ことができるようになりたい
+	do	does	do	not want to be able to	walk					歩（ある）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	walk					歩（ある）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	walk					歩（ある）	く	ことはできるようになりたくなかった
+	have to	has to	have to		walk					歩（ある）	か	なければいけない
+	do	does	do	not have to	walk					歩（ある）	か	なくてもいい
+	have to	has to	have to	be	walking					歩（ある）	い	ていなければいけない
+	do	does	do	not have to be	walking					歩（ある）	い	ていなくてもいい
+	have to	has to	have to	be able to	walk					歩（ある）	く	ことができなければいけない
+	do	does	do	not have to be able to	walk					歩（ある）	く	ことはできなくてもいい
+	had to	had to	had to		walk					歩（ある）	か	なければいけなかった
+	did	did	did	not have to	walk					歩（ある）	か	なくてもよかった
+	had to	had to	had to	be	walking					歩（ある）	い	ていなければいけなかった
+	did	did	did	not have to be	walking					歩（ある）	い	ていなくてもよかった
+	had to	had to	had to	be able to	walk					歩（ある）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	walk					歩（ある）	く	ことはできなくてもよかった
+step-3	will	will	will		walk					歩（ある）	く	だろう
+	will	will	will	not	walk					歩（ある）	か	ないだろう
+	will	will	will	be	walking					歩（ある）	い	ているだろう
+	will	will	will	not be	walking					歩（ある）	い	ていないだろう
+	will	will	will	be able to	walk					歩（ある）	く	ことができるだろう
+	will	will	will	not be able to	walk					歩（ある）	く	ことはできないだろう
+	may	may	may		walk					歩（ある）	く	かもしれない
+	may	may	may	not	walk					歩（ある）	か	ないかもしれない
+	may	may	may	be	walking					歩（ある）	い	ているかもしれない
+	may	may	may	not be	walking					歩（ある）	い	ていないかもしれない
+	may	may	may	be able to	walk					歩（ある）	く	ことができるかもしれない
+	may	may	may	not be able to	walk					歩（ある）	く	ことはできないかもしれない
+	can	can	can		walk					歩（ある）	く	ことができる
+	can	can	can	not	walk					歩（ある）	く	ことはできない
+	should	should	should		walk					歩（ある）	く	ほうがいい
+	should	should	should	not	walk					歩（ある）	か	ないほうがいい
+	should	should	should	be	walking					歩（ある）	い	ているほうがいい
+	should	should	should	not be	walking					歩（ある）	い	ていないほうがいい
+	should	should	should	be able to	walk					歩（ある）	く	ことができるほうがいい
+	should	should	should	not be able to	walk					歩（ある）	く	ことはできないほうがいい
+	should	should	should		walk					歩（ある）	く	はずだ
+	should	should	should	not	walk					歩（ある）	か	ないはずだ
+	should	should	should	be	walking					歩（ある）	い	ているはずだ
+	should	should	should	not be	walking					歩（ある）	い	ていないはずだ
+	should	should	should	be able to	walk					歩（ある）	く	ことができるはずだ
+	should	should	should	not be able to	walk					歩（ある）	く	ことはできるはずがない
+	had better	had better	had better		walk					歩（ある）	く	べきだ
+	had better	had better	had better	not	walk					歩（ある）	く	べきではない
+	must	must	must		walk					歩（ある）	く	にちがいない
+	must	must	must	not	walk					歩（ある）	い	てはいけない
+	must	must	must	be	walking					歩（ある）	い	ているにちがいない
+	must	must	must	not be	walking					歩（ある）	い	ていてはいけない
+	must	must	must	be able to	walk					歩（ある）	く	ことができるにちがいない
+	must	must	must	not be able to	walk					歩（ある）	く	ことはできてはいけない
+	will	will	will	have to	walk					歩（ある）	か	なければいけないだろう
+	will	will	will	not have to	walk					歩（ある）	か	なくてもいいだろう
+	will	will	will	have to be	walking					歩（ある）	い	ていなければいけないだろう
+	will	will	will	not have to be	walking					歩（ある）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	walk					歩（ある）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	walk					歩（ある）	く	ことはできなくてもいいだろう
+	may	may	may	have to	walk					歩（ある）	か	なければいけないかもしれない
+	may	may	may	not have to	walk					歩（ある）	か	なくてもいいかもしれない
+	may	may	may	have to be	walking					歩（ある）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	walking					歩（ある）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	walk					歩（ある）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	walk					歩（ある）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		walked					歩（ある）	い	たことがある
+	have	has	have	not	walked					歩（ある）	い	たことはない
+	have	has	have	been	walking			（ずっと）		歩（ある）	い	ている
+	have	has	have	not been	walking			（ずっと）		歩（ある）	い	ていない
+	have	has	have		walked		already	すでに		歩（ある）	い	ている
+	have	has	have	not	walked		yet	まだ		歩（ある）	い	ていない
+	had	had	had		walked		before that	それ以前（いぜん）		歩（ある）	い	たことがあった
+	had	had	had	not	walked		before that	それ以前（いぜん）		歩（ある）	い	たことはなかった
+	had	had	had	been	walking		till then	それまでずっと		歩（ある）	い	ていた
+	had	had	had	not been	walking		till then	それまでずっと		歩（ある）	い	ていなかった
+	had	had	had		walked		already	すでに		歩（ある）	い	ていた
+	had	had	had	not	walked		yet	まだ		歩（ある）	い	ていなかった
+	have	has	have	been able to	walk			（ずっと）		歩（ある）	く	ことができている
+	have	has	have	not been able to	walk		yet	まだ		歩（ある）	く	ことはできていない
+	had	had	had	been able to	walk		till then	それまでずっと		歩（ある）	く	ことができていた
+	had	had	had	not been able to	walk		till then	それまでずっと		歩（ある）	く	ことはできていなかった
+step-5	may have	may have	may have		walked					歩（ある）	い	たかもしれない
+	may not have	may not have	may not have		walked					歩（ある）	か	なかったかもしれない
+	may have	may have	may have	been able to	walk					歩（ある）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	walk					歩（ある）	く	ことはできなかったかもしれない
+	must have	must have	must have		walked					歩（ある）	い	たにちがいない
+	must not have	must not have	must not have		walked					歩（ある）	か	なかったにちがいない
+	must have	must have	must have	been able to	walk					歩（ある）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	walk					歩（ある）	く	ことはできなかったにちがいない
+	should have	should have	should have		walked					歩（ある）	く	ほうがよかった
+	should not have	should not have	should not have		walked					歩（ある）	か	ないほうがよかった
+	should have	should have	should have	been able to	walk					歩（ある）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	walk					歩（ある）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		walked					歩（ある）	い	たはずがない
+step-6	would	would	would		walk					歩（ある）	い	ただろう
+	would	would	would	not	walk					歩（ある）	か	なかっただろう
+	would	would	would	be able to	walk					歩（ある）	く	ことができただろう
+	would	would	would	not be able to	walk					歩（ある）	く	ことはできなかっただろう
+	would have	would have	would have		walked					歩（ある）	い	たことだろう
+	would not have	would not have	would not have		walked					歩（ある）	か	なかったことだろう
+	would have	would have	would have	been able to	walk					歩（ある）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	walk					歩（ある）	く	ことはできなかったことだろう
+	could have	could have	could have		walked					歩（ある）	い	た可能性がある
+	could not have	could not have	could not have		walked					歩（ある）	い	た可能性はない
+	might have	might have	might have		walked					歩（ある）	い	たかもしれなかった
+	might not have	might not have	might not have		walked					歩（ある）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	walk					歩（ある）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	walk					歩（ある）	く	ことはできなかったかもしれなかった

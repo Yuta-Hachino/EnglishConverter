@@ -1,0 +1,51 @@
+step-1		is	are								がある
+		is	are	not							はない
+		was	were								があった
+		was	were	not							はなかった
+step-2		is	are	going to	be						があることになっている
+		is	are	not going to	be						があることにはなっていない
+		was	were	going to	be						があることになっていた
+		was	were	not going to	be						があることにはなっていなかった
+		has	have	to	be						がなければいけない
+		does not have	do not have	to	be						はなくてもいい
+		had	had	to	be						がなければいけなかった
+		did not have	did not have	to	be						はなくてもよかった
+step-3		will	will		be						があるだろう
+		will	will	not	be						はないだろう
+		may	may		be						があるかもしれない
+		may	may	not	be						はないかもしれない
+		can	can		be						がある可能性（かのうせい）がある
+		can	can	not	be						がある可能性（かのうせい）はない
+		should	should		be						があるほうがいい
+		should	should	not	be						はないほうがいい
+		should	should		be						があるはずだ
+		should	should	not	be						はないはずだ
+		must	must		be						があるにちがいない
+		must	must	not	be						はあってはいけない
+		will have	will have	to	be						がなければいけないだろう
+		will	will	not have to	be						はなくてもいいだろう
+		may have	may have	to	be						がなければいけないかもしれない
+		may	may	not have to	be						はなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	がある
+		has	have	not	been				（ずっと）	形容詞	はない
+		has	have		been					形容詞	があったことがある
+		has	have	not	been					形容詞	があったことはない
+		had	had		been	形容詞	till then		それまでずっと	形容詞	があった
+		had	had	not	been	形容詞	till then		それまでずっと	形容詞	はなかった
+		had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	があったことがあった
+		had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	があったことはなかった
+step-5		may have	may have		been						があったかもしれない
+		may not have	may not have		been						はなかったかもしれない
+		can not have	can not have		been						があったはずがない
+		should have	should have		been						があるほうがよかった
+		should not have	should not have		been						はないほうがよかった
+		must have	must have		been						があったにちがいない
+		must not have	must not have		been						はなかったにちがいない
+step-6		would	would		be						があっただろう
+		would	would	not	be						はなかっただろう
+		would have	would have		been						があったことだろう
+		would not have	would not have		been						はなかったことだろう
+		could have	could have		been						があった可能性（かのうせい）がある
+		could not have	could not have		been						があった可能性（かのうせい）はない
+		might have	might have		been						があったかもしれなかった
+		might not have	might not have		been						はなかったかもしれなかった

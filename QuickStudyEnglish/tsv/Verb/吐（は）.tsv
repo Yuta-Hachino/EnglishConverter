@@ -1,0 +1,130 @@
+step-1	throw	throws	throw		up					吐（は）	く
+	do	does	do	not	throw up					吐（は）	か	ない
+	threw	threw	threw		up					吐（は）	い	た
+	did	did	did	not	throw up					吐（は）	か	なかった
+	am	is	are		throwing up					吐（は）	い	ている
+	am	is	are	not	throwing up					吐（は）	い	ていない
+	was	was	were		throwing up					吐（は）	い	ていた
+	was	was	were	not	throwing up					吐（は）	い	ていなかった
+step-2	am	is	are	going to	throw up					吐（は）	く	予定（よてい）だ
+	am	is	are	not going to	throw up					吐（は）	く	予定（よてい）ではない
+	was	was	were	going to	throw up					吐（は）	く	予定（よてい）だった
+	was	was	were	not going to	throw up					吐（は）	く	予定（よてい）ではなかった
+	am	is	are	able to	throw up					吐（は）	く	ことができる
+	am	is	are	not able to	throw up					吐（は）	く	ことはできない
+	was	was	were	able to	throw up					吐（は）	く	ことができた
+	was	was	were	not able to	throw up					吐（は）	く	ことはできなかった
+	could	could	could	not	throw up					吐（は）	く	ことはできなかった
+	want	wants	want	to	throw up					吐（は）	き	たい
+	do	does	do	not want to	throw up					吐（は）	き	たくない
+	wanted  	wanted  	wanted	to	throw up					吐（は）	き	たかった
+	did	did	did	not want to	throw up					吐（は）	き	たくなかった
+	want	wants	want	to be	throwing up					吐（は）	い	ていたい
+	do	does	do	not want to be	throwing up					吐（は）	い	ていたくない
+	wanted  	wanted  	wanted	to be	throwing up					吐（は）	い	ていたかった
+	did	did	did	not want to be	throwing up					吐（は）	い	ていたくなかった
+	want	wants	want	to be able to	throw up					吐（は）	く	ことができるようになりたい
+	do	does	do	not want to be able to	throw up					吐（は）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	throw up					吐（は）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	throw up					吐（は）	く	ことはできるようになりたくなかった
+	have to	has to	have to		throw up					吐（は）	か	なければいけない
+	do	does	do	not have to	throw up					吐（は）	か	なくてもいい
+	have to	has to	have to	be	throwing up					吐（は）	い	ていなければいけない
+	do	does	do	not have to be	throwing up					吐（は）	い	ていなくてもいい
+	have to	has to	have to	be able to	throw up					吐（は）	く	ことができなければいけない
+	do	does	do	not have to be able to	throw up					吐（は）	く	ことはできなくてもいい
+	had to	had to	had to		throw up					吐（は）	か	なければいけなかった
+	did	did	did	not have to	throw up					吐（は）	か	なくてもよかった
+	had to	had to	had to	be	throwing up					吐（は）	い	ていなければいけなかった
+	did	did	did	not have to be	throwing up					吐（は）	い	ていなくてもよかった
+	had to	had to	had to	be able to	throw up					吐（は）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	throw up					吐（は）	く	ことはできなくてもよかった
+step-3	will	will	will		throw up					吐（は）	く	だろう
+	will	will	will	not	throw up					吐（は）	か	ないだろう
+	will	will	will	be	throwing up					吐（は）	い	ているだろう
+	will	will	will	not be	throwing up					吐（は）	い	ていないだろう
+	will	will	will	be able to	throw up					吐（は）	く	ことができるだろう
+	will	will	will	not be able to	throw up					吐（は）	く	ことはできないだろう
+	may	may	may		throw up					吐（は）	く	かもしれない
+	may	may	may	not	throw up					吐（は）	か	ないかもしれない
+	may	may	may	be	throwing up					吐（は）	い	ているかもしれない
+	may	may	may	not be	throwing up					吐（は）	い	ていないかもしれない
+	may	may	may	be able to	throw up					吐（は）	く	ことができるかもしれない
+	may	may	may	not be able to	throw up					吐（は）	く	ことはできないかもしれない
+	can	can	can		throw up					吐（は）	く	ことができる
+	can	can	can	not	throw up					吐（は）	く	ことはできない
+	should	should	should		throw up					吐（は）	く	ほうがいい
+	should	should	should	not	throw up					吐（は）	か	ないほうがいい
+	should	should	should	be	throwing up					吐（は）	い	ているほうがいい
+	should	should	should	not be	throwing up					吐（は）	い	ていないほうがいい
+	should	should	should	be able to	throw up					吐（は）	く	ことができるほうがいい
+	should	should	should	not be able to	throw up					吐（は）	く	ことはできないほうがいい
+	should	should	should		throw up					吐（は）	く	はずだ
+	should	should	should	not	throw up					吐（は）	か	ないはずだ
+	should	should	should	be	throwing up					吐（は）	い	ているはずだ
+	should	should	should	not be	throwing up					吐（は）	い	ていないはずだ
+	should	should	should	be able to	throw up					吐（は）	く	ことができるはずだ
+	should	should	should	not be able to	throw up					吐（は）	く	ことはできるはずがない
+	had better	had better	had better		throw up					吐（は）	く	べきだ
+	had better	had better	had better	not	throw up					吐（は）	く	べきではない
+	must	must	must		throw up					吐（は）	く	にちがいない
+	must	must	must	not	throw up					吐（は）	い	てはいけない
+	must	must	must	be	throwing up					吐（は）	い	ているにちがいない
+	must	must	must	not be	throwing up					吐（は）	い	ていてはいけない
+	must	must	must	be able to	throw up					吐（は）	く	ことができるにちがいない
+	must	must	must	not be able to	throw up					吐（は）	く	ことはできてはいけない
+	will	will	will	have to	throw up					吐（は）	か	なければいけないだろう
+	will	will	will	not have to	throw up					吐（は）	か	なくてもいいだろう
+	will	will	will	have to be	throwing up					吐（は）	い	ていなければいけないだろう
+	will	will	will	not have to be	throwing up					吐（は）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	throw up					吐（は）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	throw up					吐（は）	く	ことはできなくてもいいだろう
+	may	may	may	have to	throw up					吐（は）	か	なければいけないかもしれない
+	may	may	may	not have to	throw up					吐（は）	か	なくてもいいかもしれない
+	may	may	may	have to be	throwing up					吐（は）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	throwing up					吐（は）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	throw up					吐（は）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	throw up					吐（は）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		thrown up					吐（は）	い	たことがある
+	have	has	have	not	thrown up					吐（は）	い	たことはない
+	have	has	have	been	throwing up			（ずっと）		吐（は）	い	ている
+	have	has	have	not been	throwing up			（ずっと）		吐（は）	い	ていない
+	have	has	have		thrown up		already	すでに		吐（は）	い	ている
+	have	has	have	not	thrown up		yet	まだ		吐（は）	い	ていない
+	had	had	had		thrown up		before that	それ以前（いぜん）		吐（は）	い	たことがあった
+	had	had	had	not	thrown up		before that	それ以前（いぜん）		吐（は）	い	たことはなかった
+	had	had	had	been	throwing up		till then	それまでずっと		吐（は）	い	ていた
+	had	had	had	not been	throwing up		till then	それまでずっと		吐（は）	い	ていなかった
+	had	had	had		thrown up		already	すでに		吐（は）	い	ていた
+	had	had	had	not	thrown up		yet	まだ		吐（は）	い	ていなかった
+	have	has	have	been able to	throw up			（ずっと）		吐（は）	く	ことができている
+	have	has	have	not been able to	throw up		yet	まだ		吐（は）	く	ことはできていない
+	had	had	had	been able to	throw up		till then	それまでずっと		吐（は）	く	ことができていた
+	had	had	had	not been able to	throw up		till then	それまでずっと		吐（は）	く	ことはできていなかった
+step-5	may have	may have	may have		thrown up					吐（は）	い	たかもしれない
+	may not have	may not have	may not have		thrown up					吐（は）	か	なかったかもしれない
+	may have	may have	may have	been able to	throw up					吐（は）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	throw up					吐（は）	く	ことはできなかったかもしれない
+	must have	must have	must have		thrown up					吐（は）	い	たにちがいない
+	must not have	must not have	must not have		thrown up					吐（は）	か	なかったにちがいない
+	must have	must have	must have	been able to	throw up					吐（は）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	throw up					吐（は）	く	ことはできなかったにちがいない
+	should have	should have	should have		thrown up					吐（は）	く	ほうがよかった
+	should not have	should not have	should not have		thrown up					吐（は）	か	ないほうがよかった
+	should have	should have	should have	been able to	throw up					吐（は）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	throw up					吐（は）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		thrown up					吐（は）	い	たはずがない
+step-6	would	would	would		throw up					吐（は）	い	ただろう
+	would	would	would	not	throw up					吐（は）	か	なかっただろう
+	would	would	would	be able to	throw up					吐（は）	く	ことができただろう
+	would	would	would	not be able to	throw up					吐（は）	く	ことはできなかっただろう
+	would have	would have	would have		thrown up					吐（は）	い	たことだろう
+	would not have	would not have	would not have		thrown up					吐（は）	か	なかったことだろう
+	would have	would have	would have	been able to	throw up					吐（は）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	throw up					吐（は）	く	ことはできなかったことだろう
+	could have	could have	could have		thrown up					吐（は）	い	た可能性がある
+	could not have	could not have	could not have		thrown up					吐（は）	い	た可能性はない
+	might have	might have	might have		thrown up					吐（は）	い	たかもしれなかった
+	might not have	might not have	might not have		thrown up					吐（は）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	throw up					吐（は）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	throw up					吐（は）	く	ことはできなかったかもしれなかった

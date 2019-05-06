@@ -1,0 +1,130 @@
+step-1	notice	notices	notice						に	気（き）づ	く
+	do	does	do	not	notice				に	気（き）づ	か	ない
+	noticed	noticed	noticed						に	気（き）づ	い	た
+	did	did	did	not	notice				に	気（き）づ	か	なかった
+	am	is	are		noticing				に	気（き）づ	い	ている
+	am	is	are	not	noticing				に	気（き）づ	い	ていない
+	was	was	were		noticing				に	気（き）づ	い	ていた
+	was	was	were	not	noticing				に	気（き）づ	い	ていなかった
+step-2	am	is	are	going to	notice				に	気（き）づ	く	予定（よてい）だ
+	am	is	are	not going to	notice				に	気（き）づ	く	予定（よてい）ではない
+	was	was	were	going to	notice				に	気（き）づ	く	予定（よてい）だった
+	was	was	were	not going to	notice				に	気（き）づ	く	予定（よてい）ではなかった
+	am	is	are	able to	notice				に	気（き）づ	く	ことができる
+	am	is	are	not able to	notice				に	気（き）づ	く	ことはできない
+	was	was	were	able to	notice				に	気（き）づ	く	ことができた
+	was	was	were	not able to	notice				に	気（き）づ	く	ことはできなかった
+	could	could	could	not	notice				に	気（き）づ	く	ことはできなかった
+	want	wants	want	to	notice				に	気（き）づ	き	たい
+	do	does	do	not want to	notice				に	気（き）づ	き	たくない
+	wanted  	wanted  	wanted	to	notice				に	気（き）づ	き	たかった
+	did	did	did	not want to	notice				に	気（き）づ	き	たくなかった
+	want	wants	want	to be	noticing				に	気（き）づ	い	ていたい
+	do	does	do	not want to be	noticing				に	気（き）づ	い	ていたくない
+	wanted  	wanted  	wanted	to be	noticing				に	気（き）づ	い	ていたかった
+	did	did	did	not want to be	noticing				に	気（き）づ	い	ていたくなかった
+	want	wants	want	to be able to	notice				に	気（き）づ	く	ことができるようになりたい
+	do	does	do	not want to be able to	notice				に	気（き）づ	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	notice				に	気（き）づ	く	ことができるようになりたかった
+	did	did	did	not want to be able to	notice				に	気（き）づ	く	ことはできるようになりたくなかった
+	have to	has to	have to		notice				に	気（き）づ	か	なければいけない
+	do	does	do	not have to	notice				に	気（き）づ	か	なくてもいい
+	have to	has to	have to	be	noticing				に	気（き）づ	い	ていなければいけない
+	do	does	do	not have to be	noticing				に	気（き）づ	い	ていなくてもいい
+	have to	has to	have to	be able to	notice				に	気（き）づ	く	ことができなければいけない
+	do	does	do	not have to be able to	notice				に	気（き）づ	く	ことはできなくてもいい
+	had to	had to	had to		notice				に	気（き）づ	か	なければいけなかった
+	did	did	did	not have to	notice				に	気（き）づ	か	なくてもよかった
+	had to	had to	had to	be	noticing				に	気（き）づ	い	ていなければいけなかった
+	did	did	did	not have to be	noticing				に	気（き）づ	い	ていなくてもよかった
+	had to	had to	had to	be able to	notice				に	気（き）づ	く	ことができなければいけなかった
+	did	did	did	not have to be able to	notice				に	気（き）づ	く	ことはできなくてもよかった
+step-3	will	will	will		notice				に	気（き）づ	く	だろう
+	will	will	will	not	notice				に	気（き）づ	か	ないだろう
+	will	will	will	be	noticing				に	気（き）づ	い	ているだろう
+	will	will	will	not be	noticing				に	気（き）づ	い	ていないだろう
+	will	will	will	be able to	notice				に	気（き）づ	く	ことができるだろう
+	will	will	will	not be able to	notice				に	気（き）づ	く	ことはできないだろう
+	may	may	may		notice				に	気（き）づ	く	かもしれない
+	may	may	may	not	notice				に	気（き）づ	か	ないかもしれない
+	may	may	may	be	noticing				に	気（き）づ	い	ているかもしれない
+	may	may	may	not be	noticing				に	気（き）づ	い	ていないかもしれない
+	may	may	may	be able to	notice				に	気（き）づ	く	ことができるかもしれない
+	may	may	may	not be able to	notice				に	気（き）づ	く	ことはできないかもしれない
+	can	can	can		notice				に	気（き）づ	く	ことができる
+	can	can	can	not	notice				に	気（き）づ	く	ことはできない
+	should	should	should		notice				に	気（き）づ	く	ほうがいい
+	should	should	should	not	notice				に	気（き）づ	か	ないほうがいい
+	should	should	should	be	noticing				に	気（き）づ	い	ているほうがいい
+	should	should	should	not be	noticing				に	気（き）づ	い	ていないほうがいい
+	should	should	should	be able to	notice				に	気（き）づ	く	ことができるほうがいい
+	should	should	should	not be able to	notice				に	気（き）づ	く	ことはできないほうがいい
+	should	should	should		notice				に	気（き）づ	く	はずだ
+	should	should	should	not	notice				に	気（き）づ	か	ないはずだ
+	should	should	should	be	noticing				に	気（き）づ	い	ているはずだ
+	should	should	should	not be	noticing				に	気（き）づ	い	ていないはずだ
+	should	should	should	be able to	notice				に	気（き）づ	く	ことができるはずだ
+	should	should	should	not be able to	notice				に	気（き）づ	く	ことはできるはずがない
+	had better	had better	had better		notice				に	気（き）づ	く	べきだ
+	had better	had better	had better	not	notice				に	気（き）づ	く	べきではない
+	must	must	must		notice				に	気（き）づ	く	にちがいない
+	must	must	must	not	notice				に	気（き）づ	い	てはいけない
+	must	must	must	be	noticing				に	気（き）づ	い	ているにちがいない
+	must	must	must	not be	noticing				に	気（き）づ	い	ていてはいけない
+	must	must	must	be able to	notice				に	気（き）づ	く	ことができるにちがいない
+	must	must	must	not be able to	notice				に	気（き）づ	く	ことはできてはいけない
+	will	will	will	have to	notice				に	気（き）づ	か	なければいけないだろう
+	will	will	will	not have to	notice				に	気（き）づ	か	なくてもいいだろう
+	will	will	will	have to be	noticing				に	気（き）づ	い	ていなければいけないだろう
+	will	will	will	not have to be	noticing				に	気（き）づ	い	ていなくてもいいだろう
+	will	will	will	have to be able to	notice				に	気（き）づ	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	notice				に	気（き）づ	く	ことはできなくてもいいだろう
+	may	may	may	have to	notice				に	気（き）づ	か	なければいけないかもしれない
+	may	may	may	not have to	notice				に	気（き）づ	か	なくてもいいかもしれない
+	may	may	may	have to be	noticing				に	気（き）づ	い	ていなければいけないかもしれない
+	may	may	may	not have to be	noticing				に	気（き）づ	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	notice				に	気（き）づ	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	notice				に	気（き）づ	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		noticed				に	気（き）づ	い	たことがある
+	have	has	have	not	noticed				に	気（き）づ	い	たことはない
+	have	has	have	been	noticing			（ずっと）	に	気（き）づ	い	ている
+	have	has	have	not been	noticing			（ずっと）	に	気（き）づ	い	ていない
+	have	has	have		noticed		already	すでに	に	気（き）づ	い	ている
+	have	has	have	not	noticed		yet	まだ	に	気（き）づ	い	ていない
+	had	had	had		noticed		before that	それ以前（いぜん）	に	気（き）づ	い	たことがあった
+	had	had	had	not	noticed		before that	それ以前（いぜん）	に	気（き）づ	い	たことはなかった
+	had	had	had	been	noticing		till then	それまでずっと	に	気（き）づ	い	ていた
+	had	had	had	not been	noticing		till then	それまでずっと	に	気（き）づ	い	ていなかった
+	had	had	had		noticed		already	すでに	に	気（き）づ	い	ていた
+	had	had	had	not	noticed		yet	まだ	に	気（き）づ	い	ていなかった
+	have	has	have	been able to	notice			（ずっと）	に	気（き）づ	く	ことができている
+	have	has	have	not been able to	notice		yet	まだ	に	気（き）づ	く	ことはできていない
+	had	had	had	been able to	notice		till then	それまでずっと	に	気（き）づ	く	ことができていた
+	had	had	had	not been able to	notice		till then	それまでずっと	に	気（き）づ	く	ことはできていなかった
+step-5	may have	may have	may have		noticed				に	気（き）づ	い	たかもしれない
+	may not have	may not have	may not have		noticed				に	気（き）づ	か	なかったかもしれない
+	may have	may have	may have	been able to	notice				に	気（き）づ	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	notice				に	気（き）づ	く	ことはできなかったかもしれない
+	must have	must have	must have		noticed				に	気（き）づ	い	たにちがいない
+	must not have	must not have	must not have		noticed				に	気（き）づ	か	なかったにちがいない
+	must have	must have	must have	been able to	notice				に	気（き）づ	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	notice				に	気（き）づ	く	ことはできなかったにちがいない
+	should have	should have	should have		noticed				に	気（き）づ	く	ほうがよかった
+	should not have	should not have	should not have		noticed				に	気（き）づ	か	ないほうがよかった
+	should have	should have	should have	been able to	notice				に	気（き）づ	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	notice				に	気（き）づ	く	ことはできないほうがよかった
+	can not have	can not have	can not have		noticed				に	気（き）づ	い	たはずがない
+step-6	would	would	would		notice				に	気（き）づ	い	ただろう
+	would	would	would	not	notice				に	気（き）づ	か	なかっただろう
+	would	would	would	be able to	notice				に	気（き）づ	く	ことができただろう
+	would	would	would	not be able to	notice				に	気（き）づ	く	ことはできなかっただろう
+	would have	would have	would have		noticed				に	気（き）づ	い	たことだろう
+	would not have	would not have	would not have		noticed				に	気（き）づ	か	なかったことだろう
+	would have	would have	would have	been able to	notice				に	気（き）づ	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	notice				に	気（き）づ	く	ことはできなかったことだろう
+	could have	could have	could have		noticed				に	気（き）づ	い	た可能性がある
+	could not have	could not have	could not have		noticed				に	気（き）づ	い	た可能性はない
+	might have	might have	might have		noticed				に	気（き）づ	い	たかもしれなかった
+	might not have	might not have	might not have		noticed				に	気（き）づ	か	なかったかもしれなかった
+	might have	might have	might have	been able to	notice				に	気（き）づ	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	notice				に	気（き）づ	く	ことはできなかったかもしれなかった

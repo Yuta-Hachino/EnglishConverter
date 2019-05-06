@@ -1,0 +1,135 @@
+step-1	am	is	are							っている		be
+	am	is	are	not						っていない		be否定
+	was	was	were							っていた		be
+	was	was	were	not						っていなかった		be否定
+	get	gets	get							る		be
+	do	does	do	not	get					らない		be否定
+	got	got	got							った		be
+	did	did	did	not	get					らなかった		be否定
+	am	is	are		getting					ってきている		be
+	am	is	are	not	getting					ってきていない		be否定
+	was	was	were		getting					ってきていた		be
+	was	was	were	not	getting					ってきていなかった		be否定
+step-2	am	is	are	going to	be					っている予定（よてい）だ		be
+	am	is	are	not going to	be					っている予定（よてい）ではない		be否定
+	am	is	are	going to	get					る予定（よてい）だ		be
+	am	is	are	not going to	get					る予定（よてい）ではない		be否定
+	was	was	were	going to	be					っている予定（よてい）だった		be
+	was	was	were	not going to	be					っている予定（よてい）ではなかった		be否定
+	was	was	were	going to	get					る予定（よてい）だった		be
+	was	was	were	not going to	get					る予定（よてい）ではなかった		be否定
+	am	is	are	able to	get					ることができる		be
+	am	is	are	not able to	get					ることはできない		be否定
+	was	was	were	able to	get					ることができた		be
+	was	was	were	not able to	get					ることはできなかった		be否定
+				could not	get					ることはできなかった		do肯定
+	am	is	are	supposed to	get					ることになっている		do否定
+	am	is	are	not supposed to	get					ってはいけない		did肯定
+	was	was	were	supposed to	get					ることになっていた		did否定
+	was	was	were	not supposed to	get					ってはいけなかった		do肯定
+	want	wants	want	to	be					っていたい		do否定
+	do not want	does not want	do not want	to	be					っていたくない		did肯定
+	wanted	wanted	wanted	to	be					っていたかった		did否定
+	did not want	did not want	did not want	to	be					っていたくなかった		do肯定
+	want	wants	want	to	get					りたい		do否定
+	do not want	does not want	do not want	to	get					りたくない		did肯定
+	wanted	wanted	wanted	to	get					りたかった		did否定
+	did not want	did not want	did not want	to	get					りたくなかった		do肯定
+	have	has	have	to	be					っていなければいけない		do否定
+	do not have	does not have	do not have	to	be					っていなくてもいい		did肯定
+	had	had	had	to	be					っていなければいけなかった		did否定
+	did not have	did not have	did not have	to	be					っていなくてもよかった		do肯定
+	have	has	have	to	get					らなければいけない		do否定
+	do not have	does not have	do not have	to	get					らなくてもいい		did肯定
+	had	had	had	to	get					らなければいけなかった		did否定
+	did not have	did not have	did not have	to	get					らなくてもよかった		be
+step-3	will	will	will		be					っているだろう		be否定
+	will	will	will	not	be					っていないだろう
+	will	will	will		get					るだろう
+	will	will	will	not	get					らないだろう
+	will	will	will	be able to	get					ることができるだろう
+	will	will	will	not be able to	get					ることはできないだろう		be
+	may	may	may		be					っているかもしれない		be否定
+	may	may	may	not	be					っていないかもしれない
+	may	may	may		get					るかもしれない
+	may	may	may	not	get					らないかもしれない
+	may	may	may	be able to	get					ることができるかもしれない
+	may	may	may	not be able to	get					ることはできないかもしれない		be
+	can	can	can		be					っている可能性（かのうせい）がある		be否定
+	can	can	can	not	be					っている可能性（かのうせい）はない
+	can	can	can		get					ることができる
+	can	can	can	not	get					ることはできない		be
+	should	should	should		be					っているほうがいい		be否定
+	should	should	should	not	be					っていないほうがいい
+	should	should	should		get					るほうがいい
+	should	should	should	not	get					らないほうがいい		be
+	should	should	should		be					っているはずだ		be否定
+	should	should	should	not	be					っているはずではない
+	should	should	should		get					るはずだ
+	should	should	should	not	get					らないはずだ
+	should	should	should	be able to	get					ることができるはずだ
+	should	should	should	not be able to	get					ることができるはずがない		be
+	must	must	must		be					っているにちがいない		be否定
+	must	must	must	not	be					っていてはいけない
+	must	must	must		get					るにちがいない
+	must	must	must	not	get					ってはいけない
+	must	must	must	be able to	get					ることができるにちがいない
+	must	must	must	not be able to	get					ることができないにちがいない		be
+	had better	had better	had better		be					っているべきだ		be否定
+	had better	had better	had better	not	be					っているべきではない
+	had better	had better	had better		get					るべきだ
+	had better	had better	had better	not	get					るべきではない		be
+	will have	will have	will have	to	be					っていなければいけないだろう		be否定
+	will not have	will not have	will not have	to	be					っていなくてもいいだろう
+	will have	will have	will have	to	get					らなければいけないだろう
+	will not have	will not have	will not have	to	get					らなくてもいいだろう
+	will have	will have	will have	to be able to	get					ることができなければいけないだろう
+	will not have	will not have	will not have	to be able to	get					ることができなくてもいいだろう		be
+	may have	may have	may have	to	be					っていなければいけないかもしれない		be否定
+	may not have	may not have	may not have	to	be					っていなくてもいいかもしれない
+	may have	may have	may have	to	get					らなければいけないかもしれない
+	may not have	may not have	may not have	to	get					らなくてもいいかもしれない
+	may have	may have	may have	to be able to	get					ることができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	get					ることができなくてもいいかもしれない
+step-4	have	has	have		been			（ずっと）	形容詞	っている
+	have	has	have	not	been			（ずっと）	形容詞	っていない
+	have	has	have		been					っていたことがある
+	have	has	have	not	been					っていたことはない
+	have	has	have		gotten					ったことがある
+	have	has	have	not	gotten					ったことはない
+	had	had	had		been		till then	それまでずっと	形容詞	っていた
+	had	had	had	not	been		till then	それまでずっと	形容詞	っていなかった
+	had	had	had		been		before that	それ以前（いぜん）	形容詞	っていたことがあった
+	had	had	had	not	been		before that	それ以前（いぜん）	形容詞	っていたことはなかった
+	had	had	had		gotten		before that	それ以前（いぜん）	形容詞	ったことがあった
+	had	had	had	not	gotten		before that	それ以前（いぜん）	形容詞	ったことはなかった
+step-5	may have	may have	may have		been					っていたかもしれない
+	may not have	may not have	may not have		been					っていなかったかもしれない
+	may have	may have	may have		gotten					ったかもしれない
+	may not have	may not have	may not have		gotten					らなかったかもしれない
+	can not have	can not have	can not have		been					っていたはずがない
+	can not have	can not have	can not have		gotten					ったはずがない
+	should have	should have	should have		been					っているほうがよかった
+	should not have	should not have	should not have		been					っていないほうがよかった
+	should have	should have	should have		gotten					るほうがよかった
+	should not have	should not have	should not have		gotten					らないほうがよかった
+	must have	must have	must have		been					っていたにちがいない
+	must not have	must not have	must not have		been					っていなかったにちがいない
+	must have	must have	must have		gotten					ったにちがいない
+	must not have	must not have	must not have		gotten					らなかったにちがいない
+step-6	would	would	would		be					っていただろう
+	would	would	would	not	be					っていなかっただろう
+	would	would	would		get					っただろう
+	would	would	would	not	get					らなかっただろう
+	would have	would have	would have		been					っていたことだろう
+	would not have	would not have	would not have		been					っていなかったことだろう
+	would have	would have	would have		gotten					ったことだろう
+	would not have	would not have	would not have		gotten					らなかったことだろう
+	could have	could have	could have		been					っていた可能性（かのうせい）がある
+	could not have	could not have	could not have		been					っていた可能性（かのうせい）はない
+	could have	could have	could have		gotten					った可能性（かのうせい）がある
+	could not have	could not have	could not have		gotten					った可能性（かのうせい）はない
+	might have	might have	might have		been					っていたかもしれなかった
+	might not have	might not have	might not have		been					っていなかったかもしれなかった
+	might have	might have	might have		gotten					ったかもしれなかった
+	might not have	might not have	might not have		gotten					らなかったかもしれなかった

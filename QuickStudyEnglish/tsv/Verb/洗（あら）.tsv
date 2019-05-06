@@ -1,0 +1,130 @@
+step-1	wash	washes	wash						を	洗（あら）	う
+	do	does	do	not	wash				を	洗（あら）	わ	ない
+	washed	washed	washed						を	洗（あら）	っ	た
+	did	did	did	not	wash				を	洗（あら）	わ	なかった
+	am	is	are		washing				を	洗（あら）	っ	ている
+	am	is	are	not	washing				を	洗（あら）	っ	ていない
+	was	was	were		washing				を	洗（あら）	っ	ていた
+	was	was	were	not	washing				を	洗（あら）	っ	ていなかった
+step-2	am	is	are	going to	wash				を	洗（あら）	う	予定（よてい）だ
+	am	is	are	not going to	wash				を	洗（あら）	う	予定（よてい）ではない
+	was	was	were	going to	wash				を	洗（あら）	う	予定（よてい）だった
+	was	was	were	not going to	wash				を	洗（あら）	う	予定（よてい）ではなかった
+	am	is	are	able to	wash				を	洗（あら）	う	ことができる
+	am	is	are	not able to	wash				を	洗（あら）	う	ことはできない
+	was	was	were	able to	wash				を	洗（あら）	う	ことができた
+	was	was	were	not able to	wash				を	洗（あら）	う	ことはできなかった
+	could	could	could	not	wash				を	洗（あら）	う	ことはできなかった
+	want	wants	want	to	wash				を	洗（あら）	い	たい
+	do	does	do	not want to	wash				を	洗（あら）	い	たくない
+	wanted  	wanted  	wanted	to	wash				を	洗（あら）	い	たかった
+	did	did	did	not want to	wash				を	洗（あら）	い	たくなかった
+	want	wants	want	to be	washing				を	洗（あら）	っ	ていたい
+	do	does	do	not want to be	washing				を	洗（あら）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	washing				を	洗（あら）	っ	ていたかった
+	did	did	did	not want to be	washing				を	洗（あら）	っ	ていたくなかった
+	want	wants	want	to be able to	wash				を	洗（あら）	う	ことができるようになりたい
+	do	does	do	not want to be able to	wash				を	洗（あら）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	wash				を	洗（あら）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	wash				を	洗（あら）	う	ことはできるようになりたくなかった
+	have to	has to	have to		wash				を	洗（あら）	わ	なければいけない
+	do	does	do	not have to	wash				を	洗（あら）	わ	なくてもいい
+	have to	has to	have to	be	washing				を	洗（あら）	っ	ていなければいけない
+	do	does	do	not have to be	washing				を	洗（あら）	っ	ていなくてもいい
+	have to	has to	have to	be able to	wash				を	洗（あら）	う	ことができなければいけない
+	do	does	do	not have to be able to	wash				を	洗（あら）	う	ことはできなくてもいい
+	had to	had to	had to		wash				を	洗（あら）	わ	なければいけなかった
+	did	did	did	not have to	wash				を	洗（あら）	わ	なくてもよかった
+	had to	had to	had to	be	washing				を	洗（あら）	っ	ていなければいけなかった
+	did	did	did	not have to be	washing				を	洗（あら）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	wash				を	洗（あら）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	wash				を	洗（あら）	う	ことはできなくてもよかった
+step-3	will	will	will		wash				を	洗（あら）	う	だろう
+	will	will	will	not	wash				を	洗（あら）	わ	ないだろう
+	will	will	will	be	washing				を	洗（あら）	っ	ているだろう
+	will	will	will	not be	washing				を	洗（あら）	っ	ていないだろう
+	will	will	will	be able to	wash				を	洗（あら）	う	ことができるだろう
+	will	will	will	not be able to	wash				を	洗（あら）	う	ことはできないだろう
+	may	may	may		wash				を	洗（あら）	う	かもしれない
+	may	may	may	not	wash				を	洗（あら）	わ	ないかもしれない
+	may	may	may	be	washing				を	洗（あら）	っ	ているかもしれない
+	may	may	may	not be	washing				を	洗（あら）	っ	ていないかもしれない
+	may	may	may	be able to	wash				を	洗（あら）	う	ことができるかもしれない
+	may	may	may	not be able to	wash				を	洗（あら）	う	ことはできないかもしれない
+	can	can	can		wash				を	洗（あら）	う	ことができる
+	can	can	can	not	wash				を	洗（あら）	う	ことはできない
+	should	should	should		wash				を	洗（あら）	う	ほうがいい
+	should	should	should	not	wash				を	洗（あら）	わ	ないほうがいい
+	should	should	should	be	washing				を	洗（あら）	っ	ているほうがいい
+	should	should	should	not be	washing				を	洗（あら）	っ	ていないほうがいい
+	should	should	should	be able to	wash				を	洗（あら）	う	ことができるほうがいい
+	should	should	should	not be able to	wash				を	洗（あら）	う	ことはできないほうがいい
+	should	should	should		wash				を	洗（あら）	う	はずだ
+	should	should	should	not	wash				を	洗（あら）	わ	ないはずだ
+	should	should	should	be	washing				を	洗（あら）	っ	ているはずだ
+	should	should	should	not be	washing				を	洗（あら）	っ	ていないはずだ
+	should	should	should	be able to	wash				を	洗（あら）	う	ことができるはずだ
+	should	should	should	not be able to	wash				を	洗（あら）	う	ことはできるはずがない
+	had better	had better	had better		wash				を	洗（あら）	う	べきだ
+	had better	had better	had better	not	wash				を	洗（あら）	う	べきではない
+	must	must	must		wash				を	洗（あら）	う	にちがいない
+	must	must	must	not	wash				を	洗（あら）	っ	てはいけない
+	must	must	must	be	washing				を	洗（あら）	っ	ているにちがいない
+	must	must	must	not be	washing				を	洗（あら）	っ	ていてはいけない
+	must	must	must	be able to	wash				を	洗（あら）	う	ことができるにちがいない
+	must	must	must	not be able to	wash				を	洗（あら）	う	ことはできてはいけない
+	will	will	will	have to	wash				を	洗（あら）	わ	なければいけないだろう
+	will	will	will	not have to	wash				を	洗（あら）	わ	なくてもいいだろう
+	will	will	will	have to be	washing				を	洗（あら）	っ	ていなければいけないだろう
+	will	will	will	not have to be	washing				を	洗（あら）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	wash				を	洗（あら）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	wash				を	洗（あら）	う	ことはできなくてもいいだろう
+	may	may	may	have to	wash				を	洗（あら）	わ	なければいけないかもしれない
+	may	may	may	not have to	wash				を	洗（あら）	わ	なくてもいいかもしれない
+	may	may	may	have to be	washing				を	洗（あら）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	washing				を	洗（あら）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	wash				を	洗（あら）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	wash				を	洗（あら）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		washed				を	洗（あら）	っ	たことがある
+	have	has	have	not	washed				を	洗（あら）	っ	たことはない
+	have	has	have	been	washing			（ずっと）	を	洗（あら）	っ	ている
+	have	has	have	not been	washing			（ずっと）	を	洗（あら）	っ	ていない
+	have	has	have		washed		already	すでに	を	洗（あら）	っ	ている
+	have	has	have	not	washed		yet	まだ	を	洗（あら）	っ	ていない
+	had	had	had		washed		before that	それ以前（いぜん）	を	洗（あら）	っ	たことがあった
+	had	had	had	not	washed		before that	それ以前（いぜん）	を	洗（あら）	っ	たことはなかった
+	had	had	had	been	washing		till then	それまでずっと	を	洗（あら）	っ	ていた
+	had	had	had	not been	washing		till then	それまでずっと	を	洗（あら）	っ	ていなかった
+	had	had	had		washed		already	すでに	を	洗（あら）	っ	ていた
+	had	had	had	not	washed		yet	まだ	を	洗（あら）	っ	ていなかった
+	have	has	have	been able to	wash			（ずっと）	を	洗（あら）	う	ことができている
+	have	has	have	not been able to	wash		yet	まだ	を	洗（あら）	う	ことはできていない
+	had	had	had	been able to	wash		till then	それまでずっと	を	洗（あら）	う	ことができていた
+	had	had	had	not been able to	wash		till then	それまでずっと	を	洗（あら）	う	ことはできていなかった
+step-5	may have	may have	may have		washed				を	洗（あら）	っ	たかもしれない
+	may not have	may not have	may not have		washed				を	洗（あら）	わ	なかったかもしれない
+	may have	may have	may have	been able to	wash				を	洗（あら）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	wash				を	洗（あら）	う	ことはできなかったかもしれない
+	must have	must have	must have		washed				を	洗（あら）	っ	たにちがいない
+	must not have	must not have	must not have		washed				を	洗（あら）	わ	なかったにちがいない
+	must have	must have	must have	been able to	wash				を	洗（あら）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	wash				を	洗（あら）	う	ことはできなかったにちがいない
+	should have	should have	should have		washed				を	洗（あら）	う	ほうがよかった
+	should not have	should not have	should not have		washed				を	洗（あら）	わ	ないほうがよかった
+	should have	should have	should have	been able to	wash				を	洗（あら）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	wash				を	洗（あら）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		washed				を	洗（あら）	っ	たはずがない
+step-6	would	would	would		wash				を	洗（あら）	っ	ただろう
+	would	would	would	not	wash				を	洗（あら）	わ	なかっただろう
+	would	would	would	be able to	wash				を	洗（あら）	う	ことができただろう
+	would	would	would	not be able to	wash				を	洗（あら）	う	ことはできなかっただろう
+	would have	would have	would have		washed				を	洗（あら）	っ	たことだろう
+	would not have	would not have	would not have		washed				を	洗（あら）	わ	なかったことだろう
+	would have	would have	would have	been able to	wash				を	洗（あら）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	wash				を	洗（あら）	う	ことはできなかったことだろう
+	could have	could have	could have		washed				を	洗（あら）	っ	た可能性がある
+	could not have	could not have	could not have		washed				を	洗（あら）	っ	た可能性はない
+	might have	might have	might have		washed				を	洗（あら）	っ	たかもしれなかった
+	might not have	might not have	might not have		washed				を	洗（あら）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	wash				を	洗（あら）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	wash				を	洗（あら）	う	ことはできなかったかもしれなかった

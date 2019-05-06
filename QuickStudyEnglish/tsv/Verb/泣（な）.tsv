@@ -1,0 +1,130 @@
+step-1	cry	cries	cry							泣（な）	く
+	do	does	do	not	cry					泣（な）	か	ない
+	cried	cried	cried							泣（な）	い	た
+	did	did	did	not	cry					泣（な）	か	なかった
+	am	is	are		crying					泣（な）	い	ている
+	am	is	are	not	crying					泣（な）	い	ていない
+	was	was	were		crying					泣（な）	い	ていた
+	was	was	were	not	crying					泣（な）	い	ていなかった
+step-2	am	is	are	going to	cry					泣（な）	く	予定（よてい）だ
+	am	is	are	not going to	cry					泣（な）	く	予定（よてい）ではない
+	was	was	were	going to	cry					泣（な）	く	予定（よてい）だった
+	was	was	were	not going to	cry					泣（な）	く	予定（よてい）ではなかった
+	am	is	are	able to	cry					泣（な）	く	ことができる
+	am	is	are	not able to	cry					泣（な）	く	ことはできない
+	was	was	were	able to	cry					泣（な）	く	ことができた
+	was	was	were	not able to	cry					泣（な）	く	ことはできなかった
+	could	could	could	not	cry					泣（な）	く	ことはできなかった
+	want	wants	want	to	cry					泣（な）	き	たい
+	do	does	do	not want to	cry					泣（な）	き	たくない
+	wanted  	wanted  	wanted	to	cry					泣（な）	き	たかった
+	did	did	did	not want to	cry					泣（な）	き	たくなかった
+	want	wants	want	to be	crying					泣（な）	い	ていたい
+	do	does	do	not want to be	crying					泣（な）	い	ていたくない
+	wanted  	wanted  	wanted	to be	crying					泣（な）	い	ていたかった
+	did	did	did	not want to be	crying					泣（な）	い	ていたくなかった
+	want	wants	want	to be able to	cry					泣（な）	く	ことができるようになりたい
+	do	does	do	not want to be able to	cry					泣（な）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	cry					泣（な）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	cry					泣（な）	く	ことはできるようになりたくなかった
+	have to	has to	have to		cry					泣（な）	か	なければいけない
+	do	does	do	not have to	cry					泣（な）	か	なくてもいい
+	have to	has to	have to	be	crying					泣（な）	い	ていなければいけない
+	do	does	do	not have to be	crying					泣（な）	い	ていなくてもいい
+	have to	has to	have to	be able to	cry					泣（な）	く	ことができなければいけない
+	do	does	do	not have to be able to	cry					泣（な）	く	ことはできなくてもいい
+	had to	had to	had to		cry					泣（な）	か	なければいけなかった
+	did	did	did	not have to	cry					泣（な）	か	なくてもよかった
+	had to	had to	had to	be	crying					泣（な）	い	ていなければいけなかった
+	did	did	did	not have to be	crying					泣（な）	い	ていなくてもよかった
+	had to	had to	had to	be able to	cry					泣（な）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	cry					泣（な）	く	ことはできなくてもよかった
+step-3	will	will	will		cry					泣（な）	く	だろう
+	will	will	will	not	cry					泣（な）	か	ないだろう
+	will	will	will	be	crying					泣（な）	い	ているだろう
+	will	will	will	not be	crying					泣（な）	い	ていないだろう
+	will	will	will	be able to	cry					泣（な）	く	ことができるだろう
+	will	will	will	not be able to	cry					泣（な）	く	ことはできないだろう
+	may	may	may		cry					泣（な）	く	かもしれない
+	may	may	may	not	cry					泣（な）	か	ないかもしれない
+	may	may	may	be	crying					泣（な）	い	ているかもしれない
+	may	may	may	not be	crying					泣（な）	い	ていないかもしれない
+	may	may	may	be able to	cry					泣（な）	く	ことができるかもしれない
+	may	may	may	not be able to	cry					泣（な）	く	ことはできないかもしれない
+	can	can	can		cry					泣（な）	く	ことができる
+	can	can	can	not	cry					泣（な）	く	ことはできない
+	should	should	should		cry					泣（な）	く	ほうがいい
+	should	should	should	not	cry					泣（な）	か	ないほうがいい
+	should	should	should	be	crying					泣（な）	い	ているほうがいい
+	should	should	should	not be	crying					泣（な）	い	ていないほうがいい
+	should	should	should	be able to	cry					泣（な）	く	ことができるほうがいい
+	should	should	should	not be able to	cry					泣（な）	く	ことはできないほうがいい
+	should	should	should		cry					泣（な）	く	はずだ
+	should	should	should	not	cry					泣（な）	か	ないはずだ
+	should	should	should	be	crying					泣（な）	い	ているはずだ
+	should	should	should	not be	crying					泣（な）	い	ていないはずだ
+	should	should	should	be able to	cry					泣（な）	く	ことができるはずだ
+	should	should	should	not be able to	cry					泣（な）	く	ことはできるはずがない
+	had better	had better	had better		cry					泣（な）	く	べきだ
+	had better	had better	had better	not	cry					泣（な）	く	べきではない
+	must	must	must		cry					泣（な）	く	にちがいない
+	must	must	must	not	cry					泣（な）	い	てはいけない
+	must	must	must	be	crying					泣（な）	い	ているにちがいない
+	must	must	must	not be	crying					泣（な）	い	ていてはいけない
+	must	must	must	be able to	cry					泣（な）	く	ことができるにちがいない
+	must	must	must	not be able to	cry					泣（な）	く	ことはできてはいけない
+	will	will	will	have to	cry					泣（な）	か	なければいけないだろう
+	will	will	will	not have to	cry					泣（な）	か	なくてもいいだろう
+	will	will	will	have to be	crying					泣（な）	い	ていなければいけないだろう
+	will	will	will	not have to be	crying					泣（な）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	cry					泣（な）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	cry					泣（な）	く	ことはできなくてもいいだろう
+	may	may	may	have to	cry					泣（な）	か	なければいけないかもしれない
+	may	may	may	not have to	cry					泣（な）	か	なくてもいいかもしれない
+	may	may	may	have to be	crying					泣（な）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	crying					泣（な）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	cry					泣（な）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	cry					泣（な）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		cried					泣（な）	い	たことがある
+	have	has	have	not	cried					泣（な）	い	たことはない
+	have	has	have	been	crying			（ずっと）		泣（な）	い	ている
+	have	has	have	not been	crying			（ずっと）		泣（な）	い	ていない
+	have	has	have		cried		already	すでに		泣（な）	い	ている
+	have	has	have	not	cried		yet	まだ		泣（な）	い	ていない
+	had	had	had		cried		before that	それ以前（いぜん）		泣（な）	い	たことがあった
+	had	had	had	not	cried		before that	それ以前（いぜん）		泣（な）	い	たことはなかった
+	had	had	had	been	crying		till then	それまでずっと		泣（な）	い	ていた
+	had	had	had	not been	crying		till then	それまでずっと		泣（な）	い	ていなかった
+	had	had	had		cried		already	すでに		泣（な）	い	ていた
+	had	had	had	not	cried		yet	まだ		泣（な）	い	ていなかった
+	have	has	have	been able to	cry			（ずっと）		泣（な）	く	ことができている
+	have	has	have	not been able to	cry		yet	まだ		泣（な）	く	ことはできていない
+	had	had	had	been able to	cry		till then	それまでずっと		泣（な）	く	ことができていた
+	had	had	had	not been able to	cry		till then	それまでずっと		泣（な）	く	ことはできていなかった
+step-5	may have	may have	may have		cried					泣（な）	い	たかもしれない
+	may not have	may not have	may not have		cried					泣（な）	か	なかったかもしれない
+	may have	may have	may have	been able to	cry					泣（な）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	cry					泣（な）	く	ことはできなかったかもしれない
+	must have	must have	must have		cried					泣（な）	い	たにちがいない
+	must not have	must not have	must not have		cried					泣（な）	か	なかったにちがいない
+	must have	must have	must have	been able to	cry					泣（な）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	cry					泣（な）	く	ことはできなかったにちがいない
+	should have	should have	should have		cried					泣（な）	く	ほうがよかった
+	should not have	should not have	should not have		cried					泣（な）	か	ないほうがよかった
+	should have	should have	should have	been able to	cry					泣（な）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	cry					泣（な）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		cried					泣（な）	い	たはずがない
+step-6	would	would	would		cry					泣（な）	い	ただろう
+	would	would	would	not	cry					泣（な）	か	なかっただろう
+	would	would	would	be able to	cry					泣（な）	く	ことができただろう
+	would	would	would	not be able to	cry					泣（な）	く	ことはできなかっただろう
+	would have	would have	would have		cried					泣（な）	い	たことだろう
+	would not have	would not have	would not have		cried					泣（な）	か	なかったことだろう
+	would have	would have	would have	been able to	cry					泣（な）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	cry					泣（な）	く	ことはできなかったことだろう
+	could have	could have	could have		cried					泣（な）	い	た可能性がある
+	could not have	could not have	could not have		cried					泣（な）	い	た可能性はない
+	might have	might have	might have		cried					泣（な）	い	たかもしれなかった
+	might not have	might not have	might not have		cried					泣（な）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	cry					泣（な）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	cry					泣（な）	く	ことはできなかったかもしれなかった

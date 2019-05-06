@@ -1,0 +1,98 @@
+step-1		is	are								だ
+		is	are	not							ではない
+		was	were								だった
+		was	were	not							ではなかった
+		becomes	become								になる
+		does	do	not	become						にならない
+		became	became								になった
+		did	did	not	become						にならなかった
+		is	are		becoming						になってきている
+		is	are	not	becoming						になってきていない
+		was	were		becoming						になってきていた
+		was	were	not	becoming						になってきていなかった
+step-2		is	are	going to	be						になろうとしている
+		is	are	not going to	be						になろうとしていない
+		was	were	going to	be						になろうとしていた
+		was	were	not going to	be						になろうとしていなかった
+		has	have	to	be						でなければいけない
+		does not have	do not have	to	be						でなくてもいい
+		has	have	to	become						にならなければいけない
+		does not have	do not have	to	become						にならなくてもいい
+		had	had	to	be						でなければいけなかった
+		did not have	did not have	to	be						でなくてもよかった
+		had	had	to	become						にならなければいけなかった
+		did not have	did not have	to	become						にならなくてもよかった
+step-3		will	will		be						だろう
+		will	will	not	be						ではないだろう
+		will	will		become						になるだろう
+		will	will	not	become						にはならないだろう
+		may	may		be						かもしれない
+		may	may	not	be						ではないかもしれない
+		may	may		become						になるかもしれない
+		may	may	not	become						にはならないかもしれない
+		can	can		be						な・の可能性（かのうせい）がある
+		can	can	not	be						な・の可能性（かのうせい）はない
+		can	can		become						になる可能性（かのうせい）がある
+		can	can	not	become						になる可能性（かのうせい）はない
+		should	should		be						な・のほうがいい
+		should	should	not	be						ではないほうがいい
+		should	should		become						になるほうがいい
+		should	should	not	become						にはならないほうがいい
+		should	should		be						な・のはずだ
+		should	should	not	be						ではないはずだ
+		should	should		become						になるはずだ
+		should	should	not	become						にはなるはずがない
+		must	must		be						にちがいない
+		must	must	not	be						ではいけない
+		must	must		become						になるにちがいない
+		must	must	not	become						になってはいけない
+		will have to	will have to		be						でなければいけないだろう
+		will not have to	will not have to		be						でなくてもいいだろう
+		will have to	will have to		become						にならなければいけないだろう
+		will not have to	will not have to		become						にならなくてもいいだろう
+		may have to	may have to		be						でなければいけないかもしれない
+		may not have to	may not have to		be						でなくてもいいかもしれない
+		may have to	may have to		become						にならなければいけないかもしれない
+		may not have to	may not have to		become						にならなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	だ
+		has	have	not	been				（ずっと）	形容詞	ではない
+		has	have		been						だったことがある
+		has	have	not	been						だったことはない
+		has	have		become						になったことがある
+		has	have	not	become						になったことはない
+		had	had		been		till then		それまでずっと	形容詞	だった
+		had	had	not	been		till then		それまでずっと	形容詞	ではなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	だったことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	だったことはなかった
+		had	had		become		before that		それ以前（いぜん）	形容詞	になったことがあった
+		had	had	not	become		before that		それ以前（いぜん）	形容詞	になったことはなかった
+step-5		may have	may have		been						だったかもしれない
+		may not have	may not have		been						ではなかったかもしれない
+		may have	may have		become						になったかもしれない
+		may not have	may not have		become						にはならなかったかもしれない
+		can not have	can not have		been						だったはずがない
+		can not have	can not have		become						になったはずがない
+		should have	should have		been						な・のほうがよかった
+		should not have	should not have		been						ではないほうがよかった
+		should have	should have		become						になるほうがよかった
+		should not have	should not have		become						にはならないほうがよかった
+		must have	must have		been						だったにちがいない
+		must not have	must not have		been						ではなかったにちがいない
+		must have	must have		become						になったにちがいない
+		must not have	must not have		become						にはならなかったにちがいない
+step-6		would	would		be						だっただろう
+		would	would	not	be						ではなかっただろう
+		would	would		become						になっただろう
+		would	would	not	become						にはならなかっただろう
+		would have	would have		been						だったことだろう
+		would not have	would not have		been						ではなかったことだろう
+		would have	would have		become						になったことだろう
+		would not have	would not have		become						にはならなかったことだろう
+		could have	could have		been						だった可能性（かのうせい）がある
+		could not have	could not have		been						だった可能性（かのうせい）はない
+		could have	could have		become						になった可能性（かのうせい）がある
+		could not have	could not have		become						になった可能性（かのうせい）はない
+		might have	might have		been						だったかもしれなかった
+		might not have	might not have		been						ではなかったかもしれなかった
+		might have	might have		become						になったかもしれなかった
+		might not have	might not have		become						にはならなかったかもしれなかった

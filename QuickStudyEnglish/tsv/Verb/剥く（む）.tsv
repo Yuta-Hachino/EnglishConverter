@@ -1,0 +1,130 @@
+step-1	peel	peels	peel						を	剥（む）	く
+	do	does	do	not	peel				を	剥（む）	か	ない
+	peeled	peeled	peeled						を	剥（む）	い	た
+	did	did	did	not	peel				を	剥（む）	か	なかった
+	am	is	are		peeling				を	剥（む）	い	ている
+	am	is	are	not	peeling				を	剥（む）	い	ていない
+	was	was	were		peeling				を	剥（む）	い	ていた
+	was	was	were	not	peeling				を	剥（む）	い	ていなかった
+step-2	am	is	are	going to	peel				を	剥（む）	く	予定（よてい）だ
+	am	is	are	not going to	peel				を	剥（む）	く	予定（よてい）ではない
+	was	was	were	going to	peel				を	剥（む）	く	予定（よてい）だった
+	was	was	were	not going to	peel				を	剥（む）	く	予定（よてい）ではなかった
+	am	is	are	able to	peel				を	剥（む）	く	ことができる
+	am	is	are	not able to	peel				を	剥（む）	く	ことはできない
+	was	was	were	able to	peel				を	剥（む）	く	ことができた
+	was	was	were	not able to	peel				を	剥（む）	く	ことはできなかった
+	could	could	could	not	peel				を	剥（む）	く	ことはできなかった
+	want	wants	want	to	peel				を	剥（む）	き	たい
+	do	does	do	not want to	peel				を	剥（む）	き	たくない
+	wanted  	wanted  	wanted	to	peel				を	剥（む）	き	たかった
+	did	did	did	not want to	peel				を	剥（む）	き	たくなかった
+	want	wants	want	to be	peeling				を	剥（む）	い	ていたい
+	do	does	do	not want to be	peeling				を	剥（む）	い	ていたくない
+	wanted  	wanted  	wanted	to be	peeling				を	剥（む）	い	ていたかった
+	did	did	did	not want to be	peeling				を	剥（む）	い	ていたくなかった
+	want	wants	want	to be able to	peel				を	剥（む）	く	ことができるようになりたい
+	do	does	do	not want to be able to	peel				を	剥（む）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	peel				を	剥（む）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	peel				を	剥（む）	く	ことはできるようになりたくなかった
+	have to	has to	have to		peel				を	剥（む）	か	なければいけない
+	do	does	do	not have to	peel				を	剥（む）	か	なくてもいい
+	have to	has to	have to	be	peeling				を	剥（む）	い	ていなければいけない
+	do	does	do	not have to be	peeling				を	剥（む）	い	ていなくてもいい
+	have to	has to	have to	be able to	peel				を	剥（む）	く	ことができなければいけない
+	do	does	do	not have to be able to	peel				を	剥（む）	く	ことはできなくてもいい
+	had to	had to	had to		peel				を	剥（む）	か	なければいけなかった
+	did	did	did	not have to	peel				を	剥（む）	か	なくてもよかった
+	had to	had to	had to	be	peeling				を	剥（む）	い	ていなければいけなかった
+	did	did	did	not have to be	peeling				を	剥（む）	い	ていなくてもよかった
+	had to	had to	had to	be able to	peel				を	剥（む）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	peel				を	剥（む）	く	ことはできなくてもよかった
+step-3	will	will	will		peel				を	剥（む）	く	だろう
+	will	will	will	not	peel				を	剥（む）	か	ないだろう
+	will	will	will	be	peeling				を	剥（む）	い	ているだろう
+	will	will	will	not be	peeling				を	剥（む）	い	ていないだろう
+	will	will	will	be able to	peel				を	剥（む）	く	ことができるだろう
+	will	will	will	not be able to	peel				を	剥（む）	く	ことはできないだろう
+	may	may	may		peel				を	剥（む）	く	かもしれない
+	may	may	may	not	peel				を	剥（む）	か	ないかもしれない
+	may	may	may	be	peeling				を	剥（む）	い	ているかもしれない
+	may	may	may	not be	peeling				を	剥（む）	い	ていないかもしれない
+	may	may	may	be able to	peel				を	剥（む）	く	ことができるかもしれない
+	may	may	may	not be able to	peel				を	剥（む）	く	ことはできないかもしれない
+	can	can	can		peel				を	剥（む）	く	ことができる
+	can	can	can	not	peel				を	剥（む）	く	ことはできない
+	should	should	should		peel				を	剥（む）	く	ほうがいい
+	should	should	should	not	peel				を	剥（む）	か	ないほうがいい
+	should	should	should	be	peeling				を	剥（む）	い	ているほうがいい
+	should	should	should	not be	peeling				を	剥（む）	い	ていないほうがいい
+	should	should	should	be able to	peel				を	剥（む）	く	ことができるほうがいい
+	should	should	should	not be able to	peel				を	剥（む）	く	ことはできないほうがいい
+	should	should	should		peel				を	剥（む）	く	はずだ
+	should	should	should	not	peel				を	剥（む）	か	ないはずだ
+	should	should	should	be	peeling				を	剥（む）	い	ているはずだ
+	should	should	should	not be	peeling				を	剥（む）	い	ていないはずだ
+	should	should	should	be able to	peel				を	剥（む）	く	ことができるはずだ
+	should	should	should	not be able to	peel				を	剥（む）	く	ことはできるはずがない
+	had better	had better	had better		peel				を	剥（む）	く	べきだ
+	had better	had better	had better	not	peel				を	剥（む）	く	べきではない
+	must	must	must		peel				を	剥（む）	く	にちがいない
+	must	must	must	not	peel				を	剥（む）	い	てはいけない
+	must	must	must	be	peeling				を	剥（む）	い	ているにちがいない
+	must	must	must	not be	peeling				を	剥（む）	い	ていてはいけない
+	must	must	must	be able to	peel				を	剥（む）	く	ことができるにちがいない
+	must	must	must	not be able to	peel				を	剥（む）	く	ことはできてはいけない
+	will	will	will	have to	peel				を	剥（む）	か	なければいけないだろう
+	will	will	will	not have to	peel				を	剥（む）	か	なくてもいいだろう
+	will	will	will	have to be	peeling				を	剥（む）	い	ていなければいけないだろう
+	will	will	will	not have to be	peeling				を	剥（む）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	peel				を	剥（む）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	peel				を	剥（む）	く	ことはできなくてもいいだろう
+	may	may	may	have to	peel				を	剥（む）	か	なければいけないかもしれない
+	may	may	may	not have to	peel				を	剥（む）	か	なくてもいいかもしれない
+	may	may	may	have to be	peeling				を	剥（む）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	peeling				を	剥（む）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	peel				を	剥（む）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	peel				を	剥（む）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		peeled				を	剥（む）	い	たことがある
+	have	has	have	not	peeled				を	剥（む）	い	たことはない
+	have	has	have	been	peeling			（ずっと）	を	剥（む）	い	ている
+	have	has	have	not been	peeling			（ずっと）	を	剥（む）	い	ていない
+	have	has	have		peeled		already	すでに	を	剥（む）	い	ている
+	have	has	have	not	peeled		yet	まだ	を	剥（む）	い	ていない
+	had	had	had		peeled		before that	それ以前（いぜん）	を	剥（む）	い	たことがあった
+	had	had	had	not	peeled		before that	それ以前（いぜん）	を	剥（む）	い	たことはなかった
+	had	had	had	been	peeling		till then	それまでずっと	を	剥（む）	い	ていた
+	had	had	had	not been	peeling		till then	それまでずっと	を	剥（む）	い	ていなかった
+	had	had	had		peeled		already	すでに	を	剥（む）	い	ていた
+	had	had	had	not	peeled		yet	まだ	を	剥（む）	い	ていなかった
+	have	has	have	been able to	peel			（ずっと）	を	剥（む）	く	ことができている
+	have	has	have	not been able to	peel		yet	まだ	を	剥（む）	く	ことはできていない
+	had	had	had	been able to	peel		till then	それまでずっと	を	剥（む）	く	ことができていた
+	had	had	had	not been able to	peel		till then	それまでずっと	を	剥（む）	く	ことはできていなかった
+step-5	may have	may have	may have		peeled				を	剥（む）	い	たかもしれない
+	may not have	may not have	may not have		peeled				を	剥（む）	か	なかったかもしれない
+	may have	may have	may have	been able to	peel				を	剥（む）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	peel				を	剥（む）	く	ことはできなかったかもしれない
+	must have	must have	must have		peeled				を	剥（む）	い	たにちがいない
+	must not have	must not have	must not have		peeled				を	剥（む）	か	なかったにちがいない
+	must have	must have	must have	been able to	peel				を	剥（む）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	peel				を	剥（む）	く	ことはできなかったにちがいない
+	should have	should have	should have		peeled				を	剥（む）	く	ほうがよかった
+	should not have	should not have	should not have		peeled				を	剥（む）	か	ないほうがよかった
+	should have	should have	should have	been able to	peel				を	剥（む）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	peel				を	剥（む）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		peeled				を	剥（む）	い	たはずがない
+step-6	would	would	would		peel				を	剥（む）	い	ただろう
+	would	would	would	not	peel				を	剥（む）	か	なかっただろう
+	would	would	would	be able to	peel				を	剥（む）	く	ことができただろう
+	would	would	would	not be able to	peel				を	剥（む）	く	ことはできなかっただろう
+	would have	would have	would have		peeled				を	剥（む）	い	たことだろう
+	would not have	would not have	would not have		peeled				を	剥（む）	か	なかったことだろう
+	would have	would have	would have	been able to	peel				を	剥（む）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	peel				を	剥（む）	く	ことはできなかったことだろう
+	could have	could have	could have		peeled				を	剥（む）	い	た可能性がある
+	could not have	could not have	could not have		peeled				を	剥（む）	い	た可能性はない
+	might have	might have	might have		peeled				を	剥（む）	い	たかもしれなかった
+	might not have	might not have	might not have		peeled				を	剥（む）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	peel				を	剥（む）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	peel				を	剥（む）	く	ことはできなかったかもしれなかった

@@ -1,0 +1,130 @@
+step-1	listen	listens	listen			to			を	聴（き）	く
+	do	does	do	not	listen	to			を	聴（き）	か	ない
+	listened	listened	listened			to			を	聴（き）	い	た
+	did	did	did	not	listen	to			を	聴（き）	か	なかった
+	am	is	are		listening	to			を	聴（き）	い	ている
+	am	is	are	not	listening	to			を	聴（き）	い	ていない
+	was	was	were		listening	to			を	聴（き）	い	ていた
+	was	was	were	not	listening	to			を	聴（き）	い	ていなかった
+step-2	am	is	are	going to	listen	to			を	聴（き）	く	予定（よてい）だ
+	am	is	are	not going to	listen	to			を	聴（き）	く	予定（よてい）ではない
+	was	was	were	going to	listen	to			を	聴（き）	く	予定（よてい）だった
+	was	was	were	not going to	listen	to			を	聴（き）	く	予定（よてい）ではなかった
+	am	is	are	able to	listen	to			を	聴（き）	く	ことができる
+	am	is	are	not able to	listen	to			を	聴（き）	く	ことはできない
+	was	was	were	able to	listen	to			を	聴（き）	く	ことができた
+	was	was	were	not able to	listen	to			を	聴（き）	く	ことはできなかった
+	could	could	could	not	listen	to			を	聴（き）	く	ことはできなかった
+	want	wants	want	to	listen	to			を	聴（き）	き	たい
+	do	does	do	not want to	listen	to			を	聴（き）	き	たくない
+	wanted  	wanted  	wanted	to	listen	to			を	聴（き）	き	たかった
+	did	did	did	not want to	listen	to			を	聴（き）	き	たくなかった
+	want	wants	want	to be	listening	to			を	聴（き）	い	ていたい
+	do	does	do	not want to be	listening	to			を	聴（き）	い	ていたくない
+	wanted  	wanted  	wanted	to be	listening	to			を	聴（き）	い	ていたかった
+	did	did	did	not want to be	listening	to			を	聴（き）	い	ていたくなかった
+	want	wants	want	to be able to	listen	to			を	聴（き）	く	ことができるようになりたい
+	do	does	do	not want to be able to	listen	to			を	聴（き）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	listen	to			を	聴（き）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	listen	to			を	聴（き）	く	ことはできるようになりたくなかった
+	have to	has to	have to		listen	to			を	聴（き）	か	なければいけない
+	do	does	do	not have to	listen	to			を	聴（き）	か	なくてもいい
+	have to	has to	have to	be	listening	to			を	聴（き）	い	ていなければいけない
+	do	does	do	not have to be	listening	to			を	聴（き）	い	ていなくてもいい
+	have to	has to	have to	be able to	listen	to			を	聴（き）	く	ことができなければいけない
+	do	does	do	not have to be able to	listen	to			を	聴（き）	く	ことはできなくてもいい
+	had to	had to	had to		listen	to			を	聴（き）	か	なければいけなかった
+	did	did	did	not have to	listen	to			を	聴（き）	か	なくてもよかった
+	had to	had to	had to	be	listening	to			を	聴（き）	い	ていなければいけなかった
+	did	did	did	not have to be	listening	to			を	聴（き）	い	ていなくてもよかった
+	had to	had to	had to	be able to	listen	to			を	聴（き）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	listen	to			を	聴（き）	く	ことはできなくてもよかった
+step-3	will	will	will		listen	to			を	聴（き）	く	だろう
+	will	will	will	not	listen	to			を	聴（き）	か	ないだろう
+	will	will	will	be	listening	to			を	聴（き）	い	ているだろう
+	will	will	will	not be	listening	to			を	聴（き）	い	ていないだろう
+	will	will	will	be able to	listen	to			を	聴（き）	く	ことができるだろう
+	will	will	will	not be able to	listen	to			を	聴（き）	く	ことはできないだろう
+	may	may	may		listen	to			を	聴（き）	く	かもしれない
+	may	may	may	not	listen	to			を	聴（き）	か	ないかもしれない
+	may	may	may	be	listening	to			を	聴（き）	い	ているかもしれない
+	may	may	may	not be	listening	to			を	聴（き）	い	ていないかもしれない
+	may	may	may	be able to	listen	to			を	聴（き）	く	ことができるかもしれない
+	may	may	may	not be able to	listen	to			を	聴（き）	く	ことはできないかもしれない
+	can	can	can		listen	to			を	聴（き）	く	ことができる
+	can	can	can	not	listen	to			を	聴（き）	く	ことはできない
+	should	should	should		listen	to			を	聴（き）	く	ほうがいい
+	should	should	should	not	listen	to			を	聴（き）	か	ないほうがいい
+	should	should	should	be	listening	to			を	聴（き）	い	ているほうがいい
+	should	should	should	not be	listening	to			を	聴（き）	い	ていないほうがいい
+	should	should	should	be able to	listen	to			を	聴（き）	く	ことができるほうがいい
+	should	should	should	not be able to	listen	to			を	聴（き）	く	ことはできないほうがいい
+	should	should	should		listen	to			を	聴（き）	く	はずだ
+	should	should	should	not	listen	to			を	聴（き）	か	ないはずだ
+	should	should	should	be	listening	to			を	聴（き）	い	ているはずだ
+	should	should	should	not be	listening	to			を	聴（き）	い	ていないはずだ
+	should	should	should	be able to	listen	to			を	聴（き）	く	ことができるはずだ
+	should	should	should	not be able to	listen	to			を	聴（き）	く	ことはできるはずがない
+	had better	had better	had better		listen	to			を	聴（き）	く	べきだ
+	had better	had better	had better	not	listen	to			を	聴（き）	く	べきではない
+	must	must	must		listen	to			を	聴（き）	く	にちがいない
+	must	must	must	not	listen	to			を	聴（き）	い	てはいけない
+	must	must	must	be	listening	to			を	聴（き）	い	ているにちがいない
+	must	must	must	not be	listening	to			を	聴（き）	い	ていてはいけない
+	must	must	must	be able to	listen	to			を	聴（き）	く	ことができるにちがいない
+	must	must	must	not be able to	listen	to			を	聴（き）	く	ことはできてはいけない
+	will	will	will	have to	listen	to			を	聴（き）	か	なければいけないだろう
+	will	will	will	not have to	listen	to			を	聴（き）	か	なくてもいいだろう
+	will	will	will	have to be	listening	to			を	聴（き）	い	ていなければいけないだろう
+	will	will	will	not have to be	listening	to			を	聴（き）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	listen	to			を	聴（き）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	listen	to			を	聴（き）	く	ことはできなくてもいいだろう
+	may	may	may	have to	listen	to			を	聴（き）	か	なければいけないかもしれない
+	may	may	may	not have to	listen	to			を	聴（き）	か	なくてもいいかもしれない
+	may	may	may	have to be	listening	to			を	聴（き）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	listening	to			を	聴（き）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	listen	to			を	聴（き）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	listen	to			を	聴（き）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		listened	to			を	聴（き）	い	たことがある
+	have	has	have	not	listened	to			を	聴（き）	い	たことはない
+	have	has	have	been	listening	to		（ずっと）	を	聴（き）	い	ている
+	have	has	have	not been	listening	to		（ずっと）	を	聴（き）	い	ていない
+	have	has	have		listened	to	already	すでに	を	聴（き）	い	ている
+	have	has	have	not	listened	to	yet	まだ	を	聴（き）	い	ていない
+	had	had	had		listened	to	before that	それ以前（いぜん）	を	聴（き）	い	たことがあった
+	had	had	had	not	listened	to	before that	それ以前（いぜん）	を	聴（き）	い	たことはなかった
+	had	had	had	been	listening	to	till then	それまでずっと	を	聴（き）	い	ていた
+	had	had	had	not been	listening	to	till then	それまでずっと	を	聴（き）	い	ていなかった
+	had	had	had		listened	to	already	すでに	を	聴（き）	い	ていた
+	had	had	had	not	listened	to	yet	まだ	を	聴（き）	い	ていなかった
+	have	has	have	been able to	listen	to		（ずっと）	を	聴（き）	く	ことができている
+	have	has	have	not been able to	listen	to	yet	まだ	を	聴（き）	く	ことはできていない
+	had	had	had	been able to	listen	to	till then	それまでずっと	を	聴（き）	く	ことができていた
+	had	had	had	not been able to	listen	to	till then	それまでずっと	を	聴（き）	く	ことはできていなかった
+step-5	may have	may have	may have		listened	to			を	聴（き）	い	たかもしれない
+	may not have	may not have	may not have		listened	to			を	聴（き）	か	なかったかもしれない
+	may have	may have	may have	been able to	listen	to			を	聴（き）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	listen	to			を	聴（き）	く	ことはできなかったかもしれない
+	must have	must have	must have		listened	to			を	聴（き）	い	たにちがいない
+	must not have	must not have	must not have		listened	to			を	聴（き）	か	なかったにちがいない
+	must have	must have	must have	been able to	listen	to			を	聴（き）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	listen	to			を	聴（き）	く	ことはできなかったにちがいない
+	should have	should have	should have		listened	to			を	聴（き）	く	ほうがよかった
+	should not have	should not have	should not have		listened	to			を	聴（き）	か	ないほうがよかった
+	should have	should have	should have	been able to	listen	to			を	聴（き）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	listen	to			を	聴（き）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		listened	to			を	聴（き）	い	たはずがない
+step-6	would	would	would		listen	to			を	聴（き）	い	ただろう
+	would	would	would	not	listen	to			を	聴（き）	か	なかっただろう
+	would	would	would	be able to	listen	to			を	聴（き）	く	ことができただろう
+	would	would	would	not be able to	listen	to			を	聴（き）	く	ことはできなかっただろう
+	would have	would have	would have		listened	to			を	聴（き）	い	たことだろう
+	would not have	would not have	would not have		listened	to			を	聴（き）	か	なかったことだろう
+	would have	would have	would have	been able to	listen	to			を	聴（き）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	listen	to			を	聴（き）	く	ことはできなかったことだろう
+	could have	could have	could have		listened	to			を	聴（き）	い	た可能性がある
+	could not have	could not have	could not have		listened	to			を	聴（き）	い	た可能性はない
+	might have	might have	might have		listened	to			を	聴（き）	い	たかもしれなかった
+	might not have	might not have	might not have		listened	to			を	聴（き）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	listen	to			を	聴（き）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	listen	to			を	聴（き）	く	ことはできなかったかもしれなかった

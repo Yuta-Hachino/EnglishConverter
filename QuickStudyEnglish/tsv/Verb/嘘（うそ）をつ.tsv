@@ -1,0 +1,130 @@
+step-1	tell a lie	tells a lie	tell a lie			to			に	嘘（うそ）をつ	く
+	do	does	do	not	tell a lie	to			に	嘘（うそ）をつ	か	ない
+	told a lie	told a lie	told a lie			to			に	嘘（うそ）をつ	い	た
+	did	did	did	not	tell a lie	to			に	嘘（うそ）をつ	か	なかった
+	am	is	are		telling a lie	to			に	嘘（うそ）をつ	い	ている
+	am	is	are	not	telling a lie	to			に	嘘（うそ）をつ	い	ていない
+	was	was	were		telling a lie	to			に	嘘（うそ）をつ	い	ていた
+	was	was	were	not	telling a lie	to			に	嘘（うそ）をつ	い	ていなかった
+step-2	am	is	are	going to	tell a lie	to			に	嘘（うそ）をつ	く	予定（よてい）だ
+	am	is	are	not going to	tell a lie	to			に	嘘（うそ）をつ	く	予定（よてい）ではない
+	was	was	were	going to	tell a lie	to			に	嘘（うそ）をつ	く	予定（よてい）だった
+	was	was	were	not going to	tell a lie	to			に	嘘（うそ）をつ	く	予定（よてい）ではなかった
+	am	is	are	able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができる
+	am	is	are	not able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできない
+	was	was	were	able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができた
+	was	was	were	not able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかった
+	could	could	could	not	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかった
+	want	wants	want	to	tell a lie	to			に	嘘（うそ）をつ	き	たい
+	do	does	do	not want to	tell a lie	to			に	嘘（うそ）をつ	き	たくない
+	wanted  	wanted  	wanted	to	tell a lie	to			に	嘘（うそ）をつ	き	たかった
+	did	did	did	not want to	tell a lie	to			に	嘘（うそ）をつ	き	たくなかった
+	want	wants	want	to be	telling a lie	to			に	嘘（うそ）をつ	い	ていたい
+	do	does	do	not want to be	telling a lie	to			に	嘘（うそ）をつ	い	ていたくない
+	wanted  	wanted  	wanted	to be	telling a lie	to			に	嘘（うそ）をつ	い	ていたかった
+	did	did	did	not want to be	telling a lie	to			に	嘘（うそ）をつ	い	ていたくなかった
+	want	wants	want	to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるようになりたい
+	do	does	do	not want to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるようになりたかった
+	did	did	did	not want to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできるようになりたくなかった
+	have to	has to	have to		tell a lie	to			に	嘘（うそ）をつ	か	なければいけない
+	do	does	do	not have to	tell a lie	to			に	嘘（うそ）をつ	か	なくてもいい
+	have to	has to	have to	be	telling a lie	to			に	嘘（うそ）をつ	い	ていなければいけない
+	do	does	do	not have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなくてもいい
+	have to	has to	have to	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができなければいけない
+	do	does	do	not have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなくてもいい
+	had to	had to	had to		tell a lie	to			に	嘘（うそ）をつ	か	なければいけなかった
+	did	did	did	not have to	tell a lie	to			に	嘘（うそ）をつ	か	なくてもよかった
+	had to	had to	had to	be	telling a lie	to			に	嘘（うそ）をつ	い	ていなければいけなかった
+	did	did	did	not have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなくてもよかった
+	had to	had to	had to	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができなければいけなかった
+	did	did	did	not have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなくてもよかった
+step-3	will	will	will		tell a lie	to			に	嘘（うそ）をつ	く	だろう
+	will	will	will	not	tell a lie	to			に	嘘（うそ）をつ	か	ないだろう
+	will	will	will	be	telling a lie	to			に	嘘（うそ）をつ	い	ているだろう
+	will	will	will	not be	telling a lie	to			に	嘘（うそ）をつ	い	ていないだろう
+	will	will	will	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるだろう
+	will	will	will	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできないだろう
+	may	may	may		tell a lie	to			に	嘘（うそ）をつ	く	かもしれない
+	may	may	may	not	tell a lie	to			に	嘘（うそ）をつ	か	ないかもしれない
+	may	may	may	be	telling a lie	to			に	嘘（うそ）をつ	い	ているかもしれない
+	may	may	may	not be	telling a lie	to			に	嘘（うそ）をつ	い	ていないかもしれない
+	may	may	may	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるかもしれない
+	may	may	may	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできないかもしれない
+	can	can	can		tell a lie	to			に	嘘（うそ）をつ	く	ことができる
+	can	can	can	not	tell a lie	to			に	嘘（うそ）をつ	く	ことはできない
+	should	should	should		tell a lie	to			に	嘘（うそ）をつ	く	ほうがいい
+	should	should	should	not	tell a lie	to			に	嘘（うそ）をつ	か	ないほうがいい
+	should	should	should	be	telling a lie	to			に	嘘（うそ）をつ	い	ているほうがいい
+	should	should	should	not be	telling a lie	to			に	嘘（うそ）をつ	い	ていないほうがいい
+	should	should	should	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるほうがいい
+	should	should	should	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできないほうがいい
+	should	should	should		tell a lie	to			に	嘘（うそ）をつ	く	はずだ
+	should	should	should	not	tell a lie	to			に	嘘（うそ）をつ	か	ないはずだ
+	should	should	should	be	telling a lie	to			に	嘘（うそ）をつ	い	ているはずだ
+	should	should	should	not be	telling a lie	to			に	嘘（うそ）をつ	い	ていないはずだ
+	should	should	should	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるはずだ
+	should	should	should	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできるはずがない
+	had better	had better	had better		tell a lie	to			に	嘘（うそ）をつ	く	べきだ
+	had better	had better	had better	not	tell a lie	to			に	嘘（うそ）をつ	く	べきではない
+	must	must	must		tell a lie	to			に	嘘（うそ）をつ	く	にちがいない
+	must	must	must	not	tell a lie	to			に	嘘（うそ）をつ	い	てはいけない
+	must	must	must	be	telling a lie	to			に	嘘（うそ）をつ	い	ているにちがいない
+	must	must	must	not be	telling a lie	to			に	嘘（うそ）をつ	い	ていてはいけない
+	must	must	must	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるにちがいない
+	must	must	must	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできてはいけない
+	will	will	will	have to	tell a lie	to			に	嘘（うそ）をつ	か	なければいけないだろう
+	will	will	will	not have to	tell a lie	to			に	嘘（うそ）をつ	か	なくてもいいだろう
+	will	will	will	have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなければいけないだろう
+	will	will	will	not have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなくてもいいだろう
+	will	will	will	have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなくてもいいだろう
+	may	may	may	have to	tell a lie	to			に	嘘（うそ）をつ	か	なければいけないかもしれない
+	may	may	may	not have to	tell a lie	to			に	嘘（うそ）をつ	か	なくてもいいかもしれない
+	may	may	may	have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなければいけないかもしれない
+	may	may	may	not have to be	telling a lie	to			に	嘘（うそ）をつ	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		told a lie	to			に	嘘（うそ）をつ	い	たことがある
+	have	has	have	not	told a lie	to			に	嘘（うそ）をつ	い	たことはない
+	have	has	have	been	telling a lie	to		（ずっと）	に	嘘（うそ）をつ	い	ている
+	have	has	have	not been	telling a lie	to		（ずっと）	に	嘘（うそ）をつ	い	ていない
+	have	has	have		told a lie	to	already	すでに	に	嘘（うそ）をつ	い	ている
+	have	has	have	not	told a lie	to	yet	まだ	に	嘘（うそ）をつ	い	ていない
+	had	had	had		told a lie	to	before that	それ以前（いぜん）	に	嘘（うそ）をつ	い	たことがあった
+	had	had	had	not	told a lie	to	before that	それ以前（いぜん）	に	嘘（うそ）をつ	い	たことはなかった
+	had	had	had	been	telling a lie	to	till then	それまでずっと	に	嘘（うそ）をつ	い	ていた
+	had	had	had	not been	telling a lie	to	till then	それまでずっと	に	嘘（うそ）をつ	い	ていなかった
+	had	had	had		told a lie	to	already	すでに	に	嘘（うそ）をつ	い	ていた
+	had	had	had	not	told a lie	to	yet	まだ	に	嘘（うそ）をつ	い	ていなかった
+	have	has	have	been able to	tell a lie	to		（ずっと）	に	嘘（うそ）をつ	く	ことができている
+	have	has	have	not been able to	tell a lie	to	yet	まだ	に	嘘（うそ）をつ	く	ことはできていない
+	had	had	had	been able to	tell a lie	to	till then	それまでずっと	に	嘘（うそ）をつ	く	ことができていた
+	had	had	had	not been able to	tell a lie	to	till then	それまでずっと	に	嘘（うそ）をつ	く	ことはできていなかった
+step-5	may have	may have	may have		told a lie	to			に	嘘（うそ）をつ	い	たかもしれない
+	may not have	may not have	may not have		told a lie	to			に	嘘（うそ）をつ	か	なかったかもしれない
+	may have	may have	may have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかったかもしれない
+	must have	must have	must have		told a lie	to			に	嘘（うそ）をつ	い	たにちがいない
+	must not have	must not have	must not have		told a lie	to			に	嘘（うそ）をつ	か	なかったにちがいない
+	must have	must have	must have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかったにちがいない
+	should have	should have	should have		told a lie	to			に	嘘（うそ）をつ	く	ほうがよかった
+	should not have	should not have	should not have		told a lie	to			に	嘘（うそ）をつ	か	ないほうがよかった
+	should have	should have	should have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできないほうがよかった
+	can not have	can not have	can not have		told a lie	to			に	嘘（うそ）をつ	い	たはずがない
+step-6	would	would	would		tell a lie	to			に	嘘（うそ）をつ	い	ただろう
+	would	would	would	not	tell a lie	to			に	嘘（うそ）をつ	か	なかっただろう
+	would	would	would	be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができただろう
+	would	would	would	not be able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかっただろう
+	would have	would have	would have		told a lie	to			に	嘘（うそ）をつ	い	たことだろう
+	would not have	would not have	would not have		told a lie	to			に	嘘（うそ）をつ	か	なかったことだろう
+	would have	would have	would have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかったことだろう
+	could have	could have	could have		told a lie	to			に	嘘（うそ）をつ	い	た可能性がある
+	could not have	could not have	could not have		told a lie	to			に	嘘（うそ）をつ	い	た可能性はない
+	might have	might have	might have		told a lie	to			に	嘘（うそ）をつ	い	たかもしれなかった
+	might not have	might not have	might not have		told a lie	to			に	嘘（うそ）をつ	か	なかったかもしれなかった
+	might have	might have	might have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	tell a lie	to			に	嘘（うそ）をつ	く	ことはできなかったかもしれなかった

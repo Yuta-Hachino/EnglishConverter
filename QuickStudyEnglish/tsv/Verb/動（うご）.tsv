@@ -1,0 +1,130 @@
+step-1	move	moves	move							動（うご）	く
+	do	does	do	not	move					動（うご）	か	ない
+	moved	moved	moved							動（うご）	い	た
+	did	did	did	not	move					動（うご）	か	なかった
+	am	is	are		moving					動（うご）	い	ている
+	am	is	are	not	moving					動（うご）	い	ていない
+	was	was	were		moving					動（うご）	い	ていた
+	was	was	were	not	moving					動（うご）	い	ていなかった
+step-2	am	is	are	going to	move					動（うご）	く	予定（よてい）だ
+	am	is	are	not going to	move					動（うご）	く	予定（よてい）ではない
+	was	was	were	going to	move					動（うご）	く	予定（よてい）だった
+	was	was	were	not going to	move					動（うご）	く	予定（よてい）ではなかった
+	am	is	are	able to	move					動（うご）	く	ことができる
+	am	is	are	not able to	move					動（うご）	く	ことはできない
+	was	was	were	able to	move					動（うご）	く	ことができた
+	was	was	were	not able to	move					動（うご）	く	ことはできなかった
+	could	could	could	not	move					動（うご）	く	ことはできなかった
+	want	wants	want	to	move					動（うご）	き	たい
+	do	does	do	not want to	move					動（うご）	き	たくない
+	wanted  	wanted  	wanted	to	move					動（うご）	き	たかった
+	did	did	did	not want to	move					動（うご）	き	たくなかった
+	want	wants	want	to be	moving					動（うご）	い	ていたい
+	do	does	do	not want to be	moving					動（うご）	い	ていたくない
+	wanted  	wanted  	wanted	to be	moving					動（うご）	い	ていたかった
+	did	did	did	not want to be	moving					動（うご）	い	ていたくなかった
+	want	wants	want	to be able to	move					動（うご）	く	ことができるようになりたい
+	do	does	do	not want to be able to	move					動（うご）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	move					動（うご）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	move					動（うご）	く	ことはできるようになりたくなかった
+	have to	has to	have to		move					動（うご）	か	なければいけない
+	do	does	do	not have to	move					動（うご）	か	なくてもいい
+	have to	has to	have to	be	moving					動（うご）	い	ていなければいけない
+	do	does	do	not have to be	moving					動（うご）	い	ていなくてもいい
+	have to	has to	have to	be able to	move					動（うご）	く	ことができなければいけない
+	do	does	do	not have to be able to	move					動（うご）	く	ことはできなくてもいい
+	had to	had to	had to		move					動（うご）	か	なければいけなかった
+	did	did	did	not have to	move					動（うご）	か	なくてもよかった
+	had to	had to	had to	be	moving					動（うご）	い	ていなければいけなかった
+	did	did	did	not have to be	moving					動（うご）	い	ていなくてもよかった
+	had to	had to	had to	be able to	move					動（うご）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	move					動（うご）	く	ことはできなくてもよかった
+step-3	will	will	will		move					動（うご）	く	だろう
+	will	will	will	not	move					動（うご）	か	ないだろう
+	will	will	will	be	moving					動（うご）	い	ているだろう
+	will	will	will	not be	moving					動（うご）	い	ていないだろう
+	will	will	will	be able to	move					動（うご）	く	ことができるだろう
+	will	will	will	not be able to	move					動（うご）	く	ことはできないだろう
+	may	may	may		move					動（うご）	く	かもしれない
+	may	may	may	not	move					動（うご）	か	ないかもしれない
+	may	may	may	be	moving					動（うご）	い	ているかもしれない
+	may	may	may	not be	moving					動（うご）	い	ていないかもしれない
+	may	may	may	be able to	move					動（うご）	く	ことができるかもしれない
+	may	may	may	not be able to	move					動（うご）	く	ことはできないかもしれない
+	can	can	can		move					動（うご）	く	ことができる
+	can	can	can	not	move					動（うご）	く	ことはできない
+	should	should	should		move					動（うご）	く	ほうがいい
+	should	should	should	not	move					動（うご）	か	ないほうがいい
+	should	should	should	be	moving					動（うご）	い	ているほうがいい
+	should	should	should	not be	moving					動（うご）	い	ていないほうがいい
+	should	should	should	be able to	move					動（うご）	く	ことができるほうがいい
+	should	should	should	not be able to	move					動（うご）	く	ことはできないほうがいい
+	should	should	should		move					動（うご）	く	はずだ
+	should	should	should	not	move					動（うご）	か	ないはずだ
+	should	should	should	be	moving					動（うご）	い	ているはずだ
+	should	should	should	not be	moving					動（うご）	い	ていないはずだ
+	should	should	should	be able to	move					動（うご）	く	ことができるはずだ
+	should	should	should	not be able to	move					動（うご）	く	ことはできるはずがない
+	had better	had better	had better		move					動（うご）	く	べきだ
+	had better	had better	had better	not	move					動（うご）	く	べきではない
+	must	must	must		move					動（うご）	く	にちがいない
+	must	must	must	not	move					動（うご）	い	てはいけない
+	must	must	must	be	moving					動（うご）	い	ているにちがいない
+	must	must	must	not be	moving					動（うご）	い	ていてはいけない
+	must	must	must	be able to	move					動（うご）	く	ことができるにちがいない
+	must	must	must	not be able to	move					動（うご）	く	ことはできてはいけない
+	will	will	will	have to	move					動（うご）	か	なければいけないだろう
+	will	will	will	not have to	move					動（うご）	か	なくてもいいだろう
+	will	will	will	have to be	moving					動（うご）	い	ていなければいけないだろう
+	will	will	will	not have to be	moving					動（うご）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	move					動（うご）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	move					動（うご）	く	ことはできなくてもいいだろう
+	may	may	may	have to	move					動（うご）	か	なければいけないかもしれない
+	may	may	may	not have to	move					動（うご）	か	なくてもいいかもしれない
+	may	may	may	have to be	moving					動（うご）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	moving					動（うご）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	move					動（うご）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	move					動（うご）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		moved					動（うご）	い	たことがある
+	have	has	have	not	moved					動（うご）	い	たことはない
+	have	has	have	been	moving			（ずっと）		動（うご）	い	ている
+	have	has	have	not been	moving			（ずっと）		動（うご）	い	ていない
+	have	has	have		moved		already	すでに		動（うご）	い	ている
+	have	has	have	not	moved		yet	まだ		動（うご）	い	ていない
+	had	had	had		moved		before that	それ以前（いぜん）		動（うご）	い	たことがあった
+	had	had	had	not	moved		before that	それ以前（いぜん）		動（うご）	い	たことはなかった
+	had	had	had	been	moving		till then	それまでずっと		動（うご）	い	ていた
+	had	had	had	not been	moving		till then	それまでずっと		動（うご）	い	ていなかった
+	had	had	had		moved		already	すでに		動（うご）	い	ていた
+	had	had	had	not	moved		yet	まだ		動（うご）	い	ていなかった
+	have	has	have	been able to	move			（ずっと）		動（うご）	く	ことができている
+	have	has	have	not been able to	move		yet	まだ		動（うご）	く	ことはできていない
+	had	had	had	been able to	move		till then	それまでずっと		動（うご）	く	ことができていた
+	had	had	had	not been able to	move		till then	それまでずっと		動（うご）	く	ことはできていなかった
+step-5	may have	may have	may have		moved					動（うご）	い	たかもしれない
+	may not have	may not have	may not have		moved					動（うご）	か	なかったかもしれない
+	may have	may have	may have	been able to	move					動（うご）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	move					動（うご）	く	ことはできなかったかもしれない
+	must have	must have	must have		moved					動（うご）	い	たにちがいない
+	must not have	must not have	must not have		moved					動（うご）	か	なかったにちがいない
+	must have	must have	must have	been able to	move					動（うご）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	move					動（うご）	く	ことはできなかったにちがいない
+	should have	should have	should have		moved					動（うご）	く	ほうがよかった
+	should not have	should not have	should not have		moved					動（うご）	か	ないほうがよかった
+	should have	should have	should have	been able to	move					動（うご）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	move					動（うご）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		moved					動（うご）	い	たはずがない
+step-6	would	would	would		move					動（うご）	い	ただろう
+	would	would	would	not	move					動（うご）	か	なかっただろう
+	would	would	would	be able to	move					動（うご）	く	ことができただろう
+	would	would	would	not be able to	move					動（うご）	く	ことはできなかっただろう
+	would have	would have	would have		moved					動（うご）	い	たことだろう
+	would not have	would not have	would not have		moved					動（うご）	か	なかったことだろう
+	would have	would have	would have	been able to	move					動（うご）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	move					動（うご）	く	ことはできなかったことだろう
+	could have	could have	could have		moved					動（うご）	い	た可能性がある
+	could not have	could not have	could not have		moved					動（うご）	い	た可能性はない
+	might have	might have	might have		moved					動（うご）	い	たかもしれなかった
+	might not have	might not have	might not have		moved					動（うご）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	move					動（うご）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	move					動（うご）	く	ことはできなかったかもしれなかった

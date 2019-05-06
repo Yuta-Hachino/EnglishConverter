@@ -1,0 +1,98 @@
+step-1		is	are								を起（お）こしている
+		is	are	not							を起（お）こしていない
+		was	were								を起（お）こしていた
+		was	were	not							を起（お）こしていなかった
+		becomes	become								を起（お）こす
+		does	do	not	become						を起（お）こさない
+		became	became								を起（お）こした
+		did	did	not	become						を起（お）こさなかった
+		is	are		becoming						を起（お）こしてきている
+		is	are	not	becoming						を起（お）こしてきていない
+		was	were		becoming						を起（お）こしてきていた
+		was	were	not	becoming						を起（お）こしてきていなかった
+step-2		is	are	going to	be						を起（お）こそうとしている
+		is	are	not going to	be						を起（お）こそうとしていない
+		was	were	going to	be						を起（お）こそうとしていた
+		was	were	not going to	be						を起（お）こそうとしていなかった
+		has	have	to	be						を起（お）こしていなければならない
+		does not have	do not have	to	be						を起（お）こしていなくてもいい
+		has	have	to	become						を起（お）こさなければいけない
+		does not have	do not have	to	become						を起（お）こさなくてもいい
+		had	had	to	be						を起（お）こしていなければいけなかった
+		did not have	did not have	to	be						を起（お）こしていなくてもよかった
+		had	had	to	become						を起（お）こさなければいけなかった
+		did not have	did not have	to	become						を起（お）こさなくてもよかった
+step-3		will	will		be						を起（お）こしているだろう
+		will	will	not	be						を起（お）こしていないだろう
+		will	will		become						を起（お）こすだろう
+		will	will	not	become						を起（お）こさないだろう
+		may	may		be						を起（お）こしているかもしれない
+		may	may	not	be						を起（お）こしていないかもしれない
+		may	may		become						を起（お）こすかもしれない
+		may	may	not	become						を起（お）こさないかもしれない
+		can	can		be						を起（お）こしている可能性（かのうせい）がある
+		can	can	not	be						を起（お）こしている可能性（かのうせい）はない
+		can	can		become						を起（お）こす可能性（かのうせい）がある
+		can	can	not	become						を起（お）こす可能性（かのうせい）はない
+		should	should		be						を起（お）こしているほうがいい
+		should	should	not	be						を起（お）こしていないほうがいい
+		should	should		become						を起（お）こすほうがいい
+		should	should	not	become						を起（お）こさないほうがいい
+		should	should		be						を起（お）こしているはずだ
+		should	should	not	be						を起（お）こしていないはずだ
+		should	should		become						を起（お）こすはずだ
+		should	should	not	become						を起（お）こすはずがない
+		must	must		be						を起（お）こしているにちがいない
+		must	must	not	be						を起（お）こしていてはいけない
+		must	must		become						を起（お）こすにちがいない
+		must	must	not	become						を起（お）こしてはいけない
+		will have to	will have to		be						を起（お）こしていなければいけないだろう
+		will not have to	will not have to		be						を起（お）こしていなくてもいいだろう
+		will have to	will have to		become						を起（お）こさなければいけないだろう
+		will not have to	will not have to		become						を起（お）こさなくてもいいだろう
+		may have to	may have to		be						を起（お）こしていなければいけないかもしれない
+		may not have to	may not have to		be						を起（お）こしていなくてもいいかもしれない
+		may have to	may have to		become						を起（お）こさなければいけないかもしれない
+		may not have to	may not have to		become						を起（お）こさなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	を起（お）こしている
+		has	have	not	been				（ずっと）	形容詞	を起（お）こしてはいない
+		has	have		been						を起（お）こしていたことがある
+		has	have	not	been						を起（お）こしていたことはない
+		has	have		become						を起（お）こしたことがある
+		has	have	not	become						を起（お）こしたことはない
+		had	had		been		till then		それまでずっと	形容詞	を起（お）こしていた
+		had	had	not	been		till then		それまでずっと	形容詞	を起（お）こしてはいなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	を起（お）こしていたことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	を起（お）こしていたことはなかった
+		had	had		become		before that		それ以前（いぜん）	形容詞	を起（お）こしたことがあった
+		had	had	not	become		before that		それ以前（いぜん）	形容詞	を起（お）こしたことはなかった
+step-5		may have	may have		been						を起（お）こしていたかもしれない
+		may not have	may not have		been						を起（お）こしていなかったかもしれない
+		may have	may have		become						を起（お）こしたかもしれない
+		may not have	may not have		become						を起（お）こさなかったかもしれない
+		can not have	can not have		been						を起（お）こしていたはずがない
+		can not have	can not have		become						を起（お）こしたはずがない
+		should have	should have		been						を起（お）こしているほうがよかった
+		should not have	should not have		been						を起（お）こしていないほうがよかった
+		should have	should have		become						を起（お）こすほうがよかった
+		should not have	should not have		become						を起（お）こさないほうがよかった
+		must have	must have		been						を起（お）こしていたにちがいない
+		must not have	must not have		been						を起（お）こしていなかったにちがいない
+		must have	must have		become						を起（お）こしたにちがいない
+		must not have	must not have		become						を起（お）こさなかったにちがいない
+step-6		would	would		be						を起（お）こしていただろう
+		would	would	not	be						を起（お）こしていなかっただろう
+		would	would		become						を起（お）こしただろう
+		would	would	not	become						を起（お）こさなかっただろう
+		would have	would have		been						を起（お）こしていたことだろう
+		would not have	would not have		been						を起（お）こしていなかったことだろう
+		would have	would have		become						を起（お）こしたことだろう
+		would not have	would not have		become						を起（お）こさなかったことだろう
+		could have	could have		been						を起（お）こしていた可能性（かのうせい）がある
+		could not have	could not have		been						を起（お）こしていた可能性（かのうせい）はない
+		could have	could have		become						を起（お）こした可能性（かのうせい）がある
+		could not have	could not have		become						を起（お）こした可能性（かのうせい）はない
+		might have	might have		been						を起（お）こしていたかもしれなかった
+		might not have	might not have		been						を起（お）こしていなかったかもしれなかった
+		might have	might have		become						を起（お）こしたかもしれなかった
+		might not have	might not have		become						を起（お）こさなかったかもしれなかった

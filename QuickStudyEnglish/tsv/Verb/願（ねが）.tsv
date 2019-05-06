@@ -1,0 +1,104 @@
+step-1	wish	wishes	wish			for			を	願（ねが）	う
+	do	does	do	not	wish	for			を	願（ねが）	わ	ない
+	wished	wished	wished			for			を	願（ねが）	っ	た
+	did	did	did	not	wish	for			を	願（ねが）	わ	なかった
+step-2	am	is	are	going to	wish	for			を	願（ねが）	う	予定（よてい）だ
+	am	is	are	not going to	wish	for			を	願（ねが）	う	予定（よてい）ではない
+	was	was	were	going to	wish	for			を	願（ねが）	う	予定（よてい）だった
+	was	was	were	not going to	wish	for			を	願（ねが）	う	予定（よてい）ではなかった
+	am	is	are	able to	wish	for			を	願（ねが）	う	ことができる
+	am	is	are	not able to	wish	for			を	願（ねが）	う	ことはできない
+	was	was	were	able to	wish	for			を	願（ねが）	う	ことができた
+	was	was	were	not able to	wish	for			を	願（ねが）	う	ことはできなかった
+	could	could	could	not	wish	for			を	願（ねが）	う	ことはできなかった
+	want	wants	want	to	wish	for			を	願（ねが）	い	たい
+	do	does	do	not want to	wish	for			を	願（ねが）	い	たくない
+	wanted  	wanted  	wanted	to	wish	for			を	願（ねが）	い	たかった
+	did	did	did	not want to	wish	for			を	願（ねが）	い	たくなかった
+	want	wants	want	to be able to	wish	for			を	願（ねが）	う	ことができるようになりたい
+	do	does	do	not want to be able to	wish	for			を	願（ねが）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	wish	for			を	願（ねが）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	wish	for			を	願（ねが）	う	ことはできるようになりたくなかった
+	have to	has to	have to		wish	for			を	願（ねが）	わ	なければいけない
+	do	does	do	not have to	wish	for			を	願（ねが）	わ	なくてもいい
+	have to	has to	have to	be able to	wish	for			を	願（ねが）	う	ことができなければいけない
+	do	does	do	not have to be able to	wish	for			を	願（ねが）	う	ことはできなくてもいい
+	had to	had to	had to		wish	for			を	願（ねが）	わ	なければいけなかった
+	did	did	did	not have to	wish	for			を	願（ねが）	わ	なくてもよかった
+	had to	had to	had to	be able to	wish	for			を	願（ねが）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	wish	for			を	願（ねが）	う	ことはできなくてもよかった
+step-3	will	will	will		wish	for			を	願（ねが）	う	だろう
+	will	will	will	not	wish	for			を	願（ねが）	わ	ないだろう
+	will	will	will	be able to	wish	for			を	願（ねが）	う	ことができるだろう
+	will	will	will	not be able to	wish	for			を	願（ねが）	う	ことはできないだろう
+	may	may	may		wish	for			を	願（ねが）	う	かもしれない
+	may	may	may	not	wish	for			を	願（ねが）	わ	ないかもしれない
+	may	may	may	be able to	wish	for			を	願（ねが）	う	ことができるかもしれない
+	may	may	may	not be able to	wish	for			を	願（ねが）	う	ことはできないかもしれない
+	can	can	can		wish	for			を	願（ねが）	う	ことができる
+	can	can	can	not	wish	for			を	願（ねが）	う	ことはできない
+	should	should	should		wish	for			を	願（ねが）	う	ほうがいい
+	should	should	should	not	wish	for			を	願（ねが）	わ	ないほうがいい
+	should	should	should	be able to	wish	for			を	願（ねが）	う	ことができるほうがいい
+	should	should	should	not be able to	wish	for			を	願（ねが）	う	ことはできないほうがいい
+	should	should	should		wish	for			を	願（ねが）	う	はずだ
+	should	should	should	not	wish	for			を	願（ねが）	わ	ないはずだ
+	should	should	should	be able to	wish	for			を	願（ねが）	う	ことができるはずだ
+	should	should	should	not be able to	wish	for			を	願（ねが）	う	ことはできるはずがない
+	had better	had better	had better		wish	for			を	願（ねが）	う	べきだ
+	had better	had better	had better	not	wish	for			を	願（ねが）	う	べきではない
+	must	must	must		wish	for			を	願（ねが）	う	にちがいない
+	must	must	must	not	wish	for			を	願（ねが）	っ	てはいけない
+	must	must	must	be able to	wish	for			を	願（ねが）	う	ことができるにちがいない
+	must	must	must	not be able to	wish	for			を	願（ねが）	う	ことはできてはいけない
+	will	will	will	have to	wish	for			を	願（ねが）	わ	なければいけないだろう
+	will	will	will	not have to	wish	for			を	願（ねが）	わ	なくてもいいだろう
+	will	will	will	have to be able to	wish	for			を	願（ねが）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	wish	for			を	願（ねが）	う	ことはできなくてもいいだろう
+	may	may	may	have to	wish	for			を	願（ねが）	わ	なければいけないかもしれない
+	may	may	may	not have to	wish	for			を	願（ねが）	わ	なくてもいいかもしれない
+	may	may	may	have to be able to	wish	for			を	願（ねが）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	wish	for			を	願（ねが）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		wished	for			を	願（ねが）	っ	たことがある
+	have	has	have	not	wished	for			を	願（ねが）	っ	たことはない
+	have	has	have	been	wish	for		（ずっと）	を	願（ねが）	っ	ている
+	have	has	have	not been	wish	for		（ずっと）	を	願（ねが）	っ	ていない
+	have	has	have		wished	for	already	すでに	を	願（ねが）	っ	ている
+	have	has	have	not	wished	for	yet	まだ	を	願（ねが）	っ	ていない
+	had	had	had		wished	for	before that	それ以前（いぜん）	を	願（ねが）	っ	たことがあった
+	had	had	had	not	wished	for	before that	それ以前（いぜん）	を	願（ねが）	っ	たことはなかった
+	had	had	had	been	wish	for	till then	それまでずっと	を	願（ねが）	っ	ていた
+	had	had	had	not been	wish	for	till then	それまでずっと	を	願（ねが）	っ	ていなかった
+	had	had	had		wished	for	already	すでに	を	願（ねが）	っ	ていた
+	had	had	had	not	wished	for	yet	まだ	を	願（ねが）	っ	ていなかった
+	have	has	have	been able to	wish	for		（ずっと）	を	願（ねが）	う	ことができている
+	have	has	have	not been able to	wish	for	yet	まだ	を	願（ねが）	う	ことはできていない
+	had	had	had	been able to	wish	for	till then	それまでずっと	を	願（ねが）	う	ことができていた
+	had	had	had	not been able to	wish	for	till then	それまでずっと	を	願（ねが）	う	ことはできていなかった
+step-5	may have	may have	may have		wished	for			を	願（ねが）	っ	たかもしれない
+	may not have	may not have	may not have		wished	for			を	願（ねが）	わ	なかったかもしれない
+	may have	may have	may have	been able to	wish	for			を	願（ねが）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	wish	for			を	願（ねが）	う	ことはできなかったかもしれない
+	must have	must have	must have		wished	for			を	願（ねが）	っ	たにちがいない
+	must not have	must not have	must not have		wished	for			を	願（ねが）	わ	なかったにちがいない
+	must have	must have	must have	been able to	wish	for			を	願（ねが）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	wish	for			を	願（ねが）	う	ことはできなかったにちがいない
+	should have	should have	should have		wished	for			を	願（ねが）	う	ほうがよかった
+	should not have	should not have	should not have		wished	for			を	願（ねが）	わ	ないほうがよかった
+	should have	should have	should have	been able to	wish	for			を	願（ねが）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	wish	for			を	願（ねが）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		wished	for			を	願（ねが）	っ	たはずがない
+step-6	would	would	would		wish	for			を	願（ねが）	っ	ただろう
+	would	would	would	not	wish	for			を	願（ねが）	わ	なかっただろう
+	would	would	would	be able to	wish	for			を	願（ねが）	う	ことができただろう
+	would	would	would	not be able to	wish	for			を	願（ねが）	う	ことはできなかっただろう
+	would have	would have	would have		wished	for			を	願（ねが）	っ	たことだろう
+	would not have	would not have	would not have		wished	for			を	願（ねが）	わ	なかったことだろう
+	would have	would have	would have	been able to	wish	for			を	願（ねが）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	wish	for			を	願（ねが）	う	ことはできなかったことだろう
+	could have	could have	could have		wished	for			を	願（ねが）	っ	た可能性がある
+	could not have	could not have	could not have		wished	for			を	願（ねが）	っ	た可能性はない
+	might have	might have	might have		wished	for			を	願（ねが）	っ	たかもしれなかった
+	might not have	might not have	might not have		wished	for			を	願（ねが）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	wish	for			を	願（ねが）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	wish	for			を	願（ねが）	う	ことはできなかったかもしれなかった

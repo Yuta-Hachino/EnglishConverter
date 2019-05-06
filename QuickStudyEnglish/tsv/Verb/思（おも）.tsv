@@ -1,0 +1,130 @@
+step-1	think	thinks	think			about			について	思（おも）	う
+	do	does	do	not	think	about			について	思（おも）	わ	ない
+	thought	thought	thought			about			について	思（おも）	っ	た
+	did	did	did	not	think	about			について	思（おも）	わ	なかった
+	am	is	are		thinking	about			について	思（おも）	っ	ている
+	am	is	are	not	thinking	about			について	思（おも）	っ	ていない
+	was	was	were		thinking	about			について	思（おも）	っ	ていた
+	was	was	were	not	thinking	about			について	思（おも）	っ	ていなかった
+step-2	am	is	are	going to	think	about			について	思（おも）	う	予定（よてい）だ
+	am	is	are	not going to	think	about			について	思（おも）	う	予定（よてい）ではない
+	was	was	were	going to	think	about			について	思（おも）	う	予定（よてい）だった
+	was	was	were	not going to	think	about			について	思（おも）	う	予定（よてい）ではなかった
+	am	is	are	able to	think	about			について	思（おも）	う	ことができる
+	am	is	are	not able to	think	about			について	思（おも）	う	ことはできない
+	was	was	were	able to	think	about			について	思（おも）	う	ことができた
+	was	was	were	not able to	think	about			について	思（おも）	う	ことはできなかった
+	could	could	could	not	think	about			について	思（おも）	う	ことはできなかった
+	want	wants	want	to	think	about			について	思（おも）	い	たい
+	do	does	do	not want to	think	about			について	思（おも）	い	たくない
+	wanted  	wanted  	wanted	to	think	about			について	思（おも）	い	たかった
+	did	did	did	not want to	think	about			について	思（おも）	い	たくなかった
+	want	wants	want	to be	thinking	about			について	思（おも）	っ	ていたい
+	do	does	do	not want to be	thinking	about			について	思（おも）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	thinking	about			について	思（おも）	っ	ていたかった
+	did	did	did	not want to be	thinking	about			について	思（おも）	っ	ていたくなかった
+	want	wants	want	to be able to	think	about			について	思（おも）	う	ことができるようになりたい
+	do	does	do	not want to be able to	think	about			について	思（おも）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	think	about			について	思（おも）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	think	about			について	思（おも）	う	ことはできるようになりたくなかった
+	have to	has to	have to		think	about			について	思（おも）	わ	なければいけない
+	do	does	do	not have to	think	about			について	思（おも）	わ	なくてもいい
+	have to	has to	have to	be	thinking	about			について	思（おも）	っ	ていなければいけない
+	do	does	do	not have to be	thinking	about			について	思（おも）	っ	ていなくてもいい
+	have to	has to	have to	be able to	think	about			について	思（おも）	う	ことができなければいけない
+	do	does	do	not have to be able to	think	about			について	思（おも）	う	ことはできなくてもいい
+	had to	had to	had to		think	about			について	思（おも）	わ	なければいけなかった
+	did	did	did	not have to	think	about			について	思（おも）	わ	なくてもよかった
+	had to	had to	had to	be	thinking	about			について	思（おも）	っ	ていなければいけなかった
+	did	did	did	not have to be	thinking	about			について	思（おも）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	think	about			について	思（おも）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	think	about			について	思（おも）	う	ことはできなくてもよかった
+step-3	will	will	will		think	about			について	思（おも）	う	だろう
+	will	will	will	not	think	about			について	思（おも）	わ	ないだろう
+	will	will	will	be	thinking	about			について	思（おも）	っ	ているだろう
+	will	will	will	not be	thinking	about			について	思（おも）	っ	ていないだろう
+	will	will	will	be able to	think	about			について	思（おも）	う	ことができるだろう
+	will	will	will	not be able to	think	about			について	思（おも）	う	ことはできないだろう
+	may	may	may		think	about			について	思（おも）	う	かもしれない
+	may	may	may	not	think	about			について	思（おも）	わ	ないかもしれない
+	may	may	may	be	thinking	about			について	思（おも）	っ	ているかもしれない
+	may	may	may	not be	thinking	about			について	思（おも）	っ	ていないかもしれない
+	may	may	may	be able to	think	about			について	思（おも）	う	ことができるかもしれない
+	may	may	may	not be able to	think	about			について	思（おも）	う	ことはできないかもしれない
+	can	can	can		think	about			について	思（おも）	う	ことができる
+	can	can	can	not	think	about			について	思（おも）	う	ことはできない
+	should	should	should		think	about			について	思（おも）	う	ほうがいい
+	should	should	should	not	think	about			について	思（おも）	わ	ないほうがいい
+	should	should	should	be	thinking	about			について	思（おも）	っ	ているほうがいい
+	should	should	should	not be	thinking	about			について	思（おも）	っ	ていないほうがいい
+	should	should	should	be able to	think	about			について	思（おも）	う	ことができるほうがいい
+	should	should	should	not be able to	think	about			について	思（おも）	う	ことはできないほうがいい
+	should	should	should		think	about			について	思（おも）	う	はずだ
+	should	should	should	not	think	about			について	思（おも）	わ	ないはずだ
+	should	should	should	be	thinking	about			について	思（おも）	っ	ているはずだ
+	should	should	should	not be	thinking	about			について	思（おも）	っ	ていないはずだ
+	should	should	should	be able to	think	about			について	思（おも）	う	ことができるはずだ
+	should	should	should	not be able to	think	about			について	思（おも）	う	ことはできるはずがない
+	had better	had better	had better		think	about			について	思（おも）	う	べきだ
+	had better	had better	had better	not	think	about			について	思（おも）	う	べきではない
+	must	must	must		think	about			について	思（おも）	う	にちがいない
+	must	must	must	not	think	about			について	思（おも）	っ	てはいけない
+	must	must	must	be	thinking	about			について	思（おも）	っ	ているにちがいない
+	must	must	must	not be	thinking	about			について	思（おも）	っ	ていてはいけない
+	must	must	must	be able to	think	about			について	思（おも）	う	ことができるにちがいない
+	must	must	must	not be able to	think	about			について	思（おも）	う	ことはできてはいけない
+	will	will	will	have to	think	about			について	思（おも）	わ	なければいけないだろう
+	will	will	will	not have to	think	about			について	思（おも）	わ	なくてもいいだろう
+	will	will	will	have to be	thinking	about			について	思（おも）	っ	ていなければいけないだろう
+	will	will	will	not have to be	thinking	about			について	思（おも）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	think	about			について	思（おも）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	think	about			について	思（おも）	う	ことはできなくてもいいだろう
+	may	may	may	have to	think	about			について	思（おも）	わ	なければいけないかもしれない
+	may	may	may	not have to	think	about			について	思（おも）	わ	なくてもいいかもしれない
+	may	may	may	have to be	thinking	about			について	思（おも）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	thinking	about			について	思（おも）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	think	about			について	思（おも）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	think	about			について	思（おも）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		thought	about			について	思（おも）	っ	たことがある
+	have	has	have	not	thought	about			について	思（おも）	っ	たことはない
+	have	has	have	been	thinking	about		（ずっと）	について	思（おも）	っ	ている
+	have	has	have	not been	thinking	about		（ずっと）	について	思（おも）	っ	ていない
+	have	has	have		thought	about	already	すでに	について	思（おも）	っ	ている
+	have	has	have	not	thought	about	yet	まだ	について	思（おも）	っ	ていない
+	had	had	had		thought	about	before that	それ以前（いぜん）	について	思（おも）	っ	たことがあった
+	had	had	had	not	thought	about	before that	それ以前（いぜん）	について	思（おも）	っ	たことはなかった
+	had	had	had	been	thinking	about	till then	それまでずっと	について	思（おも）	っ	ていた
+	had	had	had	not been	thinking	about	till then	それまでずっと	について	思（おも）	っ	ていなかった
+	had	had	had		thought	about	already	すでに	について	思（おも）	っ	ていた
+	had	had	had	not	thought	about	yet	まだ	について	思（おも）	っ	ていなかった
+	have	has	have	been able to	think	about		（ずっと）	について	思（おも）	う	ことができている
+	have	has	have	not been able to	think	about	yet	まだ	について	思（おも）	う	ことはできていない
+	had	had	had	been able to	think	about	till then	それまでずっと	について	思（おも）	う	ことができていた
+	had	had	had	not been able to	think	about	till then	それまでずっと	について	思（おも）	う	ことはできていなかった
+step-5	may have	may have	may have		thought	about			について	思（おも）	っ	たかもしれない
+	may not have	may not have	may not have		thought	about			について	思（おも）	わ	なかったかもしれない
+	may have	may have	may have	been able to	think	about			について	思（おも）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	think	about			について	思（おも）	う	ことはできなかったかもしれない
+	must have	must have	must have		thought	about			について	思（おも）	っ	たにちがいない
+	must not have	must not have	must not have		thought	about			について	思（おも）	わ	なかったにちがいない
+	must have	must have	must have	been able to	think	about			について	思（おも）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	think	about			について	思（おも）	う	ことはできなかったにちがいない
+	should have	should have	should have		thought	about			について	思（おも）	う	ほうがよかった
+	should not have	should not have	should not have		thought	about			について	思（おも）	わ	ないほうがよかった
+	should have	should have	should have	been able to	think	about			について	思（おも）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	think	about			について	思（おも）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		thought	about			について	思（おも）	っ	たはずがない
+step-6	would	would	would		think	about			について	思（おも）	っ	ただろう
+	would	would	would	not	think	about			について	思（おも）	わ	なかっただろう
+	would	would	would	be able to	think	about			について	思（おも）	う	ことができただろう
+	would	would	would	not be able to	think	about			について	思（おも）	う	ことはできなかっただろう
+	would have	would have	would have		thought	about			について	思（おも）	っ	たことだろう
+	would not have	would not have	would not have		thought	about			について	思（おも）	わ	なかったことだろう
+	would have	would have	would have	been able to	think	about			について	思（おも）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	think	about			について	思（おも）	う	ことはできなかったことだろう
+	could have	could have	could have		thought	about			について	思（おも）	っ	た可能性がある
+	could not have	could not have	could not have		thought	about			について	思（おも）	っ	た可能性はない
+	might have	might have	might have		thought	about			について	思（おも）	っ	たかもしれなかった
+	might not have	might not have	might not have		thought	about			について	思（おも）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	think	about			について	思（おも）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	think	about			について	思（おも）	う	ことはできなかったかもしれなかった

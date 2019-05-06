@@ -1,0 +1,130 @@
+step-1	write	writes	write						を	書（か）	く
+	do	does	do	not	write				を	書（か）	か	ない
+	wrote	wrote	wrote						を	書（か）	い	た
+	did	did	did	not	write				を	書（か）	か	なかった
+	am	is	are		writing				を	書（か）	い	ている
+	am	is	are	not	writing				を	書（か）	い	ていない
+	was	was	were		writing				を	書（か）	い	ていた
+	was	was	were	not	writing				を	書（か）	い	ていなかった
+step-2	am	is	are	going to	write				を	書（か）	く	予定（よてい）だ
+	am	is	are	not going to	write				を	書（か）	く	予定（よてい）ではない
+	was	was	were	going to	write				を	書（か）	く	予定（よてい）だった
+	was	was	were	not going to	write				を	書（か）	く	予定（よてい）ではなかった
+	am	is	are	able to	write				を	書（か）	く	ことができる
+	am	is	are	not able to	write				を	書（か）	く	ことはできない
+	was	was	were	able to	write				を	書（か）	く	ことができた
+	was	was	were	not able to	write				を	書（か）	く	ことはできなかった
+	could	could	could	not	write				を	書（か）	く	ことはできなかった
+	want	wants	want	to	write				を	書（か）	き	たい
+	do	does	do	not want to	write				を	書（か）	き	たくない
+	wanted  	wanted  	wanted	to	write				を	書（か）	き	たかった
+	did	did	did	not want to	write				を	書（か）	き	たくなかった
+	want	wants	want	to be	writing				を	書（か）	い	ていたい
+	do	does	do	not want to be	writing				を	書（か）	い	ていたくない
+	wanted  	wanted  	wanted	to be	writing				を	書（か）	い	ていたかった
+	did	did	did	not want to be	writing				を	書（か）	い	ていたくなかった
+	want	wants	want	to be able to	write				を	書（か）	く	ことができるようになりたい
+	do	does	do	not want to be able to	write				を	書（か）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	write				を	書（か）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	write				を	書（か）	く	ことはできるようになりたくなかった
+	have to	has to	have to		write				を	書（か）	か	なければいけない
+	do	does	do	not have to	write				を	書（か）	か	なくてもいい
+	have to	has to	have to	be	writing				を	書（か）	い	ていなければいけない
+	do	does	do	not have to be	writing				を	書（か）	い	ていなくてもいい
+	have to	has to	have to	be able to	write				を	書（か）	く	ことができなければいけない
+	do	does	do	not have to be able to	write				を	書（か）	く	ことはできなくてもいい
+	had to	had to	had to		write				を	書（か）	か	なければいけなかった
+	did	did	did	not have to	write				を	書（か）	か	なくてもよかった
+	had to	had to	had to	be	writing				を	書（か）	い	ていなければいけなかった
+	did	did	did	not have to be	writing				を	書（か）	い	ていなくてもよかった
+	had to	had to	had to	be able to	write				を	書（か）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	write				を	書（か）	く	ことはできなくてもよかった
+step-3	will	will	will		write				を	書（か）	く	だろう
+	will	will	will	not	write				を	書（か）	か	ないだろう
+	will	will	will	be	writing				を	書（か）	い	ているだろう
+	will	will	will	not be	writing				を	書（か）	い	ていないだろう
+	will	will	will	be able to	write				を	書（か）	く	ことができるだろう
+	will	will	will	not be able to	write				を	書（か）	く	ことはできないだろう
+	may	may	may		write				を	書（か）	く	かもしれない
+	may	may	may	not	write				を	書（か）	か	ないかもしれない
+	may	may	may	be	writing				を	書（か）	い	ているかもしれない
+	may	may	may	not be	writing				を	書（か）	い	ていないかもしれない
+	may	may	may	be able to	write				を	書（か）	く	ことができるかもしれない
+	may	may	may	not be able to	write				を	書（か）	く	ことはできないかもしれない
+	can	can	can		write				を	書（か）	く	ことができる
+	can	can	can	not	write				を	書（か）	く	ことはできない
+	should	should	should		write				を	書（か）	く	ほうがいい
+	should	should	should	not	write				を	書（か）	か	ないほうがいい
+	should	should	should	be	writing				を	書（か）	い	ているほうがいい
+	should	should	should	not be	writing				を	書（か）	い	ていないほうがいい
+	should	should	should	be able to	write				を	書（か）	く	ことができるほうがいい
+	should	should	should	not be able to	write				を	書（か）	く	ことはできないほうがいい
+	should	should	should		write				を	書（か）	く	はずだ
+	should	should	should	not	write				を	書（か）	か	ないはずだ
+	should	should	should	be	writing				を	書（か）	い	ているはずだ
+	should	should	should	not be	writing				を	書（か）	い	ていないはずだ
+	should	should	should	be able to	write				を	書（か）	く	ことができるはずだ
+	should	should	should	not be able to	write				を	書（か）	く	ことはできるはずがない
+	had better	had better	had better		write				を	書（か）	く	べきだ
+	had better	had better	had better	not	write				を	書（か）	く	べきではない
+	must	must	must		write				を	書（か）	く	にちがいない
+	must	must	must	not	write				を	書（か）	い	てはいけない
+	must	must	must	be	writing				を	書（か）	い	ているにちがいない
+	must	must	must	not be	writing				を	書（か）	い	ていてはいけない
+	must	must	must	be able to	write				を	書（か）	く	ことができるにちがいない
+	must	must	must	not be able to	write				を	書（か）	く	ことはできてはいけない
+	will	will	will	have to	write				を	書（か）	か	なければいけないだろう
+	will	will	will	not have to	write				を	書（か）	か	なくてもいいだろう
+	will	will	will	have to be	writing				を	書（か）	い	ていなければいけないだろう
+	will	will	will	not have to be	writing				を	書（か）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	write				を	書（か）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	write				を	書（か）	く	ことはできなくてもいいだろう
+	may	may	may	have to	write				を	書（か）	か	なければいけないかもしれない
+	may	may	may	not have to	write				を	書（か）	か	なくてもいいかもしれない
+	may	may	may	have to be	writing				を	書（か）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	writing				を	書（か）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	write				を	書（か）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	write				を	書（か）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		written				を	書（か）	い	たことがある
+	have	has	have	not	written				を	書（か）	い	たことはない
+	have	has	have	been	writing			（ずっと）	を	書（か）	い	ている
+	have	has	have	not been	writing			（ずっと）	を	書（か）	い	ていない
+	have	has	have		written		already	すでに	を	書（か）	い	ている
+	have	has	have	not	written		yet	まだ	を	書（か）	い	ていない
+	had	had	had		written		before that	それ以前（いぜん）	を	書（か）	い	たことがあった
+	had	had	had	not	written		before that	それ以前（いぜん）	を	書（か）	い	たことはなかった
+	had	had	had	been	writing		till then	それまでずっと	を	書（か）	い	ていた
+	had	had	had	not been	writing		till then	それまでずっと	を	書（か）	い	ていなかった
+	had	had	had		written		already	すでに	を	書（か）	い	ていた
+	had	had	had	not	written		yet	まだ	を	書（か）	い	ていなかった
+	have	has	have	been able to	write			（ずっと）	を	書（か）	く	ことができている
+	have	has	have	not been able to	write		yet	まだ	を	書（か）	く	ことはできていない
+	had	had	had	been able to	write		till then	それまでずっと	を	書（か）	く	ことができていた
+	had	had	had	not been able to	write		till then	それまでずっと	を	書（か）	く	ことはできていなかった
+step-5	may have	may have	may have		written				を	書（か）	い	たかもしれない
+	may not have	may not have	may not have		written				を	書（か）	か	なかったかもしれない
+	may have	may have	may have	been able to	write				を	書（か）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	write				を	書（か）	く	ことはできなかったかもしれない
+	must have	must have	must have		written				を	書（か）	い	たにちがいない
+	must not have	must not have	must not have		written				を	書（か）	か	なかったにちがいない
+	must have	must have	must have	been able to	write				を	書（か）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	write				を	書（か）	く	ことはできなかったにちがいない
+	should have	should have	should have		written				を	書（か）	く	ほうがよかった
+	should not have	should not have	should not have		written				を	書（か）	か	ないほうがよかった
+	should have	should have	should have	been able to	write				を	書（か）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	write				を	書（か）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		written				を	書（か）	い	たはずがない
+step-6	would	would	would		write				を	書（か）	い	ただろう
+	would	would	would	not	write				を	書（か）	か	なかっただろう
+	would	would	would	be able to	write				を	書（か）	く	ことができただろう
+	would	would	would	not be able to	write				を	書（か）	く	ことはできなかっただろう
+	would have	would have	would have		written				を	書（か）	い	たことだろう
+	would not have	would not have	would not have		written				を	書（か）	か	なかったことだろう
+	would have	would have	would have	been able to	write				を	書（か）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	write				を	書（か）	く	ことはできなかったことだろう
+	could have	could have	could have		written				を	書（か）	い	た可能性がある
+	could not have	could not have	could not have		written				を	書（か）	い	た可能性はない
+	might have	might have	might have		written				を	書（か）	い	たかもしれなかった
+	might not have	might not have	might not have		written				を	書（か）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	write				を	書（か）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	write				を	書（か）	く	ことはできなかったかもしれなかった

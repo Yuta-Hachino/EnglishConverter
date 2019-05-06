@@ -1,0 +1,57 @@
+step-1	am	is	are								ことができる
+	am	is	are	not							ことはできない
+	was	was	were								ことができた
+	was	was	were	not							ことはできなかった
+step-2	am	is	are	going to	be						ことができる予定（よてい）だ
+	am	is	are	not going to	be						ことはできる予定（よてい）ではない
+	was	was	were	going to	be						ことができる予定（よてい）だった
+	was	was	were	not going to	be						ことはできる予定（よてい）ではなかった
+	want	wants	want	to	be						ことができていたい
+	do not want	does not want	do not want	to	be						ことはできていたくない
+	wanted	wanted	wanted	to	be						ことができていた
+	did not want	did not want	did not want	to	be						ことはできていなかった
+	have	has	have	to	be						ことができなければいけない
+	do not have	does not have	do not have	to	be						ことはできなくてもいい
+	had	had	had	to	be						ことができなければいけなかった
+	did not have	did not have	did not have	to	be						ことはできなくてもよかった
+step-3	will	will	will		be						ことができるだろう
+	will	will	will	not	be						ことはできないだろう
+	may	may	may		be						ことができるかもしれない
+	may	may	may	not	be						ことはできないかもしれない
+	can	can	can		be						ことができる可能性（かのうせい）がある
+	can	can	can	not	be						ことはできない可能性（かのうせい）がある
+	should	should	should		be						ことができるほうがいい
+	should	should	should	not	be						ことはできないほうがいい
+	should	should	should		be						ことができるはずだ
+	should	should	should	not	be						ことはできないはずだ
+	must	must	must		be						ことができるにちがいない
+	must	must	must	not	be						ことはできてはいけない
+	had better	had better	had better	 	be						ことができるべきだ
+	had better	had better	had better	not	be						ことはできるべきではない
+	will have	will have	will have	to	be						ことができなければいけないだろう
+	will	will	will	not have to	be						ことはできなくてもいいだろう
+	may have	may have	may have	to	be						ことができなければいけないかもしれない
+	may	may	may	not have to	be						ことはできなくてもいいかもしれない
+step-4	have	has	have		been	形容詞			（ずっと）	形容詞	ことができている
+	have	has	have	not	been	形容詞			（ずっと）	形容詞	ことはできていない
+	have	has	have		been	形容詞				形容詞	ことができたことがある
+	have	has	have	not	been	形容詞				形容詞	ことはできたことはない
+	had	had	had		been	形容詞	till then		それまでずっと	形容詞	ことができていた
+	had	had	had	not	been	形容詞	till then		それまでずっと	形容詞	ことはできていなかった
+	had	had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	ことができたことがあった
+	had	had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	ことはできたことはなかった
+step-5	may have	may have	may have		been						ことができたかもしれない
+	may not have	may not have	may not have		been						ことはできなかったかもしれない
+	can not have	can not have	can not have		been						ことができたはずがない
+	should have	should have	should have		been						ことができるほうがよかった
+	should not have	should not have	should not have		been						ことはできないほうがよかった
+	must have	must have	must have		been						ことができたにちがいない
+	must not have	must not have	must not have		been						ことはできなかったにちがいない
+step-6	would	would	would		be						ことができただろう
+	would	would	would	not	be						ことはできなかっただろう
+	would have	would have	would have		been						ことができたことだろう
+	would not have	would not have	would not have		been						ことはできなかったことだろう
+	could have	could have	could have		been						ことができた可能性（かのうせい）がある
+	could not have	could not have	could not have		been						ことはできた可能性（かのうせい）はない
+	might have	might have	might have		been						ことができたかもしれなかった
+	might not have	might not have	might not have		been						ことはできなかったかもしれなかった

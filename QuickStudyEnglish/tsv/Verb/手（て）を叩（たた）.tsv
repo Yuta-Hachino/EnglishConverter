@@ -1,0 +1,130 @@
+step-1	clap	claps	clap							手（て）を叩（たた）	く
+	do	does	do	not	clap					手（て）を叩（たた）	か	ない
+	clapped	clapped	clapped							手（て）を叩（たた）	い	た
+	did	did	did	not	clap					手（て）を叩（たた）	か	なかった
+	am	is	are		clapping					手（て）を叩（たた）	い	ている
+	am	is	are	not	clapping					手（て）を叩（たた）	い	ていない
+	was	was	were		clapping					手（て）を叩（たた）	い	ていた
+	was	was	were	not	clapping					手（て）を叩（たた）	い	ていなかった
+step-2	am	is	are	going to	clap					手（て）を叩（たた）	く	予定（よてい）だ
+	am	is	are	not going to	clap					手（て）を叩（たた）	く	予定（よてい）ではない
+	was	was	were	going to	clap					手（て）を叩（たた）	く	予定（よてい）だった
+	was	was	were	not going to	clap					手（て）を叩（たた）	く	予定（よてい）ではなかった
+	am	is	are	able to	clap					手（て）を叩（たた）	く	ことができる
+	am	is	are	not able to	clap					手（て）を叩（たた）	く	ことはできない
+	was	was	were	able to	clap					手（て）を叩（たた）	く	ことができた
+	was	was	were	not able to	clap					手（て）を叩（たた）	く	ことはできなかった
+	could	could	could	not	clap					手（て）を叩（たた）	く	ことはできなかった
+	want	wants	want	to	clap					手（て）を叩（たた）	き	たい
+	do	does	do	not want to	clap					手（て）を叩（たた）	き	たくない
+	wanted  	wanted  	wanted	to	clap					手（て）を叩（たた）	き	たかった
+	did	did	did	not want to	clap					手（て）を叩（たた）	き	たくなかった
+	want	wants	want	to be	clapping					手（て）を叩（たた）	い	ていたい
+	do	does	do	not want to be	clapping					手（て）を叩（たた）	い	ていたくない
+	wanted  	wanted  	wanted	to be	clapping					手（て）を叩（たた）	い	ていたかった
+	did	did	did	not want to be	clapping					手（て）を叩（たた）	い	ていたくなかった
+	want	wants	want	to be able to	clap					手（て）を叩（たた）	く	ことができるようになりたい
+	do	does	do	not want to be able to	clap					手（て）を叩（たた）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	clap					手（て）を叩（たた）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	clap					手（て）を叩（たた）	く	ことはできるようになりたくなかった
+	have to	has to	have to		clap					手（て）を叩（たた）	か	なければいけない
+	do	does	do	not have to	clap					手（て）を叩（たた）	か	なくてもいい
+	have to	has to	have to	be	clapping					手（て）を叩（たた）	い	ていなければいけない
+	do	does	do	not have to be	clapping					手（て）を叩（たた）	い	ていなくてもいい
+	have to	has to	have to	be able to	clap					手（て）を叩（たた）	く	ことができなければいけない
+	do	does	do	not have to be able to	clap					手（て）を叩（たた）	く	ことはできなくてもいい
+	had to	had to	had to		clap					手（て）を叩（たた）	か	なければいけなかった
+	did	did	did	not have to	clap					手（て）を叩（たた）	か	なくてもよかった
+	had to	had to	had to	be	clapping					手（て）を叩（たた）	い	ていなければいけなかった
+	did	did	did	not have to be	clapping					手（て）を叩（たた）	い	ていなくてもよかった
+	had to	had to	had to	be able to	clap					手（て）を叩（たた）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	clap					手（て）を叩（たた）	く	ことはできなくてもよかった
+step-3	will	will	will		clap					手（て）を叩（たた）	く	だろう
+	will	will	will	not	clap					手（て）を叩（たた）	か	ないだろう
+	will	will	will	be	clapping					手（て）を叩（たた）	い	ているだろう
+	will	will	will	not be	clapping					手（て）を叩（たた）	い	ていないだろう
+	will	will	will	be able to	clap					手（て）を叩（たた）	く	ことができるだろう
+	will	will	will	not be able to	clap					手（て）を叩（たた）	く	ことはできないだろう
+	may	may	may		clap					手（て）を叩（たた）	く	かもしれない
+	may	may	may	not	clap					手（て）を叩（たた）	か	ないかもしれない
+	may	may	may	be	clapping					手（て）を叩（たた）	い	ているかもしれない
+	may	may	may	not be	clapping					手（て）を叩（たた）	い	ていないかもしれない
+	may	may	may	be able to	clap					手（て）を叩（たた）	く	ことができるかもしれない
+	may	may	may	not be able to	clap					手（て）を叩（たた）	く	ことはできないかもしれない
+	can	can	can		clap					手（て）を叩（たた）	く	ことができる
+	can	can	can	not	clap					手（て）を叩（たた）	く	ことはできない
+	should	should	should		clap					手（て）を叩（たた）	く	ほうがいい
+	should	should	should	not	clap					手（て）を叩（たた）	か	ないほうがいい
+	should	should	should	be	clapping					手（て）を叩（たた）	い	ているほうがいい
+	should	should	should	not be	clapping					手（て）を叩（たた）	い	ていないほうがいい
+	should	should	should	be able to	clap					手（て）を叩（たた）	く	ことができるほうがいい
+	should	should	should	not be able to	clap					手（て）を叩（たた）	く	ことはできないほうがいい
+	should	should	should		clap					手（て）を叩（たた）	く	はずだ
+	should	should	should	not	clap					手（て）を叩（たた）	か	ないはずだ
+	should	should	should	be	clapping					手（て）を叩（たた）	い	ているはずだ
+	should	should	should	not be	clapping					手（て）を叩（たた）	い	ていないはずだ
+	should	should	should	be able to	clap					手（て）を叩（たた）	く	ことができるはずだ
+	should	should	should	not be able to	clap					手（て）を叩（たた）	く	ことはできるはずがない
+	had better	had better	had better		clap					手（て）を叩（たた）	く	べきだ
+	had better	had better	had better	not	clap					手（て）を叩（たた）	く	べきではない
+	must	must	must		clap					手（て）を叩（たた）	く	にちがいない
+	must	must	must	not	clap					手（て）を叩（たた）	い	てはいけない
+	must	must	must	be	clapping					手（て）を叩（たた）	い	ているにちがいない
+	must	must	must	not be	clapping					手（て）を叩（たた）	い	ていてはいけない
+	must	must	must	be able to	clap					手（て）を叩（たた）	く	ことができるにちがいない
+	must	must	must	not be able to	clap					手（て）を叩（たた）	く	ことはできてはいけない
+	will	will	will	have to	clap					手（て）を叩（たた）	か	なければいけないだろう
+	will	will	will	not have to	clap					手（て）を叩（たた）	か	なくてもいいだろう
+	will	will	will	have to be	clapping					手（て）を叩（たた）	い	ていなければいけないだろう
+	will	will	will	not have to be	clapping					手（て）を叩（たた）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	clap					手（て）を叩（たた）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	clap					手（て）を叩（たた）	く	ことはできなくてもいいだろう
+	may	may	may	have to	clap					手（て）を叩（たた）	か	なければいけないかもしれない
+	may	may	may	not have to	clap					手（て）を叩（たた）	か	なくてもいいかもしれない
+	may	may	may	have to be	clapping					手（て）を叩（たた）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	clapping					手（て）を叩（たた）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	clap					手（て）を叩（たた）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	clap					手（て）を叩（たた）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		clapped					手（て）を叩（たた）	い	たことがある
+	have	has	have	not	clapped					手（て）を叩（たた）	い	たことはない
+	have	has	have	been	clapping			（ずっと）		手（て）を叩（たた）	い	ている
+	have	has	have	not been	clapping			（ずっと）		手（て）を叩（たた）	い	ていない
+	have	has	have		clapped		already	すでに		手（て）を叩（たた）	い	ている
+	have	has	have	not	clapped		yet	まだ		手（て）を叩（たた）	い	ていない
+	had	had	had		clapped		before that	それ以前（いぜん）		手（て）を叩（たた）	い	たことがあった
+	had	had	had	not	clapped		before that	それ以前（いぜん）		手（て）を叩（たた）	い	たことはなかった
+	had	had	had	been	clapping		till then	それまでずっと		手（て）を叩（たた）	い	ていた
+	had	had	had	not been	clapping		till then	それまでずっと		手（て）を叩（たた）	い	ていなかった
+	had	had	had		clapped		already	すでに		手（て）を叩（たた）	い	ていた
+	had	had	had	not	clapped		yet	まだ		手（て）を叩（たた）	い	ていなかった
+	have	has	have	been able to	clap			（ずっと）		手（て）を叩（たた）	く	ことができている
+	have	has	have	not been able to	clap		yet	まだ		手（て）を叩（たた）	く	ことはできていない
+	had	had	had	been able to	clap		till then	それまでずっと		手（て）を叩（たた）	く	ことができていた
+	had	had	had	not been able to	clap		till then	それまでずっと		手（て）を叩（たた）	く	ことはできていなかった
+step-5	may have	may have	may have		clapped					手（て）を叩（たた）	い	たかもしれない
+	may not have	may not have	may not have		clapped					手（て）を叩（たた）	か	なかったかもしれない
+	may have	may have	may have	been able to	clap					手（て）を叩（たた）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	clap					手（て）を叩（たた）	く	ことはできなかったかもしれない
+	must have	must have	must have		clapped					手（て）を叩（たた）	い	たにちがいない
+	must not have	must not have	must not have		clapped					手（て）を叩（たた）	か	なかったにちがいない
+	must have	must have	must have	been able to	clap					手（て）を叩（たた）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	clap					手（て）を叩（たた）	く	ことはできなかったにちがいない
+	should have	should have	should have		clapped					手（て）を叩（たた）	く	ほうがよかった
+	should not have	should not have	should not have		clapped					手（て）を叩（たた）	か	ないほうがよかった
+	should have	should have	should have	been able to	clap					手（て）を叩（たた）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	clap					手（て）を叩（たた）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		clapped					手（て）を叩（たた）	い	たはずがない
+step-6	would	would	would		clap					手（て）を叩（たた）	い	ただろう
+	would	would	would	not	clap					手（て）を叩（たた）	か	なかっただろう
+	would	would	would	be able to	clap					手（て）を叩（たた）	く	ことができただろう
+	would	would	would	not be able to	clap					手（て）を叩（たた）	く	ことはできなかっただろう
+	would have	would have	would have		clapped					手（て）を叩（たた）	い	たことだろう
+	would not have	would not have	would not have		clapped					手（て）を叩（たた）	か	なかったことだろう
+	would have	would have	would have	been able to	clap					手（て）を叩（たた）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	clap					手（て）を叩（たた）	く	ことはできなかったことだろう
+	could have	could have	could have		clapped					手（て）を叩（たた）	い	た可能性がある
+	could not have	could not have	could not have		clapped					手（て）を叩（たた）	い	た可能性はない
+	might have	might have	might have		clapped					手（て）を叩（たた）	い	たかもしれなかった
+	might not have	might not have	might not have		clapped					手（て）を叩（たた）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	clap					手（て）を叩（たた）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	clap					手（て）を叩（たた）	く	ことはできなかったかもしれなかった

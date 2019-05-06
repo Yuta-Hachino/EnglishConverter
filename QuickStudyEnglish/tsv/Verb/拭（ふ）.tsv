@@ -1,0 +1,130 @@
+step-1	dry	dries	dry						を	拭（ふ）	く
+	do	does	do	not	dry				を	拭（ふ）	か	ない
+	dried	dried	dried						を	拭（ふ）	い	た
+	did	did	did	not	dry				を	拭（ふ）	か	なかった
+	am	is	are		drying				を	拭（ふ）	い	ている
+	am	is	are	not	drying				を	拭（ふ）	い	ていない
+	was	was	were		drying				を	拭（ふ）	い	ていた
+	was	was	were	not	drying				を	拭（ふ）	い	ていなかった
+step-2	am	is	are	going to	dry				を	拭（ふ）	く	予定（よてい）だ
+	am	is	are	not going to	dry				を	拭（ふ）	く	予定（よてい）ではない
+	was	was	were	going to	dry				を	拭（ふ）	く	予定（よてい）だった
+	was	was	were	not going to	dry				を	拭（ふ）	く	予定（よてい）ではなかった
+	am	is	are	able to	dry				を	拭（ふ）	く	ことができる
+	am	is	are	not able to	dry				を	拭（ふ）	く	ことはできない
+	was	was	were	able to	dry				を	拭（ふ）	く	ことができた
+	was	was	were	not able to	dry				を	拭（ふ）	く	ことはできなかった
+	could	could	could	not	dry				を	拭（ふ）	く	ことはできなかった
+	want	wants	want	to	dry				を	拭（ふ）	き	たい
+	do	does	do	not want to	dry				を	拭（ふ）	き	たくない
+	wanted  	wanted  	wanted	to	dry				を	拭（ふ）	き	たかった
+	did	did	did	not want to	dry				を	拭（ふ）	き	たくなかった
+	want	wants	want	to be	drying				を	拭（ふ）	い	ていたい
+	do	does	do	not want to be	drying				を	拭（ふ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	drying				を	拭（ふ）	い	ていたかった
+	did	did	did	not want to be	drying				を	拭（ふ）	い	ていたくなかった
+	want	wants	want	to be able to	dry				を	拭（ふ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	dry				を	拭（ふ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	dry				を	拭（ふ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	dry				を	拭（ふ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		dry				を	拭（ふ）	か	なければいけない
+	do	does	do	not have to	dry				を	拭（ふ）	か	なくてもいい
+	have to	has to	have to	be	drying				を	拭（ふ）	い	ていなければいけない
+	do	does	do	not have to be	drying				を	拭（ふ）	い	ていなくてもいい
+	have to	has to	have to	be able to	dry				を	拭（ふ）	く	ことができなければいけない
+	do	does	do	not have to be able to	dry				を	拭（ふ）	く	ことはできなくてもいい
+	had to	had to	had to		dry				を	拭（ふ）	か	なければいけなかった
+	did	did	did	not have to	dry				を	拭（ふ）	か	なくてもよかった
+	had to	had to	had to	be	drying				を	拭（ふ）	い	ていなければいけなかった
+	did	did	did	not have to be	drying				を	拭（ふ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	dry				を	拭（ふ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	dry				を	拭（ふ）	く	ことはできなくてもよかった
+step-3	will	will	will		dry				を	拭（ふ）	く	だろう
+	will	will	will	not	dry				を	拭（ふ）	か	ないだろう
+	will	will	will	be	drying				を	拭（ふ）	い	ているだろう
+	will	will	will	not be	drying				を	拭（ふ）	い	ていないだろう
+	will	will	will	be able to	dry				を	拭（ふ）	く	ことができるだろう
+	will	will	will	not be able to	dry				を	拭（ふ）	く	ことはできないだろう
+	may	may	may		dry				を	拭（ふ）	く	かもしれない
+	may	may	may	not	dry				を	拭（ふ）	か	ないかもしれない
+	may	may	may	be	drying				を	拭（ふ）	い	ているかもしれない
+	may	may	may	not be	drying				を	拭（ふ）	い	ていないかもしれない
+	may	may	may	be able to	dry				を	拭（ふ）	く	ことができるかもしれない
+	may	may	may	not be able to	dry				を	拭（ふ）	く	ことはできないかもしれない
+	can	can	can		dry				を	拭（ふ）	く	ことができる
+	can	can	can	not	dry				を	拭（ふ）	く	ことはできない
+	should	should	should		dry				を	拭（ふ）	く	ほうがいい
+	should	should	should	not	dry				を	拭（ふ）	か	ないほうがいい
+	should	should	should	be	drying				を	拭（ふ）	い	ているほうがいい
+	should	should	should	not be	drying				を	拭（ふ）	い	ていないほうがいい
+	should	should	should	be able to	dry				を	拭（ふ）	く	ことができるほうがいい
+	should	should	should	not be able to	dry				を	拭（ふ）	く	ことはできないほうがいい
+	should	should	should		dry				を	拭（ふ）	く	はずだ
+	should	should	should	not	dry				を	拭（ふ）	か	ないはずだ
+	should	should	should	be	drying				を	拭（ふ）	い	ているはずだ
+	should	should	should	not be	drying				を	拭（ふ）	い	ていないはずだ
+	should	should	should	be able to	dry				を	拭（ふ）	く	ことができるはずだ
+	should	should	should	not be able to	dry				を	拭（ふ）	く	ことはできるはずがない
+	had better	had better	had better		dry				を	拭（ふ）	く	べきだ
+	had better	had better	had better	not	dry				を	拭（ふ）	く	べきではない
+	must	must	must		dry				を	拭（ふ）	く	にちがいない
+	must	must	must	not	dry				を	拭（ふ）	い	てはいけない
+	must	must	must	be	drying				を	拭（ふ）	い	ているにちがいない
+	must	must	must	not be	drying				を	拭（ふ）	い	ていてはいけない
+	must	must	must	be able to	dry				を	拭（ふ）	く	ことができるにちがいない
+	must	must	must	not be able to	dry				を	拭（ふ）	く	ことはできてはいけない
+	will	will	will	have to	dry				を	拭（ふ）	か	なければいけないだろう
+	will	will	will	not have to	dry				を	拭（ふ）	か	なくてもいいだろう
+	will	will	will	have to be	drying				を	拭（ふ）	い	ていなければいけないだろう
+	will	will	will	not have to be	drying				を	拭（ふ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	dry				を	拭（ふ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	dry				を	拭（ふ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	dry				を	拭（ふ）	か	なければいけないかもしれない
+	may	may	may	not have to	dry				を	拭（ふ）	か	なくてもいいかもしれない
+	may	may	may	have to be	drying				を	拭（ふ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	drying				を	拭（ふ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	dry				を	拭（ふ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	dry				を	拭（ふ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		dried				を	拭（ふ）	い	たことがある
+	have	has	have	not	dried				を	拭（ふ）	い	たことはない
+	have	has	have	been	drying			（ずっと）	を	拭（ふ）	い	ている
+	have	has	have	not been	drying			（ずっと）	を	拭（ふ）	い	ていない
+	have	has	have		dried		already	すでに	を	拭（ふ）	い	ている
+	have	has	have	not	dried		yet	まだ	を	拭（ふ）	い	ていない
+	had	had	had		dried		before that	それ以前（いぜん）	を	拭（ふ）	い	たことがあった
+	had	had	had	not	dried		before that	それ以前（いぜん）	を	拭（ふ）	い	たことはなかった
+	had	had	had	been	drying		till then	それまでずっと	を	拭（ふ）	い	ていた
+	had	had	had	not been	drying		till then	それまでずっと	を	拭（ふ）	い	ていなかった
+	had	had	had		dried		already	すでに	を	拭（ふ）	い	ていた
+	had	had	had	not	dried		yet	まだ	を	拭（ふ）	い	ていなかった
+	have	has	have	been able to	dry			（ずっと）	を	拭（ふ）	く	ことができている
+	have	has	have	not been able to	dry		yet	まだ	を	拭（ふ）	く	ことはできていない
+	had	had	had	been able to	dry		till then	それまでずっと	を	拭（ふ）	く	ことができていた
+	had	had	had	not been able to	dry		till then	それまでずっと	を	拭（ふ）	く	ことはできていなかった
+step-5	may have	may have	may have		dried				を	拭（ふ）	い	たかもしれない
+	may not have	may not have	may not have		dried				を	拭（ふ）	か	なかったかもしれない
+	may have	may have	may have	been able to	dry				を	拭（ふ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	dry				を	拭（ふ）	く	ことはできなかったかもしれない
+	must have	must have	must have		dried				を	拭（ふ）	い	たにちがいない
+	must not have	must not have	must not have		dried				を	拭（ふ）	か	なかったにちがいない
+	must have	must have	must have	been able to	dry				を	拭（ふ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	dry				を	拭（ふ）	く	ことはできなかったにちがいない
+	should have	should have	should have		dried				を	拭（ふ）	く	ほうがよかった
+	should not have	should not have	should not have		dried				を	拭（ふ）	か	ないほうがよかった
+	should have	should have	should have	been able to	dry				を	拭（ふ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	dry				を	拭（ふ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		dried				を	拭（ふ）	い	たはずがない
+step-6	would	would	would		dry				を	拭（ふ）	い	ただろう
+	would	would	would	not	dry				を	拭（ふ）	か	なかっただろう
+	would	would	would	be able to	dry				を	拭（ふ）	く	ことができただろう
+	would	would	would	not be able to	dry				を	拭（ふ）	く	ことはできなかっただろう
+	would have	would have	would have		dried				を	拭（ふ）	い	たことだろう
+	would not have	would not have	would not have		dried				を	拭（ふ）	か	なかったことだろう
+	would have	would have	would have	been able to	dry				を	拭（ふ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	dry				を	拭（ふ）	く	ことはできなかったことだろう
+	could have	could have	could have		dried				を	拭（ふ）	い	た可能性がある
+	could not have	could not have	could not have		dried				を	拭（ふ）	い	た可能性はない
+	might have	might have	might have		dried				を	拭（ふ）	い	たかもしれなかった
+	might not have	might not have	might not have		dried				を	拭（ふ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	dry				を	拭（ふ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	dry				を	拭（ふ）	く	ことはできなかったかもしれなかった

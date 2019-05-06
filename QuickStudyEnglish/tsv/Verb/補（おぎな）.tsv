@@ -1,0 +1,130 @@
+step-1	make up for	makes up for	make up for						を	補（おぎな）	う
+	do	does	do	not	make up for				を	補（おぎな）	わ	ない
+	made up for	made up for	made up for						を	補（おぎな）	っ	た
+	did	did	did	not	make up for				を	補（おぎな）	わ	なかった
+	am	is	are		making up for				を	補（おぎな）	っ	ている
+	am	is	are	not	making up for				を	補（おぎな）	っ	ていない
+	was	was	were		making up for				を	補（おぎな）	っ	ていた
+	was	was	were	not	making up for				を	補（おぎな）	っ	ていなかった
+step-2	am	is	are	going to	make up for				を	補（おぎな）	う	予定（よてい）だ
+	am	is	are	not going to	make up for				を	補（おぎな）	う	予定（よてい）ではない
+	was	was	were	going to	make up for				を	補（おぎな）	う	予定（よてい）だった
+	was	was	were	not going to	make up for				を	補（おぎな）	う	予定（よてい）ではなかった
+	am	is	are	able to	make up for				を	補（おぎな）	う	ことができる
+	am	is	are	not able to	make up for				を	補（おぎな）	う	ことはできない
+	was	was	were	able to	make up for				を	補（おぎな）	う	ことができた
+	was	was	were	not able to	make up for				を	補（おぎな）	う	ことはできなかった
+	could	could	could	not	make up for				を	補（おぎな）	う	ことはできなかった
+	want	wants	want	to	make up for				を	補（おぎな）	い	たい
+	do	does	do	not want to	make up for				を	補（おぎな）	い	たくない
+	wanted  	wanted  	wanted	to	make up for				を	補（おぎな）	い	たかった
+	did	did	did	not want to	make up for				を	補（おぎな）	い	たくなかった
+	want	wants	want	to be	making up for				を	補（おぎな）	っ	ていたい
+	do	does	do	not want to be	making up for				を	補（おぎな）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	making up for				を	補（おぎな）	っ	ていたかった
+	did	did	did	not want to be	making up for				を	補（おぎな）	っ	ていたくなかった
+	want	wants	want	to be able to	make up for				を	補（おぎな）	う	ことができるようになりたい
+	do	does	do	not want to be able to	make up for				を	補（おぎな）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	make up for				を	補（おぎな）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	make up for				を	補（おぎな）	う	ことはできるようになりたくなかった
+	have to	has to	have to		make up for				を	補（おぎな）	わ	なければいけない
+	do	does	do	not have to	make up for				を	補（おぎな）	わ	なくてもいい
+	have to	has to	have to	be	making up for				を	補（おぎな）	っ	ていなければいけない
+	do	does	do	not have to be	making up for				を	補（おぎな）	っ	ていなくてもいい
+	have to	has to	have to	be able to	make up for				を	補（おぎな）	う	ことができなければいけない
+	do	does	do	not have to be able to	make up for				を	補（おぎな）	う	ことはできなくてもいい
+	had to	had to	had to		make up for				を	補（おぎな）	わ	なければいけなかった
+	did	did	did	not have to	make up for				を	補（おぎな）	わ	なくてもよかった
+	had to	had to	had to	be	making up for				を	補（おぎな）	っ	ていなければいけなかった
+	did	did	did	not have to be	making up for				を	補（おぎな）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	make up for				を	補（おぎな）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	make up for				を	補（おぎな）	う	ことはできなくてもよかった
+step-3	will	will	will		make up for				を	補（おぎな）	う	だろう
+	will	will	will	not	make up for				を	補（おぎな）	わ	ないだろう
+	will	will	will	be	making up for				を	補（おぎな）	っ	ているだろう
+	will	will	will	not be	making up for				を	補（おぎな）	っ	ていないだろう
+	will	will	will	be able to	make up for				を	補（おぎな）	う	ことができるだろう
+	will	will	will	not be able to	make up for				を	補（おぎな）	う	ことはできないだろう
+	may	may	may		make up for				を	補（おぎな）	う	かもしれない
+	may	may	may	not	make up for				を	補（おぎな）	わ	ないかもしれない
+	may	may	may	be	making up for				を	補（おぎな）	っ	ているかもしれない
+	may	may	may	not be	making up for				を	補（おぎな）	っ	ていないかもしれない
+	may	may	may	be able to	make up for				を	補（おぎな）	う	ことができるかもしれない
+	may	may	may	not be able to	make up for				を	補（おぎな）	う	ことはできないかもしれない
+	can	can	can		make up for				を	補（おぎな）	う	ことができる
+	can	can	can	not	make up for				を	補（おぎな）	う	ことはできない
+	should	should	should		make up for				を	補（おぎな）	う	ほうがいい
+	should	should	should	not	make up for				を	補（おぎな）	わ	ないほうがいい
+	should	should	should	be	making up for				を	補（おぎな）	っ	ているほうがいい
+	should	should	should	not be	making up for				を	補（おぎな）	っ	ていないほうがいい
+	should	should	should	be able to	make up for				を	補（おぎな）	う	ことができるほうがいい
+	should	should	should	not be able to	make up for				を	補（おぎな）	う	ことはできないほうがいい
+	should	should	should		make up for				を	補（おぎな）	う	はずだ
+	should	should	should	not	make up for				を	補（おぎな）	わ	ないはずだ
+	should	should	should	be	making up for				を	補（おぎな）	っ	ているはずだ
+	should	should	should	not be	making up for				を	補（おぎな）	っ	ていないはずだ
+	should	should	should	be able to	make up for				を	補（おぎな）	う	ことができるはずだ
+	should	should	should	not be able to	make up for				を	補（おぎな）	う	ことはできるはずがない
+	had better	had better	had better		make up for				を	補（おぎな）	う	べきだ
+	had better	had better	had better	not	make up for				を	補（おぎな）	う	べきではない
+	must	must	must		make up for				を	補（おぎな）	う	にちがいない
+	must	must	must	not	make up for				を	補（おぎな）	っ	てはいけない
+	must	must	must	be	making up for				を	補（おぎな）	っ	ているにちがいない
+	must	must	must	not be	making up for				を	補（おぎな）	っ	ていてはいけない
+	must	must	must	be able to	make up for				を	補（おぎな）	う	ことができるにちがいない
+	must	must	must	not be able to	make up for				を	補（おぎな）	う	ことはできてはいけない
+	will	will	will	have to	make up for				を	補（おぎな）	わ	なければいけないだろう
+	will	will	will	not have to	make up for				を	補（おぎな）	わ	なくてもいいだろう
+	will	will	will	have to be	making up for				を	補（おぎな）	っ	ていなければいけないだろう
+	will	will	will	not have to be	making up for				を	補（おぎな）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	make up for				を	補（おぎな）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	make up for				を	補（おぎな）	う	ことはできなくてもいいだろう
+	may	may	may	have to	make up for				を	補（おぎな）	わ	なければいけないかもしれない
+	may	may	may	not have to	make up for				を	補（おぎな）	わ	なくてもいいかもしれない
+	may	may	may	have to be	making up for				を	補（おぎな）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	making up for				を	補（おぎな）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	make up for				を	補（おぎな）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	make up for				を	補（おぎな）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		made up for				を	補（おぎな）	っ	たことがある
+	have	has	have	not	made up for				を	補（おぎな）	っ	たことはない
+	have	has	have	been	making up for			（ずっと）	を	補（おぎな）	っ	ている
+	have	has	have	not been	making up for			（ずっと）	を	補（おぎな）	っ	ていない
+	have	has	have		made up for		already	すでに	を	補（おぎな）	っ	ている
+	have	has	have	not	made up for		yet	まだ	を	補（おぎな）	っ	ていない
+	had	had	had		made up for		before that	それ以前（いぜん）	を	補（おぎな）	っ	たことがあった
+	had	had	had	not	made up for		before that	それ以前（いぜん）	を	補（おぎな）	っ	たことはなかった
+	had	had	had	been	making up for		till then	それまでずっと	を	補（おぎな）	っ	ていた
+	had	had	had	not been	making up for		till then	それまでずっと	を	補（おぎな）	っ	ていなかった
+	had	had	had		made up for		already	すでに	を	補（おぎな）	っ	ていた
+	had	had	had	not	made up for		yet	まだ	を	補（おぎな）	っ	ていなかった
+	have	has	have	been able to	make up for			（ずっと）	を	補（おぎな）	う	ことができている
+	have	has	have	not been able to	make up for		yet	まだ	を	補（おぎな）	う	ことはできていない
+	had	had	had	been able to	make up for		till then	それまでずっと	を	補（おぎな）	う	ことができていた
+	had	had	had	not been able to	make up for		till then	それまでずっと	を	補（おぎな）	う	ことはできていなかった
+step-5	may have	may have	may have		made up for				を	補（おぎな）	っ	たかもしれない
+	may not have	may not have	may not have		made up for				を	補（おぎな）	わ	なかったかもしれない
+	may have	may have	may have	been able to	make up for				を	補（おぎな）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	make up for				を	補（おぎな）	う	ことはできなかったかもしれない
+	must have	must have	must have		made up for				を	補（おぎな）	っ	たにちがいない
+	must not have	must not have	must not have		made up for				を	補（おぎな）	わ	なかったにちがいない
+	must have	must have	must have	been able to	make up for				を	補（おぎな）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	make up for				を	補（おぎな）	う	ことはできなかったにちがいない
+	should have	should have	should have		made up for				を	補（おぎな）	う	ほうがよかった
+	should not have	should not have	should not have		made up for				を	補（おぎな）	わ	ないほうがよかった
+	should have	should have	should have	been able to	make up for				を	補（おぎな）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	make up for				を	補（おぎな）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		made up for				を	補（おぎな）	っ	たはずがない
+step-6	would	would	would		make up for				を	補（おぎな）	っ	ただろう
+	would	would	would	not	make up for				を	補（おぎな）	わ	なかっただろう
+	would	would	would	be able to	make up for				を	補（おぎな）	う	ことができただろう
+	would	would	would	not be able to	make up for				を	補（おぎな）	う	ことはできなかっただろう
+	would have	would have	would have		made up for				を	補（おぎな）	っ	たことだろう
+	would not have	would not have	would not have		made up for				を	補（おぎな）	わ	なかったことだろう
+	would have	would have	would have	been able to	make up for				を	補（おぎな）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	make up for				を	補（おぎな）	う	ことはできなかったことだろう
+	could have	could have	could have		made up for				を	補（おぎな）	っ	た可能性がある
+	could not have	could not have	could not have		made up for				を	補（おぎな）	っ	た可能性はない
+	might have	might have	might have		made up for				を	補（おぎな）	っ	たかもしれなかった
+	might not have	might not have	might not have		made up for				を	補（おぎな）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	make up for				を	補（おぎな）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	make up for				を	補（おぎな）	う	ことはできなかったかもしれなかった

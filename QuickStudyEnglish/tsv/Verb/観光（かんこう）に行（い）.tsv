@@ -1,0 +1,130 @@
+step-1	go	goes	go		sightseeing	in			での	観光（かんこう）に行（い）	く
+	do	does	do	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	ない
+	went	went	went		sightseeing	in			での	観光（かんこう）に行（い）	っ	た
+	did	did	did	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	なかった
+	am	is	are		going sightseeing	in			での	観光（かんこう）に行（い）	っ	ている
+	am	is	are	not	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていない
+	was	was	were		going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていた
+	was	was	were	not	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなかった
+step-2	am	is	are	going to	go sightseeing	in			での	観光（かんこう）に行（い）	く	予定（よてい）だ
+	am	is	are	not going to	go sightseeing	in			での	観光（かんこう）に行（い）	く	予定（よてい）ではない
+	was	was	were	going to	go sightseeing	in			での	観光（かんこう）に行（い）	く	予定（よてい）だった
+	was	was	were	not going to	go sightseeing	in			での	観光（かんこう）に行（い）	く	予定（よてい）ではなかった
+	am	is	are	able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができる
+	am	is	are	not able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできない
+	was	was	were	able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができた
+	was	was	were	not able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかった
+	could	could	could	not	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかった
+	want	wants	want	to	go sightseeing	in			での	観光（かんこう）に行（い）	き	たい
+	do	does	do	not want to	go sightseeing	in			での	観光（かんこう）に行（い）	き	たくない
+	wanted  	wanted  	wanted	to	go sightseeing	in			での	観光（かんこう）に行（い）	き	たかった
+	did	did	did	not want to	go sightseeing	in			での	観光（かんこう）に行（い）	き	たくなかった
+	want	wants	want	to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていたい
+	do	does	do	not want to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていたかった
+	did	did	did	not want to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていたくなかった
+	want	wants	want	to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるようになりたい
+	do	does	do	not want to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできるようになりたくなかった
+	have to	has to	have to		go sightseeing	in			での	観光（かんこう）に行（い）	か	なければいけない
+	do	does	do	not have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なくてもいい
+	have to	has to	have to	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなければいけない
+	do	does	do	not have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなくてもいい
+	have to	has to	have to	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができなければいけない
+	do	does	do	not have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなくてもいい
+	had to	had to	had to		go sightseeing	in			での	観光（かんこう）に行（い）	か	なければいけなかった
+	did	did	did	not have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なくてもよかった
+	had to	had to	had to	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなければいけなかった
+	did	did	did	not have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなくてもよかった
+step-3	will	will	will		go sightseeing	in			での	観光（かんこう）に行（い）	く	だろう
+	will	will	will	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	ないだろう
+	will	will	will	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ているだろう
+	will	will	will	not be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていないだろう
+	will	will	will	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるだろう
+	will	will	will	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできないだろう
+	may	may	may		go sightseeing	in			での	観光（かんこう）に行（い）	く	かもしれない
+	may	may	may	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	ないかもしれない
+	may	may	may	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ているかもしれない
+	may	may	may	not be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていないかもしれない
+	may	may	may	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるかもしれない
+	may	may	may	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできないかもしれない
+	can	can	can		go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができる
+	can	can	can	not	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできない
+	should	should	should		go sightseeing	in			での	観光（かんこう）に行（い）	く	ほうがいい
+	should	should	should	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	ないほうがいい
+	should	should	should	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ているほうがいい
+	should	should	should	not be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていないほうがいい
+	should	should	should	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるほうがいい
+	should	should	should	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできないほうがいい
+	should	should	should		go sightseeing	in			での	観光（かんこう）に行（い）	く	はずだ
+	should	should	should	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	ないはずだ
+	should	should	should	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ているはずだ
+	should	should	should	not be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていないはずだ
+	should	should	should	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるはずだ
+	should	should	should	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできるはずがない
+	had better	had better	had better		go sightseeing	in			での	観光（かんこう）に行（い）	く	べきだ
+	had better	had better	had better	not	go sightseeing	in			での	観光（かんこう）に行（い）	く	べきではない
+	must	must	must		go sightseeing	in			での	観光（かんこう）に行（い）	く	にちがいない
+	must	must	must	not	go sightseeing	in			での	観光（かんこう）に行（い）	っ	てはいけない
+	must	must	must	be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ているにちがいない
+	must	must	must	not be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていてはいけない
+	must	must	must	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるにちがいない
+	must	must	must	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできてはいけない
+	will	will	will	have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なければいけないだろう
+	will	will	will	not have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なくてもいいだろう
+	will	will	will	have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなければいけないだろう
+	will	will	will	not have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなくてもいいだろう
+	may	may	may	have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なければいけないかもしれない
+	may	may	may	not have to	go sightseeing	in			での	観光（かんこう）に行（い）	か	なくてもいいかもしれない
+	may	may	may	have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	going sightseeing	in			での	観光（かんこう）に行（い）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たことがある
+	have	has	have	not	gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たことはない
+	have	has	have	been	going sightseeing	in		（ずっと）	での	観光（かんこう）に行（い）	っ	ている
+	have	has	have	not been	going sightseeing	in		（ずっと）	での	観光（かんこう）に行（い）	っ	ていない
+	have	has	have		gone sightseeing	in	already	すでに	での	観光（かんこう）に行（い）	っ	ている
+	have	has	have	not	gone sightseeing	in	yet	まだ	での	観光（かんこう）に行（い）	っ	ていない
+	had	had	had		gone sightseeing	in	before that	それ以前（いぜん）	での	観光（かんこう）に行（い）	っ	たことがあった
+	had	had	had	not	gone sightseeing	in	before that	それ以前（いぜん）	での	観光（かんこう）に行（い）	っ	たことはなかった
+	had	had	had	been	going sightseeing	in	till then	それまでずっと	での	観光（かんこう）に行（い）	っ	ていた
+	had	had	had	not been	going sightseeing	in	till then	それまでずっと	での	観光（かんこう）に行（い）	っ	ていなかった
+	had	had	had		gone sightseeing	in	already	すでに	での	観光（かんこう）に行（い）	っ	ていた
+	had	had	had	not	gone sightseeing	in	yet	まだ	での	観光（かんこう）に行（い）	っ	ていなかった
+	have	has	have	been able to	go sightseeing	in		（ずっと）	での	観光（かんこう）に行（い）	く	ことができている
+	have	has	have	not been able to	go sightseeing	in	yet	まだ	での	観光（かんこう）に行（い）	く	ことはできていない
+	had	had	had	been able to	go sightseeing	in	till then	それまでずっと	での	観光（かんこう）に行（い）	く	ことができていた
+	had	had	had	not been able to	go sightseeing	in	till then	それまでずっと	での	観光（かんこう）に行（い）	く	ことはできていなかった
+step-5	may have	may have	may have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たかもしれない
+	may not have	may not have	may not have		gone sightseeing	in			での	観光（かんこう）に行（い）	か	なかったかもしれない
+	may have	may have	may have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかったかもしれない
+	must have	must have	must have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たにちがいない
+	must not have	must not have	must not have		gone sightseeing	in			での	観光（かんこう）に行（い）	か	なかったにちがいない
+	must have	must have	must have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかったにちがいない
+	should have	should have	should have		gone sightseeing	in			での	観光（かんこう）に行（い）	く	ほうがよかった
+	should not have	should not have	should not have		gone sightseeing	in			での	観光（かんこう）に行（い）	か	ないほうがよかった
+	should have	should have	should have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たはずがない
+step-6	would	would	would		go sightseeing	in			での	観光（かんこう）に行（い）	っ	ただろう
+	would	would	would	not	go sightseeing	in			での	観光（かんこう）に行（い）	か	なかっただろう
+	would	would	would	be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができただろう
+	would	would	would	not be able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかっただろう
+	would have	would have	would have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たことだろう
+	would not have	would not have	would not have		gone sightseeing	in			での	観光（かんこう）に行（い）	か	なかったことだろう
+	would have	would have	would have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかったことだろう
+	could have	could have	could have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	た可能性がある
+	could not have	could not have	could not have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	た可能性はない
+	might have	might have	might have		gone sightseeing	in			での	観光（かんこう）に行（い）	っ	たかもしれなかった
+	might not have	might not have	might not have		gone sightseeing	in			での	観光（かんこう）に行（い）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	go sightseeing	in			での	観光（かんこう）に行（い）	く	ことはできなかったかもしれなかった

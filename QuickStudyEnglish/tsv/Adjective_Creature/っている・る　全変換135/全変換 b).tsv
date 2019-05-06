@@ -1,0 +1,135 @@
+step-1	am	is	are								っている
+	am	is	are	not							っていない
+	was	was	were								っていた
+	was	was	were	not							っていなかった
+	become	becomes	become								る
+	do	does	do	not	become						らない
+	became	became	became								った
+	did	did	did	not	become						らなかった
+	am	is	are		becoming						ってきている
+	am	is	are	not	becoming						ってきていない
+	was	was	were		becoming						ってきていた
+	was	was	were	not	becoming						ってきていなかった
+step-2	am	is	are	going to	be						っている予定（よてい）だ
+	am	is	are	not going to	be						っている予定（よてい）ではない
+	am	is	are	going to	become						る予定（よてい）だ
+	am	is	are	not going to	become						る予定（よてい）ではない
+	was	was	were	going to	be						っている予定（よてい）だった
+	was	was	were	not going to	be						っている予定（よてい）ではなかった
+	was	was	were	going to	become						る予定（よてい）だった
+	was	was	were	not going to	become						る予定（よてい）ではなかった
+	am	is	are	able to	become						ることができる
+	am	is	are	not able to	become						ることはできない
+	was	was	were	able to	become						ることができた
+	was	was	were	not able to	become						ることはできなかった
+				could not	become						ることはできなかった
+	am	is	are	supposed to	become						ることになっている
+	am	is	are	not supposed to	become						ってはいけない
+	was	was	were	supposed to	become						ることになっていた
+	was	was	were	not supposed to	become						ってはいけなかった
+	want	wants	want	to	be						っていたい
+	do not want	does not want	do not want	to	be						っていたくない
+	wanted	wanted	wanted	to	be						っていたかった
+	did not want	did not want	did not want	to	be						っていたくなかった
+	want	wants	want	to	become						りたい
+	do not want	does not want	do not want	to	become						りたくない
+	wanted	wanted	wanted	to	become						りたかった
+	did not want	did not want	did not want	to	become						りたくなかった
+	have	has	have	to	be						っていなければいけない
+	do not have	does not have	do not have	to	be						っていなくてもいい
+	had	had	had	to	be						っていなければいけなかった
+	did not have	did not have	did not have	to	be						っていなくてもよかった
+	have	has	have	to	become						らなければいけない
+	do not have	does not have	do not have	to	become						らなくてもいい
+	had	had	had	to	become						らなければいけなかった
+	did not have	did not have	did not have	to	become						らなくてもよかった
+step-3	will	will	will		be						っているだろう
+	will	will	will	not	be						っていないだろう
+	will	will	will		become						るだろう
+	will	will	will	not	become						らないだろう
+	will	will	will	be able to	become						ることができるだろう
+	will	will	will	not be able to	become						ることはできないだろう
+	may	may	may		be						っているかもしれない
+	may	may	may	not	be						っていないかもしれない
+	may	may	may		become						るかもしれない
+	may	may	may	not	become						らないかもしれない
+	may	may	may	be able to	become						ることができるかもしれない
+	may	may	may	not be able to	become						ることはできないかもしれない
+	can	can	can		be						っている可能性（かのうせい）がある
+	can	can	can	not	be						っている可能性（かのうせい）はない
+	can	can	can		become						ることができる
+	can	can	can	not	become						ることはできない
+	should	should	should		be						っているほうがいい
+	should	should	should	not	be						っていないほうがいい
+	should	should	should		become						るほうがいい
+	should	should	should	not	become						らないほうがいい
+	should	should	should		be						っているはずだ
+	should	should	should	not	be						っているはずではない
+	should	should	should		become						るはずだ
+	should	should	should	not	become						らないはずだ
+	should	should	should	be able to	become						ることができるはずだ
+	should	should	should	not be able to	become						ることができるはずがない
+	must	must	must		be						っているにちがいない
+	must	must	must	not	be						っていてはいけない
+	must	must	must		become						るにちがいない
+	must	must	must	not	become						ってはいけない
+	must	must	must	be able to	become						ることができるにちがいない
+	must	must	must	not be able to	become						ることができないにちがいない
+	had better	had better	had better		be						っているべきだ
+	had better	had better	had better	not	be						っているべきではない
+	had better	had better	had better		become						るべきだ
+	had better	had better	had better	not	become						るべきではない
+	will have	will have	will have	to	be						っていなければいけないだろう
+	will not have	will not have	will not have	to	be						っていなくてもいいだろう
+	will have	will have	will have	to	become						らなければいけないだろう
+	will not have	will not have	will not have	to	become						らなくてもいいだろう
+	will have	will have	will have	to be able to	become						ることができなければいけないだろう
+	will not have	will not have	will not have	to be able to	become						ることができなくてもいいだろう
+	may have	may have	may have	to	be						っていなければいけないかもしれない
+	may not have	may not have	may not have	to	be						っていなくてもいいかもしれない
+	may have	may have	may have	to	become						らなければいけないかもしれない
+	may not have	may not have	may not have	to	become						らなくてもいいかもしれない
+	may have	may have	may have	to be able to	become						ることができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	become						ることができなくてもいいかもしれない
+step-4	have	has	have		been				（ずっと）	形容詞	っている
+	have	has	have	not	been				（ずっと）	形容詞	っていない
+	have	has	have		been						っていたことがある
+	have	has	have	not	been						っていたことはない
+	have	has	have		become						ったことがある
+	have	has	have	not	become						ったことはない
+	had	had	had		been		till then		それまでずっと	形容詞	っていた
+	had	had	had	not	been		till then		それまでずっと	形容詞	っていなかった
+	had	had	had		been		before that		それ以前（いぜん）	形容詞	っていたことがあった
+	had	had	had	not	been		before that		それ以前（いぜん）	形容詞	っていたことはなかった
+	had	had	had		become		before that		それ以前（いぜん）	形容詞	ったことがあった
+	had	had	had	not	become		before that		それ以前（いぜん）	形容詞	ったことはなかった
+step-5	may have	may have	may have		been						っていたかもしれない
+	may not have	may not have	may not have		been						っていなかったかもしれない
+	may have	may have	may have		become						ったかもしれない
+	may not have	may not have	may not have		become						らなかったかもしれない
+	can not have	can not have	can not have		been						っていたはずがない
+	can not have	can not have	can not have		become						ったはずがない
+	should have	should have	should have		been						っているほうがよかった
+	should not have	should not have	should not have		been						っていないほうがよかった
+	should have	should have	should have		become						るほうがよかった
+	should not have	should not have	should not have		become						らないほうがよかった
+	must have	must have	must have		been						っていたにちがいない
+	must not have	must not have	must not have		been						っていなかったにちがいない
+	must have	must have	must have		become						ったにちがいない
+	must not have	must not have	must not have		become						らなかったにちがいない
+step-6	would	would	would		be						っていただろう
+	would	would	would	not	be						っていなかっただろう
+	would	would	would		become						っただろう
+	would	would	would	not	become						らなかっただろう
+	would have	would have	would have		been						っていたことだろう
+	would not have	would not have	would not have		been						っていなかったことだろう
+	would have	would have	would have		become						ったことだろう
+	would not have	would not have	would not have		become						らなかったことだろう
+	could have	could have	could have		been						っていた可能性（かのうせい）がある
+	could not have	could not have	could not have		been						っていた可能性（かのうせい）はない
+	could have	could have	could have		become						った可能性（かのうせい）がある
+	could not have	could not have	could not have		become						った可能性（かのうせい）はない
+	might have	might have	might have		been						っていたかもしれなかった
+	might not have	might not have	might not have		been						っていなかったかもしれなかった
+	might have	might have	might have		become						ったかもしれなかった
+	might not have	might not have	might not have		become						らなかったかもしれなかった

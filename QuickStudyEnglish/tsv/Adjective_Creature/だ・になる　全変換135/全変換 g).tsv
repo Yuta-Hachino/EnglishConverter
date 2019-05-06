@@ -1,0 +1,135 @@
+step-1	am	is	are								だ
+	am	is	are	not							ではない
+	was	was	were								だった
+	was	was	were	not							ではなかった
+	get	gets	get								になる
+	do	does	do	not	get						にならない
+	got	got	got								になった
+	did	did	did	not	get						にならなかった
+	am	is	are		getting						になってきている
+	am	is	are	not	getting						になってきていない
+	was	was	were		getting						になってきていた
+	was	was	were	not	getting						になってきていなかった
+step-2	am	is	are	going to	be						でいる予定（よてい）だ
+	am	is	are	not going to	be						でいる予定（よてい）ではない
+	am	is	are	going to	get						になる予定（よてい）だ
+	am	is	are	not going to	get						になる予定（よてい）ではない
+	was	was	were	going to	be						でいる予定（よてい）だった
+	was	was	were	not going to	be						でいる予定（よてい）ではなかった
+	was	was	were	going to	get						になる予定（よてい）だった
+	was	was	were	not going to	get						になる予定（よてい）ではなかった
+	am	is	are	able to	get						になることができる
+	am	is	are	not able to	get						になることができない
+	was	was	were	able to	get						になることができた
+	was	was	were	not able to	get						になることができなかった
+				could not	get						になることはできなかった
+	am	is	are	supposed to	get						になることになっている
+	am	is	are	not supposed to	get						になってはいけない
+	was	was	were	supposed to	get						になることになっていた
+	was	was	were	not supposed to	get						になってはいけなかった
+	want	wants	want	to	be						でいたい
+	do not want	does not want	do not want	to	be						でいたくない
+	wanted	wanted	wanted	to	be						でいたかった
+	did not want	did not want	did not want	to	be						でいたくなかった
+	want	wants	want	to	get						になりたい
+	do not want	does not want	do not want	to	get						になりたくない
+	wanted	wanted	wanted	to	get						になりたかった
+	did not want	did not want	did not want	to	get						になりたくなかった
+	have	has	have	to	be						でいなければいけない
+	do not have	does not have	do not have	to	be						でいなくてもいい
+	had	had	had	to	be						でいなければいけなかった
+	did not have	did not have	did not have	to	be						でいなくてもよかった
+	have	has	have	to	get						にならなければいけない
+	do not have	does not have	do not have	to	get						にならなくてもいい
+	had	had	had	to	get						にならなければいけなかった
+	did not have	did not have	did not have	to	get						にならなくてもよかった
+step-3	will	will	will		be						だろう
+	will	will	will	not	be						ではないだろう
+	will	will	will		get						になるだろう
+	will	will	will	not	get						にならないだろう
+	will	will	will	be able to	get						になることができるだろう
+	will	will	will	not be able to	get						になることができないだろう
+	may	may	may		be						かもしれない
+	may	may	may	not	be						ではないかもしれない
+	may	may	may		get						になるかもしれない
+	may	may	may	not	get						にならないかもしれない
+	may	may	may	be able to	get						になることができるかもしれない
+	may	may	may	not be able to	get						になることはできないかもしれない
+	can	can	can		be						の可能性（かのうせい）がある
+	can	can	can	not	be						の可能性（かのうせい）はない
+	can	can	can		get						になることができる
+	can	can	can	not	get						になることはできない
+	should	should	should		be						のほうがいい
+	should	should	should	not	be						ではないほうがいい
+	should	should	should		get						になるほうがいい
+	should	should	should	not	get						にならないほうがいい
+	should	should	should		be						のはずだ
+	should	should	should	not	be						のはずではない
+	should	should	should		get						になるはずだ
+	should	should	should	not	get						にならないはずだ
+	should	should	should	be able to	get						になれるはずだ
+	should	should	should	not be able to	get						になれるはずがない
+	must	must	must		be						にちがいない
+	must	must	must	not	be						でいてはいけない
+	must	must	must		get						になるにちがいない
+	must	must	must	not	get						になってはいけない
+	must	must	must	be able to	get						になれるにちがいない
+	must	must	must	not be able to	get						になれないにちがいない
+	had better	had better	had better		be						でいるべきだ
+	had better	had better	had better	not	be						でいるべきではない
+	had better	had better	had better		get						になるべきだ
+	had better	had better	had better	not	get						になるべきではない
+	will have	will have	will have	to	be						でいなければいけないだろう
+	will not have	will not have	will not have	to	be						でいなくてもいいだろう
+	will have	will have	will have	to	get						にならなければいけないだろう
+	will not have	will not have	will not have	to	get						にならなくてもいいだろう
+	will have	will have	will have	to be able to	get						になることができるだろう
+	will not have	will not have	will not have	to be able to	get						になることはできなくてもいいだろう
+	may have	may have	may have	to	be						でいなければいけないかもしれない
+	may not have	may not have	may not have	to	be						でいなくてもいいかもしれない
+	may have	may have	may have	to	get						にならなければいけないかもしれない
+	may not have	may not have	may not have	to	get						にならなくてもいいかもしれない
+	may have	may have	may have	to be able to	get						になることができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	get						になることはできなくてもいいかもしれない
+step-4	have	has	have		been				（ずっと）	形容詞	だ
+	have	has	have	not	been				（ずっと）	形容詞	ではない
+	have	has	have		been						だったことがある
+	have	has	have	not	been						だったことはない
+	have	has	have		gotten						になったことがある
+	have	has	have	not	gotten						になったことはない
+	had	had	had		been		till then		それまでずっと	形容詞	だった
+	had	had	had	not	been		till then		それまでずっと	形容詞	ではなかった
+	had	had	had		been		before that		それ以前（いぜん）	形容詞	だったことがあった
+	had	had	had	not	been		before that		それ以前（いぜん）	形容詞	だったことはなかった
+	had	had	had		gotten		before that		それ以前（いぜん）	形容詞	になったことがあった
+	had	had	had	not	gotten		before that		それ以前（いぜん）	形容詞	になったことはなかった
+step-5	may have	may have	may have		been						だったかもしれない
+	may not have	may not have	may not have		been						ではなかったかもしれない
+	may have	may have	may have		gotten						になったかもしれない
+	may not have	may not have	may not have		gotten						にならなかったかもしれない
+	can not have	can not have	can not have		been						だったはずがない
+	can not have	can not have	can not have		gotten						になったはずがない
+	should have	should have	should have		been						のほうがよかった
+	should not have	should not have	should not have		been						でないほうがよかった
+	should have	should have	should have		gotten						になるほうがよかった
+	should not have	should not have	should not have		gotten						にならないほうがよかった
+	must have	must have	must have		been						だったにちがいない
+	must not have	must not have	must not have		been						でなかったにちがいない
+	must have	must have	must have		gotten						になったにちがいない
+	must not have	must not have	must not have		gotten						にならなかったにちがいない
+step-6	would	would	would		be						だっただろう
+	would	would	would	not	be						ではなかっただろう
+	would	would	would		get						になっただろう
+	would	would	would	not	get						にならなかっただろう
+	would have	would have	would have		been						だったことだろう
+	would not have	would not have	would not have		been						でなかったことだろう
+	would have	would have	would have		gotten						になったことだろう
+	would not have	would not have	would not have		gotten						にならなかったことだろう
+	could have	could have	could have		been						だった可能性（かのうせい）がある
+	could not have	could not have	could not have		been						だった可能性（かのうせい）はない
+	could have	could have	could have		gotten						になった可能性（かのうせい）がある
+	could not have	could not have	could not have		gotten						になった可能性（かのうせい）はない
+	might have	might have	might have		been						だったかもしれなかった
+	might not have	might not have	might not have		been						ではなかったかもしれなかった
+	might have	might have	might have		gotten						になったかもしれなかった
+	might not have	might not have	might not have		gotten						にならなかったかもしれなかった

@@ -1,0 +1,29 @@
+I	私は	わたしは	First	Creature
+We	私たちは	わたしたちは	ThirdMulti	Creature
+You	あなたは	あなたは	Second	Creature
+You	あなたたちは	あなたたちは	ThirdMulti	Creature
+He	彼は	かれは	ThirdSingle	Creature
+She	彼女は	かのじょは	ThirdSingle	Creature
+They	彼らは	かれらは	ThirdMulti	Creature
+They	彼女たちは	かれらは	ThirdMulti	Creature
+This	これは		ThirdSingle	InAnimateObject
+That	あれは		ThirdSingle	InAnimateObject
+It	それは		ThirdSingle	InAnimateObjectt
+These	これらは		ThirdMulti	InAnimateObject
+Those	あれらは		ThirdMulti	InAnimateObject
+They	それらは		ThirdMulti	InAnimateObject
+It	（天気）		ThirdSingle	InAnimateObject
+I	私が	わたしが	First	Creature
+We	私たちが	わたしたちが	ThirdMulti	Creature
+You	あなたが	あなたが	Second	Creature
+You	あなたたちが	あなたたちが	ThirdMulti	Creature
+He	彼が	かれが	ThirdSingle	Creature
+She	彼女が	かのじょが	ThirdSingle	Creature
+They	彼らが	かれらが	ThirdMulti	Creature
+They	彼女たちが	かれらが	ThirdMulti	Creature
+This	これが		ThirdSingle	InAnimateObject
+That	あれが		ThirdSingle	InAnimateObject
+It	それが		ThirdSingle	InAnimateObject
+These	これらが		ThirdMulti	InAnimateObject
+Those	あれらが		ThirdMulti	InAnimateObject
+They	それらが		ThirdMulti	InAnimateObject

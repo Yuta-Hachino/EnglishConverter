@@ -1,0 +1,130 @@
+step-1	handle	handles	handle						を	扱（あつか）	う
+	do	does	do	not	handle				を	扱（あつか）	わ	ない
+	handled	handled	handled						を	扱（あつか）	っ	た
+	did	did	did	not	handle				を	扱（あつか）	わ	なかった
+	am	is	are		handling				を	扱（あつか）	っ	ている
+	am	is	are	not	handling				を	扱（あつか）	っ	ていない
+	was	was	were		handling				を	扱（あつか）	っ	ていた
+	was	was	were	not	handling				を	扱（あつか）	っ	ていなかった
+step-2	am	is	are	going to	handle				を	扱（あつか）	う	予定（よてい）だ
+	am	is	are	not going to	handle				を	扱（あつか）	う	予定（よてい）ではない
+	was	was	were	going to	handle				を	扱（あつか）	う	予定（よてい）だった
+	was	was	were	not going to	handle				を	扱（あつか）	う	予定（よてい）ではなかった
+	am	is	are	able to	handle				を	扱（あつか）	う	ことができる
+	am	is	are	not able to	handle				を	扱（あつか）	う	ことはできない
+	was	was	were	able to	handle				を	扱（あつか）	う	ことができた
+	was	was	were	not able to	handle				を	扱（あつか）	う	ことはできなかった
+	could	could	could	not	handle				を	扱（あつか）	う	ことはできなかった
+	want	wants	want	to	handle				を	扱（あつか）	い	たい
+	do	does	do	not want to	handle				を	扱（あつか）	い	たくない
+	wanted  	wanted  	wanted	to	handle				を	扱（あつか）	い	たかった
+	did	did	did	not want to	handle				を	扱（あつか）	い	たくなかった
+	want	wants	want	to be	handling				を	扱（あつか）	っ	ていたい
+	do	does	do	not want to be	handling				を	扱（あつか）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	handling				を	扱（あつか）	っ	ていたかった
+	did	did	did	not want to be	handling				を	扱（あつか）	っ	ていたくなかった
+	want	wants	want	to be able to	handle				を	扱（あつか）	う	ことができるようになりたい
+	do	does	do	not want to be able to	handle				を	扱（あつか）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	handle				を	扱（あつか）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	handle				を	扱（あつか）	う	ことはできるようになりたくなかった
+	have to	has to	have to		handle				を	扱（あつか）	わ	なければいけない
+	do	does	do	not have to	handle				を	扱（あつか）	わ	なくてもいい
+	have to	has to	have to	be	handling				を	扱（あつか）	っ	ていなければいけない
+	do	does	do	not have to be	handling				を	扱（あつか）	っ	ていなくてもいい
+	have to	has to	have to	be able to	handle				を	扱（あつか）	う	ことができなければいけない
+	do	does	do	not have to be able to	handle				を	扱（あつか）	う	ことはできなくてもいい
+	had to	had to	had to		handle				を	扱（あつか）	わ	なければいけなかった
+	did	did	did	not have to	handle				を	扱（あつか）	わ	なくてもよかった
+	had to	had to	had to	be	handling				を	扱（あつか）	っ	ていなければいけなかった
+	did	did	did	not have to be	handling				を	扱（あつか）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	handle				を	扱（あつか）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	handle				を	扱（あつか）	う	ことはできなくてもよかった
+step-3	will	will	will		handle				を	扱（あつか）	う	だろう
+	will	will	will	not	handle				を	扱（あつか）	わ	ないだろう
+	will	will	will	be	handling				を	扱（あつか）	っ	ているだろう
+	will	will	will	not be	handling				を	扱（あつか）	っ	ていないだろう
+	will	will	will	be able to	handle				を	扱（あつか）	う	ことができるだろう
+	will	will	will	not be able to	handle				を	扱（あつか）	う	ことはできないだろう
+	may	may	may		handle				を	扱（あつか）	う	かもしれない
+	may	may	may	not	handle				を	扱（あつか）	わ	ないかもしれない
+	may	may	may	be	handling				を	扱（あつか）	っ	ているかもしれない
+	may	may	may	not be	handling				を	扱（あつか）	っ	ていないかもしれない
+	may	may	may	be able to	handle				を	扱（あつか）	う	ことができるかもしれない
+	may	may	may	not be able to	handle				を	扱（あつか）	う	ことはできないかもしれない
+	can	can	can		handle				を	扱（あつか）	う	ことができる
+	can	can	can	not	handle				を	扱（あつか）	う	ことはできない
+	should	should	should		handle				を	扱（あつか）	う	ほうがいい
+	should	should	should	not	handle				を	扱（あつか）	わ	ないほうがいい
+	should	should	should	be	handling				を	扱（あつか）	っ	ているほうがいい
+	should	should	should	not be	handling				を	扱（あつか）	っ	ていないほうがいい
+	should	should	should	be able to	handle				を	扱（あつか）	う	ことができるほうがいい
+	should	should	should	not be able to	handle				を	扱（あつか）	う	ことはできないほうがいい
+	should	should	should		handle				を	扱（あつか）	う	はずだ
+	should	should	should	not	handle				を	扱（あつか）	わ	ないはずだ
+	should	should	should	be	handling				を	扱（あつか）	っ	ているはずだ
+	should	should	should	not be	handling				を	扱（あつか）	っ	ていないはずだ
+	should	should	should	be able to	handle				を	扱（あつか）	う	ことができるはずだ
+	should	should	should	not be able to	handle				を	扱（あつか）	う	ことはできるはずがない
+	had better	had better	had better		handle				を	扱（あつか）	う	べきだ
+	had better	had better	had better	not	handle				を	扱（あつか）	う	べきではない
+	must	must	must		handle				を	扱（あつか）	う	にちがいない
+	must	must	must	not	handle				を	扱（あつか）	っ	てはいけない
+	must	must	must	be	handling				を	扱（あつか）	っ	ているにちがいない
+	must	must	must	not be	handling				を	扱（あつか）	っ	ていてはいけない
+	must	must	must	be able to	handle				を	扱（あつか）	う	ことができるにちがいない
+	must	must	must	not be able to	handle				を	扱（あつか）	う	ことはできてはいけない
+	will	will	will	have to	handle				を	扱（あつか）	わ	なければいけないだろう
+	will	will	will	not have to	handle				を	扱（あつか）	わ	なくてもいいだろう
+	will	will	will	have to be	handling				を	扱（あつか）	っ	ていなければいけないだろう
+	will	will	will	not have to be	handling				を	扱（あつか）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	handle				を	扱（あつか）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	handle				を	扱（あつか）	う	ことはできなくてもいいだろう
+	may	may	may	have to	handle				を	扱（あつか）	わ	なければいけないかもしれない
+	may	may	may	not have to	handle				を	扱（あつか）	わ	なくてもいいかもしれない
+	may	may	may	have to be	handling				を	扱（あつか）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	handling				を	扱（あつか）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	handle				を	扱（あつか）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	handle				を	扱（あつか）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		handled				を	扱（あつか）	っ	たことがある
+	have	has	have	not	handled				を	扱（あつか）	っ	たことはない
+	have	has	have	been	handling			（ずっと）	を	扱（あつか）	っ	ている
+	have	has	have	not been	handling			（ずっと）	を	扱（あつか）	っ	ていない
+	have	has	have		handled		already	すでに	を	扱（あつか）	っ	ている
+	have	has	have	not	handled		yet	まだ	を	扱（あつか）	っ	ていない
+	had	had	had		handled		before that	それ以前（いぜん）	を	扱（あつか）	っ	たことがあった
+	had	had	had	not	handled		before that	それ以前（いぜん）	を	扱（あつか）	っ	たことはなかった
+	had	had	had	been	handling		till then	それまでずっと	を	扱（あつか）	っ	ていた
+	had	had	had	not been	handling		till then	それまでずっと	を	扱（あつか）	っ	ていなかった
+	had	had	had		handled		already	すでに	を	扱（あつか）	っ	ていた
+	had	had	had	not	handled		yet	まだ	を	扱（あつか）	っ	ていなかった
+	have	has	have	been able to	handle			（ずっと）	を	扱（あつか）	う	ことができている
+	have	has	have	not been able to	handle		yet	まだ	を	扱（あつか）	う	ことはできていない
+	had	had	had	been able to	handle		till then	それまでずっと	を	扱（あつか）	う	ことができていた
+	had	had	had	not been able to	handle		till then	それまでずっと	を	扱（あつか）	う	ことはできていなかった
+step-5	may have	may have	may have		handled				を	扱（あつか）	っ	たかもしれない
+	may not have	may not have	may not have		handled				を	扱（あつか）	わ	なかったかもしれない
+	may have	may have	may have	been able to	handle				を	扱（あつか）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	handle				を	扱（あつか）	う	ことはできなかったかもしれない
+	must have	must have	must have		handled				を	扱（あつか）	っ	たにちがいない
+	must not have	must not have	must not have		handled				を	扱（あつか）	わ	なかったにちがいない
+	must have	must have	must have	been able to	handle				を	扱（あつか）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	handle				を	扱（あつか）	う	ことはできなかったにちがいない
+	should have	should have	should have		handled				を	扱（あつか）	う	ほうがよかった
+	should not have	should not have	should not have		handled				を	扱（あつか）	わ	ないほうがよかった
+	should have	should have	should have	been able to	handle				を	扱（あつか）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	handle				を	扱（あつか）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		handled				を	扱（あつか）	っ	たはずがない
+step-6	would	would	would		handle				を	扱（あつか）	っ	ただろう
+	would	would	would	not	handle				を	扱（あつか）	わ	なかっただろう
+	would	would	would	be able to	handle				を	扱（あつか）	う	ことができただろう
+	would	would	would	not be able to	handle				を	扱（あつか）	う	ことはできなかっただろう
+	would have	would have	would have		handled				を	扱（あつか）	っ	たことだろう
+	would not have	would not have	would not have		handled				を	扱（あつか）	わ	なかったことだろう
+	would have	would have	would have	been able to	handle				を	扱（あつか）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	handle				を	扱（あつか）	う	ことはできなかったことだろう
+	could have	could have	could have		handled				を	扱（あつか）	っ	た可能性がある
+	could not have	could not have	could not have		handled				を	扱（あつか）	っ	た可能性はない
+	might have	might have	might have		handled				を	扱（あつか）	っ	たかもしれなかった
+	might not have	might not have	might not have		handled				を	扱（あつか）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	handle				を	扱（あつか）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	handle				を	扱（あつか）	う	ことはできなかったかもしれなかった

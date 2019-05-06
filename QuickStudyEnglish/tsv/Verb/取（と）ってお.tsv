@@ -1,0 +1,130 @@
+step-1	save	saves	save						を	取（と）ってお	く
+	do	does	do	not	save				を	取（と）ってお	か	ない
+	saved	saved	saved						を	取（と）ってお	い	た
+	did	did	did	not	save				を	取（と）ってお	か	なかった
+	am	is	are		saving				を	取（と）ってお	い	ている
+	am	is	are	not	saving				を	取（と）ってお	い	ていない
+	was	was	were		saving				を	取（と）ってお	い	ていた
+	was	was	were	not	saving				を	取（と）ってお	い	ていなかった
+step-2	am	is	are	going to	save				を	取（と）ってお	く	予定（よてい）だ
+	am	is	are	not going to	save				を	取（と）ってお	く	予定（よてい）ではない
+	was	was	were	going to	save				を	取（と）ってお	く	予定（よてい）だった
+	was	was	were	not going to	save				を	取（と）ってお	く	予定（よてい）ではなかった
+	am	is	are	able to	save				を	取（と）ってお	く	ことができる
+	am	is	are	not able to	save				を	取（と）ってお	く	ことはできない
+	was	was	were	able to	save				を	取（と）ってお	く	ことができた
+	was	was	were	not able to	save				を	取（と）ってお	く	ことはできなかった
+	could	could	could	not	save				を	取（と）ってお	く	ことはできなかった
+	want	wants	want	to	save				を	取（と）ってお	き	たい
+	do	does	do	not want to	save				を	取（と）ってお	き	たくない
+	wanted  	wanted  	wanted	to	save				を	取（と）ってお	き	たかった
+	did	did	did	not want to	save				を	取（と）ってお	き	たくなかった
+	want	wants	want	to be	saving				を	取（と）ってお	い	ていたい
+	do	does	do	not want to be	saving				を	取（と）ってお	い	ていたくない
+	wanted  	wanted  	wanted	to be	saving				を	取（と）ってお	い	ていたかった
+	did	did	did	not want to be	saving				を	取（と）ってお	い	ていたくなかった
+	want	wants	want	to be able to	save				を	取（と）ってお	く	ことができるようになりたい
+	do	does	do	not want to be able to	save				を	取（と）ってお	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	save				を	取（と）ってお	く	ことができるようになりたかった
+	did	did	did	not want to be able to	save				を	取（と）ってお	く	ことはできるようになりたくなかった
+	have to	has to	have to		save				を	取（と）ってお	か	なければいけない
+	do	does	do	not have to	save				を	取（と）ってお	か	なくてもいい
+	have to	has to	have to	be	saving				を	取（と）ってお	い	ていなければいけない
+	do	does	do	not have to be	saving				を	取（と）ってお	い	ていなくてもいい
+	have to	has to	have to	be able to	save				を	取（と）ってお	く	ことができなければいけない
+	do	does	do	not have to be able to	save				を	取（と）ってお	く	ことはできなくてもいい
+	had to	had to	had to		save				を	取（と）ってお	か	なければいけなかった
+	did	did	did	not have to	save				を	取（と）ってお	か	なくてもよかった
+	had to	had to	had to	be	saving				を	取（と）ってお	い	ていなければいけなかった
+	did	did	did	not have to be	saving				を	取（と）ってお	い	ていなくてもよかった
+	had to	had to	had to	be able to	save				を	取（と）ってお	く	ことができなければいけなかった
+	did	did	did	not have to be able to	save				を	取（と）ってお	く	ことはできなくてもよかった
+step-3	will	will	will		save				を	取（と）ってお	く	だろう
+	will	will	will	not	save				を	取（と）ってお	か	ないだろう
+	will	will	will	be	saving				を	取（と）ってお	い	ているだろう
+	will	will	will	not be	saving				を	取（と）ってお	い	ていないだろう
+	will	will	will	be able to	save				を	取（と）ってお	く	ことができるだろう
+	will	will	will	not be able to	save				を	取（と）ってお	く	ことはできないだろう
+	may	may	may		save				を	取（と）ってお	く	かもしれない
+	may	may	may	not	save				を	取（と）ってお	か	ないかもしれない
+	may	may	may	be	saving				を	取（と）ってお	い	ているかもしれない
+	may	may	may	not be	saving				を	取（と）ってお	い	ていないかもしれない
+	may	may	may	be able to	save				を	取（と）ってお	く	ことができるかもしれない
+	may	may	may	not be able to	save				を	取（と）ってお	く	ことはできないかもしれない
+	can	can	can		save				を	取（と）ってお	く	ことができる
+	can	can	can	not	save				を	取（と）ってお	く	ことはできない
+	should	should	should		save				を	取（と）ってお	く	ほうがいい
+	should	should	should	not	save				を	取（と）ってお	か	ないほうがいい
+	should	should	should	be	saving				を	取（と）ってお	い	ているほうがいい
+	should	should	should	not be	saving				を	取（と）ってお	い	ていないほうがいい
+	should	should	should	be able to	save				を	取（と）ってお	く	ことができるほうがいい
+	should	should	should	not be able to	save				を	取（と）ってお	く	ことはできないほうがいい
+	should	should	should		save				を	取（と）ってお	く	はずだ
+	should	should	should	not	save				を	取（と）ってお	か	ないはずだ
+	should	should	should	be	saving				を	取（と）ってお	い	ているはずだ
+	should	should	should	not be	saving				を	取（と）ってお	い	ていないはずだ
+	should	should	should	be able to	save				を	取（と）ってお	く	ことができるはずだ
+	should	should	should	not be able to	save				を	取（と）ってお	く	ことはできるはずがない
+	had better	had better	had better		save				を	取（と）ってお	く	べきだ
+	had better	had better	had better	not	save				を	取（と）ってお	く	べきではない
+	must	must	must		save				を	取（と）ってお	く	にちがいない
+	must	must	must	not	save				を	取（と）ってお	い	てはいけない
+	must	must	must	be	saving				を	取（と）ってお	い	ているにちがいない
+	must	must	must	not be	saving				を	取（と）ってお	い	ていてはいけない
+	must	must	must	be able to	save				を	取（と）ってお	く	ことができるにちがいない
+	must	must	must	not be able to	save				を	取（と）ってお	く	ことはできてはいけない
+	will	will	will	have to	save				を	取（と）ってお	か	なければいけないだろう
+	will	will	will	not have to	save				を	取（と）ってお	か	なくてもいいだろう
+	will	will	will	have to be	saving				を	取（と）ってお	い	ていなければいけないだろう
+	will	will	will	not have to be	saving				を	取（と）ってお	い	ていなくてもいいだろう
+	will	will	will	have to be able to	save				を	取（と）ってお	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	save				を	取（と）ってお	く	ことはできなくてもいいだろう
+	may	may	may	have to	save				を	取（と）ってお	か	なければいけないかもしれない
+	may	may	may	not have to	save				を	取（と）ってお	か	なくてもいいかもしれない
+	may	may	may	have to be	saving				を	取（と）ってお	い	ていなければいけないかもしれない
+	may	may	may	not have to be	saving				を	取（と）ってお	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	save				を	取（と）ってお	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	save				を	取（と）ってお	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		saved				を	取（と）ってお	い	たことがある
+	have	has	have	not	saved				を	取（と）ってお	い	たことはない
+	have	has	have	been	saving			（ずっと）	を	取（と）ってお	い	ている
+	have	has	have	not been	saving			（ずっと）	を	取（と）ってお	い	ていない
+	have	has	have		saved		already	すでに	を	取（と）ってお	い	ている
+	have	has	have	not	saved		yet	まだ	を	取（と）ってお	い	ていない
+	had	had	had		saved		before that	それ以前（いぜん）	を	取（と）ってお	い	たことがあった
+	had	had	had	not	saved		before that	それ以前（いぜん）	を	取（と）ってお	い	たことはなかった
+	had	had	had	been	saving		till then	それまでずっと	を	取（と）ってお	い	ていた
+	had	had	had	not been	saving		till then	それまでずっと	を	取（と）ってお	い	ていなかった
+	had	had	had		saved		already	すでに	を	取（と）ってお	い	ていた
+	had	had	had	not	saved		yet	まだ	を	取（と）ってお	い	ていなかった
+	have	has	have	been able to	save			（ずっと）	を	取（と）ってお	く	ことができている
+	have	has	have	not been able to	save		yet	まだ	を	取（と）ってお	く	ことはできていない
+	had	had	had	been able to	save		till then	それまでずっと	を	取（と）ってお	く	ことができていた
+	had	had	had	not been able to	save		till then	それまでずっと	を	取（と）ってお	く	ことはできていなかった
+step-5	may have	may have	may have		saved				を	取（と）ってお	い	たかもしれない
+	may not have	may not have	may not have		saved				を	取（と）ってお	か	なかったかもしれない
+	may have	may have	may have	been able to	save				を	取（と）ってお	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	save				を	取（と）ってお	く	ことはできなかったかもしれない
+	must have	must have	must have		saved				を	取（と）ってお	い	たにちがいない
+	must not have	must not have	must not have		saved				を	取（と）ってお	か	なかったにちがいない
+	must have	must have	must have	been able to	save				を	取（と）ってお	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	save				を	取（と）ってお	く	ことはできなかったにちがいない
+	should have	should have	should have		saved				を	取（と）ってお	く	ほうがよかった
+	should not have	should not have	should not have		saved				を	取（と）ってお	か	ないほうがよかった
+	should have	should have	should have	been able to	save				を	取（と）ってお	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	save				を	取（と）ってお	く	ことはできないほうがよかった
+	can not have	can not have	can not have		saved				を	取（と）ってお	い	たはずがない
+step-6	would	would	would		save				を	取（と）ってお	い	ただろう
+	would	would	would	not	save				を	取（と）ってお	か	なかっただろう
+	would	would	would	be able to	save				を	取（と）ってお	く	ことができただろう
+	would	would	would	not be able to	save				を	取（と）ってお	く	ことはできなかっただろう
+	would have	would have	would have		saved				を	取（と）ってお	い	たことだろう
+	would not have	would not have	would not have		saved				を	取（と）ってお	か	なかったことだろう
+	would have	would have	would have	been able to	save				を	取（と）ってお	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	save				を	取（と）ってお	く	ことはできなかったことだろう
+	could have	could have	could have		saved				を	取（と）ってお	い	た可能性がある
+	could not have	could not have	could not have		saved				を	取（と）ってお	い	た可能性はない
+	might have	might have	might have		saved				を	取（と）ってお	い	たかもしれなかった
+	might not have	might not have	might not have		saved				を	取（と）ってお	か	なかったかもしれなかった
+	might have	might have	might have	been able to	save				を	取（と）ってお	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	save				を	取（と）ってお	く	ことはできなかったかもしれなかった

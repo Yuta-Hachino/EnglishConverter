@@ -1,0 +1,130 @@
+step-1	pick	picks	pick			up			を	拾（ひろ）	う
+	do	does	do	not	pick	up			を	拾（ひろ）	わ	ない
+	picked	picked	picked			up			を	拾（ひろ）	っ	た
+	did	did	did	not	pick	up			を	拾（ひろ）	わ	なかった
+	am	is	are		picking	up			を	拾（ひろ）	っ	ている
+	am	is	are	not	picking	up			を	拾（ひろ）	っ	ていない
+	was	was	were		picking	up			を	拾（ひろ）	っ	ていた
+	was	was	were	not	picking	up			を	拾（ひろ）	っ	ていなかった
+step-2	am	is	are	going to	pick	up			を	拾（ひろ）	う	予定（よてい）だ
+	am	is	are	not going to	pick	up			を	拾（ひろ）	う	予定（よてい）ではない
+	was	was	were	going to	pick	up			を	拾（ひろ）	う	予定（よてい）だった
+	was	was	were	not going to	pick	up			を	拾（ひろ）	う	予定（よてい）ではなかった
+	am	is	are	able to	pick	up			を	拾（ひろ）	う	ことができる
+	am	is	are	not able to	pick	up			を	拾（ひろ）	う	ことはできない
+	was	was	were	able to	pick	up			を	拾（ひろ）	う	ことができた
+	was	was	were	not able to	pick	up			を	拾（ひろ）	う	ことはできなかった
+	could	could	could	not	pick	up			を	拾（ひろ）	う	ことはできなかった
+	want	wants	want	to	pick	up			を	拾（ひろ）	い	たい
+	do	does	do	not want to	pick	up			を	拾（ひろ）	い	たくない
+	wanted  	wanted  	wanted	to	pick	up			を	拾（ひろ）	い	たかった
+	did	did	did	not want to	pick	up			を	拾（ひろ）	い	たくなかった
+	want	wants	want	to be	picking	up			を	拾（ひろ）	っ	ていたい
+	do	does	do	not want to be	picking	up			を	拾（ひろ）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	picking	up			を	拾（ひろ）	っ	ていたかった
+	did	did	did	not want to be	picking	up			を	拾（ひろ）	っ	ていたくなかった
+	want	wants	want	to be able to	pick	up			を	拾（ひろ）	う	ことができるようになりたい
+	do	does	do	not want to be able to	pick	up			を	拾（ひろ）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	pick	up			を	拾（ひろ）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	pick	up			を	拾（ひろ）	う	ことはできるようになりたくなかった
+	have to	has to	have to		pick	up			を	拾（ひろ）	わ	なければいけない
+	do	does	do	not have to	pick	up			を	拾（ひろ）	わ	なくてもいい
+	have to	has to	have to	be	picking	up			を	拾（ひろ）	っ	ていなければいけない
+	do	does	do	not have to be	picking	up			を	拾（ひろ）	っ	ていなくてもいい
+	have to	has to	have to	be able to	pick	up			を	拾（ひろ）	う	ことができなければいけない
+	do	does	do	not have to be able to	pick	up			を	拾（ひろ）	う	ことはできなくてもいい
+	had to	had to	had to		pick	up			を	拾（ひろ）	わ	なければいけなかった
+	did	did	did	not have to	pick	up			を	拾（ひろ）	わ	なくてもよかった
+	had to	had to	had to	be	picking	up			を	拾（ひろ）	っ	ていなければいけなかった
+	did	did	did	not have to be	picking	up			を	拾（ひろ）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	pick	up			を	拾（ひろ）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	pick	up			を	拾（ひろ）	う	ことはできなくてもよかった
+step-3	will	will	will		pick	up			を	拾（ひろ）	う	だろう
+	will	will	will	not	pick	up			を	拾（ひろ）	わ	ないだろう
+	will	will	will	be	picking	up			を	拾（ひろ）	っ	ているだろう
+	will	will	will	not be	picking	up			を	拾（ひろ）	っ	ていないだろう
+	will	will	will	be able to	pick	up			を	拾（ひろ）	う	ことができるだろう
+	will	will	will	not be able to	pick	up			を	拾（ひろ）	う	ことはできないだろう
+	may	may	may		pick	up			を	拾（ひろ）	う	かもしれない
+	may	may	may	not	pick	up			を	拾（ひろ）	わ	ないかもしれない
+	may	may	may	be	picking	up			を	拾（ひろ）	っ	ているかもしれない
+	may	may	may	not be	picking	up			を	拾（ひろ）	っ	ていないかもしれない
+	may	may	may	be able to	pick	up			を	拾（ひろ）	う	ことができるかもしれない
+	may	may	may	not be able to	pick	up			を	拾（ひろ）	う	ことはできないかもしれない
+	can	can	can		pick	up			を	拾（ひろ）	う	ことができる
+	can	can	can	not	pick	up			を	拾（ひろ）	う	ことはできない
+	should	should	should		pick	up			を	拾（ひろ）	う	ほうがいい
+	should	should	should	not	pick	up			を	拾（ひろ）	わ	ないほうがいい
+	should	should	should	be	picking	up			を	拾（ひろ）	っ	ているほうがいい
+	should	should	should	not be	picking	up			を	拾（ひろ）	っ	ていないほうがいい
+	should	should	should	be able to	pick	up			を	拾（ひろ）	う	ことができるほうがいい
+	should	should	should	not be able to	pick	up			を	拾（ひろ）	う	ことはできないほうがいい
+	should	should	should		pick	up			を	拾（ひろ）	う	はずだ
+	should	should	should	not	pick	up			を	拾（ひろ）	わ	ないはずだ
+	should	should	should	be	picking	up			を	拾（ひろ）	っ	ているはずだ
+	should	should	should	not be	picking	up			を	拾（ひろ）	っ	ていないはずだ
+	should	should	should	be able to	pick	up			を	拾（ひろ）	う	ことができるはずだ
+	should	should	should	not be able to	pick	up			を	拾（ひろ）	う	ことはできるはずがない
+	had better	had better	had better		pick	up			を	拾（ひろ）	う	べきだ
+	had better	had better	had better	not	pick	up			を	拾（ひろ）	う	べきではない
+	must	must	must		pick	up			を	拾（ひろ）	う	にちがいない
+	must	must	must	not	pick	up			を	拾（ひろ）	っ	てはいけない
+	must	must	must	be	picking	up			を	拾（ひろ）	っ	ているにちがいない
+	must	must	must	not be	picking	up			を	拾（ひろ）	っ	ていてはいけない
+	must	must	must	be able to	pick	up			を	拾（ひろ）	う	ことができるにちがいない
+	must	must	must	not be able to	pick	up			を	拾（ひろ）	う	ことはできてはいけない
+	will	will	will	have to	pick	up			を	拾（ひろ）	わ	なければいけないだろう
+	will	will	will	not have to	pick	up			を	拾（ひろ）	わ	なくてもいいだろう
+	will	will	will	have to be	picking	up			を	拾（ひろ）	っ	ていなければいけないだろう
+	will	will	will	not have to be	picking	up			を	拾（ひろ）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	pick	up			を	拾（ひろ）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	pick	up			を	拾（ひろ）	う	ことはできなくてもいいだろう
+	may	may	may	have to	pick	up			を	拾（ひろ）	わ	なければいけないかもしれない
+	may	may	may	not have to	pick	up			を	拾（ひろ）	わ	なくてもいいかもしれない
+	may	may	may	have to be	picking	up			を	拾（ひろ）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	picking	up			を	拾（ひろ）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	pick	up			を	拾（ひろ）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	pick	up			を	拾（ひろ）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		picked	up			を	拾（ひろ）	っ	たことがある
+	have	has	have	not	picked	up			を	拾（ひろ）	っ	たことはない
+	have	has	have	been	picking	up		（ずっと）	を	拾（ひろ）	っ	ている
+	have	has	have	not been	picking	up		（ずっと）	を	拾（ひろ）	っ	ていない
+	have	has	have		picked	up	already	すでに	を	拾（ひろ）	っ	ている
+	have	has	have	not	picked	up	yet	まだ	を	拾（ひろ）	っ	ていない
+	had	had	had		picked	up	before that	それ以前（いぜん）	を	拾（ひろ）	っ	たことがあった
+	had	had	had	not	picked	up	before that	それ以前（いぜん）	を	拾（ひろ）	っ	たことはなかった
+	had	had	had	been	picking	up	till then	それまでずっと	を	拾（ひろ）	っ	ていた
+	had	had	had	not been	picking	up	till then	それまでずっと	を	拾（ひろ）	っ	ていなかった
+	had	had	had		picked	up	already	すでに	を	拾（ひろ）	っ	ていた
+	had	had	had	not	picked	up	yet	まだ	を	拾（ひろ）	っ	ていなかった
+	have	has	have	been able to	pick	up		（ずっと）	を	拾（ひろ）	う	ことができている
+	have	has	have	not been able to	pick	up	yet	まだ	を	拾（ひろ）	う	ことはできていない
+	had	had	had	been able to	pick	up	till then	それまでずっと	を	拾（ひろ）	う	ことができていた
+	had	had	had	not been able to	pick	up	till then	それまでずっと	を	拾（ひろ）	う	ことはできていなかった
+step-5	may have	may have	may have		picked	up			を	拾（ひろ）	っ	たかもしれない
+	may not have	may not have	may not have		picked	up			を	拾（ひろ）	わ	なかったかもしれない
+	may have	may have	may have	been able to	pick	up			を	拾（ひろ）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	pick	up			を	拾（ひろ）	う	ことはできなかったかもしれない
+	must have	must have	must have		picked	up			を	拾（ひろ）	っ	たにちがいない
+	must not have	must not have	must not have		picked	up			を	拾（ひろ）	わ	なかったにちがいない
+	must have	must have	must have	been able to	pick	up			を	拾（ひろ）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	pick	up			を	拾（ひろ）	う	ことはできなかったにちがいない
+	should have	should have	should have		picked	up			を	拾（ひろ）	う	ほうがよかった
+	should not have	should not have	should not have		picked	up			を	拾（ひろ）	わ	ないほうがよかった
+	should have	should have	should have	been able to	pick	up			を	拾（ひろ）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	pick	up			を	拾（ひろ）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		picked	up			を	拾（ひろ）	っ	たはずがない
+step-6	would	would	would		pick	up			を	拾（ひろ）	っ	ただろう
+	would	would	would	not	pick	up			を	拾（ひろ）	わ	なかっただろう
+	would	would	would	be able to	pick	up			を	拾（ひろ）	う	ことができただろう
+	would	would	would	not be able to	pick	up			を	拾（ひろ）	う	ことはできなかっただろう
+	would have	would have	would have		picked	up			を	拾（ひろ）	っ	たことだろう
+	would not have	would not have	would not have		picked	up			を	拾（ひろ）	わ	なかったことだろう
+	would have	would have	would have	been able to	pick	up			を	拾（ひろ）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	pick	up			を	拾（ひろ）	う	ことはできなかったことだろう
+	could have	could have	could have		picked	up			を	拾（ひろ）	っ	た可能性がある
+	could not have	could not have	could not have		picked	up			を	拾（ひろ）	っ	た可能性はない
+	might have	might have	might have		picked	up			を	拾（ひろ）	っ	たかもしれなかった
+	might not have	might not have	might not have		picked	up			を	拾（ひろ）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	pick	up			を	拾（ひろ）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	pick	up			を	拾（ひろ）	う	ことはできなかったかもしれなかった

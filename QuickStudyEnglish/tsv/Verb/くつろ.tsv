@@ -1,0 +1,130 @@
+step-1	relax	relaxes	relax							くつろ	ぐ
+	do	does	do	not	relax					くつろ	が	ない
+	relaxed	relaxed	relaxed							くつろ	い	だ
+	did	did	did	not	relax					くつろ	が	なかった
+	am	is	are		relaxing					くつろ	い	でいる
+	am	is	are	not	relaxing					くつろ	い	でいない
+	was	was	were		relaxing					くつろ	い	でいた
+	was	was	were	not	relaxing					くつろ	い	でいなかった
+step-2	am	is	are	going to	relax					くつろ	ぐ	予定（よてい）だ
+	am	is	are	not going to	relax					くつろ	ぐ	予定（よてい）ではない
+	was	was	were	going to	relax					くつろ	ぐ	予定（よてい）だった
+	was	was	were	not going to	relax					くつろ	ぐ	予定（よてい）ではなかった
+	am	is	are	able to	relax					くつろ	ぐ	ことができる
+	am	is	are	not able to	relax					くつろ	ぐ	ことはできない
+	was	was	were	able to	relax					くつろ	ぐ	ことができた
+	was	was	were	not able to	relax					くつろ	ぐ	ことはできなかった
+	could	could	could	not	relax					くつろ	ぐ	ことはできなかった
+	want	wants	want	to	relax					くつろ	ぎ	たい
+	do	does	do	not want to	relax					くつろ	ぎ	たくない
+	wanted  	wanted  	wanted	to	relax					くつろ	ぎ	たかった
+	did	did	did	not want to	relax					くつろ	ぎ	たくなかった
+	want	wants	want	to be	relaxing					くつろ	い	でいたい
+	do	does	do	not want to be	relaxing					くつろ	い	でいたくない
+	wanted  	wanted  	wanted	to be	relaxing					くつろ	い	でいたかった
+	did	did	did	not want to be	relaxing					くつろ	い	でいたくなかった
+	want	wants	want	to be able to	relax					くつろ	ぐ	ことができるようになりたい
+	do	does	do	not want to be able to	relax					くつろ	ぐ	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	relax					くつろ	ぐ	ことができるようになりたかった
+	did	did	did	not want to be able to	relax					くつろ	ぐ	ことはできるようになりたくなかった
+	have to	has to	have to		relax					くつろ	が	なければいけない
+	do	does	do	not have to	relax					くつろ	が	なくてもいい
+	have to	has to	have to	be	relaxing					くつろ	い	でいなければいけない
+	do	does	do	not have to be	relaxing					くつろ	い	でいなくてもいい
+	have to	has to	have to	be able to	relax					くつろ	ぐ	ことができなければいけない
+	do	does	do	not have to be able to	relax					くつろ	ぐ	ことはできなくてもいい
+	had to	had to	had to		relax					くつろ	が	なければいけなかった
+	did	did	did	not have to	relax					くつろ	が	なくてもよかった
+	had to	had to	had to	be	relaxing					くつろ	い	でいなければいけなかった
+	did	did	did	not have to be	relaxing					くつろ	い	でいなくてもよかった
+	had to	had to	had to	be able to	relax					くつろ	ぐ	ことができなければいけなかった
+	did	did	did	not have to be able to	relax					くつろ	ぐ	ことはできなくてもよかった
+step-3	will	will	will		relax					くつろ	ぐ	だろう
+	will	will	will	not	relax					くつろ	が	ないだろう
+	will	will	will	be	relaxing					くつろ	い	でいるだろう
+	will	will	will	not be	relaxing					くつろ	い	でいないだろう
+	will	will	will	be able to	relax					くつろ	ぐ	ことができるだろう
+	will	will	will	not be able to	relax					くつろ	ぐ	ことはできないだろう
+	may	may	may		relax					くつろ	ぐ	かもしれない
+	may	may	may	not	relax					くつろ	が	ないかもしれない
+	may	may	may	be	relaxing					くつろ	い	でいるかもしれない
+	may	may	may	not be	relaxing					くつろ	い	でいないかもしれない
+	may	may	may	be able to	relax					くつろ	ぐ	ことができるかもしれない
+	may	may	may	not be able to	relax					くつろ	ぐ	ことはできないかもしれない
+	can	can	can		relax					くつろ	ぐ	ことができる
+	can	can	can	not	relax					くつろ	ぐ	ことはできない
+	should	should	should		relax					くつろ	ぐ	ほうがいい
+	should	should	should	not	relax					くつろ	が	ないほうがいい
+	should	should	should	be	relaxing					くつろ	い	でいるほうがいい
+	should	should	should	not be	relaxing					くつろ	い	でいないほうがいい
+	should	should	should	be able to	relax					くつろ	ぐ	ことができるほうがいい
+	should	should	should	not be able to	relax					くつろ	ぐ	ことはできないほうがいい
+	should	should	should		relax					くつろ	ぐ	はずだ
+	should	should	should	not	relax					くつろ	が	ないはずだ
+	should	should	should	be	relaxing					くつろ	い	でいるはずだ
+	should	should	should	not be	relaxing					くつろ	い	でいないはずだ
+	should	should	should	be able to	relax					くつろ	ぐ	ことができるはずだ
+	should	should	should	not be able to	relax					くつろ	ぐ	ことはできるはずがない
+	had better	had better	had better		relax					くつろ	ぐ	べきだ
+	had better	had better	had better	not	relax					くつろ	ぐ	べきではない
+	must	must	must		relax					くつろ	ぐ	にちがいない
+	must	must	must	not	relax					くつろ	い	ではいけない
+	must	must	must	be	relaxing					くつろ	い	でいるにちがいない
+	must	must	must	not be	relaxing					くつろ	い	でいてはいけない
+	must	must	must	be able to	relax					くつろ	ぐ	ことができるにちがいない
+	must	must	must	not be able to	relax					くつろ	ぐ	ことはできてはいけない
+	will	will	will	have to	relax					くつろ	が	なければいけないだろう
+	will	will	will	not have to	relax					くつろ	が	なくてもいいだろう
+	will	will	will	have to be	relaxing					くつろ	い	でいなければいけないだろう
+	will	will	will	not have to be	relaxing					くつろ	い	でいなくてもいいだろう
+	will	will	will	have to be able to	relax					くつろ	ぐ	ことができなければいけないだろう
+	will	will	will	not have to be able to	relax					くつろ	ぐ	ことはできなくてもいいだろう
+	may	may	may	have to	relax					くつろ	が	なければいけないかもしれない
+	may	may	may	not have to	relax					くつろ	が	なくてもいいかもしれない
+	may	may	may	have to be	relaxing					くつろ	い	でいなければいけないかもしれない
+	may	may	may	not have to be	relaxing					くつろ	い	でいなくてもいいかもしれない
+	may	may	may	have to be able to	relax					くつろ	ぐ	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	relax					くつろ	ぐ	ことはできなくてもいいかもしれない
+step-4	have	has	have		relaxed					くつろ	い	たことがある
+	have	has	have	not	relaxed					くつろ	い	だことはない
+	have	has	have	been	relaxing			（ずっと）		くつろ	い	でいる
+	have	has	have	not been	relaxing			（ずっと）		くつろ	い	でいない
+	have	has	have		relaxed		already	すでに		くつろ	い	でいる
+	have	has	have	not	relaxed		yet	まだ		くつろ	い	でいない
+	had	had	had		relaxed		before that	それ以前（いぜん）		くつろ	い	だことがあった
+	had	had	had	not	relaxed		before that	それ以前（いぜん）		くつろ	い	だことはなかった
+	had	had	had	been	relaxing		till then	それまでずっと		くつろ	い	でいた
+	had	had	had	not been	relaxing		till then	それまでずっと		くつろ	い	でいなかった
+	had	had	had		relaxed		already	すでに		くつろ	い	でいた
+	had	had	had	not	relaxed		yet	まだ		くつろ	い	でいなかった
+	have	has	have	been able to	relax			（ずっと）		くつろ	ぐ	ことができている
+	have	has	have	not been able to	relax		yet	まだ		くつろ	ぐ	ことはできていない
+	had	had	had	been able to	relax		till then	それまでずっと		くつろ	ぐ	ことができていた
+	had	had	had	not been able to	relax		till then	それまでずっと		くつろ	ぐ	ことはできていなかった
+step-5	may have	may have	may have		relaxed					くつろ	い	だかもしれない
+	may not have	may not have	may not have		relaxed					くつろ	が	なかったかもしれない
+	may have	may have	may have	been able to	relax					くつろ	ぐ	ことができたかもしれない
+	may not have	may not have	may not have	been able to	relax					くつろ	ぐ	ことはできなかったかもしれない
+	must have	must have	must have		relaxed					くつろ	い	だにちがいない
+	must not have	must not have	must not have		relaxed					くつろ	が	なかったにちがいない
+	must have	must have	must have	been able to	relax					くつろ	ぐ	ことができたにちがいない
+	must not have	must not have	must not have	been able to	relax					くつろ	ぐ	ことはできなかったにちがいない
+	should have	should have	should have		relaxed					くつろ	ぐ	ほうがよかった
+	should not have	should not have	should not have		relaxed					くつろ	が	ないほうがよかった
+	should have	should have	should have	been able to	relax					くつろ	ぐ	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	relax					くつろ	ぐ	ことはできないほうがよかった
+	can not have	can not have	can not have		relaxed					くつろ	い	だはずがない
+step-6	would	would	would		relax					くつろ	い	だだろう
+	would	would	would	not	relax					くつろ	が	なかっただろう
+	would	would	would	be able to	relax					くつろ	ぐ	ことができただろう
+	would	would	would	not be able to	relax					くつろ	ぐ	ことはできなかっただろう
+	would have	would have	would have		relaxed					くつろ	い	だことだろう
+	would not have	would not have	would not have		relaxed					くつろ	が	なかったことだろう
+	would have	would have	would have	been able to	relax					くつろ	ぐ	ことができたことだろう
+	would not have	would not have	would not have	been able to	relax					くつろ	ぐ	ことはできなかったことだろう
+	could have	could have	could have		relaxed					くつろ	い	だ可能性がある
+	could not have	could not have	could not have		relaxed					くつろ	い	だ可能性はない
+	might have	might have	might have		relaxed					くつろ	い	だかもしれなかった
+	might not have	might not have	might not have		relaxed					くつろ	が	なかったかもしれなかった
+	might have	might have	might have	been able to	relax					くつろ	ぐ	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	relax					くつろ	ぐ	ことはできなかったかもしれなかった

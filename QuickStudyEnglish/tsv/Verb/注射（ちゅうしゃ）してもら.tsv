@@ -1,0 +1,130 @@
+step-1	get	gets	get		a shot					注射（ちゅうしゃ）してもら	う	
+	do	does	do	not	get a shot					注射（ちゅうしゃ）してもら	わ	ない
+	got	got	got		a shot					注射（ちゅうしゃ）してもら	っ	た
+	did	did	did	not	get a shot					注射（ちゅうしゃ）してもら	わ	なかった
+	am	is	are		getting a shot					注射（ちゅうしゃ）してもら	っ	ている
+	am	is	are	not	getting a shot					注射（ちゅうしゃ）してもら	っ	ていない
+	was	was	were		getting a shot					注射（ちゅうしゃ）してもら	っ	ていた
+	was	was	were	not	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなかった
+step-2	am	is	are	going to	get a shot					注射（ちゅうしゃ）してもら	う	予定（よてい）だ
+	am	is	are	not going to	get a shot					注射（ちゅうしゃ）してもら	う	予定（よてい）ではない
+	was	was	were	going to	get a shot					注射（ちゅうしゃ）してもら	う	予定（よてい）だった
+	was	was	were	not going to	get a shot					注射（ちゅうしゃ）してもら	う	予定（よてい）ではなかった
+	am	is	are	able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができる
+	am	is	are	not able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできない
+	was	was	were	able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができた
+	was	was	were	not able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかった
+	could	could	could	not	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかった
+	want	wants	want	to	get a shot					注射（ちゅうしゃ）してもら	い	たい
+	do	does	do	not want to	get a shot					注射（ちゅうしゃ）してもら	い	たくない
+	wanted  	wanted  	wanted	to	get a shot					注射（ちゅうしゃ）してもら	い	たかった
+	did	did	did	not want to	get a shot					注射（ちゅうしゃ）してもら	い	たくなかった
+	want	wants	want	to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていたい
+	do	does	do	not want to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていたくない
+	wanted  	wanted  	wanted	to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていたかった
+	did	did	did	not want to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていたくなかった
+	want	wants	want	to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるようになりたい
+	do	does	do	not want to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるようになりたかった
+	did	did	did	not want to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできるようになりたくなかった
+	have to	has to	have to		get a shot					注射（ちゅうしゃ）してもら	わ	なければいけない
+	do	does	do	not have to	get a shot					注射（ちゅうしゃ）してもら	わ	なくてもいい
+	have to	has to	have to	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなければいけない
+	do	does	do	not have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなくてもいい
+	have to	has to	have to	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができなければいけない
+	do	does	do	not have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなくてもいい
+	had to	had to	had to		get a shot					注射（ちゅうしゃ）してもら	わ	なければいけなかった
+	did	did	did	not have to	get a shot					注射（ちゅうしゃ）してもら	わ	なくてもよかった
+	had to	had to	had to	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなければいけなかった
+	did	did	did	not have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなくてもよかった
+	had to	had to	had to	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができなければいけなかった
+	did	did	did	not have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなくてもよかった
+step-3	will	will	will		get a shot					注射（ちゅうしゃ）してもら	う	だろう
+	will	will	will	not	get a shot					注射（ちゅうしゃ）してもら	わ	ないだろう
+	will	will	will	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ているだろう
+	will	will	will	not be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていないだろう
+	will	will	will	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるだろう
+	will	will	will	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできないだろう
+	may	may	may		get a shot					注射（ちゅうしゃ）してもら	う	かもしれない
+	may	may	may	not	get a shot					注射（ちゅうしゃ）してもら	わ	ないかもしれない
+	may	may	may	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ているかもしれない
+	may	may	may	not be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていないかもしれない
+	may	may	may	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるかもしれない
+	may	may	may	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできないかもしれない
+	can	can	can		get a shot					注射（ちゅうしゃ）してもら	う	ことができる
+	can	can	can	not	get a shot					注射（ちゅうしゃ）してもら	う	ことはできない
+	should	should	should		get a shot					注射（ちゅうしゃ）してもら	う	ほうがいい
+	should	should	should	not	get a shot					注射（ちゅうしゃ）してもら	わ	ないほうがいい
+	should	should	should	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ているほうがいい
+	should	should	should	not be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていないほうがいい
+	should	should	should	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるほうがいい
+	should	should	should	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできないほうがいい
+	should	should	should		get a shot					注射（ちゅうしゃ）してもら	う	はずだ
+	should	should	should	not	get a shot					注射（ちゅうしゃ）してもら	わ	ないはずだ
+	should	should	should	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ているはずだ
+	should	should	should	not be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていないはずだ
+	should	should	should	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるはずだ
+	should	should	should	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできるはずがない
+	had better	had better	had better		get a shot					注射（ちゅうしゃ）してもら	う	べきだ
+	had better	had better	had better	not	get a shot					注射（ちゅうしゃ）してもら	う	べきではない
+	must	must	must		get a shot					注射（ちゅうしゃ）してもら	う	にちがいない
+	must	must	must	not	get a shot					注射（ちゅうしゃ）してもら	っ	てはいけない
+	must	must	must	be	getting a shot					注射（ちゅうしゃ）してもら	っ	ているにちがいない
+	must	must	must	not be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていてはいけない
+	must	must	must	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができるにちがいない
+	must	must	must	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできてはいけない
+	will	will	will	have to	get a shot					注射（ちゅうしゃ）してもら	わ	なければいけないだろう
+	will	will	will	not have to	get a shot					注射（ちゅうしゃ）してもら	わ	なくてもいいだろう
+	will	will	will	have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなければいけないだろう
+	will	will	will	not have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなくてもいいだろう
+	may	may	may	have to	get a shot					注射（ちゅうしゃ）してもら	わ	なければいけないかもしれない
+	may	may	may	not have to	get a shot					注射（ちゅうしゃ）してもら	わ	なくてもいいかもしれない
+	may	may	may	have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	getting a shot					注射（ちゅうしゃ）してもら	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たことがある
+	have	has	have	not	gotten a shot					注射（ちゅうしゃ）してもら	っ	たことはない
+	have	has	have	been	getting a shot			（ずっと）		注射（ちゅうしゃ）してもら	っ	ている
+	have	has	have	not been	getting a shot			（ずっと）		注射（ちゅうしゃ）してもら	っ	ていない
+	have	has	have		gotten a shot		already	すでに		注射（ちゅうしゃ）してもら	っ	ている
+	have	has	have	not	gotten a shot		yet	まだ		注射（ちゅうしゃ）してもら	っ	ていない
+	had	had	had		gotten a shot		before that	それ以前（いぜん）		注射（ちゅうしゃ）してもら	っ	たことがあった
+	had	had	had	not	gotten a shot		before that	それ以前（いぜん）		注射（ちゅうしゃ）してもら	っ	たことはなかった
+	had	had	had	been	getting a shot		till then	それまでずっと		注射（ちゅうしゃ）してもら	っ	ていた
+	had	had	had	not been	getting a shot		till then	それまでずっと		注射（ちゅうしゃ）してもら	っ	ていなかった
+	had	had	had		gotten a shot		already	すでに		注射（ちゅうしゃ）してもら	っ	ていた
+	had	had	had	not	gotten a shot		yet	まだ		注射（ちゅうしゃ）してもら	っ	ていなかった
+	have	has	have	been able to	get a shot			（ずっと）		注射（ちゅうしゃ）してもら	う	ことができている
+	have	has	have	not been able to	get a shot		yet	まだ		注射（ちゅうしゃ）してもら	う	ことはできていない
+	had	had	had	been able to	get a shot		till then	それまでずっと		注射（ちゅうしゃ）してもら	う	ことができていた
+	had	had	had	not been able to	get a shot		till then	それまでずっと		注射（ちゅうしゃ）してもら	う	ことはできていなかった
+step-5	may have	may have	may have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たかもしれない
+	may not have	may not have	may not have		gotten a shot					注射（ちゅうしゃ）してもら	わ	なかったかもしれない
+	may have	may have	may have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかったかもしれない
+	must have	must have	must have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たにちがいない
+	must not have	must not have	must not have		gotten a shot					注射（ちゅうしゃ）してもら	わ	なかったにちがいない
+	must have	must have	must have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかったにちがいない
+	should have	should have	should have		gotten a shot					注射（ちゅうしゃ）してもら	う	ほうがよかった
+	should not have	should not have	should not have		gotten a shot					注射（ちゅうしゃ）してもら	わ	ないほうがよかった
+	should have	should have	should have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかったはずだ
+	can not have	can not have	can not have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たはずがない
+step-6	would	would	would		get a shot					注射（ちゅうしゃ）してもら	っ	ただろう
+	would	would	would	not	get a shot					注射（ちゅうしゃ）してもら	わ	なかっただろう
+	would	would	would	be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができただろう
+	would	would	would	not be able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかっただろう
+	would have	would have	would have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たことだろう
+	would not have	would not have	would not have		gotten a shot					注射（ちゅうしゃ）してもら	わ	なかったことだろう
+	would have	would have	would have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかったことだろう
+	could have	could have	could have		gotten a shot					注射（ちゅうしゃ）してもら	っ	た可能性がある
+	could not have	could not have	could not have		gotten a shot					注射（ちゅうしゃ）してもら	っ	た可能性はない
+	might have	might have	might have		gotten a shot					注射（ちゅうしゃ）してもら	っ	たかもしれなかった
+	might not have	might not have	might not have		gotten a shot					注射（ちゅうしゃ）してもら	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	get a shot					注射（ちゅうしゃ）してもら	う	ことはできなかったかもしれなかった

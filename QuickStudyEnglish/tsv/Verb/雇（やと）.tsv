@@ -1,0 +1,130 @@
+step-1	hire	hires	hire						を	雇（やと）	う
+	do	does	do	not	hire				を	雇（やと）	わ	ない
+	hired	hired	hired						を	雇（やと）	っ	た
+	did	did	did	not	hire				を	雇（やと）	わ	なかった
+	am	is	are		hiring				を	雇（やと）	っ	ている
+	am	is	are	not	hiring				を	雇（やと）	っ	ていない
+	was	was	were		hiring				を	雇（やと）	っ	ていた
+	was	was	were	not	hiring				を	雇（やと）	っ	ていなかった
+step-2	am	is	are	going to	hire				を	雇（やと）	う	予定（よてい）だ
+	am	is	are	not going to	hire				を	雇（やと）	う	予定（よてい）ではない
+	was	was	were	going to	hire				を	雇（やと）	う	予定（よてい）だった
+	was	was	were	not going to	hire				を	雇（やと）	う	予定（よてい）ではなかった
+	am	is	are	able to	hire				を	雇（やと）	う	ことができる
+	am	is	are	not able to	hire				を	雇（やと）	う	ことはできない
+	was	was	were	able to	hire				を	雇（やと）	う	ことができた
+	was	was	were	not able to	hire				を	雇（やと）	う	ことはできなかった
+	could	could	could	not	hire				を	雇（やと）	う	ことはできなかった
+	want	wants	want	to	hire				を	雇（やと）	い	たい
+	do	does	do	not want to	hire				を	雇（やと）	い	たくない
+	wanted  	wanted  	wanted	to	hire				を	雇（やと）	い	たかった
+	did	did	did	not want to	hire				を	雇（やと）	い	たくなかった
+	want	wants	want	to be	hiring				を	雇（やと）	っ	ていたい
+	do	does	do	not want to be	hiring				を	雇（やと）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	hiring				を	雇（やと）	っ	ていたかった
+	did	did	did	not want to be	hiring				を	雇（やと）	っ	ていたくなかった
+	want	wants	want	to be able to	hire				を	雇（やと）	う	ことができるようになりたい
+	do	does	do	not want to be able to	hire				を	雇（やと）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	hire				を	雇（やと）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	hire				を	雇（やと）	う	ことはできるようになりたくなかった
+	have to	has to	have to		hire				を	雇（やと）	わ	なければいけない
+	do	does	do	not have to	hire				を	雇（やと）	わ	なくてもいい
+	have to	has to	have to	be	hiring				を	雇（やと）	っ	ていなければいけない
+	do	does	do	not have to be	hiring				を	雇（やと）	っ	ていなくてもいい
+	have to	has to	have to	be able to	hire				を	雇（やと）	う	ことができなければいけない
+	do	does	do	not have to be able to	hire				を	雇（やと）	う	ことはできなくてもいい
+	had to	had to	had to		hire				を	雇（やと）	わ	なければいけなかった
+	did	did	did	not have to	hire				を	雇（やと）	わ	なくてもよかった
+	had to	had to	had to	be	hiring				を	雇（やと）	っ	ていなければいけなかった
+	did	did	did	not have to be	hiring				を	雇（やと）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	hire				を	雇（やと）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	hire				を	雇（やと）	う	ことはできなくてもよかった
+step-3	will	will	will		hire				を	雇（やと）	う	だろう
+	will	will	will	not	hire				を	雇（やと）	わ	ないだろう
+	will	will	will	be	hiring				を	雇（やと）	っ	ているだろう
+	will	will	will	not be	hiring				を	雇（やと）	っ	ていないだろう
+	will	will	will	be able to	hire				を	雇（やと）	う	ことができるだろう
+	will	will	will	not be able to	hire				を	雇（やと）	う	ことはできないだろう
+	may	may	may		hire				を	雇（やと）	う	かもしれない
+	may	may	may	not	hire				を	雇（やと）	わ	ないかもしれない
+	may	may	may	be	hiring				を	雇（やと）	っ	ているかもしれない
+	may	may	may	not be	hiring				を	雇（やと）	っ	ていないかもしれない
+	may	may	may	be able to	hire				を	雇（やと）	う	ことができるかもしれない
+	may	may	may	not be able to	hire				を	雇（やと）	う	ことはできないかもしれない
+	can	can	can		hire				を	雇（やと）	う	ことができる
+	can	can	can	not	hire				を	雇（やと）	う	ことはできない
+	should	should	should		hire				を	雇（やと）	う	ほうがいい
+	should	should	should	not	hire				を	雇（やと）	わ	ないほうがいい
+	should	should	should	be	hiring				を	雇（やと）	っ	ているほうがいい
+	should	should	should	not be	hiring				を	雇（やと）	っ	ていないほうがいい
+	should	should	should	be able to	hire				を	雇（やと）	う	ことができるほうがいい
+	should	should	should	not be able to	hire				を	雇（やと）	う	ことはできないほうがいい
+	should	should	should		hire				を	雇（やと）	う	はずだ
+	should	should	should	not	hire				を	雇（やと）	わ	ないはずだ
+	should	should	should	be	hiring				を	雇（やと）	っ	ているはずだ
+	should	should	should	not be	hiring				を	雇（やと）	っ	ていないはずだ
+	should	should	should	be able to	hire				を	雇（やと）	う	ことができるはずだ
+	should	should	should	not be able to	hire				を	雇（やと）	う	ことはできるはずがない
+	had better	had better	had better		hire				を	雇（やと）	う	べきだ
+	had better	had better	had better	not	hire				を	雇（やと）	う	べきではない
+	must	must	must		hire				を	雇（やと）	う	にちがいない
+	must	must	must	not	hire				を	雇（やと）	っ	てはいけない
+	must	must	must	be	hiring				を	雇（やと）	っ	ているにちがいない
+	must	must	must	not be	hiring				を	雇（やと）	っ	ていてはいけない
+	must	must	must	be able to	hire				を	雇（やと）	う	ことができるにちがいない
+	must	must	must	not be able to	hire				を	雇（やと）	う	ことはできてはいけない
+	will	will	will	have to	hire				を	雇（やと）	わ	なければいけないだろう
+	will	will	will	not have to	hire				を	雇（やと）	わ	なくてもいいだろう
+	will	will	will	have to be	hiring				を	雇（やと）	っ	ていなければいけないだろう
+	will	will	will	not have to be	hiring				を	雇（やと）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	hire				を	雇（やと）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	hire				を	雇（やと）	う	ことはできなくてもいいだろう
+	may	may	may	have to	hire				を	雇（やと）	わ	なければいけないかもしれない
+	may	may	may	not have to	hire				を	雇（やと）	わ	なくてもいいかもしれない
+	may	may	may	have to be	hiring				を	雇（やと）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	hiring				を	雇（やと）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	hire				を	雇（やと）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	hire				を	雇（やと）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		hired				を	雇（やと）	っ	たことがある
+	have	has	have	not	hired				を	雇（やと）	っ	たことはない
+	have	has	have	been	hiring			（ずっと）	を	雇（やと）	っ	ている
+	have	has	have	not been	hiring			（ずっと）	を	雇（やと）	っ	ていない
+	have	has	have		hired		already	すでに	を	雇（やと）	っ	ている
+	have	has	have	not	hired		yet	まだ	を	雇（やと）	っ	ていない
+	had	had	had		hired		before that	それ以前（いぜん）	を	雇（やと）	っ	たことがあった
+	had	had	had	not	hired		before that	それ以前（いぜん）	を	雇（やと）	っ	たことはなかった
+	had	had	had	been	hiring		till then	それまでずっと	を	雇（やと）	っ	ていた
+	had	had	had	not been	hiring		till then	それまでずっと	を	雇（やと）	っ	ていなかった
+	had	had	had		hired		already	すでに	を	雇（やと）	っ	ていた
+	had	had	had	not	hired		yet	まだ	を	雇（やと）	っ	ていなかった
+	have	has	have	been able to	hire			（ずっと）	を	雇（やと）	う	ことができている
+	have	has	have	not been able to	hire		yet	まだ	を	雇（やと）	う	ことはできていない
+	had	had	had	been able to	hire		till then	それまでずっと	を	雇（やと）	う	ことができていた
+	had	had	had	not been able to	hire		till then	それまでずっと	を	雇（やと）	う	ことはできていなかった
+step-5	may have	may have	may have		hired				を	雇（やと）	っ	たかもしれない
+	may not have	may not have	may not have		hired				を	雇（やと）	わ	なかったかもしれない
+	may have	may have	may have	been able to	hire				を	雇（やと）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	hire				を	雇（やと）	う	ことはできなかったかもしれない
+	must have	must have	must have		hired				を	雇（やと）	っ	たにちがいない
+	must not have	must not have	must not have		hired				を	雇（やと）	わ	なかったにちがいない
+	must have	must have	must have	been able to	hire				を	雇（やと）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	hire				を	雇（やと）	う	ことはできなかったにちがいない
+	should have	should have	should have		hired				を	雇（やと）	う	ほうがよかった
+	should not have	should not have	should not have		hired				を	雇（やと）	わ	ないほうがよかった
+	should have	should have	should have	been able to	hire				を	雇（やと）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	hire				を	雇（やと）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		hired				を	雇（やと）	っ	たはずがない
+step-6	would	would	would		hire				を	雇（やと）	っ	ただろう
+	would	would	would	not	hire				を	雇（やと）	わ	なかっただろう
+	would	would	would	be able to	hire				を	雇（やと）	う	ことができただろう
+	would	would	would	not be able to	hire				を	雇（やと）	う	ことはできなかっただろう
+	would have	would have	would have		hired				を	雇（やと）	っ	たことだろう
+	would not have	would not have	would not have		hired				を	雇（やと）	わ	なかったことだろう
+	would have	would have	would have	been able to	hire				を	雇（やと）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	hire				を	雇（やと）	う	ことはできなかったことだろう
+	could have	could have	could have		hired				を	雇（やと）	っ	た可能性がある
+	could not have	could not have	could not have		hired				を	雇（やと）	っ	た可能性はない
+	might have	might have	might have		hired				を	雇（やと）	っ	たかもしれなかった
+	might not have	might not have	might not have		hired				を	雇（やと）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	hire				を	雇（やと）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	hire				を	雇（やと）	う	ことはできなかったかもしれなかった

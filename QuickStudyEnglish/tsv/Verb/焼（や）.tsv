@@ -1,0 +1,130 @@
+step-1	bake	bakes	bake						を	焼（や）	く
+	do	does	do	not	bake				を	焼（や）	か	ない
+	baked	baked	baked						を	焼（や）	い	た
+	did	did	did	not	bake				を	焼（や）	か	なかった
+	am	is	are		baking				を	焼（や）	い	ている
+	am	is	are	not	baking				を	焼（や）	い	ていない
+	was	was	were		baking				を	焼（や）	い	ていた
+	was	was	were	not	baking				を	焼（や）	い	ていなかった
+step-2	am	is	are	going to	bake				を	焼（や）	く	予定（よてい）だ
+	am	is	are	not going to	bake				を	焼（や）	く	予定（よてい）ではない
+	was	was	were	going to	bake				を	焼（や）	く	予定（よてい）だった
+	was	was	were	not going to	bake				を	焼（や）	く	予定（よてい）ではなかった
+	am	is	are	able to	bake				を	焼（や）	く	ことができる
+	am	is	are	not able to	bake				を	焼（や）	く	ことはできない
+	was	was	were	able to	bake				を	焼（や）	く	ことができた
+	was	was	were	not able to	bake				を	焼（や）	く	ことはできなかった
+	could	could	could	not	bake				を	焼（や）	く	ことはできなかった
+	want	wants	want	to	bake				を	焼（や）	き	たい
+	do	does	do	not want to	bake				を	焼（や）	き	たくない
+	wanted  	wanted  	wanted	to	bake				を	焼（や）	き	たかった
+	did	did	did	not want to	bake				を	焼（や）	き	たくなかった
+	want	wants	want	to be	baking				を	焼（や）	い	ていたい
+	do	does	do	not want to be	baking				を	焼（や）	い	ていたくない
+	wanted  	wanted  	wanted	to be	baking				を	焼（や）	い	ていたかった
+	did	did	did	not want to be	baking				を	焼（や）	い	ていたくなかった
+	want	wants	want	to be able to	bake				を	焼（や）	く	ことができるようになりたい
+	do	does	do	not want to be able to	bake				を	焼（や）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	bake				を	焼（や）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	bake				を	焼（や）	く	ことはできるようになりたくなかった
+	have to	has to	have to		bake				を	焼（や）	か	なければいけない
+	do	does	do	not have to	bake				を	焼（や）	か	なくてもいい
+	have to	has to	have to	be	baking				を	焼（や）	い	ていなければいけない
+	do	does	do	not have to be	baking				を	焼（や）	い	ていなくてもいい
+	have to	has to	have to	be able to	bake				を	焼（や）	く	ことができなければいけない
+	do	does	do	not have to be able to	bake				を	焼（や）	く	ことはできなくてもいい
+	had to	had to	had to		bake				を	焼（や）	か	なければいけなかった
+	did	did	did	not have to	bake				を	焼（や）	か	なくてもよかった
+	had to	had to	had to	be	baking				を	焼（や）	い	ていなければいけなかった
+	did	did	did	not have to be	baking				を	焼（や）	い	ていなくてもよかった
+	had to	had to	had to	be able to	bake				を	焼（や）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	bake				を	焼（や）	く	ことはできなくてもよかった
+step-3	will	will	will		bake				を	焼（や）	く	だろう
+	will	will	will	not	bake				を	焼（や）	か	ないだろう
+	will	will	will	be	baking				を	焼（や）	い	ているだろう
+	will	will	will	not be	baking				を	焼（や）	い	ていないだろう
+	will	will	will	be able to	bake				を	焼（や）	く	ことができるだろう
+	will	will	will	not be able to	bake				を	焼（や）	く	ことはできないだろう
+	may	may	may		bake				を	焼（や）	く	かもしれない
+	may	may	may	not	bake				を	焼（や）	か	ないかもしれない
+	may	may	may	be	baking				を	焼（や）	い	ているかもしれない
+	may	may	may	not be	baking				を	焼（や）	い	ていないかもしれない
+	may	may	may	be able to	bake				を	焼（や）	く	ことができるかもしれない
+	may	may	may	not be able to	bake				を	焼（や）	く	ことはできないかもしれない
+	can	can	can		bake				を	焼（や）	く	ことができる
+	can	can	can	not	bake				を	焼（や）	く	ことはできない
+	should	should	should		bake				を	焼（や）	く	ほうがいい
+	should	should	should	not	bake				を	焼（や）	か	ないほうがいい
+	should	should	should	be	baking				を	焼（や）	い	ているほうがいい
+	should	should	should	not be	baking				を	焼（や）	い	ていないほうがいい
+	should	should	should	be able to	bake				を	焼（や）	く	ことができるほうがいい
+	should	should	should	not be able to	bake				を	焼（や）	く	ことはできないほうがいい
+	should	should	should		bake				を	焼（や）	く	はずだ
+	should	should	should	not	bake				を	焼（や）	か	ないはずだ
+	should	should	should	be	baking				を	焼（や）	い	ているはずだ
+	should	should	should	not be	baking				を	焼（や）	い	ていないはずだ
+	should	should	should	be able to	bake				を	焼（や）	く	ことができるはずだ
+	should	should	should	not be able to	bake				を	焼（や）	く	ことはできるはずがない
+	had better	had better	had better		bake				を	焼（や）	く	べきだ
+	had better	had better	had better	not	bake				を	焼（や）	く	べきではない
+	must	must	must		bake				を	焼（や）	く	にちがいない
+	must	must	must	not	bake				を	焼（や）	い	てはいけない
+	must	must	must	be	baking				を	焼（や）	い	ているにちがいない
+	must	must	must	not be	baking				を	焼（や）	い	ていてはいけない
+	must	must	must	be able to	bake				を	焼（や）	く	ことができるにちがいない
+	must	must	must	not be able to	bake				を	焼（や）	く	ことはできてはいけない
+	will	will	will	have to	bake				を	焼（や）	か	なければいけないだろう
+	will	will	will	not have to	bake				を	焼（や）	か	なくてもいいだろう
+	will	will	will	have to be	baking				を	焼（や）	い	ていなければいけないだろう
+	will	will	will	not have to be	baking				を	焼（や）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	bake				を	焼（や）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	bake				を	焼（や）	く	ことはできなくてもいいだろう
+	may	may	may	have to	bake				を	焼（や）	か	なければいけないかもしれない
+	may	may	may	not have to	bake				を	焼（や）	か	なくてもいいかもしれない
+	may	may	may	have to be	baking				を	焼（や）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	baking				を	焼（や）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	bake				を	焼（や）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	bake				を	焼（や）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		baked				を	焼（や）	い	たことがある
+	have	has	have	not	baked				を	焼（や）	い	たことはない
+	have	has	have	been	baking			（ずっと）	を	焼（や）	い	ている
+	have	has	have	not been	baking			（ずっと）	を	焼（や）	い	ていない
+	have	has	have		baked		already	すでに	を	焼（や）	い	ている
+	have	has	have	not	baked		yet	まだ	を	焼（や）	い	ていない
+	had	had	had		baked		before that	それ以前（いぜん）	を	焼（や）	い	たことがあった
+	had	had	had	not	baked		before that	それ以前（いぜん）	を	焼（や）	い	たことはなかった
+	had	had	had	been	baking		till then	それまでずっと	を	焼（や）	い	ていた
+	had	had	had	not been	baking		till then	それまでずっと	を	焼（や）	い	ていなかった
+	had	had	had		baked		already	すでに	を	焼（や）	い	ていた
+	had	had	had	not	baked		yet	まだ	を	焼（や）	い	ていなかった
+	have	has	have	been able to	bake			（ずっと）	を	焼（や）	く	ことができている
+	have	has	have	not been able to	bake		yet	まだ	を	焼（や）	く	ことはできていない
+	had	had	had	been able to	bake		till then	それまでずっと	を	焼（や）	く	ことができていた
+	had	had	had	not been able to	bake		till then	それまでずっと	を	焼（や）	く	ことはできていなかった
+step-5	may have	may have	may have		baked				を	焼（や）	い	たかもしれない
+	may not have	may not have	may not have		baked				を	焼（や）	か	なかったかもしれない
+	may have	may have	may have	been able to	bake				を	焼（や）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	bake				を	焼（や）	く	ことはできなかったかもしれない
+	must have	must have	must have		baked				を	焼（や）	い	たにちがいない
+	must not have	must not have	must not have		baked				を	焼（や）	か	なかったにちがいない
+	must have	must have	must have	been able to	bake				を	焼（や）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	bake				を	焼（や）	く	ことはできなかったにちがいない
+	should have	should have	should have		baked				を	焼（や）	く	ほうがよかった
+	should not have	should not have	should not have		baked				を	焼（や）	か	ないほうがよかった
+	should have	should have	should have	been able to	bake				を	焼（や）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	bake				を	焼（や）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		baked				を	焼（や）	い	たはずがない
+step-6	would	would	would		bake				を	焼（や）	い	ただろう
+	would	would	would	not	bake				を	焼（や）	か	なかっただろう
+	would	would	would	be able to	bake				を	焼（や）	く	ことができただろう
+	would	would	would	not be able to	bake				を	焼（や）	く	ことはできなかっただろう
+	would have	would have	would have		baked				を	焼（や）	い	たことだろう
+	would not have	would not have	would not have		baked				を	焼（や）	か	なかったことだろう
+	would have	would have	would have	been able to	bake				を	焼（や）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	bake				を	焼（や）	く	ことはできなかったことだろう
+	could have	could have	could have		baked				を	焼（や）	い	た可能性がある
+	could not have	could not have	could not have		baked				を	焼（や）	い	た可能性はない
+	might have	might have	might have		baked				を	焼（や）	い	たかもしれなかった
+	might not have	might not have	might not have		baked				を	焼（や）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	bake				を	焼（や）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	bake				を	焼（や）	く	ことはできなかったかもしれなかった

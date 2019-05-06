@@ -1,0 +1,130 @@
+step-1	use	uses	use						を	使（つか）	う
+	do	does	do	not	use				を	使（つか）	わ	ない
+	used	used	used						を	使（つか）	っ	た
+	did	did	did	not	use				を	使（つか）	わ	なかった
+	am	is	are		using				を	使（つか）	っ	ている
+	am	is	are	not	using				を	使（つか）	っ	ていない
+	was	was	were		using				を	使（つか）	っ	ていた
+	was	was	were	not	using				を	使（つか）	っ	ていなかった
+step-2	am	is	are	going to	use				を	使（つか）	う	予定（よてい）だ
+	am	is	are	not going to	use				を	使（つか）	う	予定（よてい）ではない
+	was	was	were	going to	use				を	使（つか）	う	予定（よてい）だった
+	was	was	were	not going to	use				を	使（つか）	う	予定（よてい）ではなかった
+	am	is	are	able to	use				を	使（つか）	う	ことができる
+	am	is	are	not able to	use				を	使（つか）	う	ことはできない
+	was	was	were	able to	use				を	使（つか）	う	ことができた
+	was	was	were	not able to	use				を	使（つか）	う	ことはできなかった
+	could	could	could	not	use				を	使（つか）	う	ことはできなかった
+	want	wants	want	to	use				を	使（つか）	い	たい
+	do	does	do	not want to	use				を	使（つか）	い	たくない
+	wanted  	wanted  	wanted	to	use				を	使（つか）	い	たかった
+	did	did	did	not want to	use				を	使（つか）	い	たくなかった
+	want	wants	want	to be	using				を	使（つか）	っ	ていたい
+	do	does	do	not want to be	using				を	使（つか）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	using				を	使（つか）	っ	ていたかった
+	did	did	did	not want to be	using				を	使（つか）	っ	ていたくなかった
+	want	wants	want	to be able to	use				を	使（つか）	う	ことができるようになりたい
+	do	does	do	not want to be able to	use				を	使（つか）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	use				を	使（つか）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	use				を	使（つか）	う	ことはできるようになりたくなかった
+	have to	has to	have to		use				を	使（つか）	わ	なければいけない
+	do	does	do	not have to	use				を	使（つか）	わ	なくてもいい
+	have to	has to	have to	be	using				を	使（つか）	っ	ていなければいけない
+	do	does	do	not have to be	using				を	使（つか）	っ	ていなくてもいい
+	have to	has to	have to	be able to	use				を	使（つか）	う	ことができなければいけない
+	do	does	do	not have to be able to	use				を	使（つか）	う	ことはできなくてもいい
+	had to	had to	had to		use				を	使（つか）	わ	なければいけなかった
+	did	did	did	not have to	use				を	使（つか）	わ	なくてもよかった
+	had to	had to	had to	be	using				を	使（つか）	っ	ていなければいけなかった
+	did	did	did	not have to be	using				を	使（つか）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	use				を	使（つか）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	use				を	使（つか）	う	ことはできなくてもよかった
+step-3	will	will	will		use				を	使（つか）	う	だろう
+	will	will	will	not	use				を	使（つか）	わ	ないだろう
+	will	will	will	be	using				を	使（つか）	っ	ているだろう
+	will	will	will	not be	using				を	使（つか）	っ	ていないだろう
+	will	will	will	be able to	use				を	使（つか）	う	ことができるだろう
+	will	will	will	not be able to	use				を	使（つか）	う	ことはできないだろう
+	may	may	may		use				を	使（つか）	う	かもしれない
+	may	may	may	not	use				を	使（つか）	わ	ないかもしれない
+	may	may	may	be	using				を	使（つか）	っ	ているかもしれない
+	may	may	may	not be	using				を	使（つか）	っ	ていないかもしれない
+	may	may	may	be able to	use				を	使（つか）	う	ことができるかもしれない
+	may	may	may	not be able to	use				を	使（つか）	う	ことはできないかもしれない
+	can	can	can		use				を	使（つか）	う	ことができる
+	can	can	can	not	use				を	使（つか）	う	ことはできない
+	should	should	should		use				を	使（つか）	う	ほうがいい
+	should	should	should	not	use				を	使（つか）	わ	ないほうがいい
+	should	should	should	be	using				を	使（つか）	っ	ているほうがいい
+	should	should	should	not be	using				を	使（つか）	っ	ていないほうがいい
+	should	should	should	be able to	use				を	使（つか）	う	ことができるほうがいい
+	should	should	should	not be able to	use				を	使（つか）	う	ことはできないほうがいい
+	should	should	should		use				を	使（つか）	う	はずだ
+	should	should	should	not	use				を	使（つか）	わ	ないはずだ
+	should	should	should	be	using				を	使（つか）	っ	ているはずだ
+	should	should	should	not be	using				を	使（つか）	っ	ていないはずだ
+	should	should	should	be able to	use				を	使（つか）	う	ことができるはずだ
+	should	should	should	not be able to	use				を	使（つか）	う	ことはできるはずがない
+	had better	had better	had better		use				を	使（つか）	う	べきだ
+	had better	had better	had better	not	use				を	使（つか）	う	べきではない
+	must	must	must		use				を	使（つか）	う	にちがいない
+	must	must	must	not	use				を	使（つか）	っ	てはいけない
+	must	must	must	be	using				を	使（つか）	っ	ているにちがいない
+	must	must	must	not be	using				を	使（つか）	っ	ていてはいけない
+	must	must	must	be able to	use				を	使（つか）	う	ことができるにちがいない
+	must	must	must	not be able to	use				を	使（つか）	う	ことはできてはいけない
+	will	will	will	have to	use				を	使（つか）	わ	なければいけないだろう
+	will	will	will	not have to	use				を	使（つか）	わ	なくてもいいだろう
+	will	will	will	have to be	using				を	使（つか）	っ	ていなければいけないだろう
+	will	will	will	not have to be	using				を	使（つか）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	use				を	使（つか）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	use				を	使（つか）	う	ことはできなくてもいいだろう
+	may	may	may	have to	use				を	使（つか）	わ	なければいけないかもしれない
+	may	may	may	not have to	use				を	使（つか）	わ	なくてもいいかもしれない
+	may	may	may	have to be	using				を	使（つか）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	using				を	使（つか）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	use				を	使（つか）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	use				を	使（つか）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		used				を	使（つか）	っ	たことがある
+	have	has	have	not	used				を	使（つか）	っ	たことはない
+	have	has	have	been	using			（ずっと）	を	使（つか）	っ	ている
+	have	has	have	not been	using			（ずっと）	を	使（つか）	っ	ていない
+	have	has	have		used		already	すでに	を	使（つか）	っ	ている
+	have	has	have	not	used		yet	まだ	を	使（つか）	っ	ていない
+	had	had	had		used		before that	それ以前（いぜん）	を	使（つか）	っ	たことがあった
+	had	had	had	not	used		before that	それ以前（いぜん）	を	使（つか）	っ	たことはなかった
+	had	had	had	been	using		till then	それまでずっと	を	使（つか）	っ	ていた
+	had	had	had	not been	using		till then	それまでずっと	を	使（つか）	っ	ていなかった
+	had	had	had		used		already	すでに	を	使（つか）	っ	ていた
+	had	had	had	not	used		yet	まだ	を	使（つか）	っ	ていなかった
+	have	has	have	been able to	use			（ずっと）	を	使（つか）	う	ことができている
+	have	has	have	not been able to	use		yet	まだ	を	使（つか）	う	ことはできていない
+	had	had	had	been able to	use		till then	それまでずっと	を	使（つか）	う	ことができていた
+	had	had	had	not been able to	use		till then	それまでずっと	を	使（つか）	う	ことはできていなかった
+step-5	may have	may have	may have		used				を	使（つか）	っ	たかもしれない
+	may not have	may not have	may not have		used				を	使（つか）	わ	なかったかもしれない
+	may have	may have	may have	been able to	use				を	使（つか）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	use				を	使（つか）	う	ことはできなかったかもしれない
+	must have	must have	must have		used				を	使（つか）	っ	たにちがいない
+	must not have	must not have	must not have		used				を	使（つか）	わ	なかったにちがいない
+	must have	must have	must have	been able to	use				を	使（つか）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	use				を	使（つか）	う	ことはできなかったにちがいない
+	should have	should have	should have		used				を	使（つか）	う	ほうがよかった
+	should not have	should not have	should not have		used				を	使（つか）	わ	ないほうがよかった
+	should have	should have	should have	been able to	use				を	使（つか）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	use				を	使（つか）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		used				を	使（つか）	っ	たはずがない
+step-6	would	would	would		use				を	使（つか）	っ	ただろう
+	would	would	would	not	use				を	使（つか）	わ	なかっただろう
+	would	would	would	be able to	use				を	使（つか）	う	ことができただろう
+	would	would	would	not be able to	use				を	使（つか）	う	ことはできなかっただろう
+	would have	would have	would have		used				を	使（つか）	っ	たことだろう
+	would not have	would not have	would not have		used				を	使（つか）	わ	なかったことだろう
+	would have	would have	would have	been able to	use				を	使（つか）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	use				を	使（つか）	う	ことはできなかったことだろう
+	could have	could have	could have		used				を	使（つか）	っ	た可能性がある
+	could not have	could not have	could not have		used				を	使（つか）	っ	た可能性はない
+	might have	might have	might have		used				を	使（つか）	っ	たかもしれなかった
+	might not have	might not have	might not have		used				を	使（つか）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	use				を	使（つか）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	use				を	使（つか）	う	ことはできなかったかもしれなかった

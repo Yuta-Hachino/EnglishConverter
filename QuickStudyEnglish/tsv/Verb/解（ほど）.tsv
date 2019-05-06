@@ -1,0 +1,130 @@
+step-1	untie	unties	untie						を	解（ほど）	く
+	do	does	do	not	untie				を	解（ほど）	か	ない
+	untied	untied	untied						を	解（ほど）	い	た
+	did	did	did	not	untie				を	解（ほど）	か	なかった
+	am	is	are		untying				を	解（ほど）	い	ている
+	am	is	are	not	untying				を	解（ほど）	い	ていない
+	was	was	were		untying				を	解（ほど）	い	ていた
+	was	was	were	not	untying				を	解（ほど）	い	ていなかった
+step-2	am	is	are	going to	untie				を	解（ほど）	く	予定（よてい）だ
+	am	is	are	not going to	untie				を	解（ほど）	く	予定（よてい）ではない
+	was	was	were	going to	untie				を	解（ほど）	く	予定（よてい）だった
+	was	was	were	not going to	untie				を	解（ほど）	く	予定（よてい）ではなかった
+	am	is	are	able to	untie				を	解（ほど）	く	ことができる
+	am	is	are	not able to	untie				を	解（ほど）	く	ことはできない
+	was	was	were	able to	untie				を	解（ほど）	く	ことができた
+	was	was	were	not able to	untie				を	解（ほど）	く	ことはできなかった
+	could	could	could	not	untie				を	解（ほど）	く	ことはできなかった
+	want	wants	want	to	untie				を	解（ほど）	き	たい
+	do	does	do	not want to	untie				を	解（ほど）	き	たくない
+	wanted  	wanted  	wanted	to	untie				を	解（ほど）	き	たかった
+	did	did	did	not want to	untie				を	解（ほど）	き	たくなかった
+	want	wants	want	to be	untying				を	解（ほど）	い	ていたい
+	do	does	do	not want to be	untying				を	解（ほど）	い	ていたくない
+	wanted  	wanted  	wanted	to be	untying				を	解（ほど）	い	ていたかった
+	did	did	did	not want to be	untying				を	解（ほど）	い	ていたくなかった
+	want	wants	want	to be able to	untie				を	解（ほど）	く	ことができるようになりたい
+	do	does	do	not want to be able to	untie				を	解（ほど）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	untie				を	解（ほど）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	untie				を	解（ほど）	く	ことはできるようになりたくなかった
+	have to	has to	have to		untie				を	解（ほど）	か	なければいけない
+	do	does	do	not have to	untie				を	解（ほど）	か	なくてもいい
+	have to	has to	have to	be	untying				を	解（ほど）	い	ていなければいけない
+	do	does	do	not have to be	untying				を	解（ほど）	い	ていなくてもいい
+	have to	has to	have to	be able to	untie				を	解（ほど）	く	ことができなければいけない
+	do	does	do	not have to be able to	untie				を	解（ほど）	く	ことはできなくてもいい
+	had to	had to	had to		untie				を	解（ほど）	か	なければいけなかった
+	did	did	did	not have to	untie				を	解（ほど）	か	なくてもよかった
+	had to	had to	had to	be	untying				を	解（ほど）	い	ていなければいけなかった
+	did	did	did	not have to be	untying				を	解（ほど）	い	ていなくてもよかった
+	had to	had to	had to	be able to	untie				を	解（ほど）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	untie				を	解（ほど）	く	ことはできなくてもよかった
+step-3	will	will	will		untie				を	解（ほど）	く	だろう
+	will	will	will	not	untie				を	解（ほど）	か	ないだろう
+	will	will	will	be	untying				を	解（ほど）	い	ているだろう
+	will	will	will	not be	untying				を	解（ほど）	い	ていないだろう
+	will	will	will	be able to	untie				を	解（ほど）	く	ことができるだろう
+	will	will	will	not be able to	untie				を	解（ほど）	く	ことはできないだろう
+	may	may	may		untie				を	解（ほど）	く	かもしれない
+	may	may	may	not	untie				を	解（ほど）	か	ないかもしれない
+	may	may	may	be	untying				を	解（ほど）	い	ているかもしれない
+	may	may	may	not be	untying				を	解（ほど）	い	ていないかもしれない
+	may	may	may	be able to	untie				を	解（ほど）	く	ことができるかもしれない
+	may	may	may	not be able to	untie				を	解（ほど）	く	ことはできないかもしれない
+	can	can	can		untie				を	解（ほど）	く	ことができる
+	can	can	can	not	untie				を	解（ほど）	く	ことはできない
+	should	should	should		untie				を	解（ほど）	く	ほうがいい
+	should	should	should	not	untie				を	解（ほど）	か	ないほうがいい
+	should	should	should	be	untying				を	解（ほど）	い	ているほうがいい
+	should	should	should	not be	untying				を	解（ほど）	い	ていないほうがいい
+	should	should	should	be able to	untie				を	解（ほど）	く	ことができるほうがいい
+	should	should	should	not be able to	untie				を	解（ほど）	く	ことはできないほうがいい
+	should	should	should		untie				を	解（ほど）	く	はずだ
+	should	should	should	not	untie				を	解（ほど）	か	ないはずだ
+	should	should	should	be	untying				を	解（ほど）	い	ているはずだ
+	should	should	should	not be	untying				を	解（ほど）	い	ていないはずだ
+	should	should	should	be able to	untie				を	解（ほど）	く	ことができるはずだ
+	should	should	should	not be able to	untie				を	解（ほど）	く	ことはできるはずがない
+	had better	had better	had better		untie				を	解（ほど）	く	べきだ
+	had better	had better	had better	not	untie				を	解（ほど）	く	べきではない
+	must	must	must		untie				を	解（ほど）	く	にちがいない
+	must	must	must	not	untie				を	解（ほど）	い	てはいけない
+	must	must	must	be	untying				を	解（ほど）	い	ているにちがいない
+	must	must	must	not be	untying				を	解（ほど）	い	ていてはいけない
+	must	must	must	be able to	untie				を	解（ほど）	く	ことができるにちがいない
+	must	must	must	not be able to	untie				を	解（ほど）	く	ことはできてはいけない
+	will	will	will	have to	untie				を	解（ほど）	か	なければいけないだろう
+	will	will	will	not have to	untie				を	解（ほど）	か	なくてもいいだろう
+	will	will	will	have to be	untying				を	解（ほど）	い	ていなければいけないだろう
+	will	will	will	not have to be	untying				を	解（ほど）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	untie				を	解（ほど）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	untie				を	解（ほど）	く	ことはできなくてもいいだろう
+	may	may	may	have to	untie				を	解（ほど）	か	なければいけないかもしれない
+	may	may	may	not have to	untie				を	解（ほど）	か	なくてもいいかもしれない
+	may	may	may	have to be	untying				を	解（ほど）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	untying				を	解（ほど）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	untie				を	解（ほど）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	untie				を	解（ほど）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		untied				を	解（ほど）	い	たことがある
+	have	has	have	not	untied				を	解（ほど）	い	たことはない
+	have	has	have	been	untying			（ずっと）	を	解（ほど）	い	ている
+	have	has	have	not been	untying			（ずっと）	を	解（ほど）	い	ていない
+	have	has	have		untied		already	すでに	を	解（ほど）	い	ている
+	have	has	have	not	untied		yet	まだ	を	解（ほど）	い	ていない
+	had	had	had		untied		before that	それ以前（いぜん）	を	解（ほど）	い	たことがあった
+	had	had	had	not	untied		before that	それ以前（いぜん）	を	解（ほど）	い	たことはなかった
+	had	had	had	been	untying		till then	それまでずっと	を	解（ほど）	い	ていた
+	had	had	had	not been	untying		till then	それまでずっと	を	解（ほど）	い	ていなかった
+	had	had	had		untied		already	すでに	を	解（ほど）	い	ていた
+	had	had	had	not	untied		yet	まだ	を	解（ほど）	い	ていなかった
+	have	has	have	been able to	untie			（ずっと）	を	解（ほど）	く	ことができている
+	have	has	have	not been able to	untie		yet	まだ	を	解（ほど）	く	ことはできていない
+	had	had	had	been able to	untie		till then	それまでずっと	を	解（ほど）	く	ことができていた
+	had	had	had	not been able to	untie		till then	それまでずっと	を	解（ほど）	く	ことはできていなかった
+step-5	may have	may have	may have		untied				を	解（ほど）	い	たかもしれない
+	may not have	may not have	may not have		untied				を	解（ほど）	か	なかったかもしれない
+	may have	may have	may have	been able to	untie				を	解（ほど）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	untie				を	解（ほど）	く	ことはできなかったかもしれない
+	must have	must have	must have		untied				を	解（ほど）	い	たにちがいない
+	must not have	must not have	must not have		untied				を	解（ほど）	か	なかったにちがいない
+	must have	must have	must have	been able to	untie				を	解（ほど）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	untie				を	解（ほど）	く	ことはできなかったにちがいない
+	should have	should have	should have		untied				を	解（ほど）	く	ほうがよかった
+	should not have	should not have	should not have		untied				を	解（ほど）	か	ないほうがよかった
+	should have	should have	should have	been able to	untie				を	解（ほど）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	untie				を	解（ほど）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		untied				を	解（ほど）	い	たはずがない
+step-6	would	would	would		untie				を	解（ほど）	い	ただろう
+	would	would	would	not	untie				を	解（ほど）	か	なかっただろう
+	would	would	would	be able to	untie				を	解（ほど）	く	ことができただろう
+	would	would	would	not be able to	untie				を	解（ほど）	く	ことはできなかっただろう
+	would have	would have	would have		untied				を	解（ほど）	い	たことだろう
+	would not have	would not have	would not have		untied				を	解（ほど）	か	なかったことだろう
+	would have	would have	would have	been able to	untie				を	解（ほど）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	untie				を	解（ほど）	く	ことはできなかったことだろう
+	could have	could have	could have		untied				を	解（ほど）	い	た可能性がある
+	could not have	could not have	could not have		untied				を	解（ほど）	い	た可能性はない
+	might have	might have	might have		untied				を	解（ほど）	い	たかもしれなかった
+	might not have	might not have	might not have		untied				を	解（ほど）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	untie				を	解（ほど）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	untie				を	解（ほど）	く	ことはできなかったかもしれなかった

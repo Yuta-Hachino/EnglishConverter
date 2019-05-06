@@ -1,0 +1,130 @@
+step-1	make	makes	make		noise					騒（さわ）	ぐ
+	do	does	do	not	make noise					騒（さわ）	が	ない
+	made	made	made		noise					騒（さわ）	い	だ
+	did	did	did	not	make noise					騒（さわ）	が	なかった
+	am	is	are		making noise					騒（さわ）	い	でいる
+	am	is	are	not	making noise					騒（さわ）	い	でいない
+	was	was	were		making noise					騒（さわ）	い	でいた
+	was	was	were	not	making noise					騒（さわ）	い	でいなかった
+step-2	am	is	are	going to	make noise					騒（さわ）	ぐ	予定（よてい）だ
+	am	is	are	not going to	make noise					騒（さわ）	ぐ	予定（よてい）ではない
+	was	was	were	going to	make noise					騒（さわ）	ぐ	予定（よてい）だった
+	was	was	were	not going to	make noise					騒（さわ）	ぐ	予定（よてい）ではなかった
+	am	is	are	able to	make noise					騒（さわ）	ぐ	ことができる
+	am	is	are	not able to	make noise					騒（さわ）	ぐ	ことはできない
+	was	was	were	able to	make noise					騒（さわ）	ぐ	ことができた
+	was	was	were	not able to	make noise					騒（さわ）	ぐ	ことはできなかった
+	could	could	could	not	make noise					騒（さわ）	ぐ	ことはできなかった
+	want	wants	want	to	make noise					騒（さわ）	ぎ	たい
+	do	does	do	not want to	make noise					騒（さわ）	ぎ	たくない
+	wanted  	wanted  	wanted	to	make noise					騒（さわ）	ぎ	たかった
+	did	did	did	not want to	make noise					騒（さわ）	ぎ	たくなかった
+	want	wants	want	to be	making noise					騒（さわ）	い	でいたい
+	do	does	do	not want to be	making noise					騒（さわ）	い	でいたくない
+	wanted  	wanted  	wanted	to be	making noise					騒（さわ）	い	でいたかった
+	did	did	did	not want to be	making noise					騒（さわ）	い	でいたくなかった
+	want	wants	want	to be able to	make noise					騒（さわ）	ぐ	ことができるようになりたい
+	do	does	do	not want to be able to	make noise					騒（さわ）	ぐ	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	make noise					騒（さわ）	ぐ	ことができるようになりたかった
+	did	did	did	not want to be able to	make noise					騒（さわ）	ぐ	ことはできるようになりたくなかった
+	have to	has to	have to		make noise					騒（さわ）	が	なければいけない
+	do	does	do	not have to	make noise					騒（さわ）	が	なくてもいい
+	have to	has to	have to	be	making noise					騒（さわ）	い	でいなければいけない
+	do	does	do	not have to be	making noise					騒（さわ）	い	でいなくてもいい
+	have to	has to	have to	be able to	make noise					騒（さわ）	ぐ	ことができなければいけない
+	do	does	do	not have to be able to	make noise					騒（さわ）	ぐ	ことはできなくてもいい
+	had to	had to	had to		make noise					騒（さわ）	が	なければいけなかった
+	did	did	did	not have to	make noise					騒（さわ）	が	なくてもよかった
+	had to	had to	had to	be	making noise					騒（さわ）	い	でいなければいけなかった
+	did	did	did	not have to be	making noise					騒（さわ）	い	でいなくてもよかった
+	had to	had to	had to	be able to	make noise					騒（さわ）	ぐ	ことができなければいけなかった
+	did	did	did	not have to be able to	make noise					騒（さわ）	ぐ	ことはできなくてもよかった
+step-3	will	will	will		make noise					騒（さわ）	ぐ	だろう
+	will	will	will	not	make noise					騒（さわ）	が	ないだろう
+	will	will	will	be	making noise					騒（さわ）	い	でいるだろう
+	will	will	will	not be	making noise					騒（さわ）	い	でいないだろう
+	will	will	will	be able to	make noise					騒（さわ）	ぐ	ことができるだろう
+	will	will	will	not be able to	make noise					騒（さわ）	ぐ	ことはできないだろう
+	may	may	may		make noise					騒（さわ）	ぐ	かもしれない
+	may	may	may	not	make noise					騒（さわ）	が	ないかもしれない
+	may	may	may	be	making noise					騒（さわ）	い	でいるかもしれない
+	may	may	may	not be	making noise					騒（さわ）	い	でいないかもしれない
+	may	may	may	be able to	make noise					騒（さわ）	ぐ	ことができるかもしれない
+	may	may	may	not be able to	make noise					騒（さわ）	ぐ	ことはできないかもしれない
+	can	can	can		make noise					騒（さわ）	ぐ	ことができる
+	can	can	can	not	make noise					騒（さわ）	ぐ	ことはできない
+	should	should	should		make noise					騒（さわ）	ぐ	ほうがいい
+	should	should	should	not	make noise					騒（さわ）	が	ないほうがいい
+	should	should	should	be	making noise					騒（さわ）	い	でいるほうがいい
+	should	should	should	not be	making noise					騒（さわ）	い	でいないほうがいい
+	should	should	should	be able to	make noise					騒（さわ）	ぐ	ことができるほうがいい
+	should	should	should	not be able to	make noise					騒（さわ）	ぐ	ことはできないほうがいい
+	should	should	should		make noise					騒（さわ）	ぐ	はずだ
+	should	should	should	not	make noise					騒（さわ）	が	ないはずだ
+	should	should	should	be	making noise					騒（さわ）	い	でいるはずだ
+	should	should	should	not be	making noise					騒（さわ）	い	でいないはずだ
+	should	should	should	be able to	make noise					騒（さわ）	ぐ	ことができるはずだ
+	should	should	should	not be able to	make noise					騒（さわ）	ぐ	ことはできるはずがない
+	had better	had better	had better		make noise					騒（さわ）	ぐ	べきだ
+	had better	had better	had better	not	make noise					騒（さわ）	ぐ	べきではない
+	must	must	must		make noise					騒（さわ）	ぐ	にちがいない
+	must	must	must	not	make noise					騒（さわ）	い	ではいけない
+	must	must	must	be	making noise					騒（さわ）	い	でいるにちがいない
+	must	must	must	not be	making noise					騒（さわ）	い	でいてはいけない
+	must	must	must	be able to	make noise					騒（さわ）	ぐ	ことができるにちがいない
+	must	must	must	not be able to	make noise					騒（さわ）	ぐ	ことはできてはいけない
+	will	will	will	have to	make noise					騒（さわ）	が	なければいけないだろう
+	will	will	will	not have to	make noise					騒（さわ）	が	なくてもいいだろう
+	will	will	will	have to be	making noise					騒（さわ）	い	でいなければいけないだろう
+	will	will	will	not have to be	making noise					騒（さわ）	い	でいなくてもいいだろう
+	will	will	will	have to be able to	make noise					騒（さわ）	ぐ	ことができなければいけないだろう
+	will	will	will	not have to be able to	make noise					騒（さわ）	ぐ	ことはできなくてもいいだろう
+	may	may	may	have to	make noise					騒（さわ）	が	なければいけないかもしれない
+	may	may	may	not have to	make noise					騒（さわ）	が	なくてもいいかもしれない
+	may	may	may	have to be	making noise					騒（さわ）	い	でいなければいけないかもしれない
+	may	may	may	not have to be	making noise					騒（さわ）	い	でいなくてもいいかもしれない
+	may	may	may	have to be able to	make noise					騒（さわ）	ぐ	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	make noise					騒（さわ）	ぐ	ことはできなくてもいいかもしれない
+step-4	have	has	have		made noise					騒（さわ）	い	たことがある
+	have	has	have	not	made noise					騒（さわ）	い	だことはない
+	have	has	have	been	making noise			（ずっと）		騒（さわ）	い	でいる
+	have	has	have	not been	making noise			（ずっと）		騒（さわ）	い	でいない
+	have	has	have		made noise		already	すでに		騒（さわ）	い	でいる
+	have	has	have	not	made noise		yet	まだ		騒（さわ）	い	でいない
+	had	had	had		made noise		before that	それ以前（いぜん）		騒（さわ）	い	だことがあった
+	had	had	had	not	made noise		before that	それ以前（いぜん）		騒（さわ）	い	だことはなかった
+	had	had	had	been	making noise		till then	それまでずっと		騒（さわ）	い	でいた
+	had	had	had	not been	making noise		till then	それまでずっと		騒（さわ）	い	でいなかった
+	had	had	had		made noise		already	すでに		騒（さわ）	い	でいた
+	had	had	had	not	made noise		yet	まだ		騒（さわ）	い	でいなかった
+	have	has	have	been able to	make noise			（ずっと）		騒（さわ）	ぐ	ことができている
+	have	has	have	not been able to	make noise		yet	まだ		騒（さわ）	ぐ	ことはできていない
+	had	had	had	been able to	make noise		till then	それまでずっと		騒（さわ）	ぐ	ことができていた
+	had	had	had	not been able to	make noise		till then	それまでずっと		騒（さわ）	ぐ	ことはできていなかった
+step-5	may have	may have	may have		made noise					騒（さわ）	い	だかもしれない
+	may not have	may not have	may not have		made noise					騒（さわ）	が	なかったかもしれない
+	may have	may have	may have	been able to	make noise					騒（さわ）	ぐ	ことができたかもしれない
+	may not have	may not have	may not have	been able to	make noise					騒（さわ）	ぐ	ことはできなかったかもしれない
+	must have	must have	must have		made noise					騒（さわ）	い	だにちがいない
+	must not have	must not have	must not have		made noise					騒（さわ）	が	なかったにちがいない
+	must have	must have	must have	been able to	make noise					騒（さわ）	ぐ	ことができたにちがいない
+	must not have	must not have	must not have	been able to	make noise					騒（さわ）	ぐ	ことはできなかったにちがいない
+	should have	should have	should have		made noise					騒（さわ）	ぐ	ほうがよかった
+	should not have	should not have	should not have		made noise					騒（さわ）	が	ないほうがよかった
+	should have	should have	should have	been able to	make noise					騒（さわ）	ぐ	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	make noise					騒（さわ）	ぐ	ことはできないほうがよかった
+	can not have	can not have	can not have		made noise					騒（さわ）	い	だはずがない
+step-6	would	would	would		make noise					騒（さわ）	い	だだろう
+	would	would	would	not	make noise					騒（さわ）	が	なかっただろう
+	would	would	would	be able to	make noise					騒（さわ）	ぐ	ことができただろう
+	would	would	would	not be able to	make noise					騒（さわ）	ぐ	ことはできなかっただろう
+	would have	would have	would have		made noise					騒（さわ）	い	だことだろう
+	would not have	would not have	would not have		made noise					騒（さわ）	が	なかったことだろう
+	would have	would have	would have	been able to	make noise					騒（さわ）	ぐ	ことができたことだろう
+	would not have	would not have	would not have	been able to	make noise					騒（さわ）	ぐ	ことはできなかったことだろう
+	could have	could have	could have		made noise					騒（さわ）	い	だ可能性がある
+	could not have	could not have	could not have		made noise					騒（さわ）	い	だ可能性はない
+	might have	might have	might have		made noise					騒（さわ）	い	だかもしれなかった
+	might not have	might not have	might not have		made noise					騒（さわ）	が	なかったかもしれなかった
+	might have	might have	might have	been able to	make noise					騒（さわ）	ぐ	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	make noise					騒（さわ）	ぐ	ことはできなかったかもしれなかった

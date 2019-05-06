@@ -1,0 +1,130 @@
+step-1	work	works	work							働（はたら）	く
+	do	does	do	not	work					働（はたら）	か	ない
+	worked	worked	worked							働（はたら）	い	た
+	did	did	did	not	work					働（はたら）	か	なかった
+	am	is	are		working					働（はたら）	い	ている
+	am	is	are	not	working					働（はたら）	い	ていない
+	was	was	were		working					働（はたら）	い	ていた
+	was	was	were	not	working					働（はたら）	い	ていなかった
+step-2	am	is	are	going to	work					働（はたら）	く	予定（よてい）だ
+	am	is	are	not going to	work					働（はたら）	く	予定（よてい）ではない
+	was	was	were	going to	work					働（はたら）	く	予定（よてい）だった
+	was	was	were	not going to	work					働（はたら）	く	予定（よてい）ではなかった
+	am	is	are	able to	work					働（はたら）	く	ことができる
+	am	is	are	not able to	work					働（はたら）	く	ことはできない
+	was	was	were	able to	work					働（はたら）	く	ことができた
+	was	was	were	not able to	work					働（はたら）	く	ことはできなかった
+	could	could	could	not	work					働（はたら）	く	ことはできなかった
+	want	wants	want	to	work					働（はたら）	き	たい
+	do	does	do	not want to	work					働（はたら）	き	たくない
+	wanted  	wanted  	wanted	to	work					働（はたら）	き	たかった
+	did	did	did	not want to	work					働（はたら）	き	たくなかった
+	want	wants	want	to be	working					働（はたら）	い	ていたい
+	do	does	do	not want to be	working					働（はたら）	い	ていたくない
+	wanted  	wanted  	wanted	to be	working					働（はたら）	い	ていたかった
+	did	did	did	not want to be	working					働（はたら）	い	ていたくなかった
+	want	wants	want	to be able to	work					働（はたら）	く	ことができるようになりたい
+	do	does	do	not want to be able to	work					働（はたら）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	work					働（はたら）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	work					働（はたら）	く	ことはできるようになりたくなかった
+	have to	has to	have to		work					働（はたら）	か	なければいけない
+	do	does	do	not have to	work					働（はたら）	か	なくてもいい
+	have to	has to	have to	be	working					働（はたら）	い	ていなければいけない
+	do	does	do	not have to be	working					働（はたら）	い	ていなくてもいい
+	have to	has to	have to	be able to	work					働（はたら）	く	ことができなければいけない
+	do	does	do	not have to be able to	work					働（はたら）	く	ことはできなくてもいい
+	had to	had to	had to		work					働（はたら）	か	なければいけなかった
+	did	did	did	not have to	work					働（はたら）	か	なくてもよかった
+	had to	had to	had to	be	working					働（はたら）	い	ていなければいけなかった
+	did	did	did	not have to be	working					働（はたら）	い	ていなくてもよかった
+	had to	had to	had to	be able to	work					働（はたら）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	work					働（はたら）	く	ことはできなくてもよかった
+step-3	will	will	will		work					働（はたら）	く	だろう
+	will	will	will	not	work					働（はたら）	か	ないだろう
+	will	will	will	be	working					働（はたら）	い	ているだろう
+	will	will	will	not be	working					働（はたら）	い	ていないだろう
+	will	will	will	be able to	work					働（はたら）	く	ことができるだろう
+	will	will	will	not be able to	work					働（はたら）	く	ことはできないだろう
+	may	may	may		work					働（はたら）	く	かもしれない
+	may	may	may	not	work					働（はたら）	か	ないかもしれない
+	may	may	may	be	working					働（はたら）	い	ているかもしれない
+	may	may	may	not be	working					働（はたら）	い	ていないかもしれない
+	may	may	may	be able to	work					働（はたら）	く	ことができるかもしれない
+	may	may	may	not be able to	work					働（はたら）	く	ことはできないかもしれない
+	can	can	can		work					働（はたら）	く	ことができる
+	can	can	can	not	work					働（はたら）	く	ことはできない
+	should	should	should		work					働（はたら）	く	ほうがいい
+	should	should	should	not	work					働（はたら）	か	ないほうがいい
+	should	should	should	be	working					働（はたら）	い	ているほうがいい
+	should	should	should	not be	working					働（はたら）	い	ていないほうがいい
+	should	should	should	be able to	work					働（はたら）	く	ことができるほうがいい
+	should	should	should	not be able to	work					働（はたら）	く	ことはできないほうがいい
+	should	should	should		work					働（はたら）	く	はずだ
+	should	should	should	not	work					働（はたら）	か	ないはずだ
+	should	should	should	be	working					働（はたら）	い	ているはずだ
+	should	should	should	not be	working					働（はたら）	い	ていないはずだ
+	should	should	should	be able to	work					働（はたら）	く	ことができるはずだ
+	should	should	should	not be able to	work					働（はたら）	く	ことはできるはずがない
+	had better	had better	had better		work					働（はたら）	く	べきだ
+	had better	had better	had better	not	work					働（はたら）	く	べきではない
+	must	must	must		work					働（はたら）	く	にちがいない
+	must	must	must	not	work					働（はたら）	い	てはいけない
+	must	must	must	be	working					働（はたら）	い	ているにちがいない
+	must	must	must	not be	working					働（はたら）	い	ていてはいけない
+	must	must	must	be able to	work					働（はたら）	く	ことができるにちがいない
+	must	must	must	not be able to	work					働（はたら）	く	ことはできてはいけない
+	will	will	will	have to	work					働（はたら）	か	なければいけないだろう
+	will	will	will	not have to	work					働（はたら）	か	なくてもいいだろう
+	will	will	will	have to be	working					働（はたら）	い	ていなければいけないだろう
+	will	will	will	not have to be	working					働（はたら）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	work					働（はたら）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	work					働（はたら）	く	ことはできなくてもいいだろう
+	may	may	may	have to	work					働（はたら）	か	なければいけないかもしれない
+	may	may	may	not have to	work					働（はたら）	か	なくてもいいかもしれない
+	may	may	may	have to be	working					働（はたら）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	working					働（はたら）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	work					働（はたら）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	work					働（はたら）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		worked					働（はたら）	い	たことがある
+	have	has	have	not	worked					働（はたら）	い	たことはない
+	have	has	have	been	working			（ずっと）		働（はたら）	い	ている
+	have	has	have	not been	working			（ずっと）		働（はたら）	い	ていない
+	have	has	have		worked		already	すでに		働（はたら）	い	ている
+	have	has	have	not	worked		yet	まだ		働（はたら）	い	ていない
+	had	had	had		worked		before that	それ以前（いぜん）		働（はたら）	い	たことがあった
+	had	had	had	not	worked		before that	それ以前（いぜん）		働（はたら）	い	たことはなかった
+	had	had	had	been	working		till then	それまでずっと		働（はたら）	い	ていた
+	had	had	had	not been	working		till then	それまでずっと		働（はたら）	い	ていなかった
+	had	had	had		worked		already	すでに		働（はたら）	い	ていた
+	had	had	had	not	worked		yet	まだ		働（はたら）	い	ていなかった
+	have	has	have	been able to	work			（ずっと）		働（はたら）	く	ことができている
+	have	has	have	not been able to	work		yet	まだ		働（はたら）	く	ことはできていない
+	had	had	had	been able to	work		till then	それまでずっと		働（はたら）	く	ことができていた
+	had	had	had	not been able to	work		till then	それまでずっと		働（はたら）	く	ことはできていなかった
+step-5	may have	may have	may have		worked					働（はたら）	い	たかもしれない
+	may not have	may not have	may not have		worked					働（はたら）	か	なかったかもしれない
+	may have	may have	may have	been able to	work					働（はたら）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	work					働（はたら）	く	ことはできなかったかもしれない
+	must have	must have	must have		worked					働（はたら）	い	たにちがいない
+	must not have	must not have	must not have		worked					働（はたら）	か	なかったにちがいない
+	must have	must have	must have	been able to	work					働（はたら）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	work					働（はたら）	く	ことはできなかったにちがいない
+	should have	should have	should have		worked					働（はたら）	く	ほうがよかった
+	should not have	should not have	should not have		worked					働（はたら）	か	ないほうがよかった
+	should have	should have	should have	been able to	work					働（はたら）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	work					働（はたら）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		worked					働（はたら）	い	たはずがない
+step-6	would	would	would		work					働（はたら）	い	ただろう
+	would	would	would	not	work					働（はたら）	か	なかっただろう
+	would	would	would	be able to	work					働（はたら）	く	ことができただろう
+	would	would	would	not be able to	work					働（はたら）	く	ことはできなかっただろう
+	would have	would have	would have		worked					働（はたら）	い	たことだろう
+	would not have	would not have	would not have		worked					働（はたら）	か	なかったことだろう
+	would have	would have	would have	been able to	work					働（はたら）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	work					働（はたら）	く	ことはできなかったことだろう
+	could have	could have	could have		worked					働（はたら）	い	た可能性がある
+	could not have	could not have	could not have		worked					働（はたら）	い	た可能性はない
+	might have	might have	might have		worked					働（はたら）	い	たかもしれなかった
+	might not have	might not have	might not have		worked					働（はたら）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	work					働（はたら）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	work					働（はたら）	く	ことはできなかったかもしれなかった

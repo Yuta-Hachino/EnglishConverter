@@ -1,0 +1,130 @@
+step-1	hold	holds	hold							（イベントなどを）開（ひら）	く
+	do	does	do	not	hold					（イベントなどを）開（ひら）	か	ない
+	held	held	held							（イベントなどを）開（ひら）	い	た
+	did	did	did	not	hold					（イベントなどを）開（ひら）	か	なかった
+	am	is	are		holding					（イベントなどを）開（ひら）	い	ている
+	am	is	are	not	holding					（イベントなどを）開（ひら）	い	ていない
+	was	was	were		holding					（イベントなどを）開（ひら）	い	ていた
+	was	was	were	not	holding					（イベントなどを）開（ひら）	い	ていなかった
+step-2	am	is	are	going to	hold					（イベントなどを）開（ひら）	く	予定（よてい）だ
+	am	is	are	not going to	hold					（イベントなどを）開（ひら）	く	予定（よてい）ではない
+	was	was	were	going to	hold					（イベントなどを）開（ひら）	く	予定（よてい）だった
+	was	was	were	not going to	hold					（イベントなどを）開（ひら）	く	予定（よてい）ではなかった
+	am	is	are	able to	hold					（イベントなどを）開（ひら）	く	ことができる
+	am	is	are	not able to	hold					（イベントなどを）開（ひら）	く	ことはできない
+	was	was	were	able to	hold					（イベントなどを）開（ひら）	く	ことができた
+	was	was	were	not able to	hold					（イベントなどを）開（ひら）	く	ことはできなかった
+	could	could	could	not	hold					（イベントなどを）開（ひら）	く	ことはできなかった
+	want	wants	want	to	hold					（イベントなどを）開（ひら）	き	たい
+	do	does	do	not want to	hold					（イベントなどを）開（ひら）	き	たくない
+	wanted  	wanted  	wanted	to	hold					（イベントなどを）開（ひら）	き	たかった
+	did	did	did	not want to	hold					（イベントなどを）開（ひら）	き	たくなかった
+	want	wants	want	to be	holding					（イベントなどを）開（ひら）	い	ていたい
+	do	does	do	not want to be	holding					（イベントなどを）開（ひら）	い	ていたくない
+	wanted  	wanted  	wanted	to be	holding					（イベントなどを）開（ひら）	い	ていたかった
+	did	did	did	not want to be	holding					（イベントなどを）開（ひら）	い	ていたくなかった
+	want	wants	want	to be able to	hold					（イベントなどを）開（ひら）	く	ことができるようになりたい
+	do	does	do	not want to be able to	hold					（イベントなどを）開（ひら）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	hold					（イベントなどを）開（ひら）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	hold					（イベントなどを）開（ひら）	く	ことはできるようになりたくなかった
+	have to	has to	have to		hold					（イベントなどを）開（ひら）	か	なければいけない
+	do	does	do	not have to	hold					（イベントなどを）開（ひら）	か	なくてもいい
+	have to	has to	have to	be	holding					（イベントなどを）開（ひら）	い	ていなければいけない
+	do	does	do	not have to be	holding					（イベントなどを）開（ひら）	い	ていなくてもいい
+	have to	has to	have to	be able to	hold					（イベントなどを）開（ひら）	く	ことができなければいけない
+	do	does	do	not have to be able to	hold					（イベントなどを）開（ひら）	く	ことはできなくてもいい
+	had to	had to	had to		hold					（イベントなどを）開（ひら）	か	なければいけなかった
+	did	did	did	not have to	hold					（イベントなどを）開（ひら）	か	なくてもよかった
+	had to	had to	had to	be	holding					（イベントなどを）開（ひら）	い	ていなければいけなかった
+	did	did	did	not have to be	holding					（イベントなどを）開（ひら）	い	ていなくてもよかった
+	had to	had to	had to	be able to	hold					（イベントなどを）開（ひら）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	hold					（イベントなどを）開（ひら）	く	ことはできなくてもよかった
+step-3	will	will	will		hold					（イベントなどを）開（ひら）	く	だろう
+	will	will	will	not	hold					（イベントなどを）開（ひら）	か	ないだろう
+	will	will	will	be	holding					（イベントなどを）開（ひら）	い	ているだろう
+	will	will	will	not be	holding					（イベントなどを）開（ひら）	い	ていないだろう
+	will	will	will	be able to	hold					（イベントなどを）開（ひら）	く	ことができるだろう
+	will	will	will	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできないだろう
+	may	may	may		hold					（イベントなどを）開（ひら）	く	かもしれない
+	may	may	may	not	hold					（イベントなどを）開（ひら）	か	ないかもしれない
+	may	may	may	be	holding					（イベントなどを）開（ひら）	い	ているかもしれない
+	may	may	may	not be	holding					（イベントなどを）開（ひら）	い	ていないかもしれない
+	may	may	may	be able to	hold					（イベントなどを）開（ひら）	く	ことができるかもしれない
+	may	may	may	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできないかもしれない
+	can	can	can		hold					（イベントなどを）開（ひら）	く	ことができる
+	can	can	can	not	hold					（イベントなどを）開（ひら）	く	ことはできない
+	should	should	should		hold					（イベントなどを）開（ひら）	く	ほうがいい
+	should	should	should	not	hold					（イベントなどを）開（ひら）	か	ないほうがいい
+	should	should	should	be	holding					（イベントなどを）開（ひら）	い	ているほうがいい
+	should	should	should	not be	holding					（イベントなどを）開（ひら）	い	ていないほうがいい
+	should	should	should	be able to	hold					（イベントなどを）開（ひら）	く	ことができるほうがいい
+	should	should	should	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできないほうがいい
+	should	should	should		hold					（イベントなどを）開（ひら）	く	はずだ
+	should	should	should	not	hold					（イベントなどを）開（ひら）	か	ないはずだ
+	should	should	should	be	holding					（イベントなどを）開（ひら）	い	ているはずだ
+	should	should	should	not be	holding					（イベントなどを）開（ひら）	い	ていないはずだ
+	should	should	should	be able to	hold					（イベントなどを）開（ひら）	く	ことができるはずだ
+	should	should	should	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできるはずがない
+	had better	had better	had better		hold					（イベントなどを）開（ひら）	く	べきだ
+	had better	had better	had better	not	hold					（イベントなどを）開（ひら）	く	べきではない
+	must	must	must		hold					（イベントなどを）開（ひら）	く	にちがいない
+	must	must	must	not	hold					（イベントなどを）開（ひら）	い	てはいけない
+	must	must	must	be	holding					（イベントなどを）開（ひら）	い	ているにちがいない
+	must	must	must	not be	holding					（イベントなどを）開（ひら）	い	ていてはいけない
+	must	must	must	be able to	hold					（イベントなどを）開（ひら）	く	ことができるにちがいない
+	must	must	must	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできてはいけない
+	will	will	will	have to	hold					（イベントなどを）開（ひら）	か	なければいけないだろう
+	will	will	will	not have to	hold					（イベントなどを）開（ひら）	か	なくてもいいだろう
+	will	will	will	have to be	holding					（イベントなどを）開（ひら）	い	ていなければいけないだろう
+	will	will	will	not have to be	holding					（イベントなどを）開（ひら）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	hold					（イベントなどを）開（ひら）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	hold					（イベントなどを）開（ひら）	く	ことはできなくてもいいだろう
+	may	may	may	have to	hold					（イベントなどを）開（ひら）	か	なければいけないかもしれない
+	may	may	may	not have to	hold					（イベントなどを）開（ひら）	か	なくてもいいかもしれない
+	may	may	may	have to be	holding					（イベントなどを）開（ひら）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	holding					（イベントなどを）開（ひら）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	hold					（イベントなどを）開（ひら）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	hold					（イベントなどを）開（ひら）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		held					（イベントなどを）開（ひら）	い	たことがある
+	have	has	have	not	held					（イベントなどを）開（ひら）	い	たことはない
+	have	has	have	been	holding			（ずっと）		（イベントなどを）開（ひら）	い	ている
+	have	has	have	not been	holding			（ずっと）		（イベントなどを）開（ひら）	い	ていない
+	have	has	have		held		already	すでに		（イベントなどを）開（ひら）	い	ている
+	have	has	have	not	held		yet	まだ		（イベントなどを）開（ひら）	い	ていない
+	had	had	had		held		before that	それ以前（いぜん）		（イベントなどを）開（ひら）	い	たことがあった
+	had	had	had	not	held		before that	それ以前（いぜん）		（イベントなどを）開（ひら）	い	たことはなかった
+	had	had	had	been	holding		till then	それまでずっと		（イベントなどを）開（ひら）	い	ていた
+	had	had	had	not been	holding		till then	それまでずっと		（イベントなどを）開（ひら）	い	ていなかった
+	had	had	had		held		already	すでに		（イベントなどを）開（ひら）	い	ていた
+	had	had	had	not	held		yet	まだ		（イベントなどを）開（ひら）	い	ていなかった
+	have	has	have	been able to	hold			（ずっと）		（イベントなどを）開（ひら）	く	ことができている
+	have	has	have	not been able to	hold		yet	まだ		（イベントなどを）開（ひら）	く	ことはできていない
+	had	had	had	been able to	hold		till then	それまでずっと		（イベントなどを）開（ひら）	く	ことができていた
+	had	had	had	not been able to	hold		till then	それまでずっと		（イベントなどを）開（ひら）	く	ことはできていなかった
+step-5	may have	may have	may have		held					（イベントなどを）開（ひら）	い	たかもしれない
+	may not have	may not have	may not have		held					（イベントなどを）開（ひら）	か	なかったかもしれない
+	may have	may have	may have	been able to	hold					（イベントなどを）開（ひら）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	hold					（イベントなどを）開（ひら）	く	ことはできなかったかもしれない
+	must have	must have	must have		held					（イベントなどを）開（ひら）	い	たにちがいない
+	must not have	must not have	must not have		held					（イベントなどを）開（ひら）	か	なかったにちがいない
+	must have	must have	must have	been able to	hold					（イベントなどを）開（ひら）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	hold					（イベントなどを）開（ひら）	く	ことはできなかったにちがいない
+	should have	should have	should have		held					（イベントなどを）開（ひら）	く	ほうがよかった
+	should not have	should not have	should not have		held					（イベントなどを）開（ひら）	か	ないほうがよかった
+	should have	should have	should have	been able to	hold					（イベントなどを）開（ひら）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	hold					（イベントなどを）開（ひら）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		held					（イベントなどを）開（ひら）	い	たはずがない
+step-6	would	would	would		hold					（イベントなどを）開（ひら）	い	ただろう
+	would	would	would	not	hold					（イベントなどを）開（ひら）	か	なかっただろう
+	would	would	would	be able to	hold					（イベントなどを）開（ひら）	く	ことができただろう
+	would	would	would	not be able to	hold					（イベントなどを）開（ひら）	く	ことはできなかっただろう
+	would have	would have	would have		held					（イベントなどを）開（ひら）	い	たことだろう
+	would not have	would not have	would not have		held					（イベントなどを）開（ひら）	か	なかったことだろう
+	would have	would have	would have	been able to	hold					（イベントなどを）開（ひら）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	hold					（イベントなどを）開（ひら）	く	ことはできなかったことだろう
+	could have	could have	could have		held					（イベントなどを）開（ひら）	い	た可能性がある
+	could not have	could not have	could not have		held					（イベントなどを）開（ひら）	い	た可能性はない
+	might have	might have	might have		held					（イベントなどを）開（ひら）	い	たかもしれなかった
+	might not have	might not have	might not have		held					（イベントなどを）開（ひら）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	hold					（イベントなどを）開（ひら）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	hold					（イベントなどを）開（ひら）	く	ことはできなかったかもしれなかった

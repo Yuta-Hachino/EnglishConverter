@@ -1,0 +1,130 @@
+step-1	see	sees	see						と	会（あ）	う
+	do	does	do	not	see				と	会（あ）	わ	ない
+	saw	saw	saw						と	会（あ）	っ	た
+	did	did	did	not	see				と	会（あ）	わ	なかった
+	am	is	are		seeing				と	会（あ）	っ	ている
+	am	is	are	not	seeing				と	会（あ）	っ	ていない
+	was	was	were		seeing				と	会（あ）	っ	ていた
+	was	was	were	not	seeing				と	会（あ）	っ	ていなかった
+step-2	am	is	are	going to	see				と	会（あ）	う	予定（よてい）だ
+	am	is	are	not going to	see				と	会（あ）	う	予定（よてい）ではない
+	was	was	were	going to	see				と	会（あ）	う	予定（よてい）だった
+	was	was	were	not going to	see				と	会（あ）	う	予定（よてい）ではなかった
+	am	is	are	able to	see				と	会（あ）	う	ことができる
+	am	is	are	not able to	see				と	会（あ）	う	ことはできない
+	was	was	were	able to	see				と	会（あ）	う	ことができた
+	was	was	were	not able to	see				と	会（あ）	う	ことはできなかった
+	could	could	could	not	see				と	会（あ）	う	ことはできなかった
+	want	wants	want	to	see				と	会（あ）	い	たい
+	do	does	do	not want to	see				と	会（あ）	い	たくない
+	wanted  	wanted  	wanted	to	see				と	会（あ）	い	たかった
+	did	did	did	not want to	see				と	会（あ）	い	たくなかった
+	want	wants	want	to be	seeing				と	会（あ）	っ	ていたい
+	do	does	do	not want to be	seeing				と	会（あ）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	seeing				と	会（あ）	っ	ていたかった
+	did	did	did	not want to be	seeing				と	会（あ）	っ	ていたくなかった
+	want	wants	want	to be able to	see				と	会（あ）	う	ことができるようになりたい
+	do	does	do	not want to be able to	see				と	会（あ）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	see				と	会（あ）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	see				と	会（あ）	う	ことはできるようになりたくなかった
+	have to	has to	have to		see				と	会（あ）	わ	なければいけない
+	do	does	do	not have to	see				と	会（あ）	わ	なくてもいい
+	have to	has to	have to	be	seeing				と	会（あ）	っ	ていなければいけない
+	do	does	do	not have to be	seeing				と	会（あ）	っ	ていなくてもいい
+	have to	has to	have to	be able to	see				と	会（あ）	う	ことができなければいけない
+	do	does	do	not have to be able to	see				と	会（あ）	う	ことはできなくてもいい
+	had to	had to	had to		see				と	会（あ）	わ	なければいけなかった
+	did	did	did	not have to	see				と	会（あ）	わ	なくてもよかった
+	had to	had to	had to	be	seeing				と	会（あ）	っ	ていなければいけなかった
+	did	did	did	not have to be	seeing				と	会（あ）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	see				と	会（あ）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	see				と	会（あ）	う	ことはできなくてもよかった
+step-3	will	will	will		see				と	会（あ）	う	だろう
+	will	will	will	not	see				と	会（あ）	わ	ないだろう
+	will	will	will	be	seeing				と	会（あ）	っ	ているだろう
+	will	will	will	not be	seeing				と	会（あ）	っ	ていないだろう
+	will	will	will	be able to	see				と	会（あ）	う	ことができるだろう
+	will	will	will	not be able to	see				と	会（あ）	う	ことはできないだろう
+	may	may	may		see				と	会（あ）	う	かもしれない
+	may	may	may	not	see				と	会（あ）	わ	ないかもしれない
+	may	may	may	be	seeing				と	会（あ）	っ	ているかもしれない
+	may	may	may	not be	seeing				と	会（あ）	っ	ていないかもしれない
+	may	may	may	be able to	see				と	会（あ）	う	ことができるかもしれない
+	may	may	may	not be able to	see				と	会（あ）	う	ことはできないかもしれない
+	can	can	can		see				と	会（あ）	う	ことができる
+	can	can	can	not	see				と	会（あ）	う	ことはできない
+	should	should	should		see				と	会（あ）	う	ほうがいい
+	should	should	should	not	see				と	会（あ）	わ	ないほうがいい
+	should	should	should	be	seeing				と	会（あ）	っ	ているほうがいい
+	should	should	should	not be	seeing				と	会（あ）	っ	ていないほうがいい
+	should	should	should	be able to	see				と	会（あ）	う	ことができるほうがいい
+	should	should	should	not be able to	see				と	会（あ）	う	ことはできないほうがいい
+	should	should	should		see				と	会（あ）	う	はずだ
+	should	should	should	not	see				と	会（あ）	わ	ないはずだ
+	should	should	should	be	seeing				と	会（あ）	っ	ているはずだ
+	should	should	should	not be	seeing				と	会（あ）	っ	ていないはずだ
+	should	should	should	be able to	see				と	会（あ）	う	ことができるはずだ
+	should	should	should	not be able to	see				と	会（あ）	う	ことはできるはずがない
+	had better	had better	had better		see				と	会（あ）	う	べきだ
+	had better	had better	had better	not	see				と	会（あ）	う	べきではない
+	must	must	must		see				と	会（あ）	う	にちがいない
+	must	must	must	not	see				と	会（あ）	っ	てはいけない
+	must	must	must	be	seeing				と	会（あ）	っ	ているにちがいない
+	must	must	must	not be	seeing				と	会（あ）	っ	ていてはいけない
+	must	must	must	be able to	see				と	会（あ）	う	ことができるにちがいない
+	must	must	must	not be able to	see				と	会（あ）	う	ことはできてはいけない
+	will	will	will	have to	see				と	会（あ）	わ	なければいけないだろう
+	will	will	will	not have to	see				と	会（あ）	わ	なくてもいいだろう
+	will	will	will	have to be	seeing				と	会（あ）	っ	ていなければいけないだろう
+	will	will	will	not have to be	seeing				と	会（あ）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	see				と	会（あ）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	see				と	会（あ）	う	ことはできなくてもいいだろう
+	may	may	may	have to	see				と	会（あ）	わ	なければいけないかもしれない
+	may	may	may	not have to	see				と	会（あ）	わ	なくてもいいかもしれない
+	may	may	may	have to be	seeing				と	会（あ）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	seeing				と	会（あ）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	see				と	会（あ）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	see				と	会（あ）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		seen				と	会（あ）	っ	たことがある
+	have	has	have	not	seen				と	会（あ）	っ	たことはない
+	have	has	have	been	seeing			（ずっと）	と	会（あ）	っ	ている
+	have	has	have	not been	seeing			（ずっと）	と	会（あ）	っ	ていない
+	have	has	have		seen		already	すでに	と	会（あ）	っ	ている
+	have	has	have	not	seen		yet	まだ	と	会（あ）	っ	ていない
+	had	had	had		seen		before that	それ以前（いぜん）	と	会（あ）	っ	たことがあった
+	had	had	had	not	seen		before that	それ以前（いぜん）	と	会（あ）	っ	たことはなかった
+	had	had	had	been	seeing		till then	それまでずっと	と	会（あ）	っ	ていた
+	had	had	had	not been	seeing		till then	それまでずっと	と	会（あ）	っ	ていなかった
+	had	had	had		seen		already	すでに	と	会（あ）	っ	ていた
+	had	had	had	not	seen		yet	まだ	と	会（あ）	っ	ていなかった
+	have	has	have	been able to	see			（ずっと）	と	会（あ）	う	ことができている
+	have	has	have	not been able to	see		yet	まだ	と	会（あ）	う	ことはできていない
+	had	had	had	been able to	see		till then	それまでずっと	と	会（あ）	う	ことができていた
+	had	had	had	not been able to	see		till then	それまでずっと	と	会（あ）	う	ことはできていなかった
+step-5	may have	may have	may have		seen				と	会（あ）	っ	たかもしれない
+	may not have	may not have	may not have		seen				と	会（あ）	わ	なかったかもしれない
+	may have	may have	may have	been able to	see				と	会（あ）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	see				と	会（あ）	う	ことはできなかったかもしれない
+	must have	must have	must have		seen				と	会（あ）	っ	たにちがいない
+	must not have	must not have	must not have		seen				と	会（あ）	わ	なかったにちがいない
+	must have	must have	must have	been able to	see				と	会（あ）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	see				と	会（あ）	う	ことはできなかったにちがいない
+	should have	should have	should have		seen				と	会（あ）	う	ほうがよかった
+	should not have	should not have	should not have		seen				と	会（あ）	わ	ないほうがよかった
+	should have	should have	should have	been able to	see				と	会（あ）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	see				と	会（あ）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		seen				と	会（あ）	っ	たはずがない
+step-6	would	would	would		see				と	会（あ）	っ	ただろう
+	would	would	would	not	see				と	会（あ）	わ	なかっただろう
+	would	would	would	be able to	see				と	会（あ）	う	ことができただろう
+	would	would	would	not be able to	see				と	会（あ）	う	ことはできなかっただろう
+	would have	would have	would have		seen				と	会（あ）	っ	たことだろう
+	would not have	would not have	would not have		seen				と	会（あ）	わ	なかったことだろう
+	would have	would have	would have	been able to	see				と	会（あ）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	see				と	会（あ）	う	ことはできなかったことだろう
+	could have	could have	could have		seen				と	会（あ）	っ	た可能性がある
+	could not have	could not have	could not have		seen				と	会（あ）	っ	た可能性はない
+	might have	might have	might have		seen				と	会（あ）	っ	たかもしれなかった
+	might not have	might not have	might not have		seen				と	会（あ）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	see				と	会（あ）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	see				と	会（あ）	う	ことはできなかったかもしれなかった

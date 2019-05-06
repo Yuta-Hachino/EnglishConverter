@@ -1,0 +1,130 @@
+step-1	trip	trips	trip		over				に	つまず	く
+	do	does	do	not	trip over				に	つまず	か	ない
+	tripped	tripped	tripped		over				に	つまず	い	た
+	did	did	did	not	trip over				に	つまず	か	なかった
+	am	is	are		tripping over				に	つまず	い	ている
+	am	is	are	not	tripping over				に	つまず	い	ていない
+	was	was	were		tripping over				に	つまず	い	ていた
+	was	was	were	not	tripping over				に	つまず	い	ていなかった
+step-2	am	is	are	going to	trip over				に	つまず	く	予定（よてい）だ
+	am	is	are	not going to	trip over				に	つまず	く	予定（よてい）ではない
+	was	was	were	going to	trip over				に	つまず	く	予定（よてい）だった
+	was	was	were	not going to	trip over				に	つまず	く	予定（よてい）ではなかった
+	am	is	are	able to	trip over				に	つまず	く	ことができる
+	am	is	are	not able to	trip over				に	つまず	く	ことはできない
+	was	was	were	able to	trip over				に	つまず	く	ことができた
+	was	was	were	not able to	trip over				に	つまず	く	ことはできなかった
+	could	could	could	not	trip over				に	つまず	く	ことはできなかった
+	want	wants	want	to	trip over				に	つまず	き	たい
+	do	does	do	not want to	trip over				に	つまず	き	たくない
+	wanted  	wanted  	wanted	to	trip over				に	つまず	き	たかった
+	did	did	did	not want to	trip over				に	つまず	き	たくなかった
+	want	wants	want	to be	tripping over				に	つまず	い	ていたい
+	do	does	do	not want to be	tripping over				に	つまず	い	ていたくない
+	wanted  	wanted  	wanted	to be	tripping over				に	つまず	い	ていたかった
+	did	did	did	not want to be	tripping over				に	つまず	い	ていたくなかった
+	want	wants	want	to be able to	trip over				に	つまず	く	ことができるようになりたい
+	do	does	do	not want to be able to	trip over				に	つまず	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	trip over				に	つまず	く	ことができるようになりたかった
+	did	did	did	not want to be able to	trip over				に	つまず	く	ことはできるようになりたくなかった
+	have to	has to	have to		trip over				に	つまず	か	なければいけない
+	do	does	do	not have to	trip over				に	つまず	か	なくてもいい
+	have to	has to	have to	be	tripping over				に	つまず	い	ていなければいけない
+	do	does	do	not have to be	tripping over				に	つまず	い	ていなくてもいい
+	have to	has to	have to	be able to	trip over				に	つまず	く	ことができなければいけない
+	do	does	do	not have to be able to	trip over				に	つまず	く	ことはできなくてもいい
+	had to	had to	had to		trip over				に	つまず	か	なければいけなかった
+	did	did	did	not have to	trip over				に	つまず	か	なくてもよかった
+	had to	had to	had to	be	tripping over				に	つまず	い	ていなければいけなかった
+	did	did	did	not have to be	tripping over				に	つまず	い	ていなくてもよかった
+	had to	had to	had to	be able to	trip over				に	つまず	く	ことができなければいけなかった
+	did	did	did	not have to be able to	trip over				に	つまず	く	ことはできなくてもよかった
+step-3	will	will	will		trip over				に	つまず	く	だろう
+	will	will	will	not	trip over				に	つまず	か	ないだろう
+	will	will	will	be	tripping over				に	つまず	い	ているだろう
+	will	will	will	not be	tripping over				に	つまず	い	ていないだろう
+	will	will	will	be able to	trip over				に	つまず	く	ことができるだろう
+	will	will	will	not be able to	trip over				に	つまず	く	ことはできないだろう
+	may	may	may		trip over				に	つまず	く	かもしれない
+	may	may	may	not	trip over				に	つまず	か	ないかもしれない
+	may	may	may	be	tripping over				に	つまず	い	ているかもしれない
+	may	may	may	not be	tripping over				に	つまず	い	ていないかもしれない
+	may	may	may	be able to	trip over				に	つまず	く	ことができるかもしれない
+	may	may	may	not be able to	trip over				に	つまず	く	ことはできないかもしれない
+	can	can	can		trip over				に	つまず	く	ことができる
+	can	can	can	not	trip over				に	つまず	く	ことはできない
+	should	should	should		trip over				に	つまず	く	ほうがいい
+	should	should	should	not	trip over				に	つまず	か	ないほうがいい
+	should	should	should	be	tripping over				に	つまず	い	ているほうがいい
+	should	should	should	not be	tripping over				に	つまず	い	ていないほうがいい
+	should	should	should	be able to	trip over				に	つまず	く	ことができるほうがいい
+	should	should	should	not be able to	trip over				に	つまず	く	ことはできないほうがいい
+	should	should	should		trip over				に	つまず	く	はずだ
+	should	should	should	not	trip over				に	つまず	か	ないはずだ
+	should	should	should	be	tripping over				に	つまず	い	ているはずだ
+	should	should	should	not be	tripping over				に	つまず	い	ていないはずだ
+	should	should	should	be able to	trip over				に	つまず	く	ことができるはずだ
+	should	should	should	not be able to	trip over				に	つまず	く	ことはできるはずがない
+	had better	had better	had better		trip over				に	つまず	く	べきだ
+	had better	had better	had better	not	trip over				に	つまず	く	べきではない
+	must	must	must		trip over				に	つまず	く	にちがいない
+	must	must	must	not	trip over				に	つまず	い	てはいけない
+	must	must	must	be	tripping over				に	つまず	い	ているにちがいない
+	must	must	must	not be	tripping over				に	つまず	い	ていてはいけない
+	must	must	must	be able to	trip over				に	つまず	く	ことができるにちがいない
+	must	must	must	not be able to	trip over				に	つまず	く	ことはできてはいけない
+	will	will	will	have to	trip over				に	つまず	か	なければいけないだろう
+	will	will	will	not have to	trip over				に	つまず	か	なくてもいいだろう
+	will	will	will	have to be	tripping over				に	つまず	い	ていなければいけないだろう
+	will	will	will	not have to be	tripping over				に	つまず	い	ていなくてもいいだろう
+	will	will	will	have to be able to	trip over				に	つまず	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	trip over				に	つまず	く	ことはできなくてもいいだろう
+	may	may	may	have to	trip over				に	つまず	か	なければいけないかもしれない
+	may	may	may	not have to	trip over				に	つまず	か	なくてもいいかもしれない
+	may	may	may	have to be	tripping over				に	つまず	い	ていなければいけないかもしれない
+	may	may	may	not have to be	tripping over				に	つまず	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	trip over				に	つまず	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	trip over				に	つまず	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		tripped over				に	つまず	い	たことがある
+	have	has	have	not	tripped over				に	つまず	い	たことはない
+	have	has	have	been	tripping over			（ずっと）	に	つまず	い	ている
+	have	has	have	not been	tripping over			（ずっと）	に	つまず	い	ていない
+	have	has	have		tripped over		already	すでに	に	つまず	い	ている
+	have	has	have	not	tripped over		yet	まだ	に	つまず	い	ていない
+	had	had	had		tripped over		before that	それ以前（いぜん）	に	つまず	い	たことがあった
+	had	had	had	not	tripped over		before that	それ以前（いぜん）	に	つまず	い	たことはなかった
+	had	had	had	been	tripping over		till then	それまでずっと	に	つまず	い	ていた
+	had	had	had	not been	tripping over		till then	それまでずっと	に	つまず	い	ていなかった
+	had	had	had		tripped over		already	すでに	に	つまず	い	ていた
+	had	had	had	not	tripped over		yet	まだ	に	つまず	い	ていなかった
+	have	has	have	been able to	trip over			（ずっと）	に	つまず	く	ことができている
+	have	has	have	not been able to	trip over		yet	まだ	に	つまず	く	ことはできていない
+	had	had	had	been able to	trip over		till then	それまでずっと	に	つまず	く	ことができていた
+	had	had	had	not been able to	trip over		till then	それまでずっと	に	つまず	く	ことはできていなかった
+step-5	may have	may have	may have		tripped over				に	つまず	い	たかもしれない
+	may not have	may not have	may not have		tripped over				に	つまず	か	なかったかもしれない
+	may have	may have	may have	been able to	trip over				に	つまず	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	trip over				に	つまず	く	ことはできなかったかもしれない
+	must have	must have	must have		tripped over				に	つまず	い	たにちがいない
+	must not have	must not have	must not have		tripped over				に	つまず	か	なかったにちがいない
+	must have	must have	must have	been able to	trip over				に	つまず	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	trip over				に	つまず	く	ことはできなかったにちがいない
+	should have	should have	should have		tripped over				に	つまず	く	ほうがよかった
+	should not have	should not have	should not have		tripped over				に	つまず	か	ないほうがよかった
+	should have	should have	should have	been able to	trip over				に	つまず	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	trip over				に	つまず	く	ことはできないほうがよかった
+	can not have	can not have	can not have		tripped over				に	つまず	い	たはずがない
+step-6	would	would	would		trip over				に	つまず	い	ただろう
+	would	would	would	not	trip over				に	つまず	か	なかっただろう
+	would	would	would	be able to	trip over				に	つまず	く	ことができただろう
+	would	would	would	not be able to	trip over				に	つまず	く	ことはできなかっただろう
+	would have	would have	would have		tripped over				に	つまず	い	たことだろう
+	would not have	would not have	would not have		tripped over				に	つまず	か	なかったことだろう
+	would have	would have	would have	been able to	trip over				に	つまず	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	trip over				に	つまず	く	ことはできなかったことだろう
+	could have	could have	could have		tripped over				に	つまず	い	た可能性がある
+	could not have	could not have	could not have		tripped over				に	つまず	い	た可能性はない
+	might have	might have	might have		tripped over				に	つまず	い	たかもしれなかった
+	might not have	might not have	might not have		tripped over				に	つまず	か	なかったかもしれなかった
+	might have	might have	might have	been able to	trip over				に	つまず	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	trip over				に	つまず	く	ことはできなかったかもしれなかった

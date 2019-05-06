@@ -1,0 +1,51 @@
+step-1		is									ている
+		is		not							てはいない
+		was									ていた
+		was		not							てはいなかった
+step-2		is		going to be							ようとしている
+		is		not going to be							ようとしていない
+		was		going to be							ようとしていた
+		was		not going to be							ようとしていなかった
+step-3		will		be							ているだろう
+		will		not be							ていないだろう
+		may		be							ているかもしれない
+		may		not be							ていないかもしれない
+		can		be							ている可能性（かのうせい）がある
+		can		not be							ている可能性（かのうせい）はない
+		should		be							ているほうがいい
+		should		not be							ていないほうがいい
+		should		be							ているはずだ
+		should		not be							ているはずがない
+		must		be							ているにちがいない
+		must		not be							ていてはいけない
+		has to		be							ていなければいけない
+		does not have to		be							ていなくてもいい
+		had to		be							ていなければいけなかった
+		did not have to		be							ていなくてもよかった
+		will have to		be							ていなければいけないだろう
+		will not have to		be							ていなくてもいいだろう
+		may have to		be							ていなければいけないかもしれない
+		may not have to		be							ていなくてもいいかもしれない
+step-4		has		been					（ずっと）	形容詞	ている
+		has		not been					（ずっと）	形容詞	てはいない
+		has		been							ていたことがある
+		has		not been							ていたことはない
+		had		been		形容詞	till then		それまでずっと	形容詞	ていた
+		had		not been		形容詞	till then		それまでずっと	形容詞	てはいなかった
+		had		been		形容詞	before that		それ以前（いぜん）	形容詞	ていたことがあった
+		had		not been		形容詞	before that		それ以前（いぜん）	形容詞	ていたことはなかった
+step-5		may have		been							ていたかもしれない
+		may not have		been							ていなかったかもしれない
+		can not have		been							ていたはずがない
+		should have		been							ているほうがよかった
+		should not have		been							ていないほうがよかった
+		must have		been							ていたにちがいない
+		must not have		been							ていなかったにちがいない
+step-6		would		be							ていただろう
+		would		not be							いなかっただろう
+		would have		been							ていたことだろう
+		would not have		been							いなかったことだろう
+		could have		been							ていた可能性（かのうせい）がある
+		could not have		been							ていた可能性（かのうせい）はない
+		might have		been							ていたかもしれなかった
+		might not have		been							ていなかったかもしれなかった

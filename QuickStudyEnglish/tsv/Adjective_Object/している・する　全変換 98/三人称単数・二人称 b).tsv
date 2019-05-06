@@ -1,0 +1,98 @@
+step-1		is	are								している
+		is	are	not							していない
+		was	were								していた
+		was	were	not							していなかった
+		becomes	become								する
+		does	do	not	become						しない
+		became	became								した
+		did	did	not	become						しなかった
+		is	are		becoming						してきている
+		is	are	not	becoming						してきていない
+		was	were		becoming						してきていた
+		was	were	not	becoming						してきていなかった
+step-2		is	are	going to	be						しようとしている
+		is	are	not going to	be						しようとしていない
+		was	were	going to	be						しようとしていた
+		was	were	not going to	be						しようとしていなかった
+		has	have	to	be						していなければいけない
+		does not have	do not have	to	be						していなくてもいい
+		has	have	to	become						しなければいけない
+		does not have	do not have	to	become						しなくてもいい
+		had	had	to	be						していなければいけなかった
+		did not have	did not have	to	be						していなくてもよかった
+		had	had	to	become						しなければいけなかった
+		did not have	did not have	to	become						しなくてもよかった
+step-3		will	will		be						しているだろう
+		will	will	not	be						していないだろう
+		will	will		become						するだろう
+		will	will	not	become						しないだろう
+		may	may		be						しているかもしれない
+		may	may	not	be						していないかもしれない
+		may	may		become						するかもしれない
+		may	may	not	become						しないかもしれない
+		can	can		be						している可能性（かのうせい）がある
+		can	can	not	be						している可能性（かのうせい）はない
+		can	can		become						する可能性（かのうせい）がある
+		can	can	not	become						する可能性（かのうせい）はない
+		should	should		be						しているほうがいい
+		should	should	not	be						していないほうがいい
+		should	should		become						するほうがいい
+		should	should	not	become						しないほうがいい
+		should	should		be						しているはずだ
+		should	should	not	be						していないはずだ
+		should	should		become						するはずだ
+		should	should	not	become						するはずがない
+		must	must		be						しているにちがいない
+		must	must	not	be						していてはいけない
+		must	must		become						するにちがいない
+		must	must	not	become						してはいけない
+		will have to	will have to		be						していなければいけないだろう
+		will not have to	will not have to		be						していなくてもいいだろう
+		will have to	will have to		become						しなければいけないだろう
+		will not have to	will not have to		become						しなくてもいいだろう
+		may have to	may have to		be						していなければいけないかもしれない
+		may not have to	may not have to		be						していなくてもいいかもしれない
+		may have to	may have to		become						しなければいけないかもしてない
+		may not have to	may not have to		become						しなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	している
+		has	have	not	been				（ずっと）	形容詞	していない
+		has	have		been						していたことがある
+		has	have	not	been						していたことはない
+		has	have		become						したことがある
+		has	have	not	become						したことはない
+		had	had		been		till then		それまでずっと	形容詞	していた
+		had	had	not	been		till then		それまでずっと	形容詞	していなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	していたことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	していたことはなかった
+		had	had		become		before that		それ以前（いぜん）	形容詞	したことがあった
+		had	had	not	become		before that		それ以前（いぜん）	形容詞	したことはなかった
+step-5		may have	may have		been						していたかもしれない
+		may not have	may not have		been						していなかったかもしれない
+		may have	may have		become						したかもしれない
+		may not have	may not have		become						しなかったかもしれない
+		can not have	can not have		been						していたはずがない
+		can not have	can not have		become						したはずがない
+		should have	should have		been						していたほうがよかった
+		should not have	should not have		been						していないほうがよかった
+		should have	should have		become						するほうがよかった
+		should not have	should not have		become						しないほうがよかった
+		must have	must have		been						していたにちがいない
+		must not have	must not have		been						していなかったにちがいない
+		must have	must have		become						したにちがいない
+		must not have	must not have		become						しなかったにちがいない
+step-6		would	would		be						していただろう
+		would	would	not	be						していなかっただろう
+		would	would		become						しただろう
+		would	would	not	become						しなかっただろう
+		would have	would have		been						していたことだろう
+		would not have	would not have		been						していなかったことだろう
+		would have	would have		become						したことだろう
+		would not have	would not have		become						しなかったことだろう
+		could have	could have		been						していた可能性（かのうせい）がある
+		could not have	could not have		been						していた可能性（かのうせい）はない
+		could have	could have		become						した可能性（かのうせい）がある
+		could not have	could not have		become						した可能性（かのうせい）はない
+		might have	might have		been						していたかもしれなかった
+		might not have	might not have		been						していなかったかもしれなかった
+		might have	might have		become						したかもしれなかった
+		might not have	might not have		become						しなかったかもしれなかった

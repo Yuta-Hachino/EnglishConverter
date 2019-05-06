@@ -1,0 +1,130 @@
+step-1	sigh	sighs	sigh							ため息（いき）をつ	く
+	do	does	do	not	sigh					ため息（いき）をつ	か	ない
+	sighed	sighed	sighed							ため息（いき）をつ	い	た
+	did	did	did	not	sigh					ため息（いき）をつ	か	なかった
+	am	is	are		sighing					ため息（いき）をつ	い	ている
+	am	is	are	not	sighing					ため息（いき）をつ	い	ていない
+	was	was	were		sighing					ため息（いき）をつ	い	ていた
+	was	was	were	not	sighing					ため息（いき）をつ	い	ていなかった
+step-2	am	is	are	going to	sigh					ため息（いき）をつ	く	予定（よてい）だ
+	am	is	are	not going to	sigh					ため息（いき）をつ	く	予定（よてい）ではない
+	was	was	were	going to	sigh					ため息（いき）をつ	く	予定（よてい）だった
+	was	was	were	not going to	sigh					ため息（いき）をつ	く	予定（よてい）ではなかった
+	am	is	are	able to	sigh					ため息（いき）をつ	く	ことができる
+	am	is	are	not able to	sigh					ため息（いき）をつ	く	ことはできない
+	was	was	were	able to	sigh					ため息（いき）をつ	く	ことができた
+	was	was	were	not able to	sigh					ため息（いき）をつ	く	ことはできなかった
+	could	could	could	not	sigh					ため息（いき）をつ	く	ことはできなかった
+	want	wants	want	to	sigh					ため息（いき）をつ	き	たい
+	do	does	do	not want to	sigh					ため息（いき）をつ	き	たくない
+	wanted  	wanted  	wanted	to	sigh					ため息（いき）をつ	き	たかった
+	did	did	did	not want to	sigh					ため息（いき）をつ	き	たくなかった
+	want	wants	want	to be	sighing					ため息（いき）をつ	い	ていたい
+	do	does	do	not want to be	sighing					ため息（いき）をつ	い	ていたくない
+	wanted  	wanted  	wanted	to be	sighing					ため息（いき）をつ	い	ていたかった
+	did	did	did	not want to be	sighing					ため息（いき）をつ	い	ていたくなかった
+	want	wants	want	to be able to	sigh					ため息（いき）をつ	く	ことができるようになりたい
+	do	does	do	not want to be able to	sigh					ため息（いき）をつ	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	sigh					ため息（いき）をつ	く	ことができるようになりたかった
+	did	did	did	not want to be able to	sigh					ため息（いき）をつ	く	ことはできるようになりたくなかった
+	have to	has to	have to		sigh					ため息（いき）をつ	か	なければいけない
+	do	does	do	not have to	sigh					ため息（いき）をつ	か	なくてもいい
+	have to	has to	have to	be	sighing					ため息（いき）をつ	い	ていなければいけない
+	do	does	do	not have to be	sighing					ため息（いき）をつ	い	ていなくてもいい
+	have to	has to	have to	be able to	sigh					ため息（いき）をつ	く	ことができなければいけない
+	do	does	do	not have to be able to	sigh					ため息（いき）をつ	く	ことはできなくてもいい
+	had to	had to	had to		sigh					ため息（いき）をつ	か	なければいけなかった
+	did	did	did	not have to	sigh					ため息（いき）をつ	か	なくてもよかった
+	had to	had to	had to	be	sighing					ため息（いき）をつ	い	ていなければいけなかった
+	did	did	did	not have to be	sighing					ため息（いき）をつ	い	ていなくてもよかった
+	had to	had to	had to	be able to	sigh					ため息（いき）をつ	く	ことができなければいけなかった
+	did	did	did	not have to be able to	sigh					ため息（いき）をつ	く	ことはできなくてもよかった
+step-3	will	will	will		sigh					ため息（いき）をつ	く	だろう
+	will	will	will	not	sigh					ため息（いき）をつ	か	ないだろう
+	will	will	will	be	sighing					ため息（いき）をつ	い	ているだろう
+	will	will	will	not be	sighing					ため息（いき）をつ	い	ていないだろう
+	will	will	will	be able to	sigh					ため息（いき）をつ	く	ことができるだろう
+	will	will	will	not be able to	sigh					ため息（いき）をつ	く	ことはできないだろう
+	may	may	may		sigh					ため息（いき）をつ	く	かもしれない
+	may	may	may	not	sigh					ため息（いき）をつ	か	ないかもしれない
+	may	may	may	be	sighing					ため息（いき）をつ	い	ているかもしれない
+	may	may	may	not be	sighing					ため息（いき）をつ	い	ていないかもしれない
+	may	may	may	be able to	sigh					ため息（いき）をつ	く	ことができるかもしれない
+	may	may	may	not be able to	sigh					ため息（いき）をつ	く	ことはできないかもしれない
+	can	can	can		sigh					ため息（いき）をつ	く	ことができる
+	can	can	can	not	sigh					ため息（いき）をつ	く	ことはできない
+	should	should	should		sigh					ため息（いき）をつ	く	ほうがいい
+	should	should	should	not	sigh					ため息（いき）をつ	か	ないほうがいい
+	should	should	should	be	sighing					ため息（いき）をつ	い	ているほうがいい
+	should	should	should	not be	sighing					ため息（いき）をつ	い	ていないほうがいい
+	should	should	should	be able to	sigh					ため息（いき）をつ	く	ことができるほうがいい
+	should	should	should	not be able to	sigh					ため息（いき）をつ	く	ことはできないほうがいい
+	should	should	should		sigh					ため息（いき）をつ	く	はずだ
+	should	should	should	not	sigh					ため息（いき）をつ	か	ないはずだ
+	should	should	should	be	sighing					ため息（いき）をつ	い	ているはずだ
+	should	should	should	not be	sighing					ため息（いき）をつ	い	ていないはずだ
+	should	should	should	be able to	sigh					ため息（いき）をつ	く	ことができるはずだ
+	should	should	should	not be able to	sigh					ため息（いき）をつ	く	ことはできるはずがない
+	had better	had better	had better		sigh					ため息（いき）をつ	く	べきだ
+	had better	had better	had better	not	sigh					ため息（いき）をつ	く	べきではない
+	must	must	must		sigh					ため息（いき）をつ	く	にちがいない
+	must	must	must	not	sigh					ため息（いき）をつ	い	てはいけない
+	must	must	must	be	sighing					ため息（いき）をつ	い	ているにちがいない
+	must	must	must	not be	sighing					ため息（いき）をつ	い	ていてはいけない
+	must	must	must	be able to	sigh					ため息（いき）をつ	く	ことができるにちがいない
+	must	must	must	not be able to	sigh					ため息（いき）をつ	く	ことはできてはいけない
+	will	will	will	have to	sigh					ため息（いき）をつ	か	なければいけないだろう
+	will	will	will	not have to	sigh					ため息（いき）をつ	か	なくてもいいだろう
+	will	will	will	have to be	sighing					ため息（いき）をつ	い	ていなければいけないだろう
+	will	will	will	not have to be	sighing					ため息（いき）をつ	い	ていなくてもいいだろう
+	will	will	will	have to be able to	sigh					ため息（いき）をつ	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	sigh					ため息（いき）をつ	く	ことはできなくてもいいだろう
+	may	may	may	have to	sigh					ため息（いき）をつ	か	なければいけないかもしれない
+	may	may	may	not have to	sigh					ため息（いき）をつ	か	なくてもいいかもしれない
+	may	may	may	have to be	sighing					ため息（いき）をつ	い	ていなければいけないかもしれない
+	may	may	may	not have to be	sighing					ため息（いき）をつ	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	sigh					ため息（いき）をつ	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	sigh					ため息（いき）をつ	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		sighed					ため息（いき）をつ	い	たことがある
+	have	has	have	not	sighed					ため息（いき）をつ	い	たことはない
+	have	has	have	been	sigh			（ずっと）		ため息（いき）をつ	い	ている
+	have	has	have	not been	sigh			（ずっと）		ため息（いき）をつ	い	ていない
+	have	has	have		sighed		already	すでに		ため息（いき）をつ	い	ている
+	have	has	have	not	sighed		yet	まだ		ため息（いき）をつ	い	ていない
+	had	had	had		sighed		before that	それ以前（いぜん）		ため息（いき）をつ	い	たことがあった
+	had	had	had	not	sighed		before that	それ以前（いぜん）		ため息（いき）をつ	い	たことはなかった
+	had	had	had	been	sigh		till then	それまでずっと		ため息（いき）をつ	い	ていた
+	had	had	had	not been	sigh		till then	それまでずっと		ため息（いき）をつ	い	ていなかった
+	had	had	had		sighed		already	すでに		ため息（いき）をつ	い	ていた
+	had	had	had	not	sighed		yet	まだ		ため息（いき）をつ	い	ていなかった
+	have	has	have	been able to	sigh			（ずっと）		ため息（いき）をつ	く	ことができている
+	have	has	have	not been able to	sigh		yet	まだ		ため息（いき）をつ	く	ことはできていない
+	had	had	had	been able to	sigh		till then	それまでずっと		ため息（いき）をつ	く	ことができていた
+	had	had	had	not been able to	sigh		till then	それまでずっと		ため息（いき）をつ	く	ことはできていなかった
+step-5	may have	may have	may have		sighed					ため息（いき）をつ	い	たかもしれない
+	may not have	may not have	may not have		sighed					ため息（いき）をつ	か	なかったかもしれない
+	may have	may have	may have	been able to	sigh					ため息（いき）をつ	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	sigh					ため息（いき）をつ	く	ことはできなかったかもしれない
+	must have	must have	must have		sighed					ため息（いき）をつ	い	たにちがいない
+	must not have	must not have	must not have		sighed					ため息（いき）をつ	か	なかったにちがいない
+	must have	must have	must have	been able to	sigh					ため息（いき）をつ	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	sigh					ため息（いき）をつ	く	ことはできなかったにちがいない
+	should have	should have	should have		sighed					ため息（いき）をつ	く	ほうがよかった
+	should not have	should not have	should not have		sighed					ため息（いき）をつ	か	ないほうがよかった
+	should have	should have	should have	been able to	sigh					ため息（いき）をつ	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	sigh					ため息（いき）をつ	く	ことはできないほうがよかった
+	can not have	can not have	can not have		sighed					ため息（いき）をつ	い	たはずがない
+step-6	would	would	would		sigh					ため息（いき）をつ	い	ただろう
+	would	would	would	not	sigh					ため息（いき）をつ	か	なかっただろう
+	would	would	would	be able to	sigh					ため息（いき）をつ	く	ことができただろう
+	would	would	would	not be able to	sigh					ため息（いき）をつ	く	ことはできなかっただろう
+	would have	would have	would have		sighed					ため息（いき）をつ	い	たことだろう
+	would not have	would not have	would not have		sighed					ため息（いき）をつ	か	なかったことだろう
+	would have	would have	would have	been able to	sigh					ため息（いき）をつ	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	sigh					ため息（いき）をつ	く	ことはできなかったことだろう
+	could have	could have	could have		sighed					ため息（いき）をつ	い	た可能性がある
+	could not have	could not have	could not have		sighed					ため息（いき）をつ	い	た可能性はない
+	might have	might have	might have		sighed					ため息（いき）をつ	い	たかもしれなかった
+	might not have	might not have	might not have		sighed					ため息（いき）をつ	か	なかったかもしれなかった
+	might have	might have	might have	been able to	sigh					ため息（いき）をつ	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	sigh					ため息（いき）をつ	く	ことはできなかったかもしれなかった

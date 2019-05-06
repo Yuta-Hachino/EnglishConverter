@@ -1,0 +1,130 @@
+step-1	brush	brushes	brush		teeth					歯（は）を磨（みが）	く
+	do	does	do	not	brush teeth					歯（は）を磨（みが）	か	ない
+	brushed	brushed	brushed		teeth					歯（は）を磨（みが）	い	た
+	did	did	did	not	brush teeth					歯（は）を磨（みが）	か	なかった
+	am	is	are		brushing teeth					歯（は）を磨（みが）	い	ている
+	am	is	are	not	brushing teeth					歯（は）を磨（みが）	い	ていない
+	was	was	were		brushing teeth					歯（は）を磨（みが）	い	ていた
+	was	was	were	not	brushing teeth					歯（は）を磨（みが）	い	ていなかった
+step-2	am	is	are	going to	brush teeth					歯（は）を磨（みが）	く	予定（よてい）だ
+	am	is	are	not going to	brush teeth					歯（は）を磨（みが）	く	予定（よてい）ではない
+	was	was	were	going to	brush teeth					歯（は）を磨（みが）	く	予定（よてい）だった
+	was	was	were	not going to	brush teeth					歯（は）を磨（みが）	く	予定（よてい）ではなかった
+	am	is	are	able to	brush teeth					歯（は）を磨（みが）	く	ことができる
+	am	is	are	not able to	brush teeth					歯（は）を磨（みが）	く	ことはできない
+	was	was	were	able to	brush teeth					歯（は）を磨（みが）	く	ことができた
+	was	was	were	not able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかった
+	could	could	could	not	brush teeth					歯（は）を磨（みが）	く	ことはできなかった
+	want	wants	want	to	brush teeth					歯（は）を磨（みが）	き	たい
+	do	does	do	not want to	brush teeth					歯（は）を磨（みが）	き	たくない
+	wanted  	wanted  	wanted	to	brush teeth					歯（は）を磨（みが）	き	たかった
+	did	did	did	not want to	brush teeth					歯（は）を磨（みが）	き	たくなかった
+	want	wants	want	to be	brushing teeth					歯（は）を磨（みが）	い	ていたい
+	do	does	do	not want to be	brushing teeth					歯（は）を磨（みが）	い	ていたくない
+	wanted  	wanted  	wanted	to be	brushing teeth					歯（は）を磨（みが）	い	ていたかった
+	did	did	did	not want to be	brushing teeth					歯（は）を磨（みが）	い	ていたくなかった
+	want	wants	want	to be able to	brush teeth					歯（は）を磨（みが）	く	ことができるようになりたい
+	do	does	do	not want to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	brush teeth					歯（は）を磨（みが）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできるようになりたくなかった
+	have to	has to	have to		brush teeth					歯（は）を磨（みが）	か	なければいけない
+	do	does	do	not have to	brush teeth					歯（は）を磨（みが）	か	なくてもいい
+	have to	has to	have to	be	brushing teeth					歯（は）を磨（みが）	い	ていなければいけない
+	do	does	do	not have to be	brushing teeth					歯（は）を磨（みが）	い	ていなくてもいい
+	have to	has to	have to	be able to	brush teeth					歯（は）を磨（みが）	く	ことができなければいけない
+	do	does	do	not have to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできなくてもいい
+	had to	had to	had to		brush teeth					歯（は）を磨（みが）	か	なければいけなかった
+	did	did	did	not have to	brush teeth					歯（は）を磨（みが）	か	なくてもよかった
+	had to	had to	had to	be	brushing teeth					歯（は）を磨（みが）	い	ていなければいけなかった
+	did	did	did	not have to be	brushing teeth					歯（は）を磨（みが）	い	ていなくてもよかった
+	had to	had to	had to	be able to	brush teeth					歯（は）を磨（みが）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできなくてもよかった
+step-3	will	will	will		brush teeth					歯（は）を磨（みが）	く	だろう
+	will	will	will	not	brush teeth					歯（は）を磨（みが）	か	ないだろう
+	will	will	will	be	brushing teeth					歯（は）を磨（みが）	い	ているだろう
+	will	will	will	not be	brushing teeth					歯（は）を磨（みが）	い	ていないだろう
+	will	will	will	be able to	brush teeth					歯（は）を磨（みが）	く	ことができるだろう
+	will	will	will	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできないだろう
+	may	may	may		brush teeth					歯（は）を磨（みが）	く	かもしれない
+	may	may	may	not	brush teeth					歯（は）を磨（みが）	か	ないかもしれない
+	may	may	may	be	brushing teeth					歯（は）を磨（みが）	い	ているかもしれない
+	may	may	may	not be	brushing teeth					歯（は）を磨（みが）	い	ていないかもしれない
+	may	may	may	be able to	brush teeth					歯（は）を磨（みが）	く	ことができるかもしれない
+	may	may	may	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできないかもしれない
+	can	can	can		brush teeth					歯（は）を磨（みが）	く	ことができる
+	can	can	can	not	brush teeth					歯（は）を磨（みが）	く	ことはできない
+	should	should	should		brush teeth					歯（は）を磨（みが）	く	ほうがいい
+	should	should	should	not	brush teeth					歯（は）を磨（みが）	か	ないほうがいい
+	should	should	should	be	brushing teeth					歯（は）を磨（みが）	い	ているほうがいい
+	should	should	should	not be	brushing teeth					歯（は）を磨（みが）	い	ていないほうがいい
+	should	should	should	be able to	brush teeth					歯（は）を磨（みが）	く	ことができるほうがいい
+	should	should	should	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできないほうがいい
+	should	should	should		brush teeth					歯（は）を磨（みが）	く	はずだ
+	should	should	should	not	brush teeth					歯（は）を磨（みが）	か	ないはずだ
+	should	should	should	be	brushing teeth					歯（は）を磨（みが）	い	ているはずだ
+	should	should	should	not be	brushing teeth					歯（は）を磨（みが）	い	ていないはずだ
+	should	should	should	be able to	brush teeth					歯（は）を磨（みが）	く	ことができるはずだ
+	should	should	should	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできるはずがない
+	had better	had better	had better		brush teeth					歯（は）を磨（みが）	く	べきだ
+	had better	had better	had better	not	brush teeth					歯（は）を磨（みが）	く	べきではない
+	must	must	must		brush teeth					歯（は）を磨（みが）	く	にちがいない
+	must	must	must	not	brush teeth					歯（は）を磨（みが）	い	てはいけない
+	must	must	must	be	brushing teeth					歯（は）を磨（みが）	い	ているにちがいない
+	must	must	must	not be	brushing teeth					歯（は）を磨（みが）	い	ていてはいけない
+	must	must	must	be able to	brush teeth					歯（は）を磨（みが）	く	ことができるにちがいない
+	must	must	must	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできてはいけない
+	will	will	will	have to	brush teeth					歯（は）を磨（みが）	か	なければいけないだろう
+	will	will	will	not have to	brush teeth					歯（は）を磨（みが）	か	なくてもいいだろう
+	will	will	will	have to be	brushing teeth					歯（は）を磨（みが）	い	ていなければいけないだろう
+	will	will	will	not have to be	brushing teeth					歯（は）を磨（みが）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	brush teeth					歯（は）を磨（みが）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできなくてもいいだろう
+	may	may	may	have to	brush teeth					歯（は）を磨（みが）	か	なければいけないかもしれない
+	may	may	may	not have to	brush teeth					歯（は）を磨（みが）	か	なくてもいいかもしれない
+	may	may	may	have to be	brushing teeth					歯（は）を磨（みが）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	brushing teeth					歯（は）を磨（みが）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	brush teeth					歯（は）を磨（みが）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	brush teeth					歯（は）を磨（みが）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		brushed teeth					歯（は）を磨（みが）	い	たことがある
+	have	has	have	not	brushed teeth					歯（は）を磨（みが）	い	たことはない
+	have	has	have	been	brushing teeth			（ずっと）		歯（は）を磨（みが）	い	ている
+	have	has	have	not been	brushing teeth			（ずっと）		歯（は）を磨（みが）	い	ていない
+	have	has	have		brushed teeth		already	すでに		歯（は）を磨（みが）	い	ている
+	have	has	have	not	brushed teeth		yet	まだ		歯（は）を磨（みが）	い	ていない
+	had	had	had		brushed teeth		before that	それ以前（いぜん）		歯（は）を磨（みが）	い	たことがあった
+	had	had	had	not	brushed teeth		before that	それ以前（いぜん）		歯（は）を磨（みが）	い	たことはなかった
+	had	had	had	been	brushing teeth		till then	それまでずっと		歯（は）を磨（みが）	い	ていた
+	had	had	had	not been	brushing teeth		till then	それまでずっと		歯（は）を磨（みが）	い	ていなかった
+	had	had	had		brushed teeth		already	すでに		歯（は）を磨（みが）	い	ていた
+	had	had	had	not	brushed teeth		yet	まだ		歯（は）を磨（みが）	い	ていなかった
+	have	has	have	been able to	brush teeth			（ずっと）		歯（は）を磨（みが）	く	ことができている
+	have	has	have	not been able to	brush teeth		yet	まだ		歯（は）を磨（みが）	く	ことはできていない
+	had	had	had	been able to	brush teeth		till then	それまでずっと		歯（は）を磨（みが）	く	ことができていた
+	had	had	had	not been able to	brush teeth		till then	それまでずっと		歯（は）を磨（みが）	く	ことはできていなかった
+step-5	may have	may have	may have		brushed teeth					歯（は）を磨（みが）	い	たかもしれない
+	may not have	may not have	may not have		brushed teeth					歯（は）を磨（みが）	か	なかったかもしれない
+	may have	may have	may have	been able to	brush teeth					歯（は）を磨（みが）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかったかもしれない
+	must have	must have	must have		brushed teeth					歯（は）を磨（みが）	い	たにちがいない
+	must not have	must not have	must not have		brushed teeth					歯（は）を磨（みが）	か	なかったにちがいない
+	must have	must have	must have	been able to	brush teeth					歯（は）を磨（みが）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかったにちがいない
+	should have	should have	should have		brushed teeth					歯（は）を磨（みが）	く	ほうがよかった
+	should not have	should not have	should not have		brushed teeth					歯（は）を磨（みが）	か	ないほうがよかった
+	should have	should have	should have	been able to	brush teeth					歯（は）を磨（みが）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	brush teeth					歯（は）を磨（みが）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		brushed teeth					歯（は）を磨（みが）	い	たはずがない
+step-6	would	would	would		brush teeth					歯（は）を磨（みが）	い	ただろう
+	would	would	would	not	brush teeth					歯（は）を磨（みが）	か	なかっただろう
+	would	would	would	be able to	brush teeth					歯（は）を磨（みが）	く	ことができただろう
+	would	would	would	not be able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかっただろう
+	would have	would have	would have		brushed teeth					歯（は）を磨（みが）	い	たことだろう
+	would not have	would not have	would not have		brushed teeth					歯（は）を磨（みが）	か	なかったことだろう
+	would have	would have	would have	been able to	brush teeth					歯（は）を磨（みが）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかったことだろう
+	could have	could have	could have		brushed teeth					歯（は）を磨（みが）	い	た可能性がある
+	could not have	could not have	could not have		brushed teeth					歯（は）を磨（みが）	い	た可能性はない
+	might have	might have	might have		brushed teeth					歯（は）を磨（みが）	い	たかもしれなかった
+	might not have	might not have	might not have		brushed teeth					歯（は）を磨（みが）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	brush teeth					歯（は）を磨（みが）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	brush teeth					歯（は）を磨（みが）	く	ことはできなかったかもしれなかった

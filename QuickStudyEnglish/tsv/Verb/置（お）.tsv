@@ -1,0 +1,130 @@
+step-1	place	places	place						を	置（お）	く
+	do	does	do	not	place				を	置（お）	か	ない
+	placed	placed	placed						を	置（お）	い	た
+	did	did	did	not	place				を	置（お）	か	なかった
+	am	is	are		placing				を	置（お）	い	ている
+	am	is	are	not	placing				を	置（お）	い	ていない
+	was	was	were		placing				を	置（お）	い	ていた
+	was	was	were	not	placing				を	置（お）	い	ていなかった
+step-2	am	is	are	going to	place				を	置（お）	く	予定（よてい）だ
+	am	is	are	not going to	place				を	置（お）	く	予定（よてい）ではない
+	was	was	were	going to	place				を	置（お）	く	予定（よてい）だった
+	was	was	were	not going to	place				を	置（お）	く	予定（よてい）ではなかった
+	am	is	are	able to	place				を	置（お）	く	ことができる
+	am	is	are	not able to	place				を	置（お）	く	ことはできない
+	was	was	were	able to	place				を	置（お）	く	ことができた
+	was	was	were	not able to	place				を	置（お）	く	ことはできなかった
+	could	could	could	not	place				を	置（お）	く	ことはできなかった
+	want	wants	want	to	place				を	置（お）	き	たい
+	do	does	do	not want to	place				を	置（お）	き	たくない
+	wanted  	wanted  	wanted	to	place				を	置（お）	き	たかった
+	did	did	did	not want to	place				を	置（お）	き	たくなかった
+	want	wants	want	to be	placing				を	置（お）	い	ていたい
+	do	does	do	not want to be	placing				を	置（お）	い	ていたくない
+	wanted  	wanted  	wanted	to be	placing				を	置（お）	い	ていたかった
+	did	did	did	not want to be	placing				を	置（お）	い	ていたくなかった
+	want	wants	want	to be able to	place				を	置（お）	く	ことができるようになりたい
+	do	does	do	not want to be able to	place				を	置（お）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	place				を	置（お）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	place				を	置（お）	く	ことはできるようになりたくなかった
+	have to	has to	have to		place				を	置（お）	か	なければいけない
+	do	does	do	not have to	place				を	置（お）	か	なくてもいい
+	have to	has to	have to	be	placing				を	置（お）	い	ていなければいけない
+	do	does	do	not have to be	placing				を	置（お）	い	ていなくてもいい
+	have to	has to	have to	be able to	place				を	置（お）	く	ことができなければいけない
+	do	does	do	not have to be able to	place				を	置（お）	く	ことはできなくてもいい
+	had to	had to	had to		place				を	置（お）	か	なければいけなかった
+	did	did	did	not have to	place				を	置（お）	か	なくてもよかった
+	had to	had to	had to	be	placing				を	置（お）	い	ていなければいけなかった
+	did	did	did	not have to be	placing				を	置（お）	い	ていなくてもよかった
+	had to	had to	had to	be able to	place				を	置（お）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	place				を	置（お）	く	ことはできなくてもよかった
+step-3	will	will	will		place				を	置（お）	く	だろう
+	will	will	will	not	place				を	置（お）	か	ないだろう
+	will	will	will	be	placing				を	置（お）	い	ているだろう
+	will	will	will	not be	placing				を	置（お）	い	ていないだろう
+	will	will	will	be able to	place				を	置（お）	く	ことができるだろう
+	will	will	will	not be able to	place				を	置（お）	く	ことはできないだろう
+	may	may	may		place				を	置（お）	く	かもしれない
+	may	may	may	not	place				を	置（お）	か	ないかもしれない
+	may	may	may	be	placing				を	置（お）	い	ているかもしれない
+	may	may	may	not be	placing				を	置（お）	い	ていないかもしれない
+	may	may	may	be able to	place				を	置（お）	く	ことができるかもしれない
+	may	may	may	not be able to	place				を	置（お）	く	ことはできないかもしれない
+	can	can	can		place				を	置（お）	く	ことができる
+	can	can	can	not	place				を	置（お）	く	ことはできない
+	should	should	should		place				を	置（お）	く	ほうがいい
+	should	should	should	not	place				を	置（お）	か	ないほうがいい
+	should	should	should	be	placing				を	置（お）	い	ているほうがいい
+	should	should	should	not be	placing				を	置（お）	い	ていないほうがいい
+	should	should	should	be able to	place				を	置（お）	く	ことができるほうがいい
+	should	should	should	not be able to	place				を	置（お）	く	ことはできないほうがいい
+	should	should	should		place				を	置（お）	く	はずだ
+	should	should	should	not	place				を	置（お）	か	ないはずだ
+	should	should	should	be	placing				を	置（お）	い	ているはずだ
+	should	should	should	not be	placing				を	置（お）	い	ていないはずだ
+	should	should	should	be able to	place				を	置（お）	く	ことができるはずだ
+	should	should	should	not be able to	place				を	置（お）	く	ことはできるはずがない
+	had better	had better	had better		place				を	置（お）	く	べきだ
+	had better	had better	had better	not	place				を	置（お）	く	べきではない
+	must	must	must		place				を	置（お）	く	にちがいない
+	must	must	must	not	place				を	置（お）	い	てはいけない
+	must	must	must	be	placing				を	置（お）	い	ているにちがいない
+	must	must	must	not be	placing				を	置（お）	い	ていてはいけない
+	must	must	must	be able to	place				を	置（お）	く	ことができるにちがいない
+	must	must	must	not be able to	place				を	置（お）	く	ことはできてはいけない
+	will	will	will	have to	place				を	置（お）	か	なければいけないだろう
+	will	will	will	not have to	place				を	置（お）	か	なくてもいいだろう
+	will	will	will	have to be	placing				を	置（お）	い	ていなければいけないだろう
+	will	will	will	not have to be	placing				を	置（お）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	place				を	置（お）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	place				を	置（お）	く	ことはできなくてもいいだろう
+	may	may	may	have to	place				を	置（お）	か	なければいけないかもしれない
+	may	may	may	not have to	place				を	置（お）	か	なくてもいいかもしれない
+	may	may	may	have to be	placing				を	置（お）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	placing				を	置（お）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	place				を	置（お）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	place				を	置（お）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		placed				を	置（お）	い	たことがある
+	have	has	have	not	placed				を	置（お）	い	たことはない
+	have	has	have	been	placing			（ずっと）	を	置（お）	い	ている
+	have	has	have	not been	placing			（ずっと）	を	置（お）	い	ていない
+	have	has	have		placed		already	すでに	を	置（お）	い	ている
+	have	has	have	not	placed		yet	まだ	を	置（お）	い	ていない
+	had	had	had		placed		before that	それ以前（いぜん）	を	置（お）	い	たことがあった
+	had	had	had	not	placed		before that	それ以前（いぜん）	を	置（お）	い	たことはなかった
+	had	had	had	been	placing		till then	それまでずっと	を	置（お）	い	ていた
+	had	had	had	not been	placing		till then	それまでずっと	を	置（お）	い	ていなかった
+	had	had	had		placed		already	すでに	を	置（お）	い	ていた
+	had	had	had	not	placed		yet	まだ	を	置（お）	い	ていなかった
+	have	has	have	been able to	place			（ずっと）	を	置（お）	く	ことができている
+	have	has	have	not been able to	place		yet	まだ	を	置（お）	く	ことはできていない
+	had	had	had	been able to	place		till then	それまでずっと	を	置（お）	く	ことができていた
+	had	had	had	not been able to	place		till then	それまでずっと	を	置（お）	く	ことはできていなかった
+step-5	may have	may have	may have		placed				を	置（お）	い	たかもしれない
+	may not have	may not have	may not have		placed				を	置（お）	か	なかったかもしれない
+	may have	may have	may have	been able to	place				を	置（お）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	place				を	置（お）	く	ことはできなかったかもしれない
+	must have	must have	must have		placed				を	置（お）	い	たにちがいない
+	must not have	must not have	must not have		placed				を	置（お）	か	なかったにちがいない
+	must have	must have	must have	been able to	place				を	置（お）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	place				を	置（お）	く	ことはできなかったにちがいない
+	should have	should have	should have		placed				を	置（お）	く	ほうがよかった
+	should not have	should not have	should not have		placed				を	置（お）	か	ないほうがよかった
+	should have	should have	should have	been able to	place				を	置（お）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	place				を	置（お）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		placed				を	置（お）	い	たはずがない
+step-6	would	would	would		place				を	置（お）	い	ただろう
+	would	would	would	not	place				を	置（お）	か	なかっただろう
+	would	would	would	be able to	place				を	置（お）	く	ことができただろう
+	would	would	would	not be able to	place				を	置（お）	く	ことはできなかっただろう
+	would have	would have	would have		placed				を	置（お）	い	たことだろう
+	would not have	would not have	would not have		placed				を	置（お）	か	なかったことだろう
+	would have	would have	would have	been able to	place				を	置（お）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	place				を	置（お）	く	ことはできなかったことだろう
+	could have	could have	could have		placed				を	置（お）	い	た可能性がある
+	could not have	could not have	could not have		placed				を	置（お）	い	た可能性はない
+	might have	might have	might have		placed				を	置（お）	い	たかもしれなかった
+	might not have	might not have	might not have		placed				を	置（お）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	place				を	置（お）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	place				を	置（お）	く	ことはできなかったかもしれなかった

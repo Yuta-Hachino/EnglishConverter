@@ -1,0 +1,135 @@
+step-1	am	is	are								だ
+	am	is	are	not							ではない
+	was	was	were								だった
+	was	was	were	not							ではなかった
+	feel	feels	feel								になる
+	do	does	do	not	feel						にならない
+	felt	felt	felt								になった
+	did	did	did	not	feel						にならなかった
+	am	is	are		feeling						になってきている
+	am	is	are	not	feeling						になってきていない
+	was	was	were		feeling						になってきていた
+	was	was	were	not	feeling						になってきていなかった
+step-2	am	is	are	going to	be						でいる予定（よてい）だ
+	am	is	are	not going to	be						でいる予定（よてい）ではない
+	am	is	are	going to	feel						になる予定（よてい）だ
+	am	is	are	not going to	feel						になる予定（よてい）ではない
+	was	was	were	going to	be						でいる予定（よてい）だった
+	was	was	were	not going to	be						でいる予定（よてい）ではなかった
+	was	was	were	going to	feel						になる予定（よてい）だった
+	was	was	were	not going to	feel						になる予定（よてい）ではなかった
+	am	is	are	able to	feel						になることができる
+	am	is	are	not able to	feel						になることができない
+	was	was	were	able to	feel						になることができた
+	was	was	were	not able to	feel						になることができなかった
+				could not	feel						になることはできなかった
+	am	is	are	supposed to	feel						になることになっている
+	am	is	are	not supposed to	feel						になってはいけない
+	was	was	were	supposed to	feel						になることになっていた
+	was	was	were	not supposed to	feel						になってはいけなかった
+	want	wants	want	to	be						でいたい
+	do not want	does not want	do not want	to	be						でいたくない
+	wanted	wanted	wanted	to	be						でいたかった
+	did not want	did not want	did not want	to	be						でいたくなかった
+	want	wants	want	to	feel						になりたい
+	do not want	does not want	do not want	to	feel						になりたくない
+	wanted	wanted	wanted	to	feel						になりたかった
+	did not want	did not want	did not want	to	feel						になりたくなかった
+	have	has	have	to	be						でいなければいけない
+	do not have	does not have	do not have	to	be						でいなくてもいい
+	had	had	had	to	be						でいなければいけなかった
+	did not have	did not have	did not have	to	be						でいなくてもよかった
+	have	has	have	to	feel						にならなければいけない
+	do not have	does not have	do not have	to	feel						にならなくてもいい
+	had	had	had	to	feel						にならなければいけなかった
+	did not have	did not have	did not have	to	feel						にならなくてもよかった
+step-3	will	will	will		be						だろう
+	will	will	will	not	be						ではないだろう
+	will	will	will		feel						になるだろう
+	will	will	will	not	feel						にならないだろう
+	will	will	will	be able to	feel						になることができるだろう
+	will	will	will	not be able to	feel						になることができないだろう
+	may	may	may		be						かもしれない
+	may	may	may	not	be						ではないかもしれない
+	may	may	may		feel						になるかもしれない
+	may	may	may	not	feel						にならないかもしれない
+	may	may	may	be able to	feel						になることができるかもしれない
+	may	may	may	not be able to	feel						になることはできないかもしれない
+	can	can	can		be						の可能性（かのうせい）がある
+	can	can	can	not	be						の可能性（かのうせい）はない
+	can	can	can		feel						になることができる
+	can	can	can	not	feel						になることはできない
+	should	should	should		be						のほうがいい
+	should	should	should	not	be						ではないほうがいい
+	should	should	should		feel						になるほうがいい
+	should	should	should	not	feel						にならないほうがいい
+	should	should	should		be						のはずだ
+	should	should	should	not	be						のはずではない
+	should	should	should		feel						になるはずだ
+	should	should	should	not	feel						にならないはずだ
+	should	should	should	be able to	feel						になれるはずだ
+	should	should	should	not be able to	feel						になれるはずがない
+	must	must	must		be						にちがいない
+	must	must	must	not	be						でいてはいけない
+	must	must	must		feel						になるにちがいない
+	must	must	must	not	feel						になってはいけない
+	must	must	must	be able to	feel						になれるにちがいない
+	must	must	must	not be able to	feel						になれないにちがいない
+	had better	had better	had better		be						でいるべきだ
+	had better	had better	had better	not	be						でいるべきではない
+	had better	had better	had better		feel						になるべきだ
+	had better	had better	had better	not	feel						になるべきではない
+	will have	will have	will have	to	be						でいなければいけないだろう
+	will not have	will not have	will not have	to	be						でいなくてもいいだろう
+	will have	will have	will have	to	feel						にならなければいけないだろう
+	will not have	will not have	will not have	to	feel						にならなくてもいいだろう
+	will have	will have	will have	to be able to	feel						になることができるだろう
+	will not have	will not have	will not have	to be able to	feel						になることはできなくてもいいだろう
+	may have	may have	may have	to	be						でいなければいけないかもしれない
+	may not have	may not have	may not have	to	be						でいなくてもいいかもしれない
+	may have	may have	may have	to	feel						にならなければいけないかもしれない
+	may not have	may not have	may not have	to	feel						にならなくてもいいかもしれない
+	may have	may have	may have	to be able to	feel						になることができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	feel						になることはできなくてもいいかもしれない
+step-4	have	has	have		been				（ずっと）	形容詞	だ
+	have	has	have	not	been				（ずっと）	形容詞	ではない
+	have	has	have		been						だったことがある
+	have	has	have	not	been						だったことはない
+	have	has	have		felt						になったことがある
+	have	has	have	not	felt						になったことはない
+	had	had	had		been		till then		それまでずっと	形容詞	だった
+	had	had	had	not	been		till then		それまでずっと	形容詞	ではなかった
+	had	had	had		been		before that		それ以前（いぜん）	形容詞	だったことがあった
+	had	had	had	not	been		before that		それ以前（いぜん）	形容詞	だったことはなかった
+	had	had	had		felt		before that		それ以前（いぜん）	形容詞	になったことがあった
+	had	had	had	not	felt		before that		それ以前（いぜん）	形容詞	になったことはなかった
+step-5	may have	may have	may have		been						だったかもしれない
+	may not have	may not have	may not have		been						ではなかったかもしれない
+	may have	may have	may have		felt						になったかもしれない
+	may not have	may not have	may not have		felt						にならなかったかもしれない
+	can not have	can not have	can not have		been						だったはずがない
+	can not have	can not have	can not have		felt						になったはずがない
+	should have	should have	should have		been						のほうがよかった
+	should not have	should not have	should not have		been						でないほうがよかった
+	should have	should have	should have		felt						になるほうがよかった
+	should not have	should not have	should not have		felt						にならないほうがよかった
+	must have	must have	must have		been						だったにちがいない
+	must not have	must not have	must not have		been						でなかったにちがいない
+	must have	must have	must have		felt						になったにちがいない
+	must not have	must not have	must not have		felt						にならなかったにちがいない
+step-6	would	would	would		be						だっただろう
+	would	would	would	not	be						ではなかっただろう
+	would	would	would		feel						になっただろう
+	would	would	would	not	feel						にならなかっただろう
+	would have	would have	would have		been						だったことだろう
+	would not have	would not have	would not have		been						でなかったことだろう
+	would have	would have	would have		felt						になったことだろう
+	would not have	would not have	would not have		felt						にならなかったことだろう
+	could have	could have	could have		been						だった可能性（かのうせい）がある
+	could not have	could not have	could not have		been						だった可能性（かのうせい）はない
+	could have	could have	could have		felt						になった可能性（かのうせい）がある
+	could not have	could not have	could not have		felt						になった可能性（かのうせい）はない
+	might have	might have	might have		been						だったかもしれなかった
+	might not have	might not have	might not have		been						ではなかったかもしれなかった
+	might have	might have	might have		felt						になったかもしれなかった
+	might not have	might not have	might not have		felt						にならなかったかもしれなかった

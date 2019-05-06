@@ -1,0 +1,130 @@
+step-1	help	helps	help		someone	do			するのを	手伝（てつだ）	う
+	do	does	do	not	help someone	do			するのを	手伝（てつだ）	わ	ない
+	helped	helped	helped		someone	do			するのを	手伝（てつだ）	っ	た
+	did	did	did	not	help someone	do			するのを	手伝（てつだ）	わ	なかった
+	am	is	are		helping someone	do			するのを	手伝（てつだ）	っ	ている
+	am	is	are	not	helping someone	do			するのを	手伝（てつだ）	っ	ていない
+	was	was	were		helping someone	do			するのを	手伝（てつだ）	っ	ていた
+	was	was	were	not	helping someone	do			するのを	手伝（てつだ）	っ	ていなかった
+step-2	am	is	are	going to	help someone	do			するのを	手伝（てつだ）	う	予定（よてい）だ
+	am	is	are	not going to	help someone	do			するのを	手伝（てつだ）	う	予定（よてい）ではない
+	was	was	were	going to	help someone	do			するのを	手伝（てつだ）	う	予定（よてい）だった
+	was	was	were	not going to	help someone	do			するのを	手伝（てつだ）	う	予定（よてい）ではなかった
+	am	is	are	able to	help someone	do			するのを	手伝（てつだ）	う	ことができる
+	am	is	are	not able to	help someone	do			するのを	手伝（てつだ）	う	ことはできない
+	was	was	were	able to	help someone	do			するのを	手伝（てつだ）	う	ことができた
+	was	was	were	not able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかった
+	could	could	could	not	help someone	do			するのを	手伝（てつだ）	う	ことはできなかった
+	want	wants	want	to	help someone	do			するのを	手伝（てつだ）	い	たい
+	do	does	do	not want to	help someone	do			するのを	手伝（てつだ）	い	たくない
+	wanted  	wanted  	wanted	to	help someone	do			するのを	手伝（てつだ）	い	たかった
+	did	did	did	not want to	help someone	do			するのを	手伝（てつだ）	い	たくなかった
+	want	wants	want	to be	helping someone	do			するのを	手伝（てつだ）	っ	ていたい
+	do	does	do	not want to be	helping someone	do			するのを	手伝（てつだ）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	helping someone	do			するのを	手伝（てつだ）	っ	ていたかった
+	did	did	did	not want to be	helping someone	do			するのを	手伝（てつだ）	っ	ていたくなかった
+	want	wants	want	to be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるようになりたい
+	do	does	do	not want to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできるようになりたくなかった
+	have to	has to	have to		help someone	do			するのを	手伝（てつだ）	わ	なければいけない
+	do	does	do	not have to	help someone	do			するのを	手伝（てつだ）	わ	なくてもいい
+	have to	has to	have to	be	helping someone	do			するのを	手伝（てつだ）	っ	ていなければいけない
+	do	does	do	not have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなくてもいい
+	have to	has to	have to	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができなければいけない
+	do	does	do	not have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなくてもいい
+	had to	had to	had to		help someone	do			するのを	手伝（てつだ）	わ	なければいけなかった
+	did	did	did	not have to	help someone	do			するのを	手伝（てつだ）	わ	なくてもよかった
+	had to	had to	had to	be	helping someone	do			するのを	手伝（てつだ）	っ	ていなければいけなかった
+	did	did	did	not have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなくてもよかった
+step-3	will	will	will		help someone	do			するのを	手伝（てつだ）	う	だろう
+	will	will	will	not	help someone	do			するのを	手伝（てつだ）	わ	ないだろう
+	will	will	will	be	helping someone	do			するのを	手伝（てつだ）	っ	ているだろう
+	will	will	will	not be	helping someone	do			するのを	手伝（てつだ）	っ	ていないだろう
+	will	will	will	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるだろう
+	will	will	will	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできないだろう
+	may	may	may		help someone	do			するのを	手伝（てつだ）	う	かもしれない
+	may	may	may	not	help someone	do			するのを	手伝（てつだ）	わ	ないかもしれない
+	may	may	may	be	helping someone	do			するのを	手伝（てつだ）	っ	ているかもしれない
+	may	may	may	not be	helping someone	do			するのを	手伝（てつだ）	っ	ていないかもしれない
+	may	may	may	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるかもしれない
+	may	may	may	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできないかもしれない
+	can	can	can		help someone	do			するのを	手伝（てつだ）	う	ことができる
+	can	can	can	not	help someone	do			するのを	手伝（てつだ）	う	ことはできない
+	should	should	should		help someone	do			するのを	手伝（てつだ）	う	ほうがいい
+	should	should	should	not	help someone	do			するのを	手伝（てつだ）	わ	ないほうがいい
+	should	should	should	be	helping someone	do			するのを	手伝（てつだ）	っ	ているほうがいい
+	should	should	should	not be	helping someone	do			するのを	手伝（てつだ）	っ	ていないほうがいい
+	should	should	should	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるほうがいい
+	should	should	should	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできないほうがいい
+	should	should	should		help someone	do			するのを	手伝（てつだ）	う	はずだ
+	should	should	should	not	help someone	do			するのを	手伝（てつだ）	わ	ないはずだ
+	should	should	should	be	helping someone	do			するのを	手伝（てつだ）	っ	ているはずだ
+	should	should	should	not be	helping someone	do			するのを	手伝（てつだ）	っ	ていないはずだ
+	should	should	should	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるはずだ
+	should	should	should	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできるはずがない
+	had better	had better	had better		help someone	do			するのを	手伝（てつだ）	う	べきだ
+	had better	had better	had better	not	help someone	do			するのを	手伝（てつだ）	う	べきではない
+	must	must	must		help someone	do			するのを	手伝（てつだ）	う	にちがいない
+	must	must	must	not	help someone	do			するのを	手伝（てつだ）	っ	てはいけない
+	must	must	must	be	helping someone	do			するのを	手伝（てつだ）	っ	ているにちがいない
+	must	must	must	not be	helping someone	do			するのを	手伝（てつだ）	っ	ていてはいけない
+	must	must	must	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができるにちがいない
+	must	must	must	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできてはいけない
+	will	will	will	have to	help someone	do			するのを	手伝（てつだ）	わ	なければいけないだろう
+	will	will	will	not have to	help someone	do			するのを	手伝（てつだ）	わ	なくてもいいだろう
+	will	will	will	have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなければいけないだろう
+	will	will	will	not have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなくてもいいだろう
+	may	may	may	have to	help someone	do			するのを	手伝（てつだ）	わ	なければいけないかもしれない
+	may	may	may	not have to	help someone	do			するのを	手伝（てつだ）	わ	なくてもいいかもしれない
+	may	may	may	have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	helping someone	do			するのを	手伝（てつだ）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		helped someone	do			するのを	手伝（てつだ）	っ	たことがある
+	have	has	have	not	helped someone	do			するのを	手伝（てつだ）	っ	たことはない
+	have	has	have	been	helping someone	do		（ずっと）	するのを	手伝（てつだ）	っ	ている
+	have	has	have	not been	helping someone	do		（ずっと）	するのを	手伝（てつだ）	っ	ていない
+	have	has	have		helped someone	do	already	すでに	するのを	手伝（てつだ）	っ	ている
+	have	has	have	not	helped someone	do	yet	まだ	するのを	手伝（てつだ）	っ	ていない
+	had	had	had		helped someone	do	before that	それ以前（いぜん）	するのを	手伝（てつだ）	っ	たことがあった
+	had	had	had	not	helped someone	do	before that	それ以前（いぜん）	するのを	手伝（てつだ）	っ	たことはなかった
+	had	had	had	been	helping someone	do	till then	それまでずっと	するのを	手伝（てつだ）	っ	ていた
+	had	had	had	not been	helping someone	do	till then	それまでずっと	するのを	手伝（てつだ）	っ	ていなかった
+	had	had	had		helped someone	do	already	すでに	するのを	手伝（てつだ）	っ	ていた
+	had	had	had	not	helped someone	do	yet	まだ	するのを	手伝（てつだ）	っ	ていなかった
+	have	has	have	been able to	help someone	do		（ずっと）	するのを	手伝（てつだ）	う	ことができている
+	have	has	have	not been able to	help someone	do	yet	まだ	するのを	手伝（てつだ）	う	ことはできていない
+	had	had	had	been able to	help someone	do	till then	それまでずっと	するのを	手伝（てつだ）	う	ことができていた
+	had	had	had	not been able to	help someone	do	till then	それまでずっと	するのを	手伝（てつだ）	う	ことはできていなかった
+step-5	may have	may have	may have		helped someone	do			するのを	手伝（てつだ）	っ	たかもしれない
+	may not have	may not have	may not have		helped someone	do			するのを	手伝（てつだ）	わ	なかったかもしれない
+	may have	may have	may have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかったかもしれない
+	must have	must have	must have		helped someone	do			するのを	手伝（てつだ）	っ	たにちがいない
+	must not have	must not have	must not have		helped someone	do			するのを	手伝（てつだ）	わ	なかったにちがいない
+	must have	must have	must have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかったにちがいない
+	should have	should have	should have		helped someone	do			するのを	手伝（てつだ）	う	ほうがよかった
+	should not have	should not have	should not have		helped someone	do			するのを	手伝（てつだ）	わ	ないほうがよかった
+	should have	should have	should have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		helped someone	do			するのを	手伝（てつだ）	っ	たはずがない
+step-6	would	would	would		help someone	do			するのを	手伝（てつだ）	っ	ただろう
+	would	would	would	not	help someone	do			するのを	手伝（てつだ）	わ	なかっただろう
+	would	would	would	be able to	help someone	do			するのを	手伝（てつだ）	う	ことができただろう
+	would	would	would	not be able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかっただろう
+	would have	would have	would have		helped someone	do			するのを	手伝（てつだ）	っ	たことだろう
+	would not have	would not have	would not have		helped someone	do			するのを	手伝（てつだ）	わ	なかったことだろう
+	would have	would have	would have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかったことだろう
+	could have	could have	could have		helped someone	do			するのを	手伝（てつだ）	っ	た可能性がある
+	could not have	could not have	could not have		helped someone	do			するのを	手伝（てつだ）	っ	た可能性はない
+	might have	might have	might have		helped someone	do			するのを	手伝（てつだ）	っ	たかもしれなかった
+	might not have	might not have	might not have		helped someone	do			するのを	手伝（てつだ）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	help someone	do			するのを	手伝（てつだ）	う	ことはできなかったかもしれなかった

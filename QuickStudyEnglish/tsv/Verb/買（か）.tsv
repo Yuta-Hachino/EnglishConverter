@@ -1,0 +1,130 @@
+step-1	buy	buys	buy						を	買（か）	う
+	do	does	do	not	buy				を	買（か）	わ	ない
+	bought	bought	bought						を	買（か）	っ	た
+	did	did	did	not	buy				を	買（か）	わ	なかった
+	am	is	are		buying				を	買（か）	っ	ている
+	am	is	are	not	buying				を	買（か）	っ	ていない
+	was	was	were		buying				を	買（か）	っ	ていた
+	was	was	were	not	buying				を	買（か）	っ	ていなかった
+step-2	am	is	are	going to	buy				を	買（か）	う	予定（よてい）だ
+	am	is	are	not going to	buy				を	買（か）	う	予定（よてい）ではない
+	was	was	were	going to	buy				を	買（か）	う	予定（よてい）だった
+	was	was	were	not going to	buy				を	買（か）	う	予定（よてい）ではなかった
+	am	is	are	able to	buy				を	買（か）	う	ことができる
+	am	is	are	not able to	buy				を	買（か）	う	ことはできない
+	was	was	were	able to	buy				を	買（か）	う	ことができた
+	was	was	were	not able to	buy				を	買（か）	う	ことはできなかった
+	could	could	could	not	buy				を	買（か）	う	ことはできなかった
+	want	wants	want	to	buy				を	買（か）	い	たい
+	do	does	do	not want to	buy				を	買（か）	い	たくない
+	wanted  	wanted  	wanted	to	buy				を	買（か）	い	たかった
+	did	did	did	not want to	buy				を	買（か）	い	たくなかった
+	want	wants	want	to be	buying				を	買（か）	っ	ていたい
+	do	does	do	not want to be	buying				を	買（か）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	buying				を	買（か）	っ	ていたかった
+	did	did	did	not want to be	buying				を	買（か）	っ	ていたくなかった
+	want	wants	want	to be able to	buy				を	買（か）	う	ことができるようになりたい
+	do	does	do	not want to be able to	buy				を	買（か）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	buy				を	買（か）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	buy				を	買（か）	う	ことはできるようになりたくなかった
+	have to	has to	have to		buy				を	買（か）	わ	なければいけない
+	do	does	do	not have to	buy				を	買（か）	わ	なくてもいい
+	have to	has to	have to	be	buying				を	買（か）	っ	ていなければいけない
+	do	does	do	not have to be	buying				を	買（か）	っ	ていなくてもいい
+	have to	has to	have to	be able to	buy				を	買（か）	う	ことができなければいけない
+	do	does	do	not have to be able to	buy				を	買（か）	う	ことはできなくてもいい
+	had to	had to	had to		buy				を	買（か）	わ	なければいけなかった
+	did	did	did	not have to	buy				を	買（か）	わ	なくてもよかった
+	had to	had to	had to	be	buying				を	買（か）	っ	ていなければいけなかった
+	did	did	did	not have to be	buying				を	買（か）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	buy				を	買（か）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	buy				を	買（か）	う	ことはできなくてもよかった
+step-3	will	will	will		buy				を	買（か）	う	だろう
+	will	will	will	not	buy				を	買（か）	わ	ないだろう
+	will	will	will	be	buying				を	買（か）	っ	ているだろう
+	will	will	will	not be	buying				を	買（か）	っ	ていないだろう
+	will	will	will	be able to	buy				を	買（か）	う	ことができるだろう
+	will	will	will	not be able to	buy				を	買（か）	う	ことはできないだろう
+	may	may	may		buy				を	買（か）	う	かもしれない
+	may	may	may	not	buy				を	買（か）	わ	ないかもしれない
+	may	may	may	be	buying				を	買（か）	っ	ているかもしれない
+	may	may	may	not be	buying				を	買（か）	っ	ていないかもしれない
+	may	may	may	be able to	buy				を	買（か）	う	ことができるかもしれない
+	may	may	may	not be able to	buy				を	買（か）	う	ことはできないかもしれない
+	can	can	can		buy				を	買（か）	う	ことができる
+	can	can	can	not	buy				を	買（か）	う	ことはできない
+	should	should	should		buy				を	買（か）	う	ほうがいい
+	should	should	should	not	buy				を	買（か）	わ	ないほうがいい
+	should	should	should	be	buying				を	買（か）	っ	ているほうがいい
+	should	should	should	not be	buying				を	買（か）	っ	ていないほうがいい
+	should	should	should	be able to	buy				を	買（か）	う	ことができるほうがいい
+	should	should	should	not be able to	buy				を	買（か）	う	ことはできないほうがいい
+	should	should	should		buy				を	買（か）	う	はずだ
+	should	should	should	not	buy				を	買（か）	わ	ないはずだ
+	should	should	should	be	buying				を	買（か）	っ	ているはずだ
+	should	should	should	not be	buying				を	買（か）	っ	ていないはずだ
+	should	should	should	be able to	buy				を	買（か）	う	ことができるはずだ
+	should	should	should	not be able to	buy				を	買（か）	う	ことはできるはずがない
+	had better	had better	had better		buy				を	買（か）	う	べきだ
+	had better	had better	had better	not	buy				を	買（か）	う	べきではない
+	must	must	must		buy				を	買（か）	う	にちがいない
+	must	must	must	not	buy				を	買（か）	っ	てはいけない
+	must	must	must	be	buying				を	買（か）	っ	ているにちがいない
+	must	must	must	not be	buying				を	買（か）	っ	ていてはいけない
+	must	must	must	be able to	buy				を	買（か）	う	ことができるにちがいない
+	must	must	must	not be able to	buy				を	買（か）	う	ことはできてはいけない
+	will	will	will	have to	buy				を	買（か）	わ	なければいけないだろう
+	will	will	will	not have to	buy				を	買（か）	わ	なくてもいいだろう
+	will	will	will	have to be	buying				を	買（か）	っ	ていなければいけないだろう
+	will	will	will	not have to be	buying				を	買（か）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	buy				を	買（か）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	buy				を	買（か）	う	ことはできなくてもいいだろう
+	may	may	may	have to	buy				を	買（か）	わ	なければいけないかもしれない
+	may	may	may	not have to	buy				を	買（か）	わ	なくてもいいかもしれない
+	may	may	may	have to be	buying				を	買（か）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	buying				を	買（か）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	buy				を	買（か）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	buy				を	買（か）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		bought				を	買（か）	っ	たことがある
+	have	has	have	not	bought				を	買（か）	っ	たことはない
+	have	has	have	been	buying			（ずっと）	を	買（か）	っ	ている
+	have	has	have	not been	buying			（ずっと）	を	買（か）	っ	ていない
+	have	has	have		bought		already	すでに	を	買（か）	っ	ている
+	have	has	have	not	bought		yet	まだ	を	買（か）	っ	ていない
+	had	had	had		bought		before that	それ以前（いぜん）	を	買（か）	っ	たことがあった
+	had	had	had	not	bought		before that	それ以前（いぜん）	を	買（か）	っ	たことはなかった
+	had	had	had	been	buying		till then	それまでずっと	を	買（か）	っ	ていた
+	had	had	had	not been	buying		till then	それまでずっと	を	買（か）	っ	ていなかった
+	had	had	had		bought		already	すでに	を	買（か）	っ	ていた
+	had	had	had	not	bought		yet	まだ	を	買（か）	っ	ていなかった
+	have	has	have	been able to	buy			（ずっと）	を	買（か）	う	ことができている
+	have	has	have	not been able to	buy		yet	まだ	を	買（か）	う	ことはできていない
+	had	had	had	been able to	buy		till then	それまでずっと	を	買（か）	う	ことができていた
+	had	had	had	not been able to	buy		till then	それまでずっと	を	買（か）	う	ことはできていなかった
+step-5	may have	may have	may have		bought				を	買（か）	っ	たかもしれない
+	may not have	may not have	may not have		bought				を	買（か）	わ	なかったかもしれない
+	may have	may have	may have	been able to	buy				を	買（か）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	buy				を	買（か）	う	ことはできなかったかもしれない
+	must have	must have	must have		bought				を	買（か）	っ	たにちがいない
+	must not have	must not have	must not have		bought				を	買（か）	わ	なかったにちがいない
+	must have	must have	must have	been able to	buy				を	買（か）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	buy				を	買（か）	う	ことはできなかったにちがいない
+	should have	should have	should have		bought				を	買（か）	う	ほうがよかった
+	should not have	should not have	should not have		bought				を	買（か）	わ	ないほうがよかった
+	should have	should have	should have	been able to	buy				を	買（か）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	buy				を	買（か）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		bought				を	買（か）	っ	たはずがない
+step-6	would	would	would		buy				を	買（か）	っ	ただろう
+	would	would	would	not	buy				を	買（か）	わ	なかっただろう
+	would	would	would	be able to	buy				を	買（か）	う	ことができただろう
+	would	would	would	not be able to	buy				を	買（か）	う	ことはできなかっただろう
+	would have	would have	would have		bought				を	買（か）	っ	たことだろう
+	would not have	would not have	would not have		bought				を	買（か）	わ	なかったことだろう
+	would have	would have	would have	been able to	buy				を	買（か）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	buy				を	買（か）	う	ことはできなかったことだろう
+	could have	could have	could have		bought				を	買（か）	っ	た可能性がある
+	could not have	could not have	could not have		bought				を	買（か）	っ	た可能性はない
+	might have	might have	might have		bought				を	買（か）	っ	たかもしれなかった
+	might not have	might not have	might not have		bought				を	買（か）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	buy				を	買（か）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	buy				を	買（か）	う	ことはできなかったかもしれなかった

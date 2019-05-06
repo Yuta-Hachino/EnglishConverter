@@ -1,0 +1,98 @@
+step-1		is									っている
+		is		not							っていない
+		was									っていた
+		was		not							っていなかった
+		gets									る
+		does		not get							らない
+				got							った
+		did		not get							らなかった
+		is		getting							ってきている
+		is		not getting							ってきていない
+		was		getting							ってきていた
+		was		not getting							ってきていなかった
+step-2		is		going to be							ろうとしている
+		is		not going to be							ろうとしていない
+		was		going to be							ろうとしていた
+		was		not going to be							ろうとしていなかった
+step-3		will		be							っているだろう
+		will		not be							っていないだろう
+		will		get							るだろう
+		will		not get							らないだろう
+		may		be							っているかもしれない
+		may		not be							っていないかもしれない
+		may		get							るかもしれない
+		may		not get							らないかもしれない
+		can		be							っている可能性（かのうせい）がある
+		can		not be							っている可能性（かのうせい）はない
+		can		get							る可能性（かのうせい）がある
+		can		not get							る可能性（かのうせい）はない
+		should		be							っているほうがいい
+		should		not be							っていないほうがいい
+		should		get							るほうがいい
+		should		not get							らないほうがいい
+		should		be							っているはずだ
+		should		not be							っていないはずだ
+		should		get							るはずだ
+		should		not get							るはずがない
+		must		be							っているにちがいない
+		must		not be							っていてはいけないい
+		must		get							るにちがいない
+		must		not get							ってはいけない
+		has to		be							っていなければいけない
+		does not have to		be							っていなくてもいい
+		has to		get							らなければいけない
+		does not have to		get							らなくてもいい
+		had to		be							っていなければいけなかった
+		did not have to		be							っていなくてもよかった
+		had to		get							らなければいけなかった
+		did not have to		get							らなくてもよかった
+		will have to		be							っていなければいけないだろう
+		will not have to		be							っていなくてもいいだろう
+		will have to		get							らなければいけないだろう
+		will not have to		get							らなくてもいいだろう
+		may have to		be							っていなければいけないかもしれない
+		may not have to		be							っていなくてもいいかもしれない
+		may have to		get							らなければいけないかもしれない
+		may not have to		get							らなくてもいいかもしれない
+step-4		has		been					（ずっと）	形容詞	っている
+		has		not been					（ずっと）	形容詞	ってはいない
+		has		been							っていたことがある
+		has		not been							っていたことはない
+		has		gotten							ったことがある
+		has		not gotten							ったことはない
+		had		been		形容詞	till then		それまでずっと	形容詞	っていた
+		had		not been		形容詞	till then		それまでずっと	形容詞	ってはいなかった
+		had		been		形容詞	before that		それ以前（いぜん）	形容詞	っていたことがあった
+		had		not been		形容詞	before that		それ以前（いぜん）	形容詞	っていたことはなかった
+		had		gotten		形容詞	before that		それ以前（いぜん）	形容詞	ったことがあった
+		had		not gotten		形容詞	before that		それ以前（いぜん）	形容詞	ったことはなかった
+step-5		may have		been							っていたかもしれない
+		may not have		been							っていなかったかもしれない
+		may have		gotten							ったかもしれない
+		may not have		gotten							らなかったかもしれない
+		can not have		been							っていたはずがない
+		can not have		gotten							ったはずがない
+		should have		been							っているほうがよかった
+		should not have		been							っていないほうがよかった
+		should have		gotten							るほうがよかった
+		should not have		gotten							らないほうがよかった
+		must have		been							っていたにちがいない
+		must not have		been							っていなかったにちがいない
+		must have		gotten							ったにちがいない
+		must not have		gotten							らなかったにちがいない
+step-6		would		be							っていただろう
+		would		not be							っていなかっただろう
+		would		get							っただろう
+		would		not get							らなかっただろう
+		would have		been							っていたことだろう
+		would not have		been							っていなかったことだろう
+		would have		gotten							ったことだろう
+		would not have		gotten							らなかったことだろう
+		could have		been							っていた可能性（かのうせい）がある
+		could not have		been							っていた可能性（かのうせい）はない
+		could have		gotten							った可能性（かのうせい）がある
+		could not have		gotten							った可能性（かのうせい）はない
+		might have		been							っていたかもしれなかった
+		might not have		been							っていなかったかもしれなかった
+		might have		gotten							ったかもしれなかった
+		might not have		gotten							らなかったかもしれなかった

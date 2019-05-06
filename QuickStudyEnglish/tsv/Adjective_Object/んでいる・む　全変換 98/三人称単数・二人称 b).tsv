@@ -1,0 +1,98 @@
+step-1		is	are								んでいる
+		is	are	not							んでいない
+		was	were								んでいた
+		was	were	not							んでいなかった
+		becomes	become								む
+		does	do	not	become						まない
+		became	became								んだ
+		did	did	not	become						まなかった
+		is	are		becoming						んできている
+		is	are	not	becoming						んできていない
+		was	were		becoming						んできていた
+		was	were	not	becoming						んできていなかった
+step-2		is	are	going to	be						もうとしている
+		is	are	not going to	be						もうとしていない
+		was	were	going to	be						もうとしていた
+		was	were	not going to	be						もうとしていなかった
+		has	have	to	be						んでいなければいけない
+		does not have	do not have	to	be						んでいなくてもいい
+		has	have	to	become						まなければいけない
+		does not have	do not have	to	become						まなくてもいい
+		had	had	to	be						んでいなければいけなかった
+		did not have	did not have	to	be						んでいなくてもよかった
+		had	had	to	become						まなければいけなかった
+		did not have	did not have	to	become						まなくてもよかった
+step-3		will	will		be						んでいるだろう
+		will	will	not	be						んでいないだろう
+		will	will		become						むだろう
+		will	will	not	become						まないだろう
+		may	may		be						んでいるかもしれない
+		may	may	not	be						んでいないかもしれない
+		may	may		become						むかもしれない
+		may	may	not	become						まないかもしれない
+		can	can		be						んでいる可能性（かのうせい）がある
+		can	can	not	be						んでいる可能性（かのうせい）はない
+		can	can		become						む可能性（かのうせい）がある
+		can	can	not	become						む可能性（かのうせい）はない
+		should	should		be						んでいるほうがいい
+		should	should	not	be						んでいないほうがいい
+		should	should		become						むほうがいい
+		should	should	not	become						まないほうがいい
+		should	should		be						んでいるはずだ
+		should	should	not	be						んでいないはずだ
+		should	should		become						むはずだ
+		should	should	not	become						むはずがない
+		must	must		be						んでいるにちがいない
+		must	must	not	be						んでいてはいけない
+		must	must		become						むにちがいない
+		must	must	not	become						んではいけない
+		will have to	will have to		be						んでいなければいけないだろう
+		will not have to	will not have to		be						んでいなくてもいいだろう
+		will have to	will have to		become						まなければいけないだろう
+		will not have to	will not have to		become						まなくてもいいだろう
+		may have to	may have to		be						んでいなければいけないかもしれない
+		may not have to	may not have to		be						んでいなくてもいいかもしれない
+		may have to	may have to		become						まなければいけないかもしれない
+		may not have to	may not have to		become						まなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	んでいる
+		has	have	not	been				（ずっと）	形容詞	んではいない
+		has	have		been						んでいたことがある
+		has	have	not	been						んでいたことはない
+		has	have		become						んだことがある
+		has	have	not	become						んだことはない
+		had	had		been		till then		それまでずっと	形容詞	んでいた
+		had	had	not	been		till then		それまでずっと	形容詞	んではいなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	んでいたことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	んでいたことはなかった
+		had	had		become		before that		それ以前（いぜん）	形容詞	んだことがあった
+		had	had	not	become		before that		それ以前（いぜん）	形容詞	んだことはなかった
+step-5		may have	may have		been						んでいたかもしれない
+		may not have	may not have		been						んでいなかったかもしれない
+		may have	may have		become						んだかもしれない
+		may not have	may not have		become						まなかったかもしれない
+		can not have	can not have		been						んでいたはずがない
+		can not have	can not have		become						んだはずがない
+		should have	should have		been						んでいるほうがよかった
+		should not have	should not have		been						んでいないほうがよかった
+		should have	should have		become						むほうがよかった
+		should not have	should not have		become						まないほうがよかった
+		must have	must have		been						んでいたにちがいない
+		must not have	must not have		been						んでいなかったにちがいない
+		must have	must have		become						んだにちがいない
+		must not have	must not have		become						まなかったにちがいない
+step-6		would	would		be						んでいただろう
+		would	would	not	be						んでいなかっただろう
+		would	would		become						んだだろう
+		would	would	not	become						まなかっただろう
+		would have	would have		been						んでいたことだろう
+		would not have	would not have		been						んでいなかったことだろう
+		would have	would have		become						んだことだろう
+		would not have	would not have		become						まなかったことだろう
+		could have	could have		been						んでいた可能性（かのうせい）がある
+		could not have	could not have		been						んでいた可能性（かのうせい）はない
+		could have	could have		become						んだ可能性（かのうせい）がある
+		could not have	could not have		become						んだ可能性（かのうせい）はない
+		might have	might have		been						んでいたかもしれなかった
+		might not have	might not have		been						んでいなかったかもしれなかった
+		might have	might have		become						んだかもしれなかった
+		might not have	might not have		become						まなかったかもしれなかった

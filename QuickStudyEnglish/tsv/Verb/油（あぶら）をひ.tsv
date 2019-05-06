@@ -1,0 +1,130 @@
+step-1	grease	greases	grease							油（あぶら）をひ	く
+	do	does	do	not	grease					油（あぶら）をひ	か	ない
+	greased	greased	greased							油（あぶら）をひ	い	た
+	did	did	did	not	grease					油（あぶら）をひ	か	なかった
+	am	is	are		greasing					油（あぶら）をひ	い	ている
+	am	is	are	not	greasing					油（あぶら）をひ	い	ていない
+	was	was	were		greasing					油（あぶら）をひ	い	ていた
+	was	was	were	not	greasing					油（あぶら）をひ	い	ていなかった
+step-2	am	is	are	going to	grease					油（あぶら）をひ	く	予定（よてい）だ
+	am	is	are	not going to	grease					油（あぶら）をひ	く	予定（よてい）ではない
+	was	was	were	going to	grease					油（あぶら）をひ	く	予定（よてい）だった
+	was	was	were	not going to	grease					油（あぶら）をひ	く	予定（よてい）ではなかった
+	am	is	are	able to	grease					油（あぶら）をひ	く	ことができる
+	am	is	are	not able to	grease					油（あぶら）をひ	く	ことはできない
+	was	was	were	able to	grease					油（あぶら）をひ	く	ことができた
+	was	was	were	not able to	grease					油（あぶら）をひ	く	ことはできなかった
+	could	could	could	not	grease					油（あぶら）をひ	く	ことはできなかった
+	want	wants	want	to	grease					油（あぶら）をひ	き	たい
+	do	does	do	not want to	grease					油（あぶら）をひ	き	たくない
+	wanted  	wanted  	wanted	to	grease					油（あぶら）をひ	き	たかった
+	did	did	did	not want to	grease					油（あぶら）をひ	き	たくなかった
+	want	wants	want	to be	greasing					油（あぶら）をひ	い	ていたい
+	do	does	do	not want to be	greasing					油（あぶら）をひ	い	ていたくない
+	wanted  	wanted  	wanted	to be	greasing					油（あぶら）をひ	い	ていたかった
+	did	did	did	not want to be	greasing					油（あぶら）をひ	い	ていたくなかった
+	want	wants	want	to be able to	grease					油（あぶら）をひ	く	ことができるようになりたい
+	do	does	do	not want to be able to	grease					油（あぶら）をひ	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	grease					油（あぶら）をひ	く	ことができるようになりたかった
+	did	did	did	not want to be able to	grease					油（あぶら）をひ	く	ことはできるようになりたくなかった
+	have to	has to	have to		grease					油（あぶら）をひ	か	なければいけない
+	do	does	do	not have to	grease					油（あぶら）をひ	か	なくてもいい
+	have to	has to	have to	be	greasing					油（あぶら）をひ	い	ていなければいけない
+	do	does	do	not have to be	greasing					油（あぶら）をひ	い	ていなくてもいい
+	have to	has to	have to	be able to	grease					油（あぶら）をひ	く	ことができなければいけない
+	do	does	do	not have to be able to	grease					油（あぶら）をひ	く	ことはできなくてもいい
+	had to	had to	had to		grease					油（あぶら）をひ	か	なければいけなかった
+	did	did	did	not have to	grease					油（あぶら）をひ	か	なくてもよかった
+	had to	had to	had to	be	greasing					油（あぶら）をひ	い	ていなければいけなかった
+	did	did	did	not have to be	greasing					油（あぶら）をひ	い	ていなくてもよかった
+	had to	had to	had to	be able to	grease					油（あぶら）をひ	く	ことができなければいけなかった
+	did	did	did	not have to be able to	grease					油（あぶら）をひ	く	ことはできなくてもよかった
+step-3	will	will	will		grease					油（あぶら）をひ	く	だろう
+	will	will	will	not	grease					油（あぶら）をひ	か	ないだろう
+	will	will	will	be	greasing					油（あぶら）をひ	い	ているだろう
+	will	will	will	not be	greasing					油（あぶら）をひ	い	ていないだろう
+	will	will	will	be able to	grease					油（あぶら）をひ	く	ことができるだろう
+	will	will	will	not be able to	grease					油（あぶら）をひ	く	ことはできないだろう
+	may	may	may		grease					油（あぶら）をひ	く	かもしれない
+	may	may	may	not	grease					油（あぶら）をひ	か	ないかもしれない
+	may	may	may	be	greasing					油（あぶら）をひ	い	ているかもしれない
+	may	may	may	not be	greasing					油（あぶら）をひ	い	ていないかもしれない
+	may	may	may	be able to	grease					油（あぶら）をひ	く	ことができるかもしれない
+	may	may	may	not be able to	grease					油（あぶら）をひ	く	ことはできないかもしれない
+	can	can	can		grease					油（あぶら）をひ	く	ことができる
+	can	can	can	not	grease					油（あぶら）をひ	く	ことはできない
+	should	should	should		grease					油（あぶら）をひ	く	ほうがいい
+	should	should	should	not	grease					油（あぶら）をひ	か	ないほうがいい
+	should	should	should	be	greasing					油（あぶら）をひ	い	ているほうがいい
+	should	should	should	not be	greasing					油（あぶら）をひ	い	ていないほうがいい
+	should	should	should	be able to	grease					油（あぶら）をひ	く	ことができるほうがいい
+	should	should	should	not be able to	grease					油（あぶら）をひ	く	ことはできないほうがいい
+	should	should	should		grease					油（あぶら）をひ	く	はずだ
+	should	should	should	not	grease					油（あぶら）をひ	か	ないはずだ
+	should	should	should	be	greasing					油（あぶら）をひ	い	ているはずだ
+	should	should	should	not be	greasing					油（あぶら）をひ	い	ていないはずだ
+	should	should	should	be able to	grease					油（あぶら）をひ	く	ことができるはずだ
+	should	should	should	not be able to	grease					油（あぶら）をひ	く	ことはできるはずがない
+	had better	had better	had better		grease					油（あぶら）をひ	く	べきだ
+	had better	had better	had better	not	grease					油（あぶら）をひ	く	べきではない
+	must	must	must		grease					油（あぶら）をひ	く	にちがいない
+	must	must	must	not	grease					油（あぶら）をひ	い	てはいけない
+	must	must	must	be	greasing					油（あぶら）をひ	い	ているにちがいない
+	must	must	must	not be	greasing					油（あぶら）をひ	い	ていてはいけない
+	must	must	must	be able to	grease					油（あぶら）をひ	く	ことができるにちがいない
+	must	must	must	not be able to	grease					油（あぶら）をひ	く	ことはできてはいけない
+	will	will	will	have to	grease					油（あぶら）をひ	か	なければいけないだろう
+	will	will	will	not have to	grease					油（あぶら）をひ	か	なくてもいいだろう
+	will	will	will	have to be	greasing					油（あぶら）をひ	い	ていなければいけないだろう
+	will	will	will	not have to be	greasing					油（あぶら）をひ	い	ていなくてもいいだろう
+	will	will	will	have to be able to	grease					油（あぶら）をひ	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	grease					油（あぶら）をひ	く	ことはできなくてもいいだろう
+	may	may	may	have to	grease					油（あぶら）をひ	か	なければいけないかもしれない
+	may	may	may	not have to	grease					油（あぶら）をひ	か	なくてもいいかもしれない
+	may	may	may	have to be	greasing					油（あぶら）をひ	い	ていなければいけないかもしれない
+	may	may	may	not have to be	greasing					油（あぶら）をひ	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	grease					油（あぶら）をひ	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	grease					油（あぶら）をひ	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		greased					油（あぶら）をひ	い	たことがある
+	have	has	have	not	greased					油（あぶら）をひ	い	たことはない
+	have	has	have	been	greasing			（ずっと）		油（あぶら）をひ	い	ている
+	have	has	have	not been	greasing			（ずっと）		油（あぶら）をひ	い	ていない
+	have	has	have		greased		already	すでに		油（あぶら）をひ	い	ている
+	have	has	have	not	greased		yet	まだ		油（あぶら）をひ	い	ていない
+	had	had	had		greased		before that	それ以前（いぜん）		油（あぶら）をひ	い	たことがあった
+	had	had	had	not	greased		before that	それ以前（いぜん）		油（あぶら）をひ	い	たことはなかった
+	had	had	had	been	greasing		till then	それまでずっと		油（あぶら）をひ	い	ていた
+	had	had	had	not been	greasing		till then	それまでずっと		油（あぶら）をひ	い	ていなかった
+	had	had	had		greased		already	すでに		油（あぶら）をひ	い	ていた
+	had	had	had	not	greased		yet	まだ		油（あぶら）をひ	い	ていなかった
+	have	has	have	been able to	grease			（ずっと）		油（あぶら）をひ	く	ことができている
+	have	has	have	not been able to	grease		yet	まだ		油（あぶら）をひ	く	ことはできていない
+	had	had	had	been able to	grease		till then	それまでずっと		油（あぶら）をひ	く	ことができていた
+	had	had	had	not been able to	grease		till then	それまでずっと		油（あぶら）をひ	く	ことはできていなかった
+step-5	may have	may have	may have		greased					油（あぶら）をひ	い	たかもしれない
+	may not have	may not have	may not have		greased					油（あぶら）をひ	か	なかったかもしれない
+	may have	may have	may have	been able to	grease					油（あぶら）をひ	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	grease					油（あぶら）をひ	く	ことはできなかったかもしれない
+	must have	must have	must have		greased					油（あぶら）をひ	い	たにちがいない
+	must not have	must not have	must not have		greased					油（あぶら）をひ	か	なかったにちがいない
+	must have	must have	must have	been able to	grease					油（あぶら）をひ	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	grease					油（あぶら）をひ	く	ことはできなかったにちがいない
+	should have	should have	should have		greased					油（あぶら）をひ	く	ほうがよかった
+	should not have	should not have	should not have		greased					油（あぶら）をひ	か	ないほうがよかった
+	should have	should have	should have	been able to	grease					油（あぶら）をひ	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	grease					油（あぶら）をひ	く	ことはできないほうがよかった
+	can not have	can not have	can not have		greased					油（あぶら）をひ	い	たはずがない
+step-6	would	would	would		grease					油（あぶら）をひ	い	ただろう
+	would	would	would	not	grease					油（あぶら）をひ	か	なかっただろう
+	would	would	would	be able to	grease					油（あぶら）をひ	く	ことができただろう
+	would	would	would	not be able to	grease					油（あぶら）をひ	く	ことはできなかっただろう
+	would have	would have	would have		greased					油（あぶら）をひ	い	たことだろう
+	would not have	would not have	would not have		greased					油（あぶら）をひ	か	なかったことだろう
+	would have	would have	would have	been able to	grease					油（あぶら）をひ	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	grease					油（あぶら）をひ	く	ことはできなかったことだろう
+	could have	could have	could have		greased					油（あぶら）をひ	い	た可能性がある
+	could not have	could not have	could not have		greased					油（あぶら）をひ	い	た可能性はない
+	might have	might have	might have		greased					油（あぶら）をひ	い	たかもしれなかった
+	might not have	might not have	might not have		greased					油（あぶら）をひ	か	なかったかもしれなかった
+	might have	might have	might have	been able to	grease					油（あぶら）をひ	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	grease					油（あぶら）をひ	く	ことはできなかったかもしれなかった

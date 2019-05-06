@@ -1,0 +1,130 @@
+step-1	smoke	smokes	smoke							たばこを吸（す）	う
+	do	does	do	not	smoke					たばこを吸（す）	わ	ない
+	smoked	smoked	smoked							たばこを吸（す）	っ	た
+	did	did	did	not	smoke					たばこを吸（す）	わ	なかった
+	am	is	are		smoking					たばこを吸（す）	っ	ている
+	am	is	are	not	smoking					たばこを吸（す）	っ	ていない
+	was	was	were		smoking					たばこを吸（す）	っ	ていた
+	was	was	were	not	smoking					たばこを吸（す）	っ	ていなかった
+step-2	am	is	are	going to	smoke					たばこを吸（す）	う	予定（よてい）だ
+	am	is	are	not going to	smoke					たばこを吸（す）	う	予定（よてい）ではない
+	was	was	were	going to	smoke					たばこを吸（す）	う	予定（よてい）だった
+	was	was	were	not going to	smoke					たばこを吸（す）	う	予定（よてい）ではなかった
+	am	is	are	able to	smoke					たばこを吸（す）	う	ことができる
+	am	is	are	not able to	smoke					たばこを吸（す）	う	ことはできない
+	was	was	were	able to	smoke					たばこを吸（す）	う	ことができた
+	was	was	were	not able to	smoke					たばこを吸（す）	う	ことはできなかった
+	could	could	could	not	smoke					たばこを吸（す）	う	ことはできなかった
+	want	wants	want	to	smoke					たばこを吸（す）	い	たい
+	do	does	do	not want to	smoke					たばこを吸（す）	い	たくない
+	wanted  	wanted  	wanted	to	smoke					たばこを吸（す）	い	たかった
+	did	did	did	not want to	smoke					たばこを吸（す）	い	たくなかった
+	want	wants	want	to be	smoking					たばこを吸（す）	っ	ていたい
+	do	does	do	not want to be	smoking					たばこを吸（す）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	smoking					たばこを吸（す）	っ	ていたかった
+	did	did	did	not want to be	smoking					たばこを吸（す）	っ	ていたくなかった
+	want	wants	want	to be able to	smoke					たばこを吸（す）	う	ことができるようになりたい
+	do	does	do	not want to be able to	smoke					たばこを吸（す）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	smoke					たばこを吸（す）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	smoke					たばこを吸（す）	う	ことはできるようになりたくなかった
+	have to	has to	have to		smoke					たばこを吸（す）	わ	なければいけない
+	do	does	do	not have to	smoke					たばこを吸（す）	わ	なくてもいい
+	have to	has to	have to	be	smoking					たばこを吸（す）	っ	ていなければいけない
+	do	does	do	not have to be	smoking					たばこを吸（す）	っ	ていなくてもいい
+	have to	has to	have to	be able to	smoke					たばこを吸（す）	う	ことができなければいけない
+	do	does	do	not have to be able to	smoke					たばこを吸（す）	う	ことはできなくてもいい
+	had to	had to	had to		smoke					たばこを吸（す）	わ	なければいけなかった
+	did	did	did	not have to	smoke					たばこを吸（す）	わ	なくてもよかった
+	had to	had to	had to	be	smoking					たばこを吸（す）	っ	ていなければいけなかった
+	did	did	did	not have to be	smoking					たばこを吸（す）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	smoke					たばこを吸（す）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	smoke					たばこを吸（す）	う	ことはできなくてもよかった
+step-3	will	will	will		smoke					たばこを吸（す）	う	だろう
+	will	will	will	not	smoke					たばこを吸（す）	わ	ないだろう
+	will	will	will	be	smoking					たばこを吸（す）	っ	ているだろう
+	will	will	will	not be	smoking					たばこを吸（す）	っ	ていないだろう
+	will	will	will	be able to	smoke					たばこを吸（す）	う	ことができるだろう
+	will	will	will	not be able to	smoke					たばこを吸（す）	う	ことはできないだろう
+	may	may	may		smoke					たばこを吸（す）	う	かもしれない
+	may	may	may	not	smoke					たばこを吸（す）	わ	ないかもしれない
+	may	may	may	be	smoking					たばこを吸（す）	っ	ているかもしれない
+	may	may	may	not be	smoking					たばこを吸（す）	っ	ていないかもしれない
+	may	may	may	be able to	smoke					たばこを吸（す）	う	ことができるかもしれない
+	may	may	may	not be able to	smoke					たばこを吸（す）	う	ことはできないかもしれない
+	can	can	can		smoke					たばこを吸（す）	う	ことができる
+	can	can	can	not	smoke					たばこを吸（す）	う	ことはできない
+	should	should	should		smoke					たばこを吸（す）	う	ほうがいい
+	should	should	should	not	smoke					たばこを吸（す）	わ	ないほうがいい
+	should	should	should	be	smoking					たばこを吸（す）	っ	ているほうがいい
+	should	should	should	not be	smoking					たばこを吸（す）	っ	ていないほうがいい
+	should	should	should	be able to	smoke					たばこを吸（す）	う	ことができるほうがいい
+	should	should	should	not be able to	smoke					たばこを吸（す）	う	ことはできないほうがいい
+	should	should	should		smoke					たばこを吸（す）	う	はずだ
+	should	should	should	not	smoke					たばこを吸（す）	わ	ないはずだ
+	should	should	should	be	smoking					たばこを吸（す）	っ	ているはずだ
+	should	should	should	not be	smoking					たばこを吸（す）	っ	ていないはずだ
+	should	should	should	be able to	smoke					たばこを吸（す）	う	ことができるはずだ
+	should	should	should	not be able to	smoke					たばこを吸（す）	う	ことはできるはずがない
+	had better	had better	had better		smoke					たばこを吸（す）	う	べきだ
+	had better	had better	had better	not	smoke					たばこを吸（す）	う	べきではない
+	must	must	must		smoke					たばこを吸（す）	う	にちがいない
+	must	must	must	not	smoke					たばこを吸（す）	っ	てはいけない
+	must	must	must	be	smoking					たばこを吸（す）	っ	ているにちがいない
+	must	must	must	not be	smoking					たばこを吸（す）	っ	ていてはいけない
+	must	must	must	be able to	smoke					たばこを吸（す）	う	ことができるにちがいない
+	must	must	must	not be able to	smoke					たばこを吸（す）	う	ことはできてはいけない
+	will	will	will	have to	smoke					たばこを吸（す）	わ	なければいけないだろう
+	will	will	will	not have to	smoke					たばこを吸（す）	わ	なくてもいいだろう
+	will	will	will	have to be	smoking					たばこを吸（す）	っ	ていなければいけないだろう
+	will	will	will	not have to be	smoking					たばこを吸（す）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	smoke					たばこを吸（す）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	smoke					たばこを吸（す）	う	ことはできなくてもいいだろう
+	may	may	may	have to	smoke					たばこを吸（す）	わ	なければいけないかもしれない
+	may	may	may	not have to	smoke					たばこを吸（す）	わ	なくてもいいかもしれない
+	may	may	may	have to be	smoking					たばこを吸（す）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	smoking					たばこを吸（す）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	smoke					たばこを吸（す）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	smoke					たばこを吸（す）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		smoked					たばこを吸（す）	っ	たことがある
+	have	has	have	not	smoked					たばこを吸（す）	っ	たことはない
+	have	has	have	been	smoking			（ずっと）		たばこを吸（す）	っ	ている
+	have	has	have	not been	smoking			（ずっと）		たばこを吸（す）	っ	ていない
+	have	has	have		smoked		already	すでに		たばこを吸（す）	っ	ている
+	have	has	have	not	smoked		yet	まだ		たばこを吸（す）	っ	ていない
+	had	had	had		smoked		before that	それ以前（いぜん）		たばこを吸（す）	っ	たことがあった
+	had	had	had	not	smoked		before that	それ以前（いぜん）		たばこを吸（す）	っ	たことはなかった
+	had	had	had	been	smoking		till then	それまでずっと		たばこを吸（す）	っ	ていた
+	had	had	had	not been	smoking		till then	それまでずっと		たばこを吸（す）	っ	ていなかった
+	had	had	had		smoked		already	すでに		たばこを吸（す）	っ	ていた
+	had	had	had	not	smoked		yet	まだ		たばこを吸（す）	っ	ていなかった
+	have	has	have	been able to	smoke			（ずっと）		たばこを吸（す）	う	ことができている
+	have	has	have	not been able to	smoke		yet	まだ		たばこを吸（す）	う	ことはできていない
+	had	had	had	been able to	smoke		till then	それまでずっと		たばこを吸（す）	う	ことができていた
+	had	had	had	not been able to	smoke		till then	それまでずっと		たばこを吸（す）	う	ことはできていなかった
+step-5	may have	may have	may have		smoked					たばこを吸（す）	っ	たかもしれない
+	may not have	may not have	may not have		smoked					たばこを吸（す）	わ	なかったかもしれない
+	may have	may have	may have	been able to	smoke					たばこを吸（す）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	smoke					たばこを吸（す）	う	ことはできなかったかもしれない
+	must have	must have	must have		smoked					たばこを吸（す）	っ	たにちがいない
+	must not have	must not have	must not have		smoked					たばこを吸（す）	わ	なかったにちがいない
+	must have	must have	must have	been able to	smoke					たばこを吸（す）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	smoke					たばこを吸（す）	う	ことはできなかったにちがいない
+	should have	should have	should have		smoked					たばこを吸（す）	う	ほうがよかった
+	should not have	should not have	should not have		smoked					たばこを吸（す）	わ	ないほうがよかった
+	should have	should have	should have	been able to	smoke					たばこを吸（す）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	smoke					たばこを吸（す）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		smoked					たばこを吸（す）	っ	たはずがない
+step-6	would	would	would		smoke					たばこを吸（す）	っ	ただろう
+	would	would	would	not	smoke					たばこを吸（す）	わ	なかっただろう
+	would	would	would	be able to	smoke					たばこを吸（す）	う	ことができただろう
+	would	would	would	not be able to	smoke					たばこを吸（す）	う	ことはできなかっただろう
+	would have	would have	would have		smoked					たばこを吸（す）	っ	たことだろう
+	would not have	would not have	would not have		smoked					たばこを吸（す）	わ	なかったことだろう
+	would have	would have	would have	been able to	smoke					たばこを吸（す）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	smoke					たばこを吸（す）	う	ことはできなかったことだろう
+	could have	could have	could have		smoked					たばこを吸（す）	っ	た可能性がある
+	could not have	could not have	could not have		smoked					たばこを吸（す）	っ	た可能性はない
+	might have	might have	might have		smoked					たばこを吸（す）	っ	たかもしれなかった
+	might not have	might not have	might not have		smoked					たばこを吸（す）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	smoke					たばこを吸（す）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	smoke					たばこを吸（す）	う	ことはできなかったかもしれなかった

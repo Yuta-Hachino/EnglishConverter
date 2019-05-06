@@ -1,0 +1,130 @@
+step-1	cover	covers	cover						を	覆（おお）	う
+	do	does	do	not	cover				を	覆（おお）	わ	ない
+	covered	covered	covered						を	覆（おお）	っ	た
+	did	did	did	not	cover				を	覆（おお）	わ	なかった
+	am	is	are		covering				を	覆（おお）	っ	ている
+	am	is	are	not	covering				を	覆（おお）	っ	ていない
+	was	was	were		covering				を	覆（おお）	っ	ていた
+	was	was	were	not	covering				を	覆（おお）	っ	ていなかった
+step-2	am	is	are	going to	cover				を	覆（おお）	う	予定（よてい）だ
+	am	is	are	not going to	cover				を	覆（おお）	う	予定（よてい）ではない
+	was	was	were	going to	cover				を	覆（おお）	う	予定（よてい）だった
+	was	was	were	not going to	cover				を	覆（おお）	う	予定（よてい）ではなかった
+	am	is	are	able to	cover				を	覆（おお）	う	ことができる
+	am	is	are	not able to	cover				を	覆（おお）	う	ことはできない
+	was	was	were	able to	cover				を	覆（おお）	う	ことができた
+	was	was	were	not able to	cover				を	覆（おお）	う	ことはできなかった
+	could	could	could	not	cover				を	覆（おお）	う	ことはできなかった
+	want	wants	want	to	cover				を	覆（おお）	い	たい
+	do	does	do	not want to	cover				を	覆（おお）	い	たくない
+	wanted  	wanted  	wanted	to	cover				を	覆（おお）	い	たかった
+	did	did	did	not want to	cover				を	覆（おお）	い	たくなかった
+	want	wants	want	to be	covering				を	覆（おお）	っ	ていたい
+	do	does	do	not want to be	covering				を	覆（おお）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	covering				を	覆（おお）	っ	ていたかった
+	did	did	did	not want to be	covering				を	覆（おお）	っ	ていたくなかった
+	want	wants	want	to be able to	cover				を	覆（おお）	う	ことができるようになりたい
+	do	does	do	not want to be able to	cover				を	覆（おお）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	cover				を	覆（おお）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	cover				を	覆（おお）	う	ことはできるようになりたくなかった
+	have to	has to	have to		cover				を	覆（おお）	わ	なければいけない
+	do	does	do	not have to	cover				を	覆（おお）	わ	なくてもいい
+	have to	has to	have to	be	covering				を	覆（おお）	っ	ていなければいけない
+	do	does	do	not have to be	covering				を	覆（おお）	っ	ていなくてもいい
+	have to	has to	have to	be able to	cover				を	覆（おお）	う	ことができなければいけない
+	do	does	do	not have to be able to	cover				を	覆（おお）	う	ことはできなくてもいい
+	had to	had to	had to		cover				を	覆（おお）	わ	なければいけなかった
+	did	did	did	not have to	cover				を	覆（おお）	わ	なくてもよかった
+	had to	had to	had to	be	covering				を	覆（おお）	っ	ていなければいけなかった
+	did	did	did	not have to be	covering				を	覆（おお）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	cover				を	覆（おお）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	cover				を	覆（おお）	う	ことはできなくてもよかった
+step-3	will	will	will		cover				を	覆（おお）	う	だろう
+	will	will	will	not	cover				を	覆（おお）	わ	ないだろう
+	will	will	will	be	covering				を	覆（おお）	っ	ているだろう
+	will	will	will	not be	covering				を	覆（おお）	っ	ていないだろう
+	will	will	will	be able to	cover				を	覆（おお）	う	ことができるだろう
+	will	will	will	not be able to	cover				を	覆（おお）	う	ことはできないだろう
+	may	may	may		cover				を	覆（おお）	う	かもしれない
+	may	may	may	not	cover				を	覆（おお）	わ	ないかもしれない
+	may	may	may	be	covering				を	覆（おお）	っ	ているかもしれない
+	may	may	may	not be	covering				を	覆（おお）	っ	ていないかもしれない
+	may	may	may	be able to	cover				を	覆（おお）	う	ことができるかもしれない
+	may	may	may	not be able to	cover				を	覆（おお）	う	ことはできないかもしれない
+	can	can	can		cover				を	覆（おお）	う	ことができる
+	can	can	can	not	cover				を	覆（おお）	う	ことはできない
+	should	should	should		cover				を	覆（おお）	う	ほうがいい
+	should	should	should	not	cover				を	覆（おお）	わ	ないほうがいい
+	should	should	should	be	covering				を	覆（おお）	っ	ているほうがいい
+	should	should	should	not be	covering				を	覆（おお）	っ	ていないほうがいい
+	should	should	should	be able to	cover				を	覆（おお）	う	ことができるほうがいい
+	should	should	should	not be able to	cover				を	覆（おお）	う	ことはできないほうがいい
+	should	should	should		cover				を	覆（おお）	う	はずだ
+	should	should	should	not	cover				を	覆（おお）	わ	ないはずだ
+	should	should	should	be	covering				を	覆（おお）	っ	ているはずだ
+	should	should	should	not be	covering				を	覆（おお）	っ	ていないはずだ
+	should	should	should	be able to	cover				を	覆（おお）	う	ことができるはずだ
+	should	should	should	not be able to	cover				を	覆（おお）	う	ことはできるはずがない
+	had better	had better	had better		cover				を	覆（おお）	う	べきだ
+	had better	had better	had better	not	cover				を	覆（おお）	う	べきではない
+	must	must	must		cover				を	覆（おお）	う	にちがいない
+	must	must	must	not	cover				を	覆（おお）	っ	てはいけない
+	must	must	must	be	covering				を	覆（おお）	っ	ているにちがいない
+	must	must	must	not be	covering				を	覆（おお）	っ	ていてはいけない
+	must	must	must	be able to	cover				を	覆（おお）	う	ことができるにちがいない
+	must	must	must	not be able to	cover				を	覆（おお）	う	ことはできてはいけない
+	will	will	will	have to	cover				を	覆（おお）	わ	なければいけないだろう
+	will	will	will	not have to	cover				を	覆（おお）	わ	なくてもいいだろう
+	will	will	will	have to be	covering				を	覆（おお）	っ	ていなければいけないだろう
+	will	will	will	not have to be	covering				を	覆（おお）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	cover				を	覆（おお）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	cover				を	覆（おお）	う	ことはできなくてもいいだろう
+	may	may	may	have to	cover				を	覆（おお）	わ	なければいけないかもしれない
+	may	may	may	not have to	cover				を	覆（おお）	わ	なくてもいいかもしれない
+	may	may	may	have to be	covering				を	覆（おお）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	covering				を	覆（おお）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	cover				を	覆（おお）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	cover				を	覆（おお）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		covered				を	覆（おお）	っ	たことがある
+	have	has	have	not	covered				を	覆（おお）	っ	たことはない
+	have	has	have	been	covering			（ずっと）	を	覆（おお）	っ	ている
+	have	has	have	not been	covering			（ずっと）	を	覆（おお）	っ	ていない
+	have	has	have		covered		already	すでに	を	覆（おお）	っ	ている
+	have	has	have	not	covered		yet	まだ	を	覆（おお）	っ	ていない
+	had	had	had		covered		before that	それ以前（いぜん）	を	覆（おお）	っ	たことがあった
+	had	had	had	not	covered		before that	それ以前（いぜん）	を	覆（おお）	っ	たことはなかった
+	had	had	had	been	covering		till then	それまでずっと	を	覆（おお）	っ	ていた
+	had	had	had	not been	covering		till then	それまでずっと	を	覆（おお）	っ	ていなかった
+	had	had	had		covered		already	すでに	を	覆（おお）	っ	ていた
+	had	had	had	not	covered		yet	まだ	を	覆（おお）	っ	ていなかった
+	have	has	have	been able to	cover			（ずっと）	を	覆（おお）	う	ことができている
+	have	has	have	not been able to	cover		yet	まだ	を	覆（おお）	う	ことはできていない
+	had	had	had	been able to	cover		till then	それまでずっと	を	覆（おお）	う	ことができていた
+	had	had	had	not been able to	cover		till then	それまでずっと	を	覆（おお）	う	ことはできていなかった
+step-5	may have	may have	may have		covered				を	覆（おお）	っ	たかもしれない
+	may not have	may not have	may not have		covered				を	覆（おお）	わ	なかったかもしれない
+	may have	may have	may have	been able to	cover				を	覆（おお）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	cover				を	覆（おお）	う	ことはできなかったかもしれない
+	must have	must have	must have		covered				を	覆（おお）	っ	たにちがいない
+	must not have	must not have	must not have		covered				を	覆（おお）	わ	なかったにちがいない
+	must have	must have	must have	been able to	cover				を	覆（おお）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	cover				を	覆（おお）	う	ことはできなかったにちがいない
+	should have	should have	should have		covered				を	覆（おお）	う	ほうがよかった
+	should not have	should not have	should not have		covered				を	覆（おお）	わ	ないほうがよかった
+	should have	should have	should have	been able to	cover				を	覆（おお）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	cover				を	覆（おお）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		covered				を	覆（おお）	っ	たはずがない
+step-6	would	would	would		cover				を	覆（おお）	っ	ただろう
+	would	would	would	not	cover				を	覆（おお）	わ	なかっただろう
+	would	would	would	be able to	cover				を	覆（おお）	う	ことができただろう
+	would	would	would	not be able to	cover				を	覆（おお）	う	ことはできなかっただろう
+	would have	would have	would have		covered				を	覆（おお）	っ	たことだろう
+	would not have	would not have	would not have		covered				を	覆（おお）	わ	なかったことだろう
+	would have	would have	would have	been able to	cover				を	覆（おお）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	cover				を	覆（おお）	う	ことはできなかったことだろう
+	could have	could have	could have		covered				を	覆（おお）	っ	た可能性がある
+	could not have	could not have	could not have		covered				を	覆（おお）	っ	た可能性はない
+	might have	might have	might have		covered				を	覆（おお）	っ	たかもしれなかった
+	might not have	might not have	might not have		covered				を	覆（おお）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	cover				を	覆（おお）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	cover				を	覆（おお）	う	ことはできなかったかもしれなかった

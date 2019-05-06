@@ -1,0 +1,79 @@
+step-1	tip	tips	tip							傾（かたむ）	く
+	do	does	do	not	tip					傾（かたむ）	か	ない
+	tipped	tipped	tipped							傾（かたむ）	い	た
+	did	did	did	not	tip					傾（かたむ）	か	なかった
+	am	is	are		tipping					傾（かたむ）	い	ている
+	am	is	are	not	tipping					傾（かたむ）	い	ていない
+	was	was	were		tipping					傾（かたむ）	い	ていた
+	was	was	were	not	tipping					傾（かたむ）	い	ていなかった
+step-2	am	is	are	going to	tip					傾（かたむ）	く	予定（よてい）だ
+	am	is	are	not going to	tip					傾（かたむ）	く	予定（よてい）ではない
+	was	was	were	going to	tip					傾（かたむ）	く	予定（よてい）だった
+	was	was	were	not going to	tip					傾（かたむ）	く	予定（よてい）ではなかった
+	have to	has to	have to		tip					傾（かたむ）	か	なければいけない
+	do	does	do	not have to	tip					傾（かたむ）	か	なくてもいい
+	have to	has to	have to	be	tipping					傾（かたむ）	い	ていなければいけない
+	do	does	do	not have to be	tipping					傾（かたむ）	い	ていなくてもいい
+	had to	had to	had to		tip					傾（かたむ）	か	なければいけなかった
+	did	did	did	not have to	tip					傾（かたむ）	か	なくてもよかった
+	had to	had to	had to	be	tipping					傾（かたむ）	い	ていなければいけなかった
+	did	did	did	not have to be	tipping					傾（かたむ）	い	ていなくてもよかった
+step-3	will	will	will		tip					傾（かたむ）	く	だろう
+	will	will	will	not	tip					傾（かたむ）	か	ないだろう
+	will	will	will	be	tipping					傾（かたむ）	い	ているだろう
+	will	will	will	not be	tipping					傾（かたむ）	い	ていないだろう
+	may	may	may		tip					傾（かたむ）	く	かもしれない
+	may	may	may	not	tip					傾（かたむ）	か	ないかもしれない
+	may	may	may	be	tipping					傾（かたむ）	い	ているかもしれない
+	may	may	may	not be	tipping					傾（かたむ）	い	ていないかもしれない
+	can	can	can		tip					傾（かたむ）	く	可能性（かのうせい）がある
+	can	can	can	not	tip					傾（かたむ）	く	可能性（かのうせい）はない
+	should	should	should		tip					傾（かたむ）	く	ほうがいい
+	should	should	should	not	tip					傾（かたむ）	か	ないほうがいい
+	should	should	should	be	tipping					傾（かたむ）	い	ているほうがいい
+	should	should	should	not be	tipping					傾（かたむ）	い	ていないほうがいい
+	should	should	should		tip					傾（かたむ）	く	はずだ
+	should	should	should	not	tip					傾（かたむ）	か	ないはずだ
+	should	should	should	be	tipping					傾（かたむ）	い	ているはずだ
+	should	should	should	not be	tipping					傾（かたむ）	い	ていないはずだ
+	had better	had better	had better		tip					傾（かたむ）	く	べきだ
+	had better	had better	had better	not	tip					傾（かたむ）	く	べきではない
+	must	must	must		tip					傾（かたむ）	く	にちがいない
+	must	must	must	not	tip					傾（かたむ）	い	てはいけない
+	must	must	must	be	tipping					傾（かたむ）	い	ているにちがいない
+	must	must	must	not be	tipping					傾（かたむ）	い	ていてはいけない
+	will	will	will	have to	tip					傾（かたむ）	か	なければいけないだろう
+	will	will	will	not have to	tip					傾（かたむ）	か	なくてもいいだろう
+	will	will	will	have to be	tipping					傾（かたむ）	い	ていなければいけないだろう
+	will	will	will	not have to be	tipping					傾（かたむ）	い	ていなくてもいいだろう
+	may	may	may	have to	tip					傾（かたむ）	か	なければいけないかもしれない
+	may	may	may	not have to	tip					傾（かたむ）	か	なくてもいいかもしれない
+	may	may	may	have to be	tipping					傾（かたむ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	tipping					傾（かたむ）	い	ていなくてもいいかもしれない
+step-4	have	has	have		tipped					傾（かたむ）	い	たことがある
+	have	has	have	not	tipped					傾（かたむ）	い	たことはない
+	have	has	have	been	tipping			（ずっと）		傾（かたむ）	い	ている
+	have	has	have	not been	tipping			（ずっと）		傾（かたむ）	い	ていない
+	have	has	have		tipped		already	すでに		傾（かたむ）	い	ている
+	have	has	have	not	tipped		yet	まだ		傾（かたむ）	い	ていない
+	had	had	had		tipped		before that	それ以前（いぜん）		傾（かたむ）	い	たことがあった
+	had	had	had	not	tipped		before that	それ以前（いぜん）		傾（かたむ）	い	たことはなかった
+	had	had	had	been	tipping		till then	それまでずっと		傾（かたむ）	い	ていた
+	had	had	had	not been	tipping		till then	それまでずっと		傾（かたむ）	い	ていなかった
+	had	had	had		tipped		already	すでに		傾（かたむ）	い	ていた
+	had	had	had	not	tipped		yet	まだ		傾（かたむ）	い	ていなかった
+step-5	may have	may have	may have		tipped					傾（かたむ）	い	たかもしれない
+	may not have	may not have	may not have		tipped					傾（かたむ）	か	なかったかもしれない
+	must have	must have	must have		tipped					傾（かたむ）	い	たにちがいない
+	must not have	must not have	must not have		tipped					傾（かたむ）	か	なかったにちがいない
+	should have	should have	should have		tipped					傾（かたむ）	く	ほうがよかった
+	should not have	should not have	should not have		tipped					傾（かたむ）	か	ないほうがよかった
+	can not have	can not have	can not have		tipped					傾（かたむ）	い	たはずがない
+step-6	would	would	would		tip					傾（かたむ）	い	ただろう
+	would	would	would	not	tip					傾（かたむ）	か	なかっただろう
+	would have	would have	would have		tipped					傾（かたむ）	い	たことだろう
+	would not have	would not have	would not have		tipped					傾（かたむ）	か	なかったことだろう
+	could have	could have	could have		tipped					傾（かたむ）	い	た可能性がある
+	could not have	could not have	could not have		tipped					傾（かたむ）	い	た可能性はない
+	might have	might have	might have		tipped					傾（かたむ）	い	たかもしれなかった
+	might not have	might not have	might not have		tipped					傾（かたむ）	か	なかったかもしれなかった

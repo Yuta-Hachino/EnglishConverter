@@ -1,0 +1,98 @@
+step-1		is	are								している
+		is	are	not							していない
+		was	were								していた
+		was	were	not							していなかった
+		gets	get								する
+		does	do	not	get						しない
+		got	got								した
+		did	did	not	get						しなかった
+		is	are		getting						してきている
+		is	are	not	getting						してきていない
+		was	were		getting						してきていた
+		was	were	not	getting						してきていなかった
+step-2		is	are	going to	be						しようとしている
+		is	are	not going to	be						しようとしていない
+		was	were	going to	be						しようとしていた
+		was	were	not going to	be						しようとしていなかった
+		has	have	to	be						していなければいけない
+		does not have	do not have	to	be						していなくてもいい
+		has	have	to	get						しなければいけない
+		does not have	do not have	to	get						しなくてもいい
+		had	had	to	be						していなければいけなかった
+		did not have	did not have	to	be						していなくてもよかった
+		had	had	to	get						しなければいけなかった
+		did not have	did not have	to	get						しなくてもよかった
+step-3		will	will		be						しているだろう
+		will	will	not	be						していないだろう
+		will	will		get						するだろう
+		will	will	not	get						しないだろう
+		may	may		be						しているかもしれない
+		may	may	not	be						していないかもしれない
+		may	may		get						するかもしれない
+		may	may	not	get						しないかもしれない
+		can	can		be						している可能性（かのうせい）がある
+		can	can	not	be						している可能性（かのうせい）はない
+		can	can		get						する可能性（かのうせい）がある
+		can	can	not	get						する可能性（かのうせい）はない
+		should	should		be						しているほうがいい
+		should	should	not	be						していないほうがいい
+		should	should		get						するほうがいい
+		should	should	not	get						しないほうがいい
+		should	should		be						しているはずだ
+		should	should	not	be						していないはずだ
+		should	should		get						するはずだ
+		should	should	not	get						するはずがない
+		must	must		be						しているにちがいない
+		must	must	not	be						していてはいけない
+		must	must		get						するにちがいない
+		must	must	not	get						してはいけない
+		will have to	will have to		be						していなければいけないだろう
+		will not have to	will not have to		be						していなくてもいいだろう
+		will have to	will have to		get						しなければいけないだろう
+		will not have to	will not have to		get						しなくてもいいだろう
+		may have to	may have to		be						していなければいけないかもしれない
+		may not have to	may not have to		be						していなくてもいいかもしれない
+		may have to	may have to		get						しなければいけないかもしてない
+		may not have to	may not have to		get						しなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	している
+		has	have	not	been				（ずっと）	形容詞	していない
+		has	have		been						していたことがある
+		has	have	not	been						していたことはない
+		has	have		gotten						したことがある
+		has	have	not	gotten						したことはない
+		had	had		been		till then		それまでずっと	形容詞	していた
+		had	had	not	been		till then		それまでずっと	形容詞	していなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	していたことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	していたことはなかった
+		had	had		gotten		before that		それ以前（いぜん）	形容詞	したことがあった
+		had	had	not	gotten		before that		それ以前（いぜん）	形容詞	したことはなかった
+step-5		may have	may have		been						していたかもしれない
+		may not have	may not have		been						していなかったかもしれない
+		may have	may have		gotten						したかもしれない
+		may not have	may not have		gotten						しなかったかもしれない
+		can not have	can not have		been						していたはずがない
+		can not have	can not have		gotten						したはずがない
+		should have	should have		been						していたほうがよかった
+		should not have	should not have		been						していないほうがよかった
+		should have	should have		gotten						するほうがよかった
+		should not have	should not have		gotten						しないほうがよかった
+		must have	must have		been						していたにちがいない
+		must not have	must not have		been						していなかったにちがいない
+		must have	must have		gotten						したにちがいない
+		must not have	must not have		gotten						しなかったにちがいない
+step-6		would	would		be						していただろう
+		would	would	not	be						していなかっただろう
+		would	would		get						しただろう
+		would	would	not	get						しなかっただろう
+		would have	would have		been						していたことだろう
+		would not have	would not have		been						していなかったことだろう
+		would have	would have		gotten						したことだろう
+		would not have	would not have		gotten						しなかったことだろう
+		could have	could have		been						していた可能性（かのうせい）がある
+		could not have	could not have		been						していた可能性（かのうせい）はない
+		could have	could have		gotten						した可能性（かのうせい）がある
+		could not have	could not have		gotten						した可能性（かのうせい）はない
+		might have	might have		been						していたかもしれなかった
+		might not have	might not have		been						していなかったかもしれなかった
+		might have	might have		gotten						したかもしれなかった
+		might not have	might not have		gotten						しなかったかもしれなかった

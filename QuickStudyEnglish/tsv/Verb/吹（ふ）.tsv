@@ -1,0 +1,130 @@
+step-1	blow	blows	blow						を	吹（ふ）	く
+	do	does	do	not	blow				を	吹（ふ）	か	ない
+	blew	blew	blew						を	吹（ふ）	い	た
+	did	did	did	not	blow				を	吹（ふ）	か	なかった
+	am	is	are		blowing				を	吹（ふ）	い	ている
+	am	is	are	not	blowing				を	吹（ふ）	い	ていない
+	was	was	were		blowing				を	吹（ふ）	い	ていた
+	was	was	were	not	blowing				を	吹（ふ）	い	ていなかった
+step-2	am	is	are	going to	blow				を	吹（ふ）	く	予定（よてい）だ
+	am	is	are	not going to	blow				を	吹（ふ）	く	予定（よてい）ではない
+	was	was	were	going to	blow				を	吹（ふ）	く	予定（よてい）だった
+	was	was	were	not going to	blow				を	吹（ふ）	く	予定（よてい）ではなかった
+	am	is	are	able to	blow				を	吹（ふ）	く	ことができる
+	am	is	are	not able to	blow				を	吹（ふ）	く	ことはできない
+	was	was	were	able to	blow				を	吹（ふ）	く	ことができた
+	was	was	were	not able to	blow				を	吹（ふ）	く	ことはできなかった
+	could	could	could	not	blow				を	吹（ふ）	く	ことはできなかった
+	want	wants	want	to	blow				を	吹（ふ）	き	たい
+	do	does	do	not want to	blow				を	吹（ふ）	き	たくない
+	wanted  	wanted  	wanted	to	blow				を	吹（ふ）	き	たかった
+	did	did	did	not want to	blow				を	吹（ふ）	き	たくなかった
+	want	wants	want	to be	blowing				を	吹（ふ）	い	ていたい
+	do	does	do	not want to be	blowing				を	吹（ふ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	blowing				を	吹（ふ）	い	ていたかった
+	did	did	did	not want to be	blowing				を	吹（ふ）	い	ていたくなかった
+	want	wants	want	to be able to	blow				を	吹（ふ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	blow				を	吹（ふ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	blow				を	吹（ふ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	blow				を	吹（ふ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		blow				を	吹（ふ）	か	なければいけない
+	do	does	do	not have to	blow				を	吹（ふ）	か	なくてもいい
+	have to	has to	have to	be	blowing				を	吹（ふ）	い	ていなければいけない
+	do	does	do	not have to be	blowing				を	吹（ふ）	い	ていなくてもいい
+	have to	has to	have to	be able to	blow				を	吹（ふ）	く	ことができなければいけない
+	do	does	do	not have to be able to	blow				を	吹（ふ）	く	ことはできなくてもいい
+	had to	had to	had to		blow				を	吹（ふ）	か	なければいけなかった
+	did	did	did	not have to	blow				を	吹（ふ）	か	なくてもよかった
+	had to	had to	had to	be	blowing				を	吹（ふ）	い	ていなければいけなかった
+	did	did	did	not have to be	blowing				を	吹（ふ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	blow				を	吹（ふ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	blow				を	吹（ふ）	く	ことはできなくてもよかった
+step-3	will	will	will		blow				を	吹（ふ）	く	だろう
+	will	will	will	not	blow				を	吹（ふ）	か	ないだろう
+	will	will	will	be	blowing				を	吹（ふ）	い	ているだろう
+	will	will	will	not be	blowing				を	吹（ふ）	い	ていないだろう
+	will	will	will	be able to	blow				を	吹（ふ）	く	ことができるだろう
+	will	will	will	not be able to	blow				を	吹（ふ）	く	ことはできないだろう
+	may	may	may		blow				を	吹（ふ）	く	かもしれない
+	may	may	may	not	blow				を	吹（ふ）	か	ないかもしれない
+	may	may	may	be	blowing				を	吹（ふ）	い	ているかもしれない
+	may	may	may	not be	blowing				を	吹（ふ）	い	ていないかもしれない
+	may	may	may	be able to	blow				を	吹（ふ）	く	ことができるかもしれない
+	may	may	may	not be able to	blow				を	吹（ふ）	く	ことはできないかもしれない
+	can	can	can		blow				を	吹（ふ）	く	ことができる
+	can	can	can	not	blow				を	吹（ふ）	く	ことはできない
+	should	should	should		blow				を	吹（ふ）	く	ほうがいい
+	should	should	should	not	blow				を	吹（ふ）	か	ないほうがいい
+	should	should	should	be	blowing				を	吹（ふ）	い	ているほうがいい
+	should	should	should	not be	blowing				を	吹（ふ）	い	ていないほうがいい
+	should	should	should	be able to	blow				を	吹（ふ）	く	ことができるほうがいい
+	should	should	should	not be able to	blow				を	吹（ふ）	く	ことはできないほうがいい
+	should	should	should		blow				を	吹（ふ）	く	はずだ
+	should	should	should	not	blow				を	吹（ふ）	か	ないはずだ
+	should	should	should	be	blowing				を	吹（ふ）	い	ているはずだ
+	should	should	should	not be	blowing				を	吹（ふ）	い	ていないはずだ
+	should	should	should	be able to	blow				を	吹（ふ）	く	ことができるはずだ
+	should	should	should	not be able to	blow				を	吹（ふ）	く	ことはできるはずがない
+	had better	had better	had better		blow				を	吹（ふ）	く	べきだ
+	had better	had better	had better	not	blow				を	吹（ふ）	く	べきではない
+	must	must	must		blow				を	吹（ふ）	く	にちがいない
+	must	must	must	not	blow				を	吹（ふ）	い	てはいけない
+	must	must	must	be	blowing				を	吹（ふ）	い	ているにちがいない
+	must	must	must	not be	blowing				を	吹（ふ）	い	ていてはいけない
+	must	must	must	be able to	blow				を	吹（ふ）	く	ことができるにちがいない
+	must	must	must	not be able to	blow				を	吹（ふ）	く	ことはできてはいけない
+	will	will	will	have to	blow				を	吹（ふ）	か	なければいけないだろう
+	will	will	will	not have to	blow				を	吹（ふ）	か	なくてもいいだろう
+	will	will	will	have to be	blowing				を	吹（ふ）	い	ていなければいけないだろう
+	will	will	will	not have to be	blowing				を	吹（ふ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	blow				を	吹（ふ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	blow				を	吹（ふ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	blow				を	吹（ふ）	か	なければいけないかもしれない
+	may	may	may	not have to	blow				を	吹（ふ）	か	なくてもいいかもしれない
+	may	may	may	have to be	blowing				を	吹（ふ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	blowing				を	吹（ふ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	blow				を	吹（ふ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	blow				を	吹（ふ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		blown				を	吹（ふ）	い	たことがある
+	have	has	have	not	blown				を	吹（ふ）	い	たことはない
+	have	has	have	been	blowing			（ずっと）	を	吹（ふ）	い	ている
+	have	has	have	not been	blowing			（ずっと）	を	吹（ふ）	い	ていない
+	have	has	have		blown		already	すでに	を	吹（ふ）	い	ている
+	have	has	have	not	blown		yet	まだ	を	吹（ふ）	い	ていない
+	had	had	had		blown		before that	それ以前（いぜん）	を	吹（ふ）	い	たことがあった
+	had	had	had	not	blown		before that	それ以前（いぜん）	を	吹（ふ）	い	たことはなかった
+	had	had	had	been	blowing		till then	それまでずっと	を	吹（ふ）	い	ていた
+	had	had	had	not been	blowing		till then	それまでずっと	を	吹（ふ）	い	ていなかった
+	had	had	had		blown		already	すでに	を	吹（ふ）	い	ていた
+	had	had	had	not	blown		yet	まだ	を	吹（ふ）	い	ていなかった
+	have	has	have	been able to	blow			（ずっと）	を	吹（ふ）	く	ことができている
+	have	has	have	not been able to	blow		yet	まだ	を	吹（ふ）	く	ことはできていない
+	had	had	had	been able to	blow		till then	それまでずっと	を	吹（ふ）	く	ことができていた
+	had	had	had	not been able to	blow		till then	それまでずっと	を	吹（ふ）	く	ことはできていなかった
+step-5	may have	may have	may have		blown				を	吹（ふ）	い	たかもしれない
+	may not have	may not have	may not have		blown				を	吹（ふ）	か	なかったかもしれない
+	may have	may have	may have	been able to	blow				を	吹（ふ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	blow				を	吹（ふ）	く	ことはできなかったかもしれない
+	must have	must have	must have		blown				を	吹（ふ）	い	たにちがいない
+	must not have	must not have	must not have		blown				を	吹（ふ）	か	なかったにちがいない
+	must have	must have	must have	been able to	blow				を	吹（ふ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	blow				を	吹（ふ）	く	ことはできなかったにちがいない
+	should have	should have	should have		blown				を	吹（ふ）	く	ほうがよかった
+	should not have	should not have	should not have		blown				を	吹（ふ）	か	ないほうがよかった
+	should have	should have	should have	been able to	blow				を	吹（ふ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	blow				を	吹（ふ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		blown				を	吹（ふ）	い	たはずがない
+step-6	would	would	would		blow				を	吹（ふ）	い	ただろう
+	would	would	would	not	blow				を	吹（ふ）	か	なかっただろう
+	would	would	would	be able to	blow				を	吹（ふ）	く	ことができただろう
+	would	would	would	not be able to	blow				を	吹（ふ）	く	ことはできなかっただろう
+	would have	would have	would have		blown				を	吹（ふ）	い	たことだろう
+	would not have	would not have	would not have		blown				を	吹（ふ）	か	なかったことだろう
+	would have	would have	would have	been able to	blow				を	吹（ふ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	blow				を	吹（ふ）	く	ことはできなかったことだろう
+	could have	could have	could have		blown				を	吹（ふ）	い	た可能性がある
+	could not have	could not have	could not have		blown				を	吹（ふ）	い	た可能性はない
+	might have	might have	might have		blown				を	吹（ふ）	い	たかもしれなかった
+	might not have	might not have	might not have		blown				を	吹（ふ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	blow				を	吹（ふ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	blow				を	吹（ふ）	く	ことはできなかったかもしれなかった

@@ -1,0 +1,130 @@
+step-1	behave	behaves	behave							振（ふ）る舞（ま）	う
+	do	does	do	not	behave					振（ふ）る舞（ま）	わ	ない
+	behaved	behaved	behaved							振（ふ）る舞（ま）	っ	た
+	did	did	did	not	behave					振（ふ）る舞（ま）	わ	なかった
+	am	is	are		behaving					振（ふ）る舞（ま）	っ	ている
+	am	is	are	not	behaving					振（ふ）る舞（ま）	っ	ていない
+	was	was	were		behaving					振（ふ）る舞（ま）	っ	ていた
+	was	was	were	not	behaving					振（ふ）る舞（ま）	っ	ていなかった
+step-2	am	is	are	going to	behave					振（ふ）る舞（ま）	う	予定（よてい）だ
+	am	is	are	not going to	behave					振（ふ）る舞（ま）	う	予定（よてい）ではない
+	was	was	were	going to	behave					振（ふ）る舞（ま）	う	予定（よてい）だった
+	was	was	were	not going to	behave					振（ふ）る舞（ま）	う	予定（よてい）ではなかった
+	am	is	are	able to	behave					振（ふ）る舞（ま）	う	ことができる
+	am	is	are	not able to	behave					振（ふ）る舞（ま）	う	ことはできない
+	was	was	were	able to	behave					振（ふ）る舞（ま）	う	ことができた
+	was	was	were	not able to	behave					振（ふ）る舞（ま）	う	ことはできなかった
+	could	could	could	not	behave					振（ふ）る舞（ま）	う	ことはできなかった
+	want	wants	want	to	behave					振（ふ）る舞（ま）	い	たい
+	do	does	do	not want to	behave					振（ふ）る舞（ま）	い	たくない
+	wanted  	wanted  	wanted	to	behave					振（ふ）る舞（ま）	い	たかった
+	did	did	did	not want to	behave					振（ふ）る舞（ま）	い	たくなかった
+	want	wants	want	to be	behaving					振（ふ）る舞（ま）	っ	ていたい
+	do	does	do	not want to be	behaving					振（ふ）る舞（ま）	っ	ていたくない
+	wanted  	wanted  	wanted	to be	behaving					振（ふ）る舞（ま）	っ	ていたかった
+	did	did	did	not want to be	behaving					振（ふ）る舞（ま）	っ	ていたくなかった
+	want	wants	want	to be able to	behave					振（ふ）る舞（ま）	う	ことができるようになりたい
+	do	does	do	not want to be able to	behave					振（ふ）る舞（ま）	う	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	behave					振（ふ）る舞（ま）	う	ことができるようになりたかった
+	did	did	did	not want to be able to	behave					振（ふ）る舞（ま）	う	ことはできるようになりたくなかった
+	have to	has to	have to		behave					振（ふ）る舞（ま）	わ	なければいけない
+	do	does	do	not have to	behave					振（ふ）る舞（ま）	わ	なくてもいい
+	have to	has to	have to	be	behaving					振（ふ）る舞（ま）	っ	ていなければいけない
+	do	does	do	not have to be	behaving					振（ふ）る舞（ま）	っ	ていなくてもいい
+	have to	has to	have to	be able to	behave					振（ふ）る舞（ま）	う	ことができなければいけない
+	do	does	do	not have to be able to	behave					振（ふ）る舞（ま）	う	ことはできなくてもいい
+	had to	had to	had to		behave					振（ふ）る舞（ま）	わ	なければいけなかった
+	did	did	did	not have to	behave					振（ふ）る舞（ま）	わ	なくてもよかった
+	had to	had to	had to	be	behaving					振（ふ）る舞（ま）	っ	ていなければいけなかった
+	did	did	did	not have to be	behaving					振（ふ）る舞（ま）	っ	ていなくてもよかった
+	had to	had to	had to	be able to	behave					振（ふ）る舞（ま）	う	ことができなければいけなかった
+	did	did	did	not have to be able to	behave					振（ふ）る舞（ま）	う	ことはできなくてもよかった
+step-3	will	will	will		behave					振（ふ）る舞（ま）	う	だろう
+	will	will	will	not	behave					振（ふ）る舞（ま）	わ	ないだろう
+	will	will	will	be	behaving					振（ふ）る舞（ま）	っ	ているだろう
+	will	will	will	not be	behaving					振（ふ）る舞（ま）	っ	ていないだろう
+	will	will	will	be able to	behave					振（ふ）る舞（ま）	う	ことができるだろう
+	will	will	will	not be able to	behave					振（ふ）る舞（ま）	う	ことはできないだろう
+	may	may	may		behave					振（ふ）る舞（ま）	う	かもしれない
+	may	may	may	not	behave					振（ふ）る舞（ま）	わ	ないかもしれない
+	may	may	may	be	behaving					振（ふ）る舞（ま）	っ	ているかもしれない
+	may	may	may	not be	behaving					振（ふ）る舞（ま）	っ	ていないかもしれない
+	may	may	may	be able to	behave					振（ふ）る舞（ま）	う	ことができるかもしれない
+	may	may	may	not be able to	behave					振（ふ）る舞（ま）	う	ことはできないかもしれない
+	can	can	can		behave					振（ふ）る舞（ま）	う	ことができる
+	can	can	can	not	behave					振（ふ）る舞（ま）	う	ことはできない
+	should	should	should		behave					振（ふ）る舞（ま）	う	ほうがいい
+	should	should	should	not	behave					振（ふ）る舞（ま）	わ	ないほうがいい
+	should	should	should	be	behaving					振（ふ）る舞（ま）	っ	ているほうがいい
+	should	should	should	not be	behaving					振（ふ）る舞（ま）	っ	ていないほうがいい
+	should	should	should	be able to	behave					振（ふ）る舞（ま）	う	ことができるほうがいい
+	should	should	should	not be able to	behave					振（ふ）る舞（ま）	う	ことはできないほうがいい
+	should	should	should		behave					振（ふ）る舞（ま）	う	はずだ
+	should	should	should	not	behave					振（ふ）る舞（ま）	わ	ないはずだ
+	should	should	should	be	behaving					振（ふ）る舞（ま）	っ	ているはずだ
+	should	should	should	not be	behaving					振（ふ）る舞（ま）	っ	ていないはずだ
+	should	should	should	be able to	behave					振（ふ）る舞（ま）	う	ことができるはずだ
+	should	should	should	not be able to	behave					振（ふ）る舞（ま）	う	ことはできるはずがない
+	had better	had better	had better		behave					振（ふ）る舞（ま）	う	べきだ
+	had better	had better	had better	not	behave					振（ふ）る舞（ま）	う	べきではない
+	must	must	must		behave					振（ふ）る舞（ま）	う	にちがいない
+	must	must	must	not	behave					振（ふ）る舞（ま）	っ	てはいけない
+	must	must	must	be	behaving					振（ふ）る舞（ま）	っ	ているにちがいない
+	must	must	must	not be	behaving					振（ふ）る舞（ま）	っ	ていてはいけない
+	must	must	must	be able to	behave					振（ふ）る舞（ま）	う	ことができるにちがいない
+	must	must	must	not be able to	behave					振（ふ）る舞（ま）	う	ことはできてはいけない
+	will	will	will	have to	behave					振（ふ）る舞（ま）	わ	なければいけないだろう
+	will	will	will	not have to	behave					振（ふ）る舞（ま）	わ	なくてもいいだろう
+	will	will	will	have to be	behaving					振（ふ）る舞（ま）	っ	ていなければいけないだろう
+	will	will	will	not have to be	behaving					振（ふ）る舞（ま）	っ	ていなくてもいいだろう
+	will	will	will	have to be able to	behave					振（ふ）る舞（ま）	う	ことができなければいけないだろう
+	will	will	will	not have to be able to	behave					振（ふ）る舞（ま）	う	ことはできなくてもいいだろう
+	may	may	may	have to	behave					振（ふ）る舞（ま）	わ	なければいけないかもしれない
+	may	may	may	not have to	behave					振（ふ）る舞（ま）	わ	なくてもいいかもしれない
+	may	may	may	have to be	behaving					振（ふ）る舞（ま）	っ	ていなければいけないかもしれない
+	may	may	may	not have to be	behaving					振（ふ）る舞（ま）	っ	ていなくてもいいかもしれない
+	may	may	may	have to be able to	behave					振（ふ）る舞（ま）	う	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	behave					振（ふ）る舞（ま）	う	ことはできなくてもいいかもしれない
+step-4	have	has	have		behaved					振（ふ）る舞（ま）	っ	たことがある
+	have	has	have	not	behaved					振（ふ）る舞（ま）	っ	たことはない
+	have	has	have	been	behaving			（ずっと）		振（ふ）る舞（ま）	っ	ている
+	have	has	have	not been	behaving			（ずっと）		振（ふ）る舞（ま）	っ	ていない
+	have	has	have		behaved		already	すでに		振（ふ）る舞（ま）	っ	ている
+	have	has	have	not	behaved		yet	まだ		振（ふ）る舞（ま）	っ	ていない
+	had	had	had		behaved		before that	それ以前（いぜん）		振（ふ）る舞（ま）	っ	たことがあった
+	had	had	had	not	behaved		before that	それ以前（いぜん）		振（ふ）る舞（ま）	っ	たことはなかった
+	had	had	had	been	behaving		till then	それまでずっと		振（ふ）る舞（ま）	っ	ていた
+	had	had	had	not been	behaving		till then	それまでずっと		振（ふ）る舞（ま）	っ	ていなかった
+	had	had	had		behaved		already	すでに		振（ふ）る舞（ま）	っ	ていた
+	had	had	had	not	behaved		yet	まだ		振（ふ）る舞（ま）	っ	ていなかった
+	have	has	have	been able to	behave			（ずっと）		振（ふ）る舞（ま）	う	ことができている
+	have	has	have	not been able to	behave		yet	まだ		振（ふ）る舞（ま）	う	ことはできていない
+	had	had	had	been able to	behave		till then	それまでずっと		振（ふ）る舞（ま）	う	ことができていた
+	had	had	had	not been able to	behave		till then	それまでずっと		振（ふ）る舞（ま）	う	ことはできていなかった
+step-5	may have	may have	may have		behaved					振（ふ）る舞（ま）	っ	たかもしれない
+	may not have	may not have	may not have		behaved					振（ふ）る舞（ま）	わ	なかったかもしれない
+	may have	may have	may have	been able to	behave					振（ふ）る舞（ま）	う	ことができたかもしれない
+	may not have	may not have	may not have	been able to	behave					振（ふ）る舞（ま）	う	ことはできなかったかもしれない
+	must have	must have	must have		behaved					振（ふ）る舞（ま）	っ	たにちがいない
+	must not have	must not have	must not have		behaved					振（ふ）る舞（ま）	わ	なかったにちがいない
+	must have	must have	must have	been able to	behave					振（ふ）る舞（ま）	う	ことができたにちがいない
+	must not have	must not have	must not have	been able to	behave					振（ふ）る舞（ま）	う	ことはできなかったにちがいない
+	should have	should have	should have		behaved					振（ふ）る舞（ま）	う	ほうがよかった
+	should not have	should not have	should not have		behaved					振（ふ）る舞（ま）	わ	ないほうがよかった
+	should have	should have	should have	been able to	behave					振（ふ）る舞（ま）	う	ことができたはずだ
+	should not have	should not have	should not have	been able to	behave					振（ふ）る舞（ま）	う	ことはできなかったはずだ
+	can not have	can not have	can not have		behaved					振（ふ）る舞（ま）	っ	たはずがない
+step-6	would	would	would		behave					振（ふ）る舞（ま）	っ	ただろう
+	would	would	would	not	behave					振（ふ）る舞（ま）	わ	なかっただろう
+	would	would	would	be able to	behave					振（ふ）る舞（ま）	う	ことができただろう
+	would	would	would	not be able to	behave					振（ふ）る舞（ま）	う	ことはできなかっただろう
+	would have	would have	would have		behaved					振（ふ）る舞（ま）	っ	たことだろう
+	would not have	would not have	would not have		behaved					振（ふ）る舞（ま）	わ	なかったことだろう
+	would have	would have	would have	been able to	behave					振（ふ）る舞（ま）	う	ことができたことだろう
+	would not have	would not have	would not have	been able to	behave					振（ふ）る舞（ま）	う	ことはできなかったことだろう
+	could have	could have	could have		behaved					振（ふ）る舞（ま）	っ	た可能性がある
+	could not have	could not have	could not have		behaved					振（ふ）る舞（ま）	っ	た可能性はない
+	might have	might have	might have		behaved					振（ふ）る舞（ま）	っ	たかもしれなかった
+	might not have	might not have	might not have		behaved					振（ふ）る舞（ま）	わ	なかったかもしれなかった
+	might have	might have	might have	been able to	behave					振（ふ）る舞（ま）	う	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	behave					振（ふ）る舞（ま）	う	ことはできなかったかもしれなかった

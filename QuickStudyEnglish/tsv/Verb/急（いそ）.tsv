@@ -1,0 +1,130 @@
+step-1	hurry	hurries	hurry							急（いそ）	ぐ
+	do	does	do	not	hurry					急（いそ）	が	ない
+	hurried	hurried	hurried							急（いそ）	い	だ
+	did	did	did	not	hurry					急（いそ）	が	なかった
+	am	is	are		hurrying					急（いそ）	い	でいる
+	am	is	are	not	hurrying					急（いそ）	い	でいない
+	was	was	were		hurrying					急（いそ）	い	でいた
+	was	was	were	not	hurrying					急（いそ）	い	でいなかった
+step-2	am	is	are	going to	hurry					急（いそ）	ぐ	予定（よてい）だ
+	am	is	are	not going to	hurry					急（いそ）	ぐ	予定（よてい）ではない
+	was	was	were	going to	hurry					急（いそ）	ぐ	予定（よてい）だった
+	was	was	were	not going to	hurry					急（いそ）	ぐ	予定（よてい）ではなかった
+	am	is	are	able to	hurry					急（いそ）	ぐ	ことができる
+	am	is	are	not able to	hurry					急（いそ）	ぐ	ことはできない
+	was	was	were	able to	hurry					急（いそ）	ぐ	ことができた
+	was	was	were	not able to	hurry					急（いそ）	ぐ	ことはできなかった
+	could	could	could	not	hurry					急（いそ）	ぐ	ことはできなかった
+	want	wants	want	to	hurry					急（いそ）	ぎ	たい
+	do	does	do	not want to	hurry					急（いそ）	ぎ	たくない
+	wanted  	wanted  	wanted	to	hurry					急（いそ）	ぎ	たかった
+	did	did	did	not want to	hurry					急（いそ）	ぎ	たくなかった
+	want	wants	want	to be	hurrying					急（いそ）	い	でいたい
+	do	does	do	not want to be	hurrying					急（いそ）	い	でいたくない
+	wanted  	wanted  	wanted	to be	hurrying					急（いそ）	い	でいたかった
+	did	did	did	not want to be	hurrying					急（いそ）	い	でいたくなかった
+	want	wants	want	to be able to	hurry					急（いそ）	ぐ	ことができるようになりたい
+	do	does	do	not want to be able to	hurry					急（いそ）	ぐ	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	hurry					急（いそ）	ぐ	ことができるようになりたかった
+	did	did	did	not want to be able to	hurry					急（いそ）	ぐ	ことはできるようになりたくなかった
+	have to	has to	have to		hurry					急（いそ）	が	なければいけない
+	do	does	do	not have to	hurry					急（いそ）	が	なくてもいい
+	have to	has to	have to	be	hurrying					急（いそ）	い	でいなければいけない
+	do	does	do	not have to be	hurrying					急（いそ）	い	でいなくてもいい
+	have to	has to	have to	be able to	hurry					急（いそ）	ぐ	ことができなければいけない
+	do	does	do	not have to be able to	hurry					急（いそ）	ぐ	ことはできなくてもいい
+	had to	had to	had to		hurry					急（いそ）	が	なければいけなかった
+	did	did	did	not have to	hurry					急（いそ）	が	なくてもよかった
+	had to	had to	had to	be	hurrying					急（いそ）	い	でいなければいけなかった
+	did	did	did	not have to be	hurrying					急（いそ）	い	でいなくてもよかった
+	had to	had to	had to	be able to	hurry					急（いそ）	ぐ	ことができなければいけなかった
+	did	did	did	not have to be able to	hurry					急（いそ）	ぐ	ことはできなくてもよかった
+step-3	will	will	will		hurry					急（いそ）	ぐ	だろう
+	will	will	will	not	hurry					急（いそ）	が	ないだろう
+	will	will	will	be	hurrying					急（いそ）	い	でいるだろう
+	will	will	will	not be	hurrying					急（いそ）	い	でいないだろう
+	will	will	will	be able to	hurry					急（いそ）	ぐ	ことができるだろう
+	will	will	will	not be able to	hurry					急（いそ）	ぐ	ことはできないだろう
+	may	may	may		hurry					急（いそ）	ぐ	かもしれない
+	may	may	may	not	hurry					急（いそ）	が	ないかもしれない
+	may	may	may	be	hurrying					急（いそ）	い	でいるかもしれない
+	may	may	may	not be	hurrying					急（いそ）	い	でいないかもしれない
+	may	may	may	be able to	hurry					急（いそ）	ぐ	ことができるかもしれない
+	may	may	may	not be able to	hurry					急（いそ）	ぐ	ことはできないかもしれない
+	can	can	can		hurry					急（いそ）	ぐ	ことができる
+	can	can	can	not	hurry					急（いそ）	ぐ	ことはできない
+	should	should	should		hurry					急（いそ）	ぐ	ほうがいい
+	should	should	should	not	hurry					急（いそ）	が	ないほうがいい
+	should	should	should	be	hurrying					急（いそ）	い	でいるほうがいい
+	should	should	should	not be	hurrying					急（いそ）	い	でいないほうがいい
+	should	should	should	be able to	hurry					急（いそ）	ぐ	ことができるほうがいい
+	should	should	should	not be able to	hurry					急（いそ）	ぐ	ことはできないほうがいい
+	should	should	should		hurry					急（いそ）	ぐ	はずだ
+	should	should	should	not	hurry					急（いそ）	が	ないはずだ
+	should	should	should	be	hurrying					急（いそ）	い	でいるはずだ
+	should	should	should	not be	hurrying					急（いそ）	い	でいないはずだ
+	should	should	should	be able to	hurry					急（いそ）	ぐ	ことができるはずだ
+	should	should	should	not be able to	hurry					急（いそ）	ぐ	ことはできるはずがない
+	had better	had better	had better		hurry					急（いそ）	ぐ	べきだ
+	had better	had better	had better	not	hurry					急（いそ）	ぐ	べきではない
+	must	must	must		hurry					急（いそ）	ぐ	にちがいない
+	must	must	must	not	hurry					急（いそ）	い	ではいけない
+	must	must	must	be	hurrying					急（いそ）	い	でいるにちがいない
+	must	must	must	not be	hurrying					急（いそ）	い	でいてはいけない
+	must	must	must	be able to	hurry					急（いそ）	ぐ	ことができるにちがいない
+	must	must	must	not be able to	hurry					急（いそ）	ぐ	ことはできてはいけない
+	will	will	will	have to	hurry					急（いそ）	が	なければいけないだろう
+	will	will	will	not have to	hurry					急（いそ）	が	なくてもいいだろう
+	will	will	will	have to be	hurrying					急（いそ）	い	でいなければいけないだろう
+	will	will	will	not have to be	hurrying					急（いそ）	い	でいなくてもいいだろう
+	will	will	will	have to be able to	hurry					急（いそ）	ぐ	ことができなければいけないだろう
+	will	will	will	not have to be able to	hurry					急（いそ）	ぐ	ことはできなくてもいいだろう
+	may	may	may	have to	hurry					急（いそ）	が	なければいけないかもしれない
+	may	may	may	not have to	hurry					急（いそ）	が	なくてもいいかもしれない
+	may	may	may	have to be	hurrying					急（いそ）	い	でいなければいけないかもしれない
+	may	may	may	not have to be	hurrying					急（いそ）	い	でいなくてもいいかもしれない
+	may	may	may	have to be able to	hurry					急（いそ）	ぐ	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	hurry					急（いそ）	ぐ	ことはできなくてもいいかもしれない
+step-4	have	has	have		hurried					急（いそ）	い	たことがある
+	have	has	have	not	hurried					急（いそ）	い	だことはない
+	have	has	have	been	hurrying			（ずっと）		急（いそ）	い	でいる
+	have	has	have	not been	hurrying			（ずっと）		急（いそ）	い	でいない
+	have	has	have		hurried		already	すでに		急（いそ）	い	でいる
+	have	has	have	not	hurried		yet	まだ		急（いそ）	い	でいない
+	had	had	had		hurried		before that	それ以前（いぜん）		急（いそ）	い	だことがあった
+	had	had	had	not	hurried		before that	それ以前（いぜん）		急（いそ）	い	だことはなかった
+	had	had	had	been	hurrying		till then	それまでずっと		急（いそ）	い	でいた
+	had	had	had	not been	hurrying		till then	それまでずっと		急（いそ）	い	でいなかった
+	had	had	had		hurried		already	すでに		急（いそ）	い	でいた
+	had	had	had	not	hurried		yet	まだ		急（いそ）	い	でいなかった
+	have	has	have	been able to	hurry			（ずっと）		急（いそ）	ぐ	ことができている
+	have	has	have	not been able to	hurry		yet	まだ		急（いそ）	ぐ	ことはできていない
+	had	had	had	been able to	hurry		till then	それまでずっと		急（いそ）	ぐ	ことができていた
+	had	had	had	not been able to	hurry		till then	それまでずっと		急（いそ）	ぐ	ことはできていなかった
+step-5	may have	may have	may have		hurried					急（いそ）	い	だかもしれない
+	may not have	may not have	may not have		hurried					急（いそ）	が	なかったかもしれない
+	may have	may have	may have	been able to	hurry					急（いそ）	ぐ	ことができたかもしれない
+	may not have	may not have	may not have	been able to	hurry					急（いそ）	ぐ	ことはできなかったかもしれない
+	must have	must have	must have		hurried					急（いそ）	い	だにちがいない
+	must not have	must not have	must not have		hurried					急（いそ）	が	なかったにちがいない
+	must have	must have	must have	been able to	hurry					急（いそ）	ぐ	ことができたにちがいない
+	must not have	must not have	must not have	been able to	hurry					急（いそ）	ぐ	ことはできなかったにちがいない
+	should have	should have	should have		hurried					急（いそ）	ぐ	ほうがよかった
+	should not have	should not have	should not have		hurried					急（いそ）	が	ないほうがよかった
+	should have	should have	should have	been able to	hurry					急（いそ）	ぐ	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	hurry					急（いそ）	ぐ	ことはできないほうがよかった
+	can not have	can not have	can not have		hurried					急（いそ）	い	だはずがない
+step-6	would	would	would		hurry					急（いそ）	い	だだろう
+	would	would	would	not	hurry					急（いそ）	が	なかっただろう
+	would	would	would	be able to	hurry					急（いそ）	ぐ	ことができただろう
+	would	would	would	not be able to	hurry					急（いそ）	ぐ	ことはできなかっただろう
+	would have	would have	would have		hurried					急（いそ）	い	だことだろう
+	would not have	would not have	would not have		hurried					急（いそ）	が	なかったことだろう
+	would have	would have	would have	been able to	hurry					急（いそ）	ぐ	ことができたことだろう
+	would not have	would not have	would not have	been able to	hurry					急（いそ）	ぐ	ことはできなかったことだろう
+	could have	could have	could have		hurried					急（いそ）	い	だ可能性がある
+	could not have	could not have	could not have		hurried					急（いそ）	い	だ可能性はない
+	might have	might have	might have		hurried					急（いそ）	い	だかもしれなかった
+	might not have	might not have	might not have		hurried					急（いそ）	が	なかったかもしれなかった
+	might have	might have	might have	been able to	hurry					急（いそ）	ぐ	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	hurry					急（いそ）	ぐ	ことはできなかったかもしれなかった

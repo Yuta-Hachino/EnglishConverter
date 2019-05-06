@@ -1,0 +1,98 @@
+step-1		is	are								っている
+		is	are	not							っていない
+		was	were								っていた
+		was	were	not							っていなかった
+		becomes	become								つ
+		does	do	not	become						たない
+		became	became								った
+		did	did	not	become						たなかった
+		is	are		becoming						ってきている
+		is	are	not	becoming						ってきていない
+		was	were		becoming						ってきていた
+		was	were	not	becoming						ってきていなかった
+step-2		is	are	going to	be						とうとしている
+		is	are	not going to	be						とうとしていない
+		was	were	going to	be						とうとしていた
+		was	were	not going to	be						とうとしていなかった
+		has	have	to	be						っていなければいけない
+		does not have	do not have	to	be						っていなくてもいい
+		has	have	to	become						たなければいけない
+		does not have	do not have	to	become						たなくてもいい
+		had	had	to	be						っていなければいけなかった
+		did not have	did not have	to	be						っていなくてもよかった
+		had	had	to	become						たなければいけなかった
+		did not have	did not have	to	become						たなくてもよかった
+step-3		will	will		be						っているだろう
+		will	will	not	be						っていないだろう
+		will	will		become						つだろう
+		will	will	not	become						たないだろう
+		may	may		be						っているかもしれない
+		may	may	not	be						っていないかもしれない
+		may	may		become						つかもしれない
+		may	may	not	become						たないかもしれない
+		can	can		be						っている可能性（かのうせい）がある
+		can	can	not	be						っている可能性（かのうせい）はない
+		can	can		become						つ可能性（かのうせい）がある
+		can	can	not	become						つ可能性（かのうせい）はない
+		should	should		be						っているほうがいい
+		should	should	not	be						っていないほうがいい
+		should	should		become						つほうがいい
+		should	should	not	become						たないほうがいい
+		should	should		be						っているはずだ
+		should	should	not	be						っていないはずだ
+		should	should		become						つはずだ
+		should	should	not	become						つはずがない
+		must	must		be						っているにちがいない
+		must	must	not	be						っていてはいけない
+		must	must		become						つにちがいない
+		must	must	not	become						ってはいけない
+		will have to	will have to		be						っていなければいけないだろう
+		will not have to	will not have to		be						っていなくてもいいだろう
+		will have to	will have to		become						たなければいけないだろう
+		will not have to	will not have to		become						たなくてもいいだろう
+		may have to	may have to		be						っていなければいけないかもしれない
+		may not have to	may not have to		be						っていなくてもいいかもしれない
+		may have to	may have to		become						たなければいけないかもしれない
+		may not have to	may not have to		become						たなくてもいいかもしれない
+step-4		has	have		been				（ずっと）	形容詞	っている
+		has	have	not	been				（ずっと）	形容詞	ってはいない
+		has	have		been						っていたことがある
+		has	have	not	been						っていたことはない
+		has	have		become						ったことがある
+		has	have	not	become						ったことはない
+		had	had		been		till then		それまでずっと	形容詞	っていた
+		had	had	not	been		till then		それまでずっと	形容詞	ってはいなかった
+		had	had		been		before that		それ以前（いぜん）	形容詞	っていたことがあった
+		had	had	not	been		before that		それ以前（いぜん）	形容詞	っていたことはなかった
+		had	had		become		before that		それ以前（いぜん）	形容詞	ったことがあった
+		had	had	not	become		before that		それ以前（いぜん）	形容詞	ったことはなかった
+step-5		may have	may have		been						っていたかもしれない
+		may not have	may not have		been						っていなかったかもしれない
+		may have	may have		become						ったかもしれない
+		may not have	may not have		become						たなかったかもしれない
+		can not have	can not have		been						っていたはずがない
+		can not have	can not have		become						たったはずがない
+		should have	should have		been						っているほうがよかった
+		should not have	should not have		been						っていないほうがよかった
+		should have	should have		become						つほうがよかった
+		should not have	should not have		become						たないほうがよかった
+		must have	must have		been						っていたにちがいない
+		must not have	must not have		been						っていなかったにちがいない
+		must have	must have		become						たったにちがいない
+		must not have	must not have		become						たなかったにちがいない
+step-6		would	would		be						っていただろう
+		would	would	not	be						っていなかっただろう
+		would	would		become						たっただろう
+		would	would	not	become						たなかっただろう
+		would have	would have		been						っていたことだろう
+		would not have	would not have		been						っていなかったことだろう
+		would have	would have		become						たったことだろう
+		would not have	would not have		become						たなかったことだろう
+		could have	could have		been						っていた可能性（かのうせい）がある
+		could not have	could not have		been						っていた可能性（かのうせい）はない
+		could have	could have		become						った可能性（かのうせい）がある
+		could not have	could not have		become						った可能性（かのうせい）はない
+		might have	might have		been						っていたかもしれなかった
+		might not have	might not have		been						っていなかったかもしれなかった
+		might have	might have		become						たったかもしれなかった
+		might not have	might not have		become						たなかったかもしれなかった

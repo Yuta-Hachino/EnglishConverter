@@ -1,0 +1,130 @@
+step-1	nod	nods	nod							うなず	く
+	do	does	do	not	nod					うなず	か	ない
+	nodded	nodded	nodded							うなず	い	た
+	did	did	did	not	nod					うなず	か	なかった
+	am	is	are		nodding					うなず	い	ている
+	am	is	are	not	nodding					うなず	い	ていない
+	was	was	were		nodding					うなず	い	ていた
+	was	was	were	not	nodding					うなず	い	ていなかった
+step-2	am	is	are	going to	nod					うなず	く	予定（よてい）だ
+	am	is	are	not going to	nod					うなず	く	予定（よてい）ではない
+	was	was	were	going to	nod					うなず	く	予定（よてい）だった
+	was	was	were	not going to	nod					うなず	く	予定（よてい）ではなかった
+	am	is	are	able to	nod					うなず	く	ことができる
+	am	is	are	not able to	nod					うなず	く	ことはできない
+	was	was	were	able to	nod					うなず	く	ことができた
+	was	was	were	not able to	nod					うなず	く	ことはできなかった
+	could	could	could	not	nod					うなず	く	ことはできなかった
+	want	wants	want	to	nod					うなず	き	たい
+	do	does	do	not want to	nod					うなず	き	たくない
+	wanted  	wanted  	wanted	to	nod					うなず	き	たかった
+	did	did	did	not want to	nod					うなず	き	たくなかった
+	want	wants	want	to be	nodding					うなず	い	ていたい
+	do	does	do	not want to be	nodding					うなず	い	ていたくない
+	wanted  	wanted  	wanted	to be	nodding					うなず	い	ていたかった
+	did	did	did	not want to be	nodding					うなず	い	ていたくなかった
+	want	wants	want	to be able to	nod					うなず	く	ことができるようになりたい
+	do	does	do	not want to be able to	nod					うなず	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	nod					うなず	く	ことができるようになりたかった
+	did	did	did	not want to be able to	nod					うなず	く	ことはできるようになりたくなかった
+	have to	has to	have to		nod					うなず	か	なければいけない
+	do	does	do	not have to	nod					うなず	か	なくてもいい
+	have to	has to	have to	be	nodding					うなず	い	ていなければいけない
+	do	does	do	not have to be	nodding					うなず	い	ていなくてもいい
+	have to	has to	have to	be able to	nod					うなず	く	ことができなければいけない
+	do	does	do	not have to be able to	nod					うなず	く	ことはできなくてもいい
+	had to	had to	had to		nod					うなず	か	なければいけなかった
+	did	did	did	not have to	nod					うなず	か	なくてもよかった
+	had to	had to	had to	be	nodding					うなず	い	ていなければいけなかった
+	did	did	did	not have to be	nodding					うなず	い	ていなくてもよかった
+	had to	had to	had to	be able to	nod					うなず	く	ことができなければいけなかった
+	did	did	did	not have to be able to	nod					うなず	く	ことはできなくてもよかった
+step-3	will	will	will		nod					うなず	く	だろう
+	will	will	will	not	nod					うなず	か	ないだろう
+	will	will	will	be	nodding					うなず	い	ているだろう
+	will	will	will	not be	nodding					うなず	い	ていないだろう
+	will	will	will	be able to	nod					うなず	く	ことができるだろう
+	will	will	will	not be able to	nod					うなず	く	ことはできないだろう
+	may	may	may		nod					うなず	く	かもしれない
+	may	may	may	not	nod					うなず	か	ないかもしれない
+	may	may	may	be	nodding					うなず	い	ているかもしれない
+	may	may	may	not be	nodding					うなず	い	ていないかもしれない
+	may	may	may	be able to	nod					うなず	く	ことができるかもしれない
+	may	may	may	not be able to	nod					うなず	く	ことはできないかもしれない
+	can	can	can		nod					うなず	く	ことができる
+	can	can	can	not	nod					うなず	く	ことはできない
+	should	should	should		nod					うなず	く	ほうがいい
+	should	should	should	not	nod					うなず	か	ないほうがいい
+	should	should	should	be	nodding					うなず	い	ているほうがいい
+	should	should	should	not be	nodding					うなず	い	ていないほうがいい
+	should	should	should	be able to	nod					うなず	く	ことができるほうがいい
+	should	should	should	not be able to	nod					うなず	く	ことはできないほうがいい
+	should	should	should		nod					うなず	く	はずだ
+	should	should	should	not	nod					うなず	か	ないはずだ
+	should	should	should	be	nodding					うなず	い	ているはずだ
+	should	should	should	not be	nodding					うなず	い	ていないはずだ
+	should	should	should	be able to	nod					うなず	く	ことができるはずだ
+	should	should	should	not be able to	nod					うなず	く	ことはできるはずがない
+	had better	had better	had better		nod					うなず	く	べきだ
+	had better	had better	had better	not	nod					うなず	く	べきではない
+	must	must	must		nod					うなず	く	にちがいない
+	must	must	must	not	nod					うなず	い	てはいけない
+	must	must	must	be	nodding					うなず	い	ているにちがいない
+	must	must	must	not be	nodding					うなず	い	ていてはいけない
+	must	must	must	be able to	nod					うなず	く	ことができるにちがいない
+	must	must	must	not be able to	nod					うなず	く	ことはできてはいけない
+	will	will	will	have to	nod					うなず	か	なければいけないだろう
+	will	will	will	not have to	nod					うなず	か	なくてもいいだろう
+	will	will	will	have to be	nodding					うなず	い	ていなければいけないだろう
+	will	will	will	not have to be	nodding					うなず	い	ていなくてもいいだろう
+	will	will	will	have to be able to	nod					うなず	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	nod					うなず	く	ことはできなくてもいいだろう
+	may	may	may	have to	nod					うなず	か	なければいけないかもしれない
+	may	may	may	not have to	nod					うなず	か	なくてもいいかもしれない
+	may	may	may	have to be	nodding					うなず	い	ていなければいけないかもしれない
+	may	may	may	not have to be	nodding					うなず	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	nod					うなず	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	nod					うなず	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		nodded					うなず	い	たことがある
+	have	has	have	not	nodded					うなず	い	たことはない
+	have	has	have	been	nodding			（ずっと）		うなず	い	ている
+	have	has	have	not been	nodding			（ずっと）		うなず	い	ていない
+	have	has	have		nodded		already	すでに		うなず	い	ている
+	have	has	have	not	nodded		yet	まだ		うなず	い	ていない
+	had	had	had		nodded		before that	それ以前（いぜん）		うなず	い	たことがあった
+	had	had	had	not	nodded		before that	それ以前（いぜん）		うなず	い	たことはなかった
+	had	had	had	been	nodding		till then	それまでずっと		うなず	い	ていた
+	had	had	had	not been	nodding		till then	それまでずっと		うなず	い	ていなかった
+	had	had	had		nodded		already	すでに		うなず	い	ていた
+	had	had	had	not	nodded		yet	まだ		うなず	い	ていなかった
+	have	has	have	been able to	nod			（ずっと）		うなず	く	ことができている
+	have	has	have	not been able to	nod		yet	まだ		うなず	く	ことはできていない
+	had	had	had	been able to	nod		till then	それまでずっと		うなず	く	ことができていた
+	had	had	had	not been able to	nod		till then	それまでずっと		うなず	く	ことはできていなかった
+step-5	may have	may have	may have		nodded					うなず	い	たかもしれない
+	may not have	may not have	may not have		nodded					うなず	か	なかったかもしれない
+	may have	may have	may have	been able to	nod					うなず	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	nod					うなず	く	ことはできなかったかもしれない
+	must have	must have	must have		nodded					うなず	い	たにちがいない
+	must not have	must not have	must not have		nodded					うなず	か	なかったにちがいない
+	must have	must have	must have	been able to	nod					うなず	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	nod					うなず	く	ことはできなかったにちがいない
+	should have	should have	should have		nodded					うなず	く	ほうがよかった
+	should not have	should not have	should not have		nodded					うなず	か	ないほうがよかった
+	should have	should have	should have	been able to	nod					うなず	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	nod					うなず	く	ことはできないほうがよかった
+	can not have	can not have	can not have		nodded					うなず	い	たはずがない
+step-6	would	would	would		nod					うなず	い	ただろう
+	would	would	would	not	nod					うなず	か	なかっただろう
+	would	would	would	be able to	nod					うなず	く	ことができただろう
+	would	would	would	not be able to	nod					うなず	く	ことはできなかっただろう
+	would have	would have	would have		nodded					うなず	い	たことだろう
+	would not have	would not have	would not have		nodded					うなず	か	なかったことだろう
+	would have	would have	would have	been able to	nod					うなず	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	nod					うなず	く	ことはできなかったことだろう
+	could have	could have	could have		nodded					うなず	い	た可能性がある
+	could not have	could not have	could not have		nodded					うなず	い	た可能性はない
+	might have	might have	might have		nodded					うなず	い	たかもしれなかった
+	might not have	might not have	might not have		nodded					うなず	か	なかったかもしれなかった
+	might have	might have	might have	been able to	nod					うなず	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	nod					うなず	く	ことはできなかったかもしれなかった

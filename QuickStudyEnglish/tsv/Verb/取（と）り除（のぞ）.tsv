@@ -1,0 +1,130 @@
+step-1	remove	removes	remove						を	取（と）り除（のぞ）	く
+	do	does	do	not	remove				を	取（と）り除（のぞ）	か	ない
+	removed	removed	removed						を	取（と）り除（のぞ）	い	た
+	did	did	did	not	remove				を	取（と）り除（のぞ）	か	なかった
+	am	is	are		removing				を	取（と）り除（のぞ）	い	ている
+	am	is	are	not	removing				を	取（と）り除（のぞ）	い	ていない
+	was	was	were		removing				を	取（と）り除（のぞ）	い	ていた
+	was	was	were	not	removing				を	取（と）り除（のぞ）	い	ていなかった
+step-2	am	is	are	going to	remove				を	取（と）り除（のぞ）	く	予定（よてい）だ
+	am	is	are	not going to	remove				を	取（と）り除（のぞ）	く	予定（よてい）ではない
+	was	was	were	going to	remove				を	取（と）り除（のぞ）	く	予定（よてい）だった
+	was	was	were	not going to	remove				を	取（と）り除（のぞ）	く	予定（よてい）ではなかった
+	am	is	are	able to	remove				を	取（と）り除（のぞ）	く	ことができる
+	am	is	are	not able to	remove				を	取（と）り除（のぞ）	く	ことはできない
+	was	was	were	able to	remove				を	取（と）り除（のぞ）	く	ことができた
+	was	was	were	not able to	remove				を	取（と）り除（のぞ）	く	ことはできなかった
+	could	could	could	not	remove				を	取（と）り除（のぞ）	く	ことはできなかった
+	want	wants	want	to	remove				を	取（と）り除（のぞ）	き	たい
+	do	does	do	not want to	remove				を	取（と）り除（のぞ）	き	たくない
+	wanted  	wanted  	wanted	to	remove				を	取（と）り除（のぞ）	き	たかった
+	did	did	did	not want to	remove				を	取（と）り除（のぞ）	き	たくなかった
+	want	wants	want	to be	removing				を	取（と）り除（のぞ）	い	ていたい
+	do	does	do	not want to be	removing				を	取（と）り除（のぞ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	removing				を	取（と）り除（のぞ）	い	ていたかった
+	did	did	did	not want to be	removing				を	取（と）り除（のぞ）	い	ていたくなかった
+	want	wants	want	to be able to	remove				を	取（と）り除（のぞ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	remove				を	取（と）り除（のぞ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	remove				を	取（と）り除（のぞ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	remove				を	取（と）り除（のぞ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		remove				を	取（と）り除（のぞ）	か	なければいけない
+	do	does	do	not have to	remove				を	取（と）り除（のぞ）	か	なくてもいい
+	have to	has to	have to	be	removing				を	取（と）り除（のぞ）	い	ていなければいけない
+	do	does	do	not have to be	removing				を	取（と）り除（のぞ）	い	ていなくてもいい
+	have to	has to	have to	be able to	remove				を	取（と）り除（のぞ）	く	ことができなければいけない
+	do	does	do	not have to be able to	remove				を	取（と）り除（のぞ）	く	ことはできなくてもいい
+	had to	had to	had to		remove				を	取（と）り除（のぞ）	か	なければいけなかった
+	did	did	did	not have to	remove				を	取（と）り除（のぞ）	か	なくてもよかった
+	had to	had to	had to	be	removing				を	取（と）り除（のぞ）	い	ていなければいけなかった
+	did	did	did	not have to be	removing				を	取（と）り除（のぞ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	remove				を	取（と）り除（のぞ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	remove				を	取（と）り除（のぞ）	く	ことはできなくてもよかった
+step-3	will	will	will		remove				を	取（と）り除（のぞ）	く	だろう
+	will	will	will	not	remove				を	取（と）り除（のぞ）	か	ないだろう
+	will	will	will	be	removing				を	取（と）り除（のぞ）	い	ているだろう
+	will	will	will	not be	removing				を	取（と）り除（のぞ）	い	ていないだろう
+	will	will	will	be able to	remove				を	取（と）り除（のぞ）	く	ことができるだろう
+	will	will	will	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできないだろう
+	may	may	may		remove				を	取（と）り除（のぞ）	く	かもしれない
+	may	may	may	not	remove				を	取（と）り除（のぞ）	か	ないかもしれない
+	may	may	may	be	removing				を	取（と）り除（のぞ）	い	ているかもしれない
+	may	may	may	not be	removing				を	取（と）り除（のぞ）	い	ていないかもしれない
+	may	may	may	be able to	remove				を	取（と）り除（のぞ）	く	ことができるかもしれない
+	may	may	may	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできないかもしれない
+	can	can	can		remove				を	取（と）り除（のぞ）	く	ことができる
+	can	can	can	not	remove				を	取（と）り除（のぞ）	く	ことはできない
+	should	should	should		remove				を	取（と）り除（のぞ）	く	ほうがいい
+	should	should	should	not	remove				を	取（と）り除（のぞ）	か	ないほうがいい
+	should	should	should	be	removing				を	取（と）り除（のぞ）	い	ているほうがいい
+	should	should	should	not be	removing				を	取（と）り除（のぞ）	い	ていないほうがいい
+	should	should	should	be able to	remove				を	取（と）り除（のぞ）	く	ことができるほうがいい
+	should	should	should	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできないほうがいい
+	should	should	should		remove				を	取（と）り除（のぞ）	く	はずだ
+	should	should	should	not	remove				を	取（と）り除（のぞ）	か	ないはずだ
+	should	should	should	be	removing				を	取（と）り除（のぞ）	い	ているはずだ
+	should	should	should	not be	removing				を	取（と）り除（のぞ）	い	ていないはずだ
+	should	should	should	be able to	remove				を	取（と）り除（のぞ）	く	ことができるはずだ
+	should	should	should	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできるはずがない
+	had better	had better	had better		remove				を	取（と）り除（のぞ）	く	べきだ
+	had better	had better	had better	not	remove				を	取（と）り除（のぞ）	く	べきではない
+	must	must	must		remove				を	取（と）り除（のぞ）	く	にちがいない
+	must	must	must	not	remove				を	取（と）り除（のぞ）	い	てはいけない
+	must	must	must	be	removing				を	取（と）り除（のぞ）	い	ているにちがいない
+	must	must	must	not be	removing				を	取（と）り除（のぞ）	い	ていてはいけない
+	must	must	must	be able to	remove				を	取（と）り除（のぞ）	く	ことができるにちがいない
+	must	must	must	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできてはいけない
+	will	will	will	have to	remove				を	取（と）り除（のぞ）	か	なければいけないだろう
+	will	will	will	not have to	remove				を	取（と）り除（のぞ）	か	なくてもいいだろう
+	will	will	will	have to be	removing				を	取（と）り除（のぞ）	い	ていなければいけないだろう
+	will	will	will	not have to be	removing				を	取（と）り除（のぞ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	remove				を	取（と）り除（のぞ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	remove				を	取（と）り除（のぞ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	remove				を	取（と）り除（のぞ）	か	なければいけないかもしれない
+	may	may	may	not have to	remove				を	取（と）り除（のぞ）	か	なくてもいいかもしれない
+	may	may	may	have to be	removing				を	取（と）り除（のぞ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	removing				を	取（と）り除（のぞ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	remove				を	取（と）り除（のぞ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	remove				を	取（と）り除（のぞ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		removed				を	取（と）り除（のぞ）	い	たことがある
+	have	has	have	not	removed				を	取（と）り除（のぞ）	い	たことはない
+	have	has	have	been	removing			（ずっと）	を	取（と）り除（のぞ）	い	ている
+	have	has	have	not been	removing			（ずっと）	を	取（と）り除（のぞ）	い	ていない
+	have	has	have		removed		already	すでに	を	取（と）り除（のぞ）	い	ている
+	have	has	have	not	removed		yet	まだ	を	取（と）り除（のぞ）	い	ていない
+	had	had	had		removed		before that	それ以前（いぜん）	を	取（と）り除（のぞ）	い	たことがあった
+	had	had	had	not	removed		before that	それ以前（いぜん）	を	取（と）り除（のぞ）	い	たことはなかった
+	had	had	had	been	removing		till then	それまでずっと	を	取（と）り除（のぞ）	い	ていた
+	had	had	had	not been	removing		till then	それまでずっと	を	取（と）り除（のぞ）	い	ていなかった
+	had	had	had		removed		already	すでに	を	取（と）り除（のぞ）	い	ていた
+	had	had	had	not	removed		yet	まだ	を	取（と）り除（のぞ）	い	ていなかった
+	have	has	have	been able to	remove			（ずっと）	を	取（と）り除（のぞ）	く	ことができている
+	have	has	have	not been able to	remove		yet	まだ	を	取（と）り除（のぞ）	く	ことはできていない
+	had	had	had	been able to	remove		till then	それまでずっと	を	取（と）り除（のぞ）	く	ことができていた
+	had	had	had	not been able to	remove		till then	それまでずっと	を	取（と）り除（のぞ）	く	ことはできていなかった
+step-5	may have	may have	may have		removed				を	取（と）り除（のぞ）	い	たかもしれない
+	may not have	may not have	may not have		removed				を	取（と）り除（のぞ）	か	なかったかもしれない
+	may have	may have	may have	been able to	remove				を	取（と）り除（のぞ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	remove				を	取（と）り除（のぞ）	く	ことはできなかったかもしれない
+	must have	must have	must have		removed				を	取（と）り除（のぞ）	い	たにちがいない
+	must not have	must not have	must not have		removed				を	取（と）り除（のぞ）	か	なかったにちがいない
+	must have	must have	must have	been able to	remove				を	取（と）り除（のぞ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	remove				を	取（と）り除（のぞ）	く	ことはできなかったにちがいない
+	should have	should have	should have		removed				を	取（と）り除（のぞ）	く	ほうがよかった
+	should not have	should not have	should not have		removed				を	取（と）り除（のぞ）	か	ないほうがよかった
+	should have	should have	should have	been able to	remove				を	取（と）り除（のぞ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	remove				を	取（と）り除（のぞ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		removed				を	取（と）り除（のぞ）	い	たはずがない
+step-6	would	would	would		remove				を	取（と）り除（のぞ）	い	ただろう
+	would	would	would	not	remove				を	取（と）り除（のぞ）	か	なかっただろう
+	would	would	would	be able to	remove				を	取（と）り除（のぞ）	く	ことができただろう
+	would	would	would	not be able to	remove				を	取（と）り除（のぞ）	く	ことはできなかっただろう
+	would have	would have	would have		removed				を	取（と）り除（のぞ）	い	たことだろう
+	would not have	would not have	would not have		removed				を	取（と）り除（のぞ）	か	なかったことだろう
+	would have	would have	would have	been able to	remove				を	取（と）り除（のぞ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	remove				を	取（と）り除（のぞ）	く	ことはできなかったことだろう
+	could have	could have	could have		removed				を	取（と）り除（のぞ）	い	た可能性がある
+	could not have	could not have	could not have		removed				を	取（と）り除（のぞ）	い	た可能性はない
+	might have	might have	might have		removed				を	取（と）り除（のぞ）	い	たかもしれなかった
+	might not have	might not have	might not have		removed				を	取（と）り除（のぞ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	remove				を	取（と）り除（のぞ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	remove				を	取（と）り除（のぞ）	く	ことはできなかったかもしれなかった

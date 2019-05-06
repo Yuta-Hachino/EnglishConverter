@@ -1,0 +1,57 @@
+step-1	am	is	are								い		be肯定
+	am	is	are	not							くない		be否定
+	was	was	were								かった		be肯定
+	was	was	were	not							くなかった		be否定
+step-2	am	is	are	going to	be						くなる予定（よてい）だ		be肯定
+	am	is	are	not going to	be						くなる予定（よてい）ではない		be否定
+	was	was	were	going to	be						くなる予定（よてい）だった		be肯定
+	was	was	were	not going to	be						くなる予定（よてい）ではなかった		be否定
+	want	wants	want	to	be						くなりたい		do肯定
+	do not want	does not want	do not want	to	be						くなりたくない		do否定
+	wanted	wanted	wanted	to	be						くなりたかった		did肯定
+	did not want	did not want	did not want	to	be						くなりたくなかった		did否定
+	have	has	have	to	be						くしていなければいけない		do肯定
+	do not have	does not have	do not have	to	be						くしていなくてもいい		do否定
+	had	had	had	to	be						くしていなければいけなかった		did肯定
+	did not have	did not have	did not have	to	be						くしていなくてもよかった		did否定
+step-3	will	will	will		be						いだろう
+	will	will	will	not	be						くないだろう
+	may	may	may		be						いかもしれない
+	may	may	may	not	be						くないかもしれない
+	can	can	can		be						い可能性（かのうせい）がある
+	can	can	can	not	be						い可能性（かのうせい）はない
+	should	should	should		be						いほうがいい
+	should	should	should	not	be						くないほうがいい
+	should	should	should		be						いはずだ
+	should	should	should	not	be						いはずではない
+	must	must	must		be						いにちがいない
+	must	must	must	not	be						くしてはいけない
+	had better	had better	had better	 	be						くしているべきだ
+	had better	had better	had better	not	be						くしているべきではない
+	will have	will have	will have	to	be						くしていなければいけないだろう
+	will	will	will	not have to	be						くしていなくてもいいだろう
+	may have	may have	may have	to	be						くしていなければいけないかもしれない
+	may	may	may	not have to	be						くしていなくてもいいかもしれない
+step-4	have	has	have		been	形容詞			（ずっと）	形容詞	い
+	have	has	have	not	been	形容詞			（ずっと）	形容詞	くない
+	have	has	have		been	形容詞				形容詞	かったことがある
+	have	has	have	not	been	形容詞				形容詞	かったことはない
+	had	had	had		been	形容詞	till then		それまでずっと	形容詞	かった
+	had	had	had	not	been	形容詞	till then		それまでずっと	形容詞	くなかった
+	had	had	had		been	形容詞	before that		それ以前（いぜん）	形容詞	かったことがあった
+	had	had	had	not	been	形容詞	before that		それ以前（いぜん）	形容詞	かったことはなかった
+step-5	may have	may have	may have		been						かったかもしれない
+	may not have	may not have	may not have		been						くなかったかもしれない
+	can not have	can not have	can not have		been						かったはずがない
+	should have	should have	should have		been						いほうがよかった
+	should not have	should not have	should not have		been						くないほうがよかった
+	must have	must have	must have		been						かったにちがいない
+	must not have	must not have	must not have		been						くなかったにちがいない
+step-6	would	would	would		be						かっただろう
+	would	would	would	not	be						くなかっただろう
+	would have	would have	would have		been						かったことだろう
+	would not have	would not have	would not have		been						くなかったことだろう
+	could have	could have	could have		been						かった可能性（かのうせい）がある
+	could not have	could not have	could not have		been						かった可能性（かのうせい）はない
+	might have	might have	might have		been						かったかもしれなかった
+	might not have	might not have	might not have		been						くなかったかもしれなかった

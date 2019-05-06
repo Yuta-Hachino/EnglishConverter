@@ -1,0 +1,130 @@
+step-1	settle	settles	settle		down					落（お）ち着（つ）	く
+	do	does	do	not	settle down					落（お）ち着（つ）	か	ない
+	settled	settled	settled		down					落（お）ち着（つ）	い	た
+	did	did	did	not	settle down					落（お）ち着（つ）	か	なかった
+	am	is	are		settling down					落（お）ち着（つ）	い	ている
+	am	is	are	not	settling down					落（お）ち着（つ）	い	ていない
+	was	was	were		settling down					落（お）ち着（つ）	い	ていた
+	was	was	were	not	settling down					落（お）ち着（つ）	い	ていなかった
+step-2	am	is	are	going to	settle down					落（お）ち着（つ）	く	予定（よてい）だ
+	am	is	are	not going to	settle down					落（お）ち着（つ）	く	予定（よてい）ではない
+	was	was	were	going to	settle down					落（お）ち着（つ）	く	予定（よてい）だった
+	was	was	were	not going to	settle down					落（お）ち着（つ）	く	予定（よてい）ではなかった
+	am	is	are	able to	settle down					落（お）ち着（つ）	く	ことができる
+	am	is	are	not able to	settle down					落（お）ち着（つ）	く	ことはできない
+	was	was	were	able to	settle down					落（お）ち着（つ）	く	ことができた
+	was	was	were	not able to	settle down					落（お）ち着（つ）	く	ことはできなかった
+	could	could	could	not	settle down					落（お）ち着（つ）	く	ことはできなかった
+	want	wants	want	to	settle down					落（お）ち着（つ）	き	たい
+	do	does	do	not want to	settle down					落（お）ち着（つ）	き	たくない
+	wanted  	wanted  	wanted	to	settle down					落（お）ち着（つ）	き	たかった
+	did	did	did	not want to	settle down					落（お）ち着（つ）	き	たくなかった
+	want	wants	want	to be	settling down					落（お）ち着（つ）	い	ていたい
+	do	does	do	not want to be	settling down					落（お）ち着（つ）	い	ていたくない
+	wanted  	wanted  	wanted	to be	settling down					落（お）ち着（つ）	い	ていたかった
+	did	did	did	not want to be	settling down					落（お）ち着（つ）	い	ていたくなかった
+	want	wants	want	to be able to	settle down					落（お）ち着（つ）	く	ことができるようになりたい
+	do	does	do	not want to be able to	settle down					落（お）ち着（つ）	く	ことはできるようになりたくない
+	wanted  	wanted  	wanted	to be able to	settle down					落（お）ち着（つ）	く	ことができるようになりたかった
+	did	did	did	not want to be able to	settle down					落（お）ち着（つ）	く	ことはできるようになりたくなかった
+	have to	has to	have to		settle down					落（お）ち着（つ）	か	なければいけない
+	do	does	do	not have to	settle down					落（お）ち着（つ）	か	なくてもいい
+	have to	has to	have to	be	settling down					落（お）ち着（つ）	い	ていなければいけない
+	do	does	do	not have to be	settling down					落（お）ち着（つ）	い	ていなくてもいい
+	have to	has to	have to	be able to	settle down					落（お）ち着（つ）	く	ことができなければいけない
+	do	does	do	not have to be able to	settle down					落（お）ち着（つ）	く	ことはできなくてもいい
+	had to	had to	had to		settle down					落（お）ち着（つ）	か	なければいけなかった
+	did	did	did	not have to	settle down					落（お）ち着（つ）	か	なくてもよかった
+	had to	had to	had to	be	settling down					落（お）ち着（つ）	い	ていなければいけなかった
+	did	did	did	not have to be	settling down					落（お）ち着（つ）	い	ていなくてもよかった
+	had to	had to	had to	be able to	settle down					落（お）ち着（つ）	く	ことができなければいけなかった
+	did	did	did	not have to be able to	settle down					落（お）ち着（つ）	く	ことはできなくてもよかった
+step-3	will	will	will		settle down					落（お）ち着（つ）	く	だろう
+	will	will	will	not	settle down					落（お）ち着（つ）	か	ないだろう
+	will	will	will	be	settling down					落（お）ち着（つ）	い	ているだろう
+	will	will	will	not be	settling down					落（お）ち着（つ）	い	ていないだろう
+	will	will	will	be able to	settle down					落（お）ち着（つ）	く	ことができるだろう
+	will	will	will	not be able to	settle down					落（お）ち着（つ）	く	ことはできないだろう
+	may	may	may		settle down					落（お）ち着（つ）	く	かもしれない
+	may	may	may	not	settle down					落（お）ち着（つ）	か	ないかもしれない
+	may	may	may	be	settling down					落（お）ち着（つ）	い	ているかもしれない
+	may	may	may	not be	settling down					落（お）ち着（つ）	い	ていないかもしれない
+	may	may	may	be able to	settle down					落（お）ち着（つ）	く	ことができるかもしれない
+	may	may	may	not be able to	settle down					落（お）ち着（つ）	く	ことはできないかもしれない
+	can	can	can		settle down					落（お）ち着（つ）	く	ことができる
+	can	can	can	not	settle down					落（お）ち着（つ）	く	ことはできない
+	should	should	should		settle down					落（お）ち着（つ）	く	ほうがいい
+	should	should	should	not	settle down					落（お）ち着（つ）	か	ないほうがいい
+	should	should	should	be	settling down					落（お）ち着（つ）	い	ているほうがいい
+	should	should	should	not be	settling down					落（お）ち着（つ）	い	ていないほうがいい
+	should	should	should	be able to	settle down					落（お）ち着（つ）	く	ことができるほうがいい
+	should	should	should	not be able to	settle down					落（お）ち着（つ）	く	ことはできないほうがいい
+	should	should	should		settle down					落（お）ち着（つ）	く	はずだ
+	should	should	should	not	settle down					落（お）ち着（つ）	か	ないはずだ
+	should	should	should	be	settling down					落（お）ち着（つ）	い	ているはずだ
+	should	should	should	not be	settling down					落（お）ち着（つ）	い	ていないはずだ
+	should	should	should	be able to	settle down					落（お）ち着（つ）	く	ことができるはずだ
+	should	should	should	not be able to	settle down					落（お）ち着（つ）	く	ことはできるはずがない
+	had better	had better	had better		settle down					落（お）ち着（つ）	く	べきだ
+	had better	had better	had better	not	settle down					落（お）ち着（つ）	く	べきではない
+	must	must	must		settle down					落（お）ち着（つ）	く	にちがいない
+	must	must	must	not	settle down					落（お）ち着（つ）	い	てはいけない
+	must	must	must	be	settling down					落（お）ち着（つ）	い	ているにちがいない
+	must	must	must	not be	settling down					落（お）ち着（つ）	い	ていてはいけない
+	must	must	must	be able to	settle down					落（お）ち着（つ）	く	ことができるにちがいない
+	must	must	must	not be able to	settle down					落（お）ち着（つ）	く	ことはできてはいけない
+	will	will	will	have to	settle down					落（お）ち着（つ）	か	なければいけないだろう
+	will	will	will	not have to	settle down					落（お）ち着（つ）	か	なくてもいいだろう
+	will	will	will	have to be	settling down					落（お）ち着（つ）	い	ていなければいけないだろう
+	will	will	will	not have to be	settling down					落（お）ち着（つ）	い	ていなくてもいいだろう
+	will	will	will	have to be able to	settle down					落（お）ち着（つ）	く	ことができなければいけないだろう
+	will	will	will	not have to be able to	settle down					落（お）ち着（つ）	く	ことはできなくてもいいだろう
+	may	may	may	have to	settle down					落（お）ち着（つ）	か	なければいけないかもしれない
+	may	may	may	not have to	settle down					落（お）ち着（つ）	か	なくてもいいかもしれない
+	may	may	may	have to be	settling down					落（お）ち着（つ）	い	ていなければいけないかもしれない
+	may	may	may	not have to be	settling down					落（お）ち着（つ）	い	ていなくてもいいかもしれない
+	may	may	may	have to be able to	settle down					落（お）ち着（つ）	く	ことができなければいけないかもしれない
+	may	may	may	not have to be able to	settle down					落（お）ち着（つ）	く	ことはできなくてもいいかもしれない
+step-4	have	has	have		settled down					落（お）ち着（つ）	い	たことがある
+	have	has	have	not	settled down					落（お）ち着（つ）	い	たことはない
+	have	has	have	been	settling down			（ずっと）		落（お）ち着（つ）	い	ている
+	have	has	have	not been	settling down			（ずっと）		落（お）ち着（つ）	い	ていない
+	have	has	have		settled down		already	すでに		落（お）ち着（つ）	い	ている
+	have	has	have	not	settled down		yet	まだ		落（お）ち着（つ）	い	ていない
+	had	had	had		settled down		before that	それ以前（いぜん）		落（お）ち着（つ）	い	たことがあった
+	had	had	had	not	settled down		before that	それ以前（いぜん）		落（お）ち着（つ）	い	たことはなかった
+	had	had	had	been	settling down		till then	それまでずっと		落（お）ち着（つ）	い	ていた
+	had	had	had	not been	settling down		till then	それまでずっと		落（お）ち着（つ）	い	ていなかった
+	had	had	had		settled down		already	すでに		落（お）ち着（つ）	い	ていた
+	had	had	had	not	settled down		yet	まだ		落（お）ち着（つ）	い	ていなかった
+	have	has	have	been able to	settle down			（ずっと）		落（お）ち着（つ）	く	ことができている
+	have	has	have	not been able to	settle down		yet	まだ		落（お）ち着（つ）	く	ことはできていない
+	had	had	had	been able to	settle down		till then	それまでずっと		落（お）ち着（つ）	く	ことができていた
+	had	had	had	not been able to	settle down		till then	それまでずっと		落（お）ち着（つ）	く	ことはできていなかった
+step-5	may have	may have	may have		settled down					落（お）ち着（つ）	い	たかもしれない
+	may not have	may not have	may not have		settled down					落（お）ち着（つ）	か	なかったかもしれない
+	may have	may have	may have	been able to	settle down					落（お）ち着（つ）	く	ことができたかもしれない
+	may not have	may not have	may not have	been able to	settle down					落（お）ち着（つ）	く	ことはできなかったかもしれない
+	must have	must have	must have		settled down					落（お）ち着（つ）	い	たにちがいない
+	must not have	must not have	must not have		settled down					落（お）ち着（つ）	か	なかったにちがいない
+	must have	must have	must have	been able to	settle down					落（お）ち着（つ）	く	ことができたにちがいない
+	must not have	must not have	must not have	been able to	settle down					落（お）ち着（つ）	く	ことはできなかったにちがいない
+	should have	should have	should have		settled down					落（お）ち着（つ）	く	ほうがよかった
+	should not have	should not have	should not have		settled down					落（お）ち着（つ）	か	ないほうがよかった
+	should have	should have	should have	been able to	settle down					落（お）ち着（つ）	く	ことができるほうがよかった
+	should not have	should not have	should not have	been able to	settle down					落（お）ち着（つ）	く	ことはできないほうがよかった
+	can not have	can not have	can not have		settled down					落（お）ち着（つ）	い	たはずがない
+step-6	would	would	would		settle down					落（お）ち着（つ）	い	ただろう
+	would	would	would	not	settle down					落（お）ち着（つ）	か	なかっただろう
+	would	would	would	be able to	settle down					落（お）ち着（つ）	く	ことができただろう
+	would	would	would	not be able to	settle down					落（お）ち着（つ）	く	ことはできなかっただろう
+	would have	would have	would have		settled down					落（お）ち着（つ）	い	たことだろう
+	would not have	would not have	would not have		settled down					落（お）ち着（つ）	か	なかったことだろう
+	would have	would have	would have	been able to	settle down					落（お）ち着（つ）	く	ことができたことだろう
+	would not have	would not have	would not have	been able to	settle down					落（お）ち着（つ）	く	ことはできなかったことだろう
+	could have	could have	could have		settled down					落（お）ち着（つ）	い	た可能性がある
+	could not have	could not have	could not have		settled down					落（お）ち着（つ）	い	た可能性はない
+	might have	might have	might have		settled down					落（お）ち着（つ）	い	たかもしれなかった
+	might not have	might not have	might not have		settled down					落（お）ち着（つ）	か	なかったかもしれなかった
+	might have	might have	might have	been able to	settle down					落（お）ち着（つ）	く	ことができたかもしれなかった
+	might not have	might not have	might not have	been able to	settle down					落（お）ち着（つ）	く	ことはできなかったかもしれなかった

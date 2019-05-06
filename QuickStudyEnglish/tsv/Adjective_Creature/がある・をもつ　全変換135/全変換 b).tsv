@@ -1,0 +1,135 @@
+step-1	am	is	are								がある
+	am	is	are	not							はない
+	was	was	were								があった
+	was	was	were	not							はなかった
+	become	becomes	become								をもつ
+	do	does	do	not	become						をもたない
+	became	became	became								をもった
+	did	did	did	not	become						をもたなかった
+	am	is	are		becoming						をもってきている
+	am	is	are	not	becoming						をもってきていない
+	was	was	were		becoming						をもってきていた
+	was	was	were	not	becoming						をもってきていなかった
+step-2	am	is	are	going to	be						がある予定（よてい）だ
+	am	is	are	not going to	be						がある予定（よてい）ではない
+	am	is	are	going to	become						をもつ予定（よてい）だ
+	am	is	are	not going to	become						をもつ予定（よてい）ではない
+	was	was	were	going to	be						がある予定（よてい）だった
+	was	was	were	not going to	be						がある予定（よてい）ではなかった
+	was	was	were	going to	become						をもつ予定（よてい）だった
+	was	was	were	not going to	become						をもつ予定（よてい）ではなかった
+	am	is	are	able to	become						をもつことができる
+	am	is	are	not able to	become						をもつことはできない
+	was	was	were	able to	become						をもつことができた
+	was	was	were	not able to	become						をもつことはできなかった
+				could not	become						をもつことはできなかった
+	am	is	are	supposed to	become						をもつことになっている
+	am	is	are	not supposed to	become						をもってはいけない
+	was	was	were	supposed to	become						をもつことになっていた
+	was	was	were	not supposed to	become						をもってはいけなかった
+	want	wants	want	to	be						をもっていたい
+	do not want	does not want	do not want	to	be						をもっていたくない
+	wanted	wanted	wanted	to	be						をもっていたかった
+	did not want	did not want	did not want	to	be						をもっていたくなかった
+	want	wants	want	to	become						をもちたい
+	do not want	does not want	do not want	to	become						をもちたくない
+	wanted	wanted	wanted	to	become						をもちたかった
+	did not want	did not want	did not want	to	become						をもちたくなかった
+	have	has	have	to	be						がなければいけない
+	do not have	does not have	do not have	to	be						はなくてもいい
+	had	had	had	to	be						がなければいけなかった
+	did not have	did not have	did not have	to	be						はなくてもよかった
+	have	has	have	to	become						をもたなければいけない
+	do not have	does not have	do not have	to	become						をもたなくてもいい
+	had	had	had	to	become						をもたなければいけなかった
+	did not have	did not have	did not have	to	become						をもたなくてもよかった
+step-3	will	will	will		be						があるだろう
+	will	will	will	not	be						はないだろう
+	will	will	will		become						をもつだろう
+	will	will	will	not	become						をもたないだろう
+	will	will	will	be able to	become						をもつことができるだろう
+	will	will	will	not be able to	become						をもつことができないだろう
+	may	may	may		be						があるかもしれない
+	may	may	may	not	be						はないかもしれない
+	may	may	may		become						をもつかもしれない
+	may	may	may	not	become						をもたないかもしれない
+	may	may	may	be able to	become						をもつことができるかもしれない
+	may	may	may	not be able to	become						をもつことはできないかもしれない
+	can	can	can		be						がある可能性（かのうせい）がある
+	can	can	can	not	be						がある可能性（かのうせい）はない
+	can	can	can		become						をもつことができる
+	can	can	can	not	become						をもつことはできない
+	should	should	should		be						があるほうがいい
+	should	should	should	not	be						はないほうがいい
+	should	should	should		become						をもつほうがいい
+	should	should	should	not	become						をもたないほうがいい
+	should	should	should		be						があるはずだ
+	should	should	should	not	be						があるはずではない
+	should	should	should		become						をもつはずだ
+	should	should	should	not	become						をもたないはずだ
+	should	should	should	be able to	become						をもつことができるはずだ
+	should	should	should	not be able to	become						をもつことができるはずがない
+	must	must	must		be						があるにちがいない
+	must	must	must	not	be						があってはならない
+	must	must	must		become						をもつにちがいない
+	must	must	must	not	become						をもってはいけない
+	must	must	must	be able to	become						をもつことができるにちがいない
+	must	must	must	not be able to	become						をもつことはできないにちがいない
+	had better	had better	had better		be						があるべきだ
+	had better	had better	had better	not	be						があるべきではない
+	had better	had better	had better		become						をもつべきだ
+	had better	had better	had better	not	become						をもつべきではない
+	will have	will have	will have	to	be						がなければいけないだろう
+	will not have	will not have	will not have	to	be						はなくてもいいだろう
+	will have	will have	will have	to	become						をもたなければいけないだろう
+	will not have	will not have	will not have	to	become						をもたなくてもいいだろう
+	will have	will have	will have	to be able to	become						をもつことができなければいけないだろう
+	will not have	will not have	will not have	to be able to	become						をもつことはできなくてもいいだろう
+	may have	may have	may have	to	be						がなければいけないかもしれない
+	may not have	may not have	may not have	to	be						はなくてもいいかもしれない
+	may have	may have	may have	to	become						をもたなければいけないかもしれない
+	may not have	may not have	may not have	to	become						をもたなくてもいいかもしれない
+	may have	may have	may have	to be able to	become						をもつことができなければいけないかもしれない
+	may not have	may not have	may not have	to be able to	become						をもつことができなくてもいいかもしれない
+step-4	have	has	have		been				（ずっと）	形容詞	がある
+	have	has	have	not	been				（ずっと）	形容詞	はない
+	have	has	have		been						があったことがある
+	have	has	have	not	been						があったことはない
+	have	has	have		become						をもったことがある
+	have	has	have	not	become						をもったことはない
+	had	had	had		been		till then		それまでずっと	形容詞	があった
+	had	had	had	not	been		till then		それまでずっと	形容詞	はなかった
+	had	had	had		been		before that		それ以前（いぜん）	形容詞	があったことがあった
+	had	had	had	not	been		before that		それ以前（いぜん）	形容詞	があったことはなかった
+	had	had	had		become		before that		それ以前（いぜん）	形容詞	をもったことがあった
+	had	had	had	not	become		before that		それ以前（いぜん）	形容詞	をもったことはなかった
+step-5	may have	may have	may have		been						があったかもしれない
+	may not have	may not have	may not have		been						はなかったかもしれない
+	may have	may have	may have		become						をもったかもしれない
+	may not have	may not have	may not have		become						をもたなかったかもしれない
+	can not have	can not have	can not have		been						があったはずがない
+	can not have	can not have	can not have		become						をもったはずがない
+	should have	should have	should have		been						があるほうがよかった
+	should not have	should not have	should not have		been						はないほうがよかった
+	should have	should have	should have		become						をもつほうがよかった
+	should not have	should not have	should not have		become						をもたないほうがよかった
+	must have	must have	must have		been						があったにちがいない
+	must not have	must not have	must not have		been						はなかったにちがいない
+	must have	must have	must have		become						をもったにちがいない
+	must not have	must not have	must not have		become						をもたなかったにちがいない
+step-6	would	would	would		be						があっただろう
+	would	would	would	not	be						はなかっただろう
+	would	would	would		become						をもっただろう
+	would	would	would	not	become						をもたなかっただろう
+	would have	would have	would have		been						があったことだろう
+	would not have	would not have	would not have		been						はなかったことだろう
+	would have	would have	would have		become						をもったことだろう
+	would not have	would not have	would not have		become						をもたなかったことだろう
+	could have	could have	could have		been						があった可能性（かのうせい）がある
+	could not have	could not have	could not have		been						があった可能性（かのうせい）はない
+	could have	could have	could have		become						をもった可能性（かのうせい）がある
+	could not have	could not have	could not have		become						をもった可能性（かのうせい）はない
+	might have	might have	might have		been						があったかもしれなかった
+	might not have	might not have	might not have		been						はなかったかもしれなかった
+	might have	might have	might have		become						をもったかもしれなかった
+	might not have	might not have	might not have		become						をもたなかったかもしれなかった
